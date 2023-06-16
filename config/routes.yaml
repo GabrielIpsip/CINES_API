@@ -1,0 +1,17 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+
+shib_login:
+  path: /secure/Login
+
+shib_logout:
+  path: /Shibboleth.sso/Logout
+
+home:
+  path: /
+  methods: GET
+  defaults: { _controller: nelmio_api_doc.controller.swagger_ui }
+
+logout:
+  path: /logout

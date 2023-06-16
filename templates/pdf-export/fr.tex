@@ -1,0 +1,95 @@
+\documentclass{article}
+\usepackage{blindtext}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[pass]{geometry}
+\usepackage{array}
+\usepackage{hyperref}
+\usepackage[french]{babel}
+\usepackage{longtable}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage{lscape}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usepackage{makecell}
+\usepackage[breakwords]{truncate}
+
+\DeclareUnicodeCharacter{202F}{\,}
+
+\frenchbsetup{IndentFirst=false}
+
+\addto\captionsfrench{%
+  \renewcommand\contentsname{Groupes}%
+}
+
+\hypersetup{
+    colorlinks,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=black,
+    urlcolor=black
+}
+
+\pagenumbering{arabic}
+
+\title{
+     \begin{tikzpicture}[remember picture,overlay]
+                 \node[anchor=north west,yshift=-4.11mm,xshift=15.22mm]%
+                     at (current page.north west)
+                     {\includegraphics[scale=0.25]{img/1_MESRI_RVB.pdf}};
+             \end{tikzpicture}
+
+             \begin{tikzpicture}[remember picture,overlay]
+                 \node[anchor=north east,yshift=-10.11mm,xshift=-22.22mm]%
+                     at (current page.north east)
+                     {\includegraphics{img/ESGBU_signature_RVB.pdf}};
+             \end{tikzpicture}
+         \bigbreak
+         \bigbreak
+         \bigbreak
+         \bigbreak
+         \bigbreak
+         \medbreak
+    Enquête sur les bibliothèques universitaires et les services documentaires de l'Enseignement supérieur et de la Recherche
+    \bigbreak
+    \large \textbf{$ADMINISTRATION_NAME$}
+}
+
+\author{$SURVEY_NAME$}
+\date{}
+
+\newgeometry{left=1cm,right=1cm,top=2cm,bottom=2cm}
+
+\fancypagestyle{firstpage}{%
+  \fancyhf{}
+  \renewcommand{\headrulewidth}{0pt}
+  \lfoot{Date d'édition : \today}
+  \rfoot{\thepage \ / \pageref{LastPage}}
+}
+
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{\includegraphics[scale=0.15]{img/ESGBU_RVB.pdf}}
+\lhead{$SURVEY_NAME$ - \truncate{12cm}{$ADMINISTRATION_NAME$}}
+\lfoot{Date d'édition : \today}
+\rfoot{\thepage \ / \pageref{LastPage}}
+
+\begin{document}
+
+\newcolumntype{M}[1]{>{\raggedright}m{#1}}
+\newcolumntype{P}[1]{>{\hspace{0pt}}p{#1}}
+
+\bgroup
+\def\arraystretch{1.5}%
+
+\clearpage\maketitle
+\thispagestyle{firstpage}
+
+\tableofcontents
+\newpage
+
+\begin{landscape}
+$BODY$
+\end{landscape}
+\end{document}

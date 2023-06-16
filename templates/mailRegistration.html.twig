@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="UTF-8">
+        <title>[eSGBU] Confirmation de création d'utilisateurs</title>
+    </head>
+
+    <body>
+        <h1>Bonjour {{ userName }},</h1>
+        <p>Pour valider votre adresse mail et confirmer votre création de compte pour eSGBU,
+            veuillez cliquer sur le lien suivant :
+        </p>
+        <a href="{{ confirmationUrl }}">{{ confirmationUrl }}</a>
+        <p>Le lien restera actif 24 heures.</p>
+    </body>
+</html>

@@ -1,0 +1,702 @@
+<div class="static-content">
+<style type="text/css">
+.static-content pre {
+  tab-size: 4;
+  background-color: #EFEFEE;
+}
+</style>
+<h1>Utilisation de l'API ESGBU</h1>
+L'application ESGBU dispose d'une <acronym title="Application Programming Interface">API</acronym><sub><a href="#API">1</a></sub> permettant d'accéder aux données publiées de l'enquête statistique des BU. Cette API est construite à l'aide du logiciel d'indexation et de recherche <a href="https://www.elastic.co/">Elasticsearch</a>. 
+<p>L'accès aux données n'est possible qu'en lecture. Pour toutes demandes de modifications, veuillez utiliser le formulaire de contact accessible en pied de page.</p>
+<p>L'utilisation d'une API REST requiert des compétences en informatique. Cette documentation s'adresse à un public averti. Pour accéder aux données de façon plus simple, utilisez le menu &laquo; <a href="https://esgbu.esr.gouv.fr/broadcast/data-selector">Sélection personalisée</a> &raquo;.
+<h2>Outils pour utiliser l'API</h2> 
+Il est nécessaire de disposer d'un logiciel permettant de réaliser des requêtes HTTP. Il en existe de nombreux, voici quelques outils disponibles.
+<ul>
+<li><a href="https://fr.wikipedia.org/wiki/CURL">Curl</a> disponible sur la plupart des distributions Linux</li>
+<li><a href="https://www.postman.com/downloads/">Postman</a> un outil disposant d'une version gratuite.</li>
+<li><a href="https://reqbin.com/">reqbin</a> Un outil en ligne</li>
+<li><a href="https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo?hl=fr">Advanced Rest Client</a> une extension pour Chrome</li>
+<li>Une librairie spécialisée dans un langage de programmation. 
+<ul><li>Java <a href="http://hc.apache.org/">Apache HTTP Component</a></li>
+<li>Python <a href="https://fr.python-requests.org/">Requests</a></li></ul>
+</li>
+</ul>
+<h2>Paramètres de l'API</h2>
+L'api est accessible à l'URL suivante: 
+<p>
+<code>
+https://esgbu.esr.gouv.fr/api/public/elasticsearch
+</code>	
+<p>
+La méthode à utiliser est <code>GET</code>
+<p>
+La requête est à passer dans le corps de la requête HTTP.
+<p>
+<i>Exemple avec Curl</i>
+<pre>
+	curl -H "Content-Type: application/json" -k -XGET https://esgbu.esr.gouv.fr/api/public/elasticsearch -d '{"elasticsearchIndex":"esgbu_institutions","elasticsearchRequest":"_search","elasticsearchBody":{"query":{"bool":{"must":[{"terms":{"year":["2019"]}}]}},"size":150}}'
+</pre>
+<ul>
+<li>Le paramètre -k permet d'ignorer le certificat SSL.</li>
+<li>Le paramètre -d permet de spécifier le corps de la requête entre simples côtes
+<li>Le corps de la requête est structurée en JSON</li>
+
+<ul><li>un entête:
+	<pre>
+	{
+		"elasticsearchIndex": "esgbu_institution",  	# Indique quel index ES utiliser
+		"elasticsearchRequest": "_search", 				# Indique le type de requête ES, ici une recherche
+		"elasticsearchBody" : {placer_le_contenu_ici} 						# Le contenu de la requête elle-même
+	}
+</pre></li>
+<li>Un contenu qui suit la syntaxe du <acronym title="Domain Specific Language">DSL</acronym><sub><a href="#API">2</a></sub> Elasticsearch
+<pre>{"query":{"bool":{"must":[{"terms":{"year":["2019"]}}]}},"size":150}</pre>
+</li>
+</ul>
+</ul> 
+
+<h2>Format de la réponse</h2>
+L'index ES renvoie les réponses sous forme de document au format JSON.
+Le niveau de granularité du document est : un document par établissement et par année. Ainsi si l'on souaite afficher les données concernant l'université de l'Université de Bourgogne, le moteur renverra 7 documents, un pour chaque année (de 2013 à 2019).
+<p>Une réponse présente des établissements comportant un ensemble de propriétés, et de façon imbriquée l'ensemble des structures documentaires associées. Chaque structure documentaire contenant des propriétés ainsi que l'ensemble de leurs bibliothèques physiques.</p>
+<h3>Entête</h3>
+<pre>
+{
+"took": 3,					# Temps d'exécution de la requête en milisecondes
+"timed_out": false,			# Si à true, alors la requête n'a pas pu se terminer à temps, la répons e peut être vide ou partielle (sur ESGBU ~ 30 secondes)
+"_shards": {				# donnée technique indiquant quelles ressources ES ont été nécessaires
+	"total": 1,
+	"successful": 1,
+	"skipped": 0,
+	"failed": 0
+},
+"hits": {							# Contient les données et métadonnées résultats
+	"total": {						# Métadonnées sur le nombre de résultats
+		"value": 127,				# Nombre de documents retournés
+		"relation": "eq"			# indique que le nombre de document est exact
+	},
+	"max_score": 1,					# Score maximum des résultats (notion propre à ES) 
+	"hits": [						# Tableau (indiqué par les crochets) de documents résultats
+		  {							# Premier document
+		"_index": "esgbu_institutions",			# Le nom de l'index requêté
+		"_type": "_doc",				# type du document (ce sera toujours _doc)
+		"_id": "1-7",					# identifiant unique du document dans Elasticsearch 
+								  (concaténation de l'identifiant de l'établissement et de l'identifiant de l'enquête)
+		"_score": 1,					# indique la pertinence du document
+		"_source": {					# bloc JSON originel entré dans ES lors de l'indexation : ici commence les données elles-mêmes
+			"id": 1,					
+			"officialName": "Aix-Marseille Université",
+			"useName": "Aix-Marseille Université",
+			"acronym": "AMU",
+			"brand": "",
+			"active": true,
+		 ...
+	</pre>
+<p>Le premier bloc renvoie des informations techniques sur l'état de la requête : durée, erreurs, etc.</p>
+<p>Le premier bloc &laquo; hits &raquo; indique le nombre de documents renvoyé par la requête</p>
+<p>Le deuxième bloc &laquo; hits &raquo;  contient les données elles-mêmes</p>
+<h2>Structure du bloc établissement</h2>
+Le bloc de donnée commence avec quelques métadonnées, préfixées par le tiret-bas puis dans l'attribut &laquo; source &raquo; 
+viennent les informations sur l'établissement :
+
+<pre>
+	"_source": {
+		"id": 1,					# Données permanentes
+		"officialName": "Aix-Marseille Université",
+		"useName": "Aix-Marseille Université",
+		"acronym": "AMU",
+		"brand": "",
+		"active": true,
+		"address": "58 BOULEVARD CHARLES LIVON",
+		"city": "MARSEILLE CEDEX 07",
+		"postalCode": "13284",
+		"website": "http://www.univ-amu.fr/",
+		"type": "EPSCT - Université",
+		"instruction": null,
+		"year": "2019",					# Année de l'enquête
+		"EtabUAI": "0134009M",				# Données annuelles
+		"EtabSiseL": 38229,
+		"EtabSiseM": 22823,
+		"EtabSiseD": 2556,
+		"EtabSiseTot": 63608,
+		"EtabECTit": 2468,
+		"EtabECNTit": 132,
+		"EtabECTot": 2600,
+		"EtabDepDoc": null,
+		"EtabBudgTot": null,
+		"documentaryStructures": [	# Début du tableau des structures documentaires associées à l'établissement
+			  {
+			"id": 5,
+			"officialName": "SCD de Aix-Marseille Université",
+			"useName": "SCD de A
+				...
+</pre>
+Les premières données concernent les données dîtes permanentes de l'établissement. Elles ne dépendent pas d'une enquête en particulier. Elles commencent avec l'&laquo; id &raquo; et terminent avec &laquo; instruction &raquo;.
+<p>Ensuite vient l'année du document qui montre l'année de l'enquête. Les données suivantes de EtabUAI à EtabBudgTot sont les données de l'enquête. La signification de ces codes ...
+<p>La propriété &laquo; documentaryStructures &raquo;  contient les structures documentaires associées à cet établissement
+</p>
+<h2>Structure du bloc structures documentaires</h2>
+Ce bloc contient l'essentiel des statistiques de l'ESGBU. Il est répété autant de fois qu'il y a de structures documentaires associées 
+à l'établissement.
+
+<pre>
+	"documentaryStructures": [
+  {
+	"id": 5,
+	"officialName": "SCD de Aix-Marseille Université",
+	"useName": "SCD de Aix-Marseille Université",
+	"acronym": null,
+	"address": "Campus Marseille centre - Case n°15 - 3 Place Victor Hugo - CS 80249",
+	"postalCode": "13331",
+	"city": "Marseille Cedex 3",
+	"website": "http://www.fr",
+	"active": true,
+	"instruction": null,
+	"SdUAI": "0134031L",		# Début des données annuelles 
+	"SdILN": "ILN004",
+	"SdRCR": "ND",
+	"MoyUnite": "TTC",
+	"MoyETPT": 197.4,
+	"RecDroitsbib": 0,
+	"RecTutelle": 3051053,
+	"RecCollTerr": 3500,
+	"RecAutMin": 18800,
+	"RecRessProp": 153000,
+		...
+	"Rem": "ND",
+    "SDType": "SCD ou assimilé",
+    "physicalLibraries": [		# Début du bloc Bibliothèques physiques
+        {
+            "id": 3,
+            "officialName": "Bibliothèque Médecine-Odontologie",
+            "useName": "Bibliothèque Médecine-Odontologie",
+            ...
+            "BibPretMatos": null
+                       }		# Fin du bloc Bibliothèquues physiques
+                   ]
+               }
+           ]
+       }
+   },
+   {					# Bloc établissement suivant
+       "_index": "esgbu_institutions",
+       "_type": "_doc",
+       "_id": "7-7",
+       "_score": 1.0,
+       "_source": {
+           "id": 7,
+            "officialName": "École française d'Extrême-Orient",
+            ...
+</pre>
+De la même façon que les établissements, ce bloc présente les données permanentes suivie des données annuelles. L'année est toujours celle indiquée dans l'établissement englobant.
+
+<h2>Structure du bloc bibliothèques physiques</h2>
+Chaque SD peut se voir associer une ou plusieurs bibliothèques physiques. Elles se trouvent dans la propriété &laquo; physicalLibraries &raquo;
+
+<pre>
+
+</pre>
+
+<h1>Requêtes de recherche</h1>
+Nous présentons ici quelques requêtes simples. Pour plus de d'information, se reporter à la <a href="https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl.html">documentation 
+d'Elasticsearch</a>.
+<h2>Renvoyer toutes les données d'une année</h2>
+
+Le mot clé <b>term</b> permet de filtrer les résultats sur un terme <b>exact</b>. 
+
+<pre>
+{
+"elasticsearchIndex":"esgbu_institutions",
+"elasticsearchRequest":"_search",
+"elasticsearchBody":
+	{
+        "query": {
+            "term":
+            {"year": {		# On précise ici le champs sur lequel on filtre. Il doit exister dans la structure visé.
+                "value" : "2019"
+                }
+            }
+        }
+    }
+}
+</pre>
+
+Cette requête va renvoyer un nombre de documents égal au nombre d'établissements dans l'index (~ 128 lors de l'écriture de cet article).
+
+<h2>Elargir à d'autres années</h2>
+<i>Pour les requêtes suivantes, nous ne reprendrons pas l'entête mais uniquement le contenu de <code>elasticsearchBody</code>.</i>
+<p>
+Le mot clé <b>terms</b> (au pluriel) permet de préciser un tableau de valeur.
+</p>
+<strong>Attention : </strong> les mots-clés <b>term</b> et <b>terms</b> ne sont pas adaptés pour chercher
+dans les champs de type <i>texte</i>. Il faudra se tourner vers les requêtes <b>match</b>.
+<pre>
+{
+	"query": {
+		"terms": {
+			"year": ["2019", "2018"]		# Les valeurs sont indiquées entre crochets
+		}
+	}
+}
+</pre>
+<h2>Filtrer sur plusieurs champs</h2>
+Pour filtrer sur plusieurs champs, ES propose des <a href="https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-bool-query.html">
+boolean query</a>.
+
+<h3>Obtenir tous les documents des années 2018 et 2019 <strong>ET</strong> dont l'identifiant est 1</h3>
+<pre style="tab-size:4">
+{
+	"query": {
+		"bool": {
+			"must": [			# les crochets indiquent que plusieurs clauses vont être énumérées
+					{
+						"terms": {
+						     "year": ["2019", "2018"]
+						 }
+					},		# Les clauses sont séparées par des virgules
+						 {
+						"terms" : {
+						     "id" : ["1"]
+						}
+				}
+			]
+		}
+	}
+}
+</pre>
+Cette requête renverra 2 documents.
+<h2>Requêtes sur les champs de type texte</h2>
+
+Ces requêtes utilisent le mot-clé <b>match</b>. Elles ont la même structure que les requêtes précédentes.
+<h3>Documents ayant pour <code>officialName</code> bordeaux</h3>
+<pre>
+{
+	"query": {
+    	"match": {
+        	"officialName": "bordeaux"
+		}
+	}
+}
+</pre>
+
+<p>Le résultat de cette requête renvoie tous les documents dont le champs officialNamle contient le mot <i>bordeaux</i>.</p>
+Le <b>score</b> devient ici pertinent et indique le degré de vraissemblance entre la question posée et le résultat. Par exemple
+la chaîne <i>bordeaux</i> sera jugé plus pertinente que <i>Université de Bordeaux</i> et de fait aura un <b>score</b> plus élevé.
+<p>Pour en savoir plus sur le <b>scoring</b> voir <a href="https://www.compose.com/articles/how-scoring-works-in-elasticsearch/">How scoring works in Elasticsearch ?</a>
+
+<h2>Requêtes flous</h2>
+
+L'un des intérêts d'un moteur d'indexation est de pouvoir renvoyer des résultats même avec une requête approximative. ES propose un paramètre <b>fuzziness</b>
+permettant de régler le degré d'erreur acceptable pour considérer qu'un document peut faire partie du résultat.
+
+<h3>Documents dont le <code>officialName</code> contient &laquo; rems &raquo; </h3>
+
+<pre>
+{
+	"query": {
+		"fuzzy": {
+			"officialName": {
+				"value" : "rems",	# Ici des résultats comme Reims ou Rennes seront renvoyés
+				"fuzziness":"6"		# Plus la valeur est élevée et plus le moteur d'indexation tolèrera des erreurs
+			}
+		}
+	}
+}
+</pre> 
+
+<h2>Limitation des champs résultats</h2>
+Par défaut, Elasticsearch renvoie les documents dans leur intégralité. Il peut être souhaitable pour faciliter la lecture des résultats de ne sélectionner
+qu'une partie des champs à renvoyer. Le mot-clé <b>_source</b> permet de spécifier les champs à retourner.
+
+<h3>Evolution du nombre d'étudiant dans l'université Aix-Marseille dans toutes les enquêtes</h3>
+
+<pre>
+{
+        "_source": ["EtabSiseTot", "year"], # Variable Nombre total d'étudiants et année
+        "query": {
+                "term": {
+                    "id": {
+                        "value" : "1"	# Identifiant d'Aix-Marseille
+                    }
+                }
+        }
+    }
+</pre>
+Cette requête donnera un résultat du type:
+<pre>
+
+...
+"hits": {
+        "total": {
+            "value": 7,
+            "relation": "eq"
+        },
+        "max_score": 1.0,
+        "hits": [
+            {
+                "_index": "esgbu_institutions",
+                "_type": "_doc",
+                "_id": "1-1",
+                "_score": 1.0,
+                "_source": {		# Résultats brut sur uniquement les variables sélectionnées dans la requête
+                    "EtabSiseTot": 58970,
+                    "year": "2013"
+                }
+            },
+            {
+                "_index": "esgbu_institutions",
+                "_type": "_doc",
+...
+
+</pre>
+
+<h2>Aggrégations</h2>
+Les aggrégations permettent de réaliser des calculs sur les données. Elasticsearch propose le mot-clé <b>aggs</b>
+
+<h3>Somme de étudiants de toues les établissements de l'ESGBU pour l'année 2019</h3>
+<pre>
+{
+	"query": {					# Requête filtrant sur l'année 2019
+		"term": {
+			"year": {
+				"value" : "2019"
+			}
+		}
+	},
+	"aggs" : {									# Fonction d'aggrégation 
+		"nombre_etudiants" : {					# Le nom de la variable contenant le résultat, on choisit le nom que l'on souhaite 
+			"sum" : {"field" : "EtabSiseTot"}	# La fonction <code>sum</code> d'Elasticsearch ET le champs sur lequel on effectue l'aggrégation
+		}
+	}
+}
+
+</pre>
+Le résultat de cette requête renverra tout d'abord l'ensemble des documents de 2019, au format indiqué en début d'article PUIS le résultat de l'aggrégation:
+<pre>
+...
+	},
+    "aggregations": {
+        "nombre_etudiants": {
+            "value": 1474994.0
+        }
+    }
+...
+</pre>
+
+<h2>Filtrer sur les structures documentaires ou sur les bibliothèques physiques</h2>
+Si l'on souhaite appliquer un critère de sélection sur un élément imbriqué, il faut utiliser une requête imbriqué avec le mot-clé <b>nested</b>.
+<pre>
+{
+    "query": {
+        "nested" : {
+            "path": "documentaryStructures",			# On indique ici l'élément imbriqué
+            "query": {									# On répète le mot-clé query
+                "match": {
+                    "documentaryStructures.address": "diderot"	# On spécifie la valeur que doit prendre en préfixant la nom de la propriété imbriquée 
+                }
+            }
+        }
+    }
+}
+</pre>
+Cette requête renverra les établissements pour lesquels une ou plusieurs structures documentaires ont une adresse comprenant le mot <i>diderot</i>.
+<h3>Imbrication à plusieurs niveaux</h3>
+Les bibliothèques physiques sont imbriquées dans les strcutures documentaires. Pour filtrer sur un de leur critère, il faut utiliser une imbrication
+multiple, toujours avec le mot-clé <b>nested</b>.
+<pre>
+{
+    "query": {
+		"nested" : {
+		    "path" : "documentaryStructures.physicalLibraries",
+		    "query" : {
+		            "term": {
+		                "documentaryStructures.physicalLibraries.BibEco": "true"
+		        }
+		    }
+		}
+    }
+}
+</pre>
+Cette requête renverra tous les établissements ayant un bibliothèque physique avec une section <i>économie</i>.
+<p>Attention au fait qu'elle renverra, pour les établissements résultats, également les bibliothèques n'ayant pas de section <i>économie</i>.
+Seuls les établissements n'ayant AUCUNE bibliothèque <i>économie</i> ne seront pas renvoyés.</p>
+
+<p>Il est possible de n'obtenir que la liste des bibliothèques physiques répondant exactement aux critères en utilisant le mot-clé <b>inner_hits</b>.
+</p>
+
+<pre>
+{
+    "query": {
+        "nested" : {
+            "path": "documentaryStructures.physicalLibraries",
+            "query" : {
+                "term": {
+                    "documentaryStructures.physicalLibraries.BibEco": "true"
+                }
+             },
+            "inner_hits":{}
+            }
+    },								# L'ajout de _source permet d'éviter l'affichage de l'ensemble du document 
+    "_source" :[
+        "year","useName"
+    ]
+}
+</pre>
+Cette requête renverra l'ensemble des établissements ayant au moins une bibliothèque avec une section <i>économie</i>, suivie
+d'un bloc <b>inner_hits</b> ne contenant que les bibliothèques avec une section <i>économie</i>.
+
+<h4>Résultats</h4>
+<pre>
+{
+    "took": 13,
+    "timed_out": false,
+    "_shards": {
+        "total": 1,
+        "successful": 1,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": {
+            "value": 236,
+            "relation": "eq"
+        },
+        "max_score": 1.2352303,
+        "hits": [
+            {
+                "_index": "esgbu_institutions",
+                "_type": "_doc",
+                "_id": "1-5",
+                "_score": 1.2352303,
+                "_source": {					# Limitation des résultats à l'année et au nom
+                    "year": "2017",
+                    "useName": "Aix-Marseille Université"
+                },
+                "inner_hits": {
+                    "documentaryStructures.physicalLibraries": {	# Début de la liste des Bibliothèque de Aix-Marseille avec section éco"
+                        "hits": {
+                            "total": {
+                                "value": 11,
+                                "relation": "eq"
+                            },
+                            "max_score": 1.2352303,
+                            "hits": [
+                                {
+                                    "_index": "esgbu_institutions",
+                                    "_type": "_doc",
+                                    "_id": "1-5",
+                                    "_nested": {
+                                        "field": "documentaryStructures",
+                                        "offset": 0,
+                                        "_nested": {
+                                            "field": "physicalLibraries",
+                                            "offset": 6
+                                        }
+                                    },
+                                    "_score": 1.2352303,
+                                    "_source": {
+                                        "BibSante": false,
+                                        "BibSemHeures": 52.5,
+                                        "city": "Aix-en-Provence",
+                                        "postalCode": "13621",
+                                        "BibScStaps": false,
+                                        "officialName": "Bibliothèque économie-gestion Ferry",
+                                        "BibETP": 7,
+                                        "BibComIndirect": 175,
+                                        "BibPrets": 8487,
+                                        "BibSurfaceTot": 890,
+                                        ...
+                                        "fictitious": false,
+                                        "BibType": "autre",
+                                        "address": "14 avenue Jules Ferry",
+                                        "BibEco": true,			# Critère toujours à vrai dans le bloc inner_hits
+                                        
+                                        ...
+                
+</pre>
+
+<h2>Calcul d'un indicateur</h2>
+Le menu <a href="https://esgbu.esr.gouv.fr/broadcast/indicators">Indicateurs</a> propose des chiffres clés et autres indicateurs sur 
+les données de l'ESGBU. Ces indicateurs sont des calculs sur des aggrégats de différents niveaux d'imbrication.
+<p>La plupart d'entre eux peuvent être obtenu avec une requête Elasticsearch</p>
+<h3>Exemple : Nombre d'étudiants par place pour chaque établissement de la région Provence-Alpes-Côte d'Azur</h3>
+Cette requête peut être divisée en plusieurs parties:
+<ul>
+<li>La sélection de critères : par exemple le filtre sur la région et les années</li>
+<li>les aggrégations retenues : par année puis par établissement</li>
+<li>La calcul qui est un rapport entre deux variables aggrégées intermédiaires</li>	
+</ul> 
+
+<pre>
+{
+  "query": {					# Bloc critère, ici sur la région de l'établissement
+    "bool" : {
+          "must" : [
+              {
+                    "match": {
+                        "region": "Provence-Alpes-Côte d'Azur"
+                    }
+              },
+            {"terms" : {"year": ["2018", "2019"]}}		# On filtre sur les 2 dernières années (au moment de la rédaction 
+            											  de cet article les données des bibliothèques 2013 - 2017 ne sont pas encore disponibles)
+          ]
+      }
+  }, 
+  "size": 0, 					# Non obligatoire, limite le nombre de document résultat (pour raccourcir le résultat) mais n'affecte pas les calculs
+  "aggs": {						# Première aggrégation sur les années
+    "per_years": {				# Nom de l'aggrégation à choisir soi-même
+      "terms": {
+        "field": "year",
+        "size": 10
+      },
+      "aggs": {
+        "per_instit": {			# Deuxième aggrégation : par établissement
+          "terms": {
+            "field": "id",		# Pour plus de sécurité, on utilise l'identifiant de l'établissement
+            "size": 10
+          },
+          "aggs": {
+            "official_name": {
+              "top_hits": {
+                "size": 1,
+                "_source": {"includes": ["officialName"]}
+              }
+            },
+          "nb_etud": { "sum": {"field": "EtabSiseTot"}},		# Calcul de la somme sur le champs <i>Nom total d'étudiants inscrits</i>, 
+          														  on affecte le résultat à la variable <i>nb_etud</i> pour le ré-utiliser 
+          "nb_ens": {"sum": {"field": "EtabECTot"}}, 			# Somme des enseignants
+          "physic_lib": {										# On nomme l'imbrication
+            "nested": {								
+              "path": "documentaryStructures.physicalLibraries"	# On indique son chemin
+            },
+            "aggs": {
+              "sum_place": { "sum": { "field": "documentaryStructures.physicalLibraries.BibPlacesTot"}}	# On effectue la somme des places des bibliothèques
+              																							  correspondants à l'établissement parent
+            }
+          },
+          "etud_par_place": { 										# Début du calcul, on le nomme <i>etud_par_place</i>, c'est le nom qui apparaîtra dans les résultats
+				bucket_script": {								# Mot-clé <b>bucket_script</b> indiquant le bloc calcul
+	          		"buckets_path": {							# Mot clé <b>buckets_path</b> qui fait correspondre les noms des variables de l'aggrégation
+		          											  avec les noms de variable du calcul
+		            "var1": "physic_lib.sum_place",
+		            "var2": "nb_etud",
+		            "var3": "nb_ens"
+		            },
+		            "script": "(params.var2 + params.var3) / params.var1"		# Calcul de l'indicateur
+	        	} 
+	        }
+	      }
+        }
+      }
+    }
+  }
+}
+</pre>
+
+Le résultat se présentera sous cette forme
+<pre>
+{
+    "took": 27,
+    "timed_out": false,
+    "_shards": {
+        "total": 1,
+        "successful": 1,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {							# Résultat de la requête qui <b>match</b> <i>Provence-Alpes-Côte d'Azur</i>
+        "total": {
+            "value": 35,
+            "relation": "eq"
+        },
+        "max_score": null,
+        "hits": []						# pas d'affichage des documents parce que <b>size</b> vaut 0.
+    },
+    "aggregations": {
+        "per_years": {							# Aggrégation sur les années
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": 1514764800000,
+                    "key_as_string": "2018",	# Bloc pour la première année
+                    "doc_count": 5,				# 5 établissements dans la région
+                    "per_instit": {				# Aggégation sur les établissements
+                        "doc_count_error_upper_bound": 0,
+                        "sum_other_doc_count": 0,
+                        "buckets": [
+                            {
+                                "key": 1,
+                                "doc_count": 1,
+                                "official_name": {
+                                    "hits": {				# résultats sur le premier établissement
+                                        "total": {
+                                            "value": 1,
+                                            "relation": "eq"
+                                        },
+                                        "max_score": 4.232862,
+                                        "hits": [
+                                            {
+                                                "_index": "esgbu_institutions",
+                                                "_type": "_doc",
+                                                "_id": "1-6",
+                                                "_score": 4.232862,
+                                                "_source": {
+                                                    "officialName": "Aix-Marseille Université"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                "physic_lib": {
+                                    "doc_count": 45,
+                                    "sum_place": {			# Nombre de place
+                                        "value": 5872.0
+                                    }
+                                },
+                                "nb_ens": {					# Nombre d'enseignants
+                                    "value": 2586.0
+                                },
+                                "nb_etud": {				# Nombre d'étudiants
+                                    "value": 62349.0
+                                },
+                                "etud_par_place": {				
+                                    "value": 11.05841280653951
+                                }
+                            },
+                            {
+                                "key": 108,
+                                "doc_count": 1,
+                                "official_name": {
+                                    "hits": {						# Résultats pour 2e établissement
+                                        "total": {
+                                            "value": 1,
+                                            "relation": "eq"
+                                        },
+                                        "max_score": 4.232862,
+                                        "hits": [
+                                            {
+                                                "_index": "esgbu_institutions",
+                                                "_type": "_doc",
+                                                "_id": "108-6",
+                                                "_score": 4.232862,
+                                                "_source": {
+                                                    "officialName": "Avignon Université"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                "physic_lib": {
+                                    "doc_count": 2,
+                                    "sum_place": {
+                
+                 ...
+</pre>
+<p>
+Plus d'information sur les <a href="https://www.elastic.co/guide/en/elasticsearch/reference/current/search-aggregations-bucket.html">buckets</a>
+<h1 id="API">Notes</h1> 
+<p>1. API Interface de programmation d'application. Il s'agit d'un ensemble de méthodes permettant d'accéder aux données d'une application.</p>
+<p>2. Un Domain Specific Language est un langage dédié à une application précise, ici Elasticsearch.</p>
+</div>
+

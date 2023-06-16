@@ -1,0 +1,155 @@
+Id_New;IdentFMU;SdNomOffi;SdAdresse;SdCP;SdVille;ESGBU_2013;ESGBU_2014;ESGBU_2015;ESGBU_2016;ESGBU_2017;ESGBU_2018;UAI_ETAB_MERE;UAI_SD;Libelle OD Etab
+1;1;Bibliothèque de l'Adcadémie nationale de médecine;16, rue Bonaparte;75006;Paris;1;1;1;1;1;1;0753705V;;
+2;2;Service d'IST de l'Agence de l’environnement et de la maîtrise de l’énergie;;;;1;1;1;1;1;1;0755504A;;
+3;4;Service d'IST de l'Agence Nationale chargée de la Sécurité Sanitaire de l'alimentation, de l'environnement et du travail;14 rue Pierre et Marie Curie;94701;MAISONS-ALFORT;1;1;1;1;1;1;0942357B;;
+4;6;Service d'IST de l'Agence nationale pour la gestion des déchets radioactifs;1-7, rue Jean Monnet;92298;Chatenay-Malabry Cedex;1;1;1;1;1;1;0922684T;;
+5;9;SCD de Aix-Marseille Université;Campus Marseille centre - Case n°15 - 3 Place Victor Hugo - CS 80249;13331;Marseille Cedex 3;1;1;1;1;1;1;0134009M;0134031L;Aix-Marseille Université
+6;14;SCD de l'Institut national universitaire Jean-François-Champollion;Place de Verdun;81012;ALBI;1;1;1;1;1;1;0811293R;;Institut national universitaire Jean-François Champollion
+7;16;SCD de l'Université de Picardie-Jules-Verne;Chemin du Thil;80025;Amiens cedex 1;1;1;1;1;1;1;0801344B;0801253C;Université de Picardie Jules-Verne
+8;18;SCD de l'Université d'Angers;57 quai Félix Faure;49055;ANGERS;1;1;1;1;1;1;0490970N;0491677G;Université d'Angers
+9;19;SCD de l'Université Antilles-Guyanne;;;;1;1;0;0;0;0;9710585J;9720434P;Université des Antilles
+10;21;SCD de l'Université d'Artois;9, rue du temple_x000D_ - BP 10665;62030;Arras Cedex;1;1;1;1;1;1;0623957P;0623982S;Université d'Artois
+11;24;SCD de l'Université d'Avignon;Campus Hannah Arendt_x000D_ - 74, rue Louis Pasteur;84018;AVIGNON Cedex 1;1;1;1;1;1;1;0840685N;0841028L;Avignon Université
+12;25;La contemporaine;6 allée de l'Université;92001;Nanterre;1;1;1;1;1;1;0921204J;0921867E;Université Paris Nanterre
+13;26;SCD de l'Université de technologie de Belfort-Montbéliard;;90010;BELFORT Cedex;1;1;1;1;1;1;0900424X;0900441R;Université de technologie de Belfort-Montbéliard
+14;27;SCD de l'Université de Franche-Comté;20, rue Ambroise Paré;25000;Besançon;1;1;1;1;1;1;0251215K;0250986L;Université de Franche-Comté
+15;34;Bibliothèque interuniversitaire de Santé;12, rue de l'Ecole de Médecine;75006;Paris;1;1;1;1;1;1;0751721N;;
+16;35;SCD de l'Université Bordeaux 1;;;;1;0;0;0;0;0;0331764N;0332972B;
+17;36;SCD de l'Université Bordeaux 2;;;;1;0;0;0;0;0;0331765P;0333001H;
+18;37;SCD de l'Université Bordeaux Montaigne;4 avenue Denis Diderot;33607;Pessac Cedex;1;1;1;1;1;1;0331766R;0333008R;Université Bordeaux-Montaigne
+19;38;SCD de l'Université Bordeaux 4;;;;1;0;0;0;0;0;0332929E;0332917S;
+20;40;Service de coopération documentaire de l'Université de Bordeaux;16 avenue Léon Duguit;33608;PESSAC;1;1;1;1;1;1;0333298F;0332237C;Université de Bordeaux
+21;41;SCD de l'Université de Bordeaux;RDC bâtiment administratif_x000D_ - 16 avenue Léon Duguit CS 500057;33608;PESSAC cedex;0;1;1;1;1;1;0333298F;0333308S;Université de Bordeaux
+22;42;SCD de l'Université de Bretagne Occidentale;10 avenue Victor le Gorgeu_x000D_ - BP 91342;29213;Brest Cedex 1;1;1;1;1;1;1;0290346U;0290323U;Université de Bretagne Occidentale
+23;43;SCD de l'Université de Bretagne-Sud;25 rue Armand Guillemot;56321;Lorient Cedex;1;1;1;1;1;1;0561718N;0561779E;Université de Bretagne-Sud
+24;49;Bibliothèque universitaire des langues et civilisations (SD);65 rue des Grands Moulins;75013;Paris;1;1;1;1;1;1;0755040W;;
+25;50;Service d'IST du Bureau de recherches géologiques et minières;3 avenue Claude Guillemin_x000D_ - BP 36009;45060;ORLEANS CEDEX 2;1;1;1;1;1;1;0755363X;;
+26;52;SCD de l'Université de Caen Normandie;Esplanade de la Paix - CS 14032;14032;Caen Cedex 5;1;1;1;1;1;1;0141408E;0141110F;Université de Caen Normandie
+27;54;SCD de la Casa de Velázquez;C/ de Paul Guinard.3_x000D_ - Ciudad Universitaria;28040;Madrid - Espagne;1;1;1;1;1;1;1340004B;;Casa de Velázquez de Madrid
+28;55;Service d'IST du Centre de coopération internationale en recherche agronomique pour le développement;42, rue Scheffer;75116;Paris;1;1;1;1;1;1;0342214X;;
+29;66;Service d'IST du Centre national de la recherche scientifique;3 rue Michel Ange;75016;Paris;1;1;1;1;1;1;0753639Y;;
+30;68;Service d'IST du Centre scientifique et technique du bâtiment;84, avenue Jean Jaurès - _x000D_Champs-sur-Marne;77447;Marne-La-Vallée;1;1;1;1;1;1;0772829G;;
+31;70;SCD de l'Université de Cergy-Pontoise;Place des Cerclades;95015;Cergy-Pontoise;1;1;1;1;1;1;0951793H;0951989W;
+32;71;SCD de l'Université Savoie Mont Blanc;BP 1104;73011;Chambéry Cedex;1;1;1;1;1;1;0730858L;0731137P;Université Savoie Mont Blanc
+33;74;SCD de l'Université Clermont Auvergne;1 Boulevard Lafayette_x000D_ - CS 10027;63001;Clermont-Ferrand;1;1;1;1;1;1;0632035V;0631005A;Université Clermont Auvergne
+34;76;SCD du Conservatoire national des arts et matiers;292 rue Saint-Martin;75003;Paris;1;1;1;1;1;1;0753471R;;Conservatoire national des arts et métiers
+35;77;SCD du Collège de France;11 Place Marcelin Berthelot;75005;Paris;1;1;1;1;1;1;0753480A;;Collège de France
+36;78;Service d'IST du Commissariat à l'énergie atomique;;;;1;1;1;1;1;1;0912281K;;
+37;79;SCD de l'Université de Technologie de Compiègne;Rue Roger Couttolenc_x000D_ - CS 60319;60203;COMPIEGNE;1;1;1;1;1;1;0601223D;0601609Y;Université de technologie de Compiègne
+38;81;SCD de l'Université de Corse-Pascal-Paoli;Bâtiment Desanti_x000D_ - Av. du 9 Septembre - BP-52;20250;Corté;1;1;1;1;1;1;7200664J;7200111H;Université de Corse Pasquale Paoli
+39;84;Service documentaire du Centre technique du livre de l'enseignement supérieur;14 avenue Gutenberg;77607;Bussy-saint-Georges;1;1;1;1;1;1;0772428W;;
+40;85;Bibliothèque Cujas;2, rue Cujas;75005;Paris;1;1;1;1;1;1;0751717J;0752707K;Université Paris 1 - Panthéon Sorbonne
+41;86;SCD de l'Université de Bourgogne;3 esplanade Érasme;21000;DIJON;1;1;1;1;1;1;0211237F;0211030F;Université de Bourgogne
+42;89;SCD de l'École Centrale de Lyon;36 avenue Guy de Collongue;69134;ECULLY cedex;0;0;0;0;1;1;0690187D;;École centrale de Lyon
+43;92;SCD de Centrale-Supélec;3, rue Joliot-Curie;91190;Gif-sur-Yvette;0;0;0;0;1;1;0912341A;;CentraleSupélec
+44;103;SCD de l'École française d'Athènes;Didotou, 6;10680;Athènes;1;1;1;1;1;1;1260001S;;École française d'Athènes
+45;104;SCD de l'École française de Rome;Piazza Farnese, 67;00186;Rome (Italie);1;1;1;1;1;1;1270009V;;École française de Rome
+46;105;SCD de l'École française d'extrême-orient;22, avenue du Président Wilson;75116;Paris;1;1;1;1;1;1;0751794T;;École française d'Extrême-Orient
+47;108;SCD de l'École nationale des chartes;65 rue de Richelieu;75002;Paris;1;1;1;1;1;1;0753478Y;;École nationale des Chartes
+48;116;SCD de l'École nationale supérieure d'arts et métiers;151 boulevard de l'Hôpital;75013;Paris;1;1;1;1;1;1;0753237L;;École nationale supérieure d'arts et métiers
+49;135;Service commun de la documentation, des bibliothèques et des archives de l'École pratique des hautes études;Site Sainte Barbe_x000D_ - 4, rue Valette;75005;Paris;1;1;1;1;1;1;0753486G;;École pratique des hautes études
+50;144;SCD de l'École normale supérieure Paris-Saclay;61, avenue du Président Wilson;94230;Cachan;1;1;1;1;1;1;0940607Z;;École normale supérieure Paris-Saclay
+51;145;SCD de l'École normale supérieure de Lyon;5, parvis René Descartes _x000D_-BP 7000_x000D_ ;69342;69342 Lyon cedex 07 FRANCE;1;1;1;1;1;1;0694123G;;École normale supérieure de Lyon
+52;148;SCD de l'École normale supérieure de Rennes;Campus de Ker Lann_x000D_ - Avenue Robert Schuman;35170;Bruz;0;0;0;1;1;1;0352440M;;École normale supérieure de Rennes
+53;149;SCD de l'École Normale Supérieure;45, rue d'Ulm;75230;Paris cedex 5;1;1;1;1;1;1;0753455Y;;École normale supérieure de Paris
+54;151;SCD de l'École nationale supérieure des sciences de l'information et des bibliothèques;17-21 boulevard du 11 Novembre 1918;69623;Villeurbanne cedex;1;1;1;1;1;1;0692459Y;;École nationale supérieure des sciences de l'information et des bibliothèques
+55;154;SCD de l'Université d'Evry-Val-d'Essonne;2 rue André Lalande;91025;Evry cedex;1;1;1;1;1;1;0911975C;0912167L;Université d'Évry-Val d'Essonne
+56;156;SCD de la Fondation nationale des sciences politiques;27 rue Saint-Guillaume;75007;Paris;1;1;1;1;1;1;0753431X;;Institut d'études politiques de Paris
+57;159;Service d'IST du Génopole;;;;1;1;1;1;1;1;0912305L;;
+58;160;SICD Université Grenoble1 et INPG;;;;1;1;1;0;0;0;0381838S;0383074K;
+59;161;SICD Universités Grenoble 2 et 3;;;;1;1;1;0;0;0;0381839T;0383075L;
+60;173;SCD de l'Institut national des sciences appliquées Centre Val de Loire;Technopole Lahitolle_x000D_ - 88, bd Lahitolle_x000D_ - CS 60013;18022;Bourges Cedex;0;0;1;1;1;1;0180974L;;Institut national des sciences appliquées Centre Val de Loire
+61;178;Bibliothèque de l'Institut de France;23 quai de Conti CS90618;75270;Paris cedex 06;1;1;1;1;1;1;0750005Y;0755355N;
+62;180;Service d'IST de l'Institut de radioprotection et de sûreté nucléaire;BP 17;92262;Fontenay aux Roses Cedex;1;1;1;1;1;1;0922643Y;;
+63;182;Service d'IST de l'Institut de recherche pour le développement;Le Sextant_x000D_ - 44, Bd de Dunkerque;13572;MARSEILLE Cedex 02;1;1;1;1;1;1;0133973Y;;
+64;190;SCD de l'Institut français d'archéologie orientale du Caire;37, rue al-Cheikh Ali Youssef B.P. 11562 Qasr al-Aïny;11441;Le Caire, Egypte;1;1;1;1;1;1;3010001R;;Institut français d'archéologie orientale du Caire
+65;192;Service d'IST de l'Institut français de recherche pour l'exploitation de la mer;155 rue Jean Jacques Rousseau;92138;Issy Les Moulineaux;1;1;1;1;1;1;0922262J;;
+66;193;Service d'IST de l'Institut Français des Sciences et Technologies des Transports, de l'Aménagement et des Réseaux;14-20 Boulevard Newton_x000D_ - Cité Descartes, Champs sur Marne;77447;Marne la Vallée;1;1;1;1;1;1;0772765M;;
+67;194;Service d'IST de l'Institut français du pétrole et des Energies Nouvelles;1-4 avenue de Bois-Préau;92852;Rueil-Malmaison Cedex;1;1;1;1;1;1;0922642X;;
+68;196;Service d'IST de l'Institut national de la recherche agronomique;INRA Paris Siège_x000D_ - 147 rue de l'Université;75338;PARIS CEDEX 07;1;1;1;1;1;1;0755361V;;
+69;197;Service d'IST de l'Institut national de la santé et de la recherche médicale;101 rue de Tolbiac;75013;Paris;1;1;1;1;1;1;0755364Y;;
+70;198;Service d'IST de l'Institut national de l'environnement industriel et des risques;;;;1;1;1;1;1;1;0602098E;;
+71;199;Service d'IST de l'Institut national de recherche en informatique et en automatique;Domaine de Voluceau - Rocquencourt _x000D_ - BP 105;78153;Le Chesnay Cedex;1;1;1;1;1;1;0780491K;;
+72;200;Service d'IST de l'Institut national de Recherche en Sciences et Technologies pour l'Environnement et l'Agriculture;1, rue Pierre-Gilles de Gennes CS 10030;92761;Antony Cedex;1;1;1;1;1;1;0922644Z;;
+73;206;Bibiothèque de l'Institut national d'études démographiques;133, boulevard Davout;75020;Paris;1;1;1;1;1;1;0755360U;;
+74;207;Bibliothèque de l'Institut national d'histoire de l'art;2 rue Vivienne;75002;Paris;1;1;1;1;1;1;0755026F;;Institut national d'histoire de l'art
+75;213;Service d'IST de l'Institut Pasteur;25-28 rue du Docteur Roux;75015;Paris;1;1;1;1;1;1;0755366A;;
+76;220;SCD de l'Université de La Réunion;15, avenue René Cassin_x000D_ - CS92003;97744;Saint Denis CEDEX 9;1;1;1;1;1;1;9740478B;9740064B;Université de La Réunion
+77;222;SCD de l'Université de La Rochelle;2 parvis Fernand Braudel;17000;La Rochelle;1;1;1;1;1;1;0171463Y;0171482U;La Rochelle Université
+78;225;SCD de l'Université Le Havre Normandie;25 rue Philippe Lebon - BP-1123;76063;LE HAVRE cedex;1;1;1;1;1;1;0762762P;0762856S;Université du Havre
+79;226;SCD de Le Mans Université (Ex Université du Maine);Avenue Olivier Messiaen;72085;Le Mans cedex 9;1;1;1;1;1;1;0720916E;0720850H;Le Mans Université
+80;227;SCD de l'Université de Lille 1;;;;1;1;1;1;1;0;0593559Y;;
+81;228;SCD de l'Université de Lille 2;;;;1;1;1;1;1;0;0593560Z;;
+82;229;SCD de l'Université de Lille 3;;;;1;1;1;1;1;0;0593561A;;
+83;231;SCD de l'Universite de Limoges;39C, rue Camille Guérin;87031;Limoges;1;1;1;1;1;1;0870669E;0870111Y;Université de Limoges
+84;233;Bibliothèque littéraire Jacques Doucet;8 place du Panthéon;75005;Paris;1;1;1;1;1;1;0752148C;;
+85;234;SCD de l'Université du Littoral-Côte-d'Opale;55, avenue de l'Université BP 92250;59379;Dunkerque;1;1;1;1;1;1;0595964M;0596013R;Université du Littoral Côte d'Opale
+86;235;SCD de l'Université de Lorraine;BU Sciences et Techniques_x000D_ - Rue du Jardin botanique_x000D_ - BP 20148;54601;Villers les Nancy CEDEX;1;1;1;1;1;1;0542493S;0542400R;Université de Lorraine
+87;236;SCD de l'Université Claude Bernard Lyon 1;Domaine de la Doua_x000D_ - 20, avenue Gaston Berger _x000D_- BP 72215;69622;VILLEURBANNE;1;1;1;1;1;1;0691774D;0690246T;Université Claude Bernard - Lyon 1
+88;237;SCD de l'Université Lumière-Lyon 2;86 rue Pasteur;69007;Lyon;1;1;1;1;1;1;0691775E;0693782L;Université Lumière - Lyon 2
+89;238;SCD de l'Université Jean Moulin Lyon 3;1C avenue des Frères Lumière;69355;Lyon;1;1;1;1;1;1;0692437Z;0693783M;Université Jean Moulin - Lyon 3
+90;239;SCD de l'Institut national des sciences appliquées de Lyon;20 Avenue Albert Einstein;69621;Villeurbanne;1;1;1;1;1;1;0690192J;;Institut national des sciences appliquées de Lyon
+91;242;SCD de la Maison des Sciences de l'Homme;54 Boulevard Raspail;75006;Paris;1;1;1;1;1;1;0753655R;;Fondation Maison des Sciences de l'homme
+92;243;SCD de l'Université Paris-Est Marne-la-Vallée;Cité Descartes_x000D_ - 5 boulevard Descartes_x000D_ - Champs-sur-Marne;77454;Marne-la-Vallée cedex 2;1;1;1;1;1;1;0772502B;0772522Y;
+93;245;Bibliothèque Mazarine;23 quai de Conti;75006;Paris;1;1;1;1;1;1;0750005Y;0754945T;
+94;247;Bibliothèque Interuniversitaire de Montpellier;Espace Richter - 60 rue des Etats généraux;34000;Montpellier;1;1;1;1;1;1;0341089Z;0340834X;Université Montpellier 3 - Paul-Valéry
+95;250;SCD de l'Université de Haute-Alsace;2, rue des Frères Lumière;68093;Mulhouse;1;1;1;1;1;1;0681166Y;0680115F;Université de Haute-Alsace
+96;251;Service documentaire du Musée du quai Branly - Jacques Chirac;222 rue de l'Université;75007;Paris;1;1;1;1;1;1;0755449R;;
+97;252;Direction des bibliothèques et de la documentation du Muséum national d'Histoire naturelle;38, rue Geoffroy Saint-Hilaire;75005;PARIS;1;1;1;1;1;1;0753494R;;Muséum national d'histoire naturelle
+98;257;SCD de l'Université de Nantes;Chemin de la Censive-du-Tertre;44322;Nantes Cedex 3;1;1;1;1;1;1;0440984F;0440121T;Université de Nantes
+99;260;SCD de l'Université Nice Sophia Antipolis;Service Commun de la Documentation_x000D_ - Parc Valrose - BP 2053;06101;Nice Cedex 2;1;1;1;1;1;1;0060931E;;
+100;262;SCD de l'Université de Nîmes;rue du Docteur Georges Salan;30021;NÎMES Cedex 01;1;1;1;1;1;1;0301687W;;Université de Nîmes
+101;263;SCD de l'Université de la Nouvelle-Calédonie;Rue James Cook, BP R4;98851;Nouméa Cedex;1;1;1;1;1;1;9830445S;9830606S;Université de la Nouvelle-Calédonie
+102;265;SCD de l'Observatoire de Paris;61 avenue de l'Observatoire;75014;Paris;1;1;1;1;1;1;0753496T;;Observatoire de Paris
+103;267;Service d'IST de l'Office national d'études et de recherches aérospatiales;BP80100_x000D_ - Chemin de la Hunière;91123;Palaiseau cedex;1;1;1;1;1;1;0922641W;;
+104;269;SCD de l'Université d'Orléans;Château de la Source_x000D_ - Avenue du Parc Floral;45067;ORLEANS;1;1;1;1;1;1;0450855K;0450744P;Université d'Orléans
+105;273;SCD de l'Université Paris 1 Panthéon-Sorbonne;90, rue de Tolbiac;75013;Paris;1;1;1;1;1;1;0751717J;0752719Y;Université Paris 1 - Panthéon Sorbonne
+106;274;SCD de l'Université Paris Nanterre (Paris 10);2, allée de l'Université;92000;Nanterre;1;1;1;1;1;1;0921204J;0921510S;Université Paris Nanterre
+107;275;SCD de l'Université Paris-Sud;Rue du Doyen Poitou_x000D_ - Bâtiment 407;91407;Orsay;1;1;1;1;1;1;0911101C;0911688R;
+108;276;SCD de l'Université Paris-Est Créteil;61 avenue Charles De Gaulle;94010;Créteil Cedex;1;1;1;1;1;1;0941111X;0941683U;Université Paris-Est Créteil Val-de-Marne
+109;277;SCD de l'Université Paris 13;99 avenue Jean-Baptiste Clément;93430;Villetaneuse;1;1;1;1;1;1;0931238R;0931487L;Université Sorbonne Paris Nord
+110;278;SCD de l'Université Panthéon-Assas (Paris 2);92 rue d'Assas;75006;Paris;1;1;1;1;1;1;0751718K;0754523J;Université Panthéon-Assas
+111;279;SCD de l'Université Sorbonne Nouvelle - Paris 3;13 rue Santeuil;75005;Paris;1;1;1;1;1;1;0751719L;0752734P;Université Sorbonne Nouvelle - Paris 3
+112;280;SCD de l'Université Paris-Sorbonne;;;;1;1;1;1;1;0;0751720M;;
+113;281;SCD de l'Université Paris Descartes (Paris 5);Centre universitaire des Saints-Pères _x000D_- 45 rue des Saints-Pères;75006;PARIS;1;1;1;1;1;1;0751721N;0752736S;
+114;282;SCD de l'Université Pierre-et-Marie-Curie;;;;1;1;1;1;1;0;0751722P;;
+115;283;SCD de l'Université Paris Diderot;5 RUE THOMAS MANN;75013;PARIS;1;1;1;1;1;1;0751723R;0752738U;
+116;284;SCD de l'Université Paris 8 Vincennes – Saint-Denis;2 rue de la Liberté;93526;Saint-Denis;1;1;1;1;1;1;0931827F;0931849E;Université Paris 8 - Vincennes - Saint-Denis
+117;285;SCD de l'Université Paris-Dauphine;Place du Maréchal de Lattre de Tassigny;75016;PARIS;1;1;1;1;1;1;0750736T;0752147B;Université Paris-Dauphine
+118;287;SCD de l'Université de Pau et des Pays de l'Adour;Avenue de l'Université;64012;PAU;1;1;1;1;1;1;0640251A;0641439S;Université de Pau et des Pays de l'Adour
+119;288;SCD de l'Université de Perpignan - Via Domitia;52 avenue Paul ALDUY;66860;PERPIGNAN CEDEX;1;1;1;1;1;1;0660437S;0660080D;Université de Perpignan - Via Domitia
+120;289;SCD de l'Université de Poitiers;Direction_x000D_ - Bâtiment B4_x000D_ - 1 rue Charles-Claude Chenou_x000D_ - TSA 81127;86073;Poitiers Cedex 09;1;1;1;1;1;1;0860856N;0860701V;Université de Poitiers
+121;293;SCD de l'Université de la Polynésie française;Campus d'Outumaoro_x000D_ - BP 60056;98702;FAAA - Tahiti - Polynésie française;1;1;1;1;1;1;9840349G;9840390B;Université de la Polynésie Française
+122;297;Service documentaire de la ComUe Université de recherche Paris-Sciences-et-Lettres;60 rue Mazarine;75006;Paris;0;0;1;1;1;1;0755575C;;Fondation de coopération scientifique. Paris Sciences et Lettres - Quartier latin
+123;298;Service documentaire de la ComUE Université Paris-Est;6-8 avenue Blaise Pascal_x000D_ - Champs sur Marne;77455;Marne-la -Vallée;0;0;1;1;1;1;0772710C;;Université Paris-Est
+124;299;SCD de l'Université de Reims Champagne-Ardenne;avenue François Mauriac, CS 40019;51726;REIMS cedex;1;1;1;1;1;1;0511296G;0511121S;Université de Reims Champagne-Ardenne
+125;302;SCD de l'Université de Rennes 1;4 rue Lesage_x000D_ - CS 36402;35064;Rennes;1;1;1;1;1;1;0350936C;0352288X;Université de Rennes 1
+126;303;SCD de l'Université de Rennes 2;Place du Recteur Henri Le Moal_x000D_ - CS 24307;35043;RENNES;1;1;1;1;1;1;0350937D;0352303N;Université Rennes 2
+127;304;SCD de l'Institut national des sciences appliquées de Rennes;20 avenue des Buttes de Coësmes;35708;Rennes;1;1;1;1;1;1;0350097R;;Institut national des sciences appliquées de Rennes
+128;306;SCD de l'Université de Rouen Normandie;Rue Lavoisier;76821;Mont-Saint-Aignan;1;1;1;1;1;1;0761904G;0761652H;Université de Rouen
+129;307;SCD de l'Institut national des sciences appliquées de Rouen;BP 08_x000D_ - Av. de l'Université;76801;St Etienne du Rouvray;1;1;1;1;1;1;0760165S;;Institut national des sciences appliquées de Rouen
+130;309;Bibliothèque Sainte-Geneviève;10, Place du Panthéon;75005;Paris;1;1;1;1;1;1;0751719L;0752706J;Université Sorbonne Nouvelle - Paris 3
+131;310;Bibliothèque interuniversitaire Sainte-Barbe;4 rue Valette;75005;Paris;1;1;1;1;1;1;0751719L;0755041X;Université Sorbonne Nouvelle - Paris 3
+132;311;SCD de l'Université Jean Monnet;1,rue Tréfilerie;42023;Saint-Etienne cedex 2;1;1;1;1;1;1;0421095M;0421523C;Université Jean Monnet
+133;314;Bibliothèque interuniversitaire Sorbonne;13, rue de la Sorbonne;75005;PARIS;1;1;1;1;1;1;0751717J;0752705H;Université Paris 1 - Panthéon Sorbonne
+134;315;SCD de l'Université de Strasbourg;2A rue de la fonderie_x000D_ - CS 41037;67070;Strasbourg cédex;1;1;1;1;1;1;0673021V;0673029D;Université de Strasbourg
+135;319;Bibliothèque nationale et universitaire de Strasbourg (SD);5 rue du Maréchal Joffre;67070;Strasbourg cedex;1;1;1;1;1;1;0671451N;;
+136;320;SCD de l'Institut national des sciences appliquées de Strasbourg;24 boulevard de la Victoire;67084;Strasbourg;1;1;1;1;1;1;0670190T;;Institut national des sciences appliquées de Strasbourg
+137;325;SCD de l'Université de Toulon;CS 60584;83041;Toulon Cedex 9;1;1;1;1;1;1;0830766G;0830989Z;Université de Toulon
+138;326;SCD de l'Université Toulouse-I-Capitole;3 rue de la cité administrative BP37093;31070;Toulouse Cedex 07;1;1;1;1;1;1;0311382J;0312480C;Université Toulouse 1 - Capitole
+139;327;SCD de l'Université Toulouse - Jean Jaurès;5,allées Antonio Machado;31058;Toulouse;1;1;1;1;1;1;0311383K;0312477Z;Université Toulouse - Jean Jaurès
+140;328;SCD de l'Université Toulouse-III-Paul-Sabatier;118 Route de Narbonne;31062;Toulouse cedex 9;1;1;1;1;1;1;0311384L;0312461G;Université de Toulouse 3 - Paul Sabatier
+141;329;SCD de l'Institut national polytechnique de Toulouse;6 Allée Emile Monso_x000D_ - BP 34038;31029;Toulouse Cedex 4;1;1;1;1;1;1;0311381H;0312481D;Institut national polytechnique de Toulouse
+142;330;SCD de l'Institut national des sciences appliquées de Toulouse;135 avenue de Rangueil;31077;Toulouse cedex 4;1;1;1;1;1;1;0310152X;;Institut national des sciences appliquées de Toulouse
+143;332;Service Interétablissements de coopération documentaire de Toulouse;15, rue des lois;31000;TOULOUSE;1;1;1;1;1;1;0311382J;0312479B;Université Toulouse 1 - Capitole
+144;333;SCD de l'Université de Tours;60 rue du Plat d'Etain_x000D_ - BP 12050;37020;Tours cedex 1;1;1;1;1;1;1;0370800U;0370853B;Université de Tours
+145;334;SCD de l'Université de Technologie de Troyes;12 rue Marie CURIE_x000D_ - CS 42060;10004;TROYES Cedex;1;1;1;1;1;1;0101060Y;0101082X;Université de technologie de Troyes
+146;339;SCD de l'Université polytechnique des Hauts-de-France;Le Mont Houy;59313;Valenciennes cedex 9;1;1;1;1;1;1;0593279U;0595346R;
+147;341;SCD de l'Université de Versailles-Saint-Quentin-en-Yvelines;45 boulevard Vauban;78280;GUYANCOURT;1;1;1;1;1;1;0781944P;0783398V;Université de Versailles Saint-Quentin-en-Yvelines
+148;342;SCD de l'Université de Guyane;Campus de Troubiran_x000D_ - BP 21179;97346;Cayenne Cedex;0;0;1;1;1;1;9730429D;9730482L;Université de Guyane
+149;343;Grand équipement documentaire du Campus Condorcet;20 avenue George Sand;93210;Saint-Denis La Plaine;0;0;0;1;1;1;0932560C;;Campus Condorcet
+150;344;SCD de la Communauté d'universités et établissements Lille-Nord-de-France;365 BIS RUE JULES GUESDE;59658;VILLEUNEUVE D'ASCQ;0;0;0;1;1;1;0596870X;;
+151;345;SICD de l'Université Grenoble Alpes et INPG;1130 avenue centrale;38400;Saint Martin d'Hères;0;0;0;1;1;1;0383493R;0383505D;
+152;346;SCD de l'Université des Antilles;Campus de Schœlcher - BP 7210;97275;Schœlcher Cedex;0;0;1;1;1;1;9710585J;9720434P;Université des Antilles
+153;347;SCD de l'Université de Lille;Cité scientifique;59650;Villeneuve d'ascq;0;0;0;0;0;1;0597065J;0595785T;Université de Lille
+154;348;SCD de Sorbonne Université;4 place Jussieu;75005;Paris;0;0;0;0;0;1;0755890V;0752737T;Sorbonne Université

@@ -1,0 +1,97 @@
+"Niveau 1
+(Formulaire)";"Niveau 2
+(Groupe)";"Niveau 3
+(sous-groupe)";"Niveau 4
+(sous-sous-groupe)";Nouveau Code;Ancien Code;Code Donnée Indicateurs Européens (DXX);Libellé de la donnée (FR);Libellé de la donnée (EN);Texte explicatif de la donnée (FR);Texte explicatif de la donnée (EN);Consigne de saisie MESRI existante;Donnée de l'année N-1 proposée par défaut O/N;Donnée à saisir ou calculée;Formule de calcul;Type de saisie;Champ actif pour 2018;report N >> N+1;Variable 2013;Variable 2014;Variable 2015;Variable 2016;Variable 2017;Variable 2018;Variable 2019;Format de la donnée (texte, nombre, monétaire €, binaire);Unité de mesure de la donnée si format nombre ;Période ou date de la mesure (année civile, au 31/12);Valeur Min;Valeur Max => ;Alerte BL/NBL sur valeur max;Texte de l'alerte;% Evolution Max (alerte NBL);Granularité;Remarque
+Etablissement - Informations générales;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ETAB;
+;;;;ETAB_NOMOFFI;nouveau;;Nom Etab officiel;;Nom officiel de l'établissement;Official name of the institution;Non;O;Saisie;;Libre;SO;O;SO;SO;SO;SO;SO;SO;SO;Texte;;;;;;;;ETAB;reprise d'historique IG1 selon les cas
+;;;;ETAB_NOMUSAGE;nouveau;;Nom Etab Usage;;Nom d'usage de l'établissement;Common name of the institution;Non;O;Saisie;;Libre;SO;O;SO;SO;SO;SO;SO;SO;SO;Texte;;;;;;;;ETAB;
+;;;;ETAB_SIGLE;nouveau;;Sigle établissement;;Sigle de l'établissement;Acronym;Non;O;Saisie;;Libre;SO;;SO;SO;SO;SO;SO;SO;SO;Texte;;;;;;;;ETAB;
+;;;;ETAB_MARQUE;nouveau;;Marque établissement;;Marque de l'établissement;Brand / Label ?;Non;O;Saisie;;Libre;SO;;SO;SO;SO;SO;SO;SO;SO;Texte;;;;;;;;ETAB;
+;;;;ETAB_ADRESSE;nouveau;;Adresse Etab;;Adresse de l'établissement;Institutional adress;Non;O;Saisie;;Libre;SO;O;SO;SO;SO;SO;SO;SO;SO;Texte;;;;;;;;ETAB;reprise d'historique IG2 selon les cas
+;;;;ETAB_CP;nouveau;;Code postal Etab;;Code postal de l'établissement;Postcode;Non;O;Saisie;;Libre;SO;O;SO;SO;SO;SO;SO;SO;SO;Texte;;;;;;;;ETAB;reprise d'historique IG3 selon les cas
+;;;;ETAB_VILLE;nouveau;;Ville Etab;;Ville de l'établissement;City;Non;O;Saisie;;Libre;SO;O;SO;SO;SO;SO;SO;SO;SO;Texte;;;;;;;;ETAB;reprise d'historique IG4 selon les cas
+;;;;ETAB_GPS;nouveau;;Coord GPS Etab;;Coordonnées GPS de l'établissement;GPS coordinates;Non;O;Saisie;;Libre;SO;;SO;SO;SO;SO;SO;SO;SO;Texte;;;;;;;;ETAB;
+;;;;ETAB_SITEWEB;nouveau;;Site Web Etab;;Site Web de l'établissement;Website;Non;O;Saisie;;Libre;SO;O;SO;SO;SO;SO;SO;SO;SO;Texte;;;;;;;;ETAB;reprise d'historique IG5 selon les cas
+;;;;ETAB_TYPE;nouveau;;Type Etab;;Type d'établissement;type of facility/type of institution ?;Non;O;Saisie;;Liste non modifiable  choix unique;SO;;SO;SO;SO;SO;SO;SO;SO;Texte;;;;;;;;ETAB;liste : 
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Etablissement - Données annuelles (extérieures à l'enquête);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ETAB;
+;;;;ETAB_UAI;nouveau;;Code UAI Etab;;Code UAI de l'établissement;UAI code of the institution;Non;O;Saisie;;Libre;;;;;;;;;;Texte;;;;;;;;ETAB;
+;;;;ETAB_SISE_L;nouveau;;Etudiants L N-1/N;;Nombre d'étudiants inscrits en niveau licence dans l'établissement pour l'année universitaire N-1/N;Number of undergraduate students enrolled in the institution for the academic year N-1/N;Non;N;Saisie;;Libre;;;;;;;;;;entier;inscriptions principales;année universitaire N-1/N;;;;;10%;ETAB;Données SISE à intégrer par administrateur
+;;;;ETAB_SISE_M;nouveau;;Etudiants M N-1/N;;Nombre d'étudiants inscrits en niveau master dans l'établissement pour l'année universitaire N-1/N;Number of students enrolled at master's level in the institution for the academic year N-1/N;Non;N;Saisie;;Libre;;;;;;;;;;entier;inscriptions principales;année universitaire N-1/N;;;;;10%;ETAB;Données SISE à intégrer par administrateur
+;;;;ETAB_SISE_D;nouveau;;Etudiants D N-1/N;;Nombre d'étudiants inscrits en niveau doctorat dans l'établissement pour l'année universitaire N-1/N;Number of doctoral students enrolled in the institution for the academic year N-1/N;Non;N;Saisie;;Libre;;;;;;;;;;entier;inscriptions principales;année universitaire N-1/N;;;;;10%;ETAB;Données SISE à intégrer par administrateur
+;;;;ETAB_SISE_TOT;nouveau;;Total Etudiants;;Nombre total d'étudiants inscrits dans l'établissement pour l'année universitaire N-1/N;Total number of students enrolled in the institution for the academic year N-1/N;SO;N;Calculée;ETAB_SISE_L + ETAB_SISE_M + ETAB_EC_AUT;Non;SO;;;;;;;;;entier;inscriptions principales;année universitaire N-1/N;;;;;;ETAB;
+;;;;ETAB_EC_TIT;nouveau;;EC Etab titulaires N-1/N;;Nombre d'enseignants chercheurs titulaires de l'établissement pour l'année N-1/N;Number of permanent teachers with tenure ??? in the institution for the academic year N-1/N;Non;N;Saisie;;Libre;SO;;;;;;;;;entier;;année universitaire N-1/N;;;;;10%;ETAB;Données DGRH à intégrer par administrateur
+;;;;ETAB_EC_NTIT;nouveau;;EC Etab non-titulaires N-1/N;;Nombre d'enseignants chercheurs non-titulaires de l'établissement pour l'année N-1/N;Number of permanent teachers without tenure ? In the institution for the academic year N-1/N;Non;N;Saisie;;Libre;SO;;;;;;;;;entier;;année universitaire N-1/N;;;;;10%;ETAB;Données DGRH à intégrer par administrateur
+;;;;ETAB_EC_AUT;nouveau;;Autres Enseignants;;Nombre d'autres enseignants de l'établissement pour l'année N-1/N (EC non titulaires, enseignants du second degré …);Number of other teachers in the institution for the year N-1/N (non-tenured teachers, secondary school teachers ...);Non;n;Saisie;;Libre;SO;;;;;;;;;entier;;année universitaire N-1/N;;;;;10%;ETAB;Données DGRH à intégrer par administrateur
+;;;;ETAB_EC_TOT;nouveau;;Total enseignants;;;;SO;n;Calculée;ETAB_EC_TIT + ETAB_EC_NTIT + ETAB_DEPDOCTOT;;;;;;;;;;;entier;;;;;;;;ETAB;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Etablissement - Données annuelles (internes à l'enquête);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ETAB;
+;;;;ETAB_DEPDOCTOT;Budg16;;Depenses doc totales etab;;Dépenses documantaires totales de l'établissement;;Oui;N;Saisie;;Libre;O;;;;;;;;;dec2;€;année civile;;;;;40%;ETAB;"Saisie par la structure documentaire
+Consigne à précisier pour cas complexes"
+;;;;ETAB_BUDGTOT;nouveau;;Budget établissement;;Budget total de l'établissement;Total budget of the institution;Non;N;Saisie;;Libre;SO;;;;;;;;;dec2;€;année civile;;;;;40%;ETAB;Variable à créer et à mettre en attente - modaltés de saisie à définir
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Structure documentaire - Informations générales;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;SD;
+;;;;SD_NOMOFFI;nouveau;;Nom SD officiel;;Nom officiel de la structure documentaire;Official name of Library Service;Non;O;Saisie;;Libre;SO;;;;;;;;;Texte;;;;;;;;SD;reprise d'historique IG1 selon les cas
+;;;;SD_NOMUSAGE;nouveau;;Nom SD Usage;;Nom d'usage de la structure documentaire;common Name of Library service;Non;O;Saisie;;Libre;SO;;;;;;;;;Texte;;;;;;;;SD;
+;;;;SD_SIGLE;nouveau;;Sigle SD ;;Sigle de la structure documentaire;acronym of Library service;Non;O;Saisie;;Libre;SO;;;;;;;;;Texte;;;;;;;;SD;
+;;;;SD_MARQUE;nouveau;;Marque SD;;Marque de la structure documentaire;Brand / Label ? of Library service;Non;O;Saisie;;Libre;SO;;;;;;;;;Texte;;;;;;;;SD;
+;;;;SD_ADRESSE;nouveau;;Adresse SD;;Adresse de la structure documentaire;Insitutionnal adress;Non;O;Saisie;;Libre;SO;;;;;;;;;Texte;;;;;;;;SD;reprise d'historique IG2 selon les cas
+;;;;SD_CP;nouveau;;Code postal SD;;Code postal de la structure documentaire;Postcode of Library service;Non;O;Saisie;;Libre;SO;;;;;;;;;Texte;;;;;;;;SD;reprise d'historique IG3 selon les cas
+;;;;SD_VILLE;nouveau;;Ville SD;;Ville de la structure documentaire;City of Library service;Non;O;Saisie;;Libre;SO;;;;;;;;;Texte;;;;;;;;SD;reprise d'historique IG4 selon les cas
+;;;;SD_SITEWEB;nouveau;;Site Web SD;;Site Web de la structure documentaire;Website of Library Service;Non;O;Saisie;;Libre;SO;;;;;;;;;Texte;;;;;;;;SD;reprise d'historique IG5 selon les cas
+;;;;SD_TYPE;nouveau;;Type ;;Type de la structure documentaire;Type of Library Service;Non;O;Saisie;;Libre;SO;;;;;;;;;Texte;;;;;;;;SD;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Structure documentaire - Données annuelles;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;SD;
+;;;;SD_UAI;nouveau;;Code UAI SD;;Code UAI de la structure documentaire;UAI code;Non;O;Saisie;;Libre;SO;;;;;;;;;Texte;;;;;;;;SD;
+;;;;SD_ILN;nouveau;;ILN;;ILN - Internal library number;International library number (ILN);Non;O;Saisie;;Libre;SO;;;;;;;;;Texte;;;;;;;;SD;
+;;;;SD_RCR;nouveau;;numéro(s) RCR;;numéro(s) du RCR (répertoire des centres de ressources) non attribué(s) à une bibliothèque physique;RCR (Resource Centre Directory) number(s) not assigned to a physical library;Non;O;Saisie;;Libre;SO;;;;;;;;;Texte (chiffres uniquement);;;;;;;;SD;"si plusieurs RCR, saisie à la suite séparée par point virgule
+Wikipédia : L'identifiant RCR se compose de 9 chiffres (les 2 premiers chiffres correspondent au numéro du département, les 3 suivants au code Insee de la commune, les 2 suivants au type de bibliothèque, et les 2 derniers au numéro séquentiel)"
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Utilisateurs (Mise à jour à venir);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;nouveau;;;;;;;;Auto;;;;;;;;;;;;;;;;;;;;;
+;;;;;nouveau;;;;;;;;Saisie;;Liste non modifiable;;;;;;;;;;;;;;;;;;;
+;;;;;IG6;;;;;;;O;Saisie;;;O;O;;;;;;;;Texte;;;;;;;;;
+;;;;;IG7;;;;;;;O;Saisie;;;O;O;;;;;;;;Texte;;;;;;;;;
+;;;;;IG8;;;;;;;O;Saisie;;;O;O;;;;;;;;Texte;;;;;;;;;
+;;;;;IG9;;;;;;;O;Saisie;;;O;O;;;;;;;;Texte;;;;;;;;;
+;;;;;nouveau;;;;;;;O;Saisie;;Liste non modifiable (choix multiple ?);;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"Niveau 1
+(Formulaire)";"Niveau 2
+(Groupe)";"Niveau 3
+(sous-groupe)";"Niveau 4
+(sous-sous-groupe)";Nouveau Code;Ancien Code;Code Donnée Indicateurs Européens (DXX);Libellé de la donnée (FR);Libellé de la donnée (EN);Texte explicatif de la donnée (FR);Texte explicatif de la donnée (EN);Consigne de saisie MESRI existante;Donnée de l'année N-1 proposée par défaut O/N;Donnée à saisir ou calculée;Formule de calcul;Type de saisie;Champ actif pour 2018;;Variable 2013;Variable 2014;Variable 2015;Variable 2016;Variable 2017;Variable 2018;Variable 2019;Format de la donnée (texte, nombre, monétaire €, binaire);Unité de mesure de la donnée si format nombre ;Période ou date de la mesure (année civile, au 31/12);Valeur Min;Valeur Max => ;Alerte BL/NBL sur valeur max;Texte de l'alerte;% Evolution Max (alerte NBL);Granularité;Remarque / question
+Moyens;;;;;;;;;;;Oui;;Titre N1;;Non;O;;;;;;;;;Intitulé;;;;;;;;Ensemble;
+;;;;MOY_UNITE;Budg1;;Montants HT, TTC, HTR;;Indiquez si les montants sont notés HT, TTC ou HTR;Indicate whether the amounts are noted exclusive of tax, inclusive of tax or HTR.;Oui;N;Saisie;;Liste non modifiable  choix unique;O;N;VRAI;VRAI;VRAI;VRAI;VRAI;VRAI;VRAI;Texte;;année civile;;;;;;Ensemble;"valeur par défaut à NULL ?
+pourait être remplacée par boutons radio"
+;ressources humaines;;;;;;;;;;Non;;Titre N2;;Non;O;;;;;;;;;Intitulé;;;;;;;;Ensemble;
+;;;;MOY_ETPT;Budg2;;ETPT consommés;full time equivalents worked;Nombre d'ETPT consommés;Number of full time equivalents worked;Oui;N;Saisie;;libre;O;N;VRAI;VRAI;VRAI;VRAI;VRAI;VRAI;VRAI;dec2;ETPT;année civile;0;1 000;N-Bl;;20%;Ensemble;
+;recettes;;;;;;;;;;Oui;;Titre N2;;Non;O;;;;;;;;;Intitulé;;;;;;;;Ensemble;
+;;;;MOY_R_DROITSBIB;Budg3;;Droits bibliothèque;Library fees;Droits de bibliothèque perçus;Library fees collected;Oui;N;Saisie;;libre;O;N;VRAI;VRAI;VRAI;VRAI;VRAI;VRAI;VRAI;dec2;€;année civile;0;5 000 000;N-Bl;;40%;Ensemble;
+;;;;MOY_R_TUTELLE;Budg4;;Dotations établissement;Institutional allocations ??;Dotations attribuées par l'établissement sur les moyens du ministère de tutelle;Allocations made by the institution out of the resources of the supervisory ministry;Oui;N;Saisie;;libre;O;N;VRAI;VRAI;VRAI;VRAI;VRAI;VRAI;VRAI;dec2;€;année civile;0;10 000 000;N-Bl;;40%;Ensemble;
+;;;;MOY_R_COLLTERR;Budg5;;Subventions Coll. Terr;Subsidies ???;Subventions des collectivités territoriales;Subsidies from local and regional authorities;Oui;N;Saisie;;libre;O;N;VRAI;VRAI;VRAI;VRAI;VRAI;VRAI;VRAI;dec2;€;année civile;0;2 000 000;N-Bl;;40%;Ensemble;
+;;;;MOY_R_AUTREMIN;Budg6;;Dotations autres ministères;Allocations ???;Dotations en provenance d'autres ministères;Allocations from other governement departments;Oui;N;Saisie;;libre;O;N;VRAI;VRAI;VRAI;VRAI;VRAI;VRAI;VRAI;dec2;€;année civile;0;2 000 000;N-Bl;;40%;Ensemble;
+;;;;MOY_R_RESSPROP;Budg7;;Ressources propres;Own resources;Ressources propres;Own resources;Oui;N;Saisie;;libre;O;N;VRAI;VRAI;VRAI;VRAI;VRAI;VRAI;VRAI;dec2;€;année civile;0;5 000 000;N-Bl;;40%;Ensemble;
+;;;;MOY_R_AUTRES;Budg8;;Autres recettes;Other resources;Autres recettes;Other resources ;Oui;N;Saisie;;libre;O;N;VRAI;VRAI;VRAI;VRAI;VRAI;VRAI;VRAI;dec2;€;année civile;0;10 000 000;N-Bl;;40%;Ensemble;
+;;;;MOY_R_TOT;nouveau;;Total recttes hors MS;Total revenues excluding payroll;Total des recettes hors masse salatiale;Total revenues excluding payroll;SO;N;Calculée;MOY_R_DROITSBIB + MOY_R_TUTELLE + MOY_R_COLLTERR + MOY_R_AUTREMIN + MOY_R_RESSPROP + MOY_R_AUTRES;Non;O;N;VRAI;VRAI;VRAI;VRAI;VRAI;VRAI;VRAI;dec2;€;année civile;;;;;20%;Ensemble;
+;;;;MOY_RMS_TOT;nouveau;;Total recttes avec MS;Total revenues including payroll;Total des recettes avec masse salatiale;Total revenues including payroll;SO;N;Calculée;MOY_R_DROITSBIB + MOY_R_TUTELLE + MOY_R_COLLTERR + MOY_R_AUTREMIN + MOY_R_RESSPROP + MOY_R_AUTRES + MOY_D_MSTIT + MOY_D_MSNONTIT + MOY_D_MSAUTRE;Non;O;N;VRAI;VRAI;VRAI;VRAI;VRAI;VRAI;VRAI;dec2;€;année civile;;;;;20%;Ensemble;
+;dépenses;;;;;;;;;;Non;;Titre N2;;Non;O;;;;;;;;;Intitulé;;;;;;;;Ensemble;
+;;masse salariale;;;;;;;;;Non;;Titre N3;;Non;N;;;;;;;;;Intitulé;;;;;;;;Ensemble;
+;;;;MOY_D_MSTIT;Budg9;;MS titulaires;Payroll of statutory staff ??;Masse salariale personnels titulaires;Payroll of statutory staff ? ;Oui;N;Saisie;;libre;O;N;VRAI;VRAI;VRAI;VRAI;VRAI;VRAI;VRAI;dec2;€;année civile;0;20 000 000;N-Bl;;20%;Ensemble;
+;;;;MOY_D_MSNONTIT;Budg10;;MS non-titulaies;Payroll of casual staff ???;Masse salariale personnels non titulaires (contractuels, vacataires...);Non-tenured personal payroll (contract workers, temporary workers, etc.);Oui;N;Saisie;;libre;O;N;VRAI;VRAI;VRAI;VRAI;VRAI;VRAI;VRAI;dec2;€;année civile;0;5 000 000;N-Bl;;20%;Ensemble;
+;;;;MOY_D_MSAUTRE;Budg17;;Autre MS;Other payroll;Autre masse salariale (subventions, dotations spécifiques);Other payroll (subsidies, specific allocations);Oui;N;Saisie;;libre;O;N;FAUX;FAUX;VRAI;VRAI;VRAI;VRAI;VRAI;dec2;€;année civile;0;2 000 000;N-Bl;;20%;Ensemble;Variable créée en 2015 - absente en 2013 et 2014 - les formules de calcul tiennent compte de cette variable et pourraient renvoyer une erreur pour 2013 et 2014
+;;;;MOY_D_MS_TOT;nouveau;;Total MS;Total payroll;Total de la masse salariale;Total payroll;SO;;Calculée;MOY_D_MSTIT + MOY_D_MSNONTIT + MOY_D_MSAUTRE;Non;O;N;;;;;;;;dec2;€;année civile;;;;;20%;Ensemble;
+;;autres dépenses;;;;;;;;;Non;;Titre N3;;Non;N;;;;;;;;;Intitulé;;;;;;;;Ensemble;
+;;;;MOY_D_DEPDOC;Budg11;;Dépenses documentaires;Documentary expenditures;Dépenses documentaires;Documentary expenditures;Oui;N;Saisie;;libre;O;N;VRAI;VRAI;VRAI;VRAI;VRAI;VRAI;VRAI;dec2;€;année civile;0;10 000 000;N-Bl;;20%;Ensemble;
+;;;;MOY_D_MAINTENANCE;Budg12;;Maintenance et fluides;Maintenance and fluids;Maintenance et fluides;Maintenance and fluids;Oui;N;Saisie;;libre;O;N;VRAI;VRAI;VRAI;VRAI;VRAI;VRAI;VRAI;dec2;€;année civile;0;5 000 000;N-Bl;;20%;Ensemble;
+;;;;MOY_D_AUTFONCT;Budg13;;Autres dépenses de fonctionnement;Other operating expenditures;Autres dépenses de fonctionnement;Other operating expenditures;Oui;N;Saisie;;libre;O;N;VRAI;VRAI;VRAI;VRAI;VRAI;VRAI;VRAI;dec2;€;année civile;0;5 000 000;N-Bl;;20%;Ensemble;
+;;;;MOY_D_INV;Budg14;;Dépenses d'investissement;Investment expenditures;Dépenses d'investissement;Investment expenditures;Oui;N;Saisie;;libre;O;N;VRAI;VRAI;VRAI;VRAI;VRAI;VRAI;VRAI;dec2;€;année civile;0;5 000 000;N-Bl;;20%;Ensemble;
+;;;;MOY_D_NCA;Budg15;;Dépenses NCA ou NV;expenditures not allocated or counted elsewhere;Dépenses non comptées ailleurs ou non ventilées;expenditures not allocated or counted elsewhere;Oui;N;Saisie;;libre;O;N;VRAI;VRAI;VRAI;VRAI;VRAI;VRAI;VRAI;dec2;€;année civile;0;5 000 000;N-Bl;;20%;Ensemble;
+;;;;MOY_D_AUT_TOT;nouveau;;Total autres dépenses;Other expenditures - Total;Total des autres dépenses;Other expenditures - Total;SO;;Calculée;MOY_D_DEPDOC + MOY_D_MAINTENANCE + MOY_D_AUTFONCT + MOY_D_INV + MOY_D_NCA;Non;N;N;;;;;;;;dec2;€;année civile;;;;;20%;Ensemble;
+;;;;MOY_D_TOT;nouveau;;Total dépenses SD;Expenditures of Library service - Total;Total des dépenses du service documentaire;Expenditures of Library service - Total;SO;;Calculée;MOY_D_MSTIT + MOY_D_MSNONTIT + MOY_D_MSAUTRE + MOY_D_DEPDOC + MOY_D_MAINTENANCE + MOY_D_AUTFONCT + MOY_D_INV + MOY_D_NCA;Non;O;N;;;;;;;;dec2;€;année civile;;;;;20%;Ensemble;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

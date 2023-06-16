@@ -1,0 +1,34 @@
+security:
+    # https://symfony.com/doc/current/security.html#where-do-users-come-from-user-providers
+    providers:
+        users:
+            entity:
+                class: App\Entity\Users
+
+    firewalls:
+        dev:
+            pattern: ^/(_(profiler|wdt)|css|images|js)/
+            security: false
+        main:
+            #security: false
+            #pattern: (?!/users/authent-failure|/doc|/doc.json)
+            pattern: ^/(?!users/authent-failure|public)
+            #methods: [POST, PUT, PATCH]
+            logout:
+                path: /logout
+                success_handler: App\Security\ShibbolethAuthenticator
+            guard:
+                authenticators:
+                    - App\Security\ShibbolethAuthenticator
+
+            # activate different ways to authenticate
+            # https://symfony.com/doc/current/security.html#firewalls-authentication
+
+            # https://symfony.com/doc/current/security/impersonating_user.html
+            # switch_user: true
+
+    # Easy way to control access for large sections of your site
+    # Note: Only the *first* access control that matches will be used
+    access_control:
+        # - { path: ^/establishments }
+        # - { path: ^/, roles: ROLE_NO_ACCESS }

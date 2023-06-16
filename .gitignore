@@ -1,0 +1,57 @@
+###> symfony/framework-bundle ###
+/.env.local
+/.env.local.php
+/.env.*.local
+/config/secrets/prod/prod.decrypt.private.php
+/public/bundles/
+/var/
+/vendor/
+###< symfony/framework-bundle ###
+
+# PHPStorm files
+
+.idea
+
+# Netbeans files
+
+/nbproject
+
+# Database export
+
+database_export.info
+database.export
+database_export
+database_export.lock
+mapping_*.json
+documentarystructures.json
+institutions.json
+physicallibraries.json
+esgbu_mapping_*.json
+esgbu_documentarystructures.json
+esgbu_institutions.json
+esgbu_physicallibraries.json
+
+# Editorial files
+
+public/editorial_files
+
+# Editable route files
+
+public/routes_files
+
+# Database table export files
+
+public/table_export
+
+# pdf export
+
+public/pdf_export
+
+# Others
+
+/updates.db
+Mercure/mercure.db
+
+###> symfony/web-server-bundle ###
+/.web-server-pid
+###< symfony/web-server-bundle ###

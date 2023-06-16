@@ -1,0 +1,70 @@
+.machine: &sandbox53
+  tags:
+    - esgbu
+
+variables:
+  GIT_STRATEGY: clone
+
+stages:
+  - update_sandbox_stage
+
+update_sandbox:
+  stage: update_sandbox_stage
+  <<: *sandbox53
+  script:
+    # Create env file
+    # MySQL Database
+    - echo "DATABASE_URL=mysql://esgbu:esgbu@localhost:3306/esgbu?serverVersion=5.7" >> .env.local
+      # Application url
+    - echo "API_URL=https://sandbox53.cines.fr/api" >> .env.local
+    - echo "APP_URL=https://sandbox53.cines.fr" >> .env.local
+      # Mail server
+    - echo "MAILER_DSN=smtp://localhost" >> .env.local
+    - echo "MAIL_SENDER=noreply@cines.fr" >> .env.local
+      # Mercure
+    - echo "MERCURE_PUBLISH_URL=http://localhost:3000/.well-known/mercure" >> .env.local
+    - echo "MERCURE_URL=http://localhost:3000/.well-known/mercure" >> .env.local
+    - echo "MERCURE_JWT_TOKEN=2220a97d797e6a1c75ca6e5dc565024c9e002b6a554dd8af6ecd63fd6aac97dddbb07aa3013ed58933333" >> .env.local
+    - echo "MERCURE_JWT_SECRET=d8748cf49e685ca50a97d797e6a1c75ca6e5dc565024c9e002b6a554dd8af6ecd63fd6aac97dddbb07aa3013ed589794ba63" >> .env.local
+      # Elasticsearch
+    - echo "ELASTICSEARCH_URL=https://sandbox53.cines.fr:9200" >> .env.local
+    - echo "ELASTICSEARCH_USERNAME_ADMIN=adminesgbu" >> .env.local
+    - echo "ELASTICSEARCH_USERNAME_ADMIN=adminesgbu" >> .env.local
+    - echo "ELASTICSEARCH_PASSWORD_ADMIN=123456" >> .env.local
+    - echo "ELASTICSEARCH_USERNAME_CLIENT=clientesgbu" >> .env.local
+    - echo "ELASTICSEARCH_PASSWORD_CLIENT=123456" >> .env.local
+      # Pdflatex binary (version >= TexLive 2020)
+    - echo "PDFLATEX_PATH=/home/maeder/.textlive/2021/bin/x86_64-linux/pdflatex" >> .env.local
+      # Symfony env/debug parameters
+    - echo "DEV_USER_ID=0" >> .env.local
+    - echo "APP_ENV=dev" >> .env.local
+    - echo "APP_DEBUG=1" >> .env.local
+
+    # Stop Mercure
+    - sudo env SERVER_NAME=:3000 MERCURE_PUBLISHER_JWT_KEY='d8748cf49e685ca50a97d797e6a1c75ca6e5dc565024c9e002b6a554dd8af6ecd63fd6aac97dddbb07aa3013ed589794ba63' MERCURE_SUBSCRIBER_JWT_KEY='2220a97d797e6a1c75ca6e5dc565024c9e002b6a554dd8af6ecd63fd6aac97dddbb07aa3013ed58933333' /var/www/html/sandbox53.cines.fr/api/Mercure/mercure stop || true
+
+    # Copy files
+    - sudo rm -rf /var/www/html/sandbox53.cines.fr/api
+    - sudo mkdir /var/www/html/sandbox53.cines.fr/api
+    - sudo cp -r {bin,config,Mercure,public,sql,src,templates,.env,application.php,composer.json,composer.lock,composer.phar,.env.local} /var/www/html/sandbox53.cines.fr/api
+
+    # Set rights for apache
+    - sudo chown -R apache:apache /var/www/html/sandbox53.cines.fr/api
+
+    # Install dependencies
+    - sudo setfacl -m g:gitlab-runner:r-x /var/www/html/sandbox53.cines.fr/api
+    - cd /var/www/html/sandbox53.cines.fr/api
+    - sudo -u apache ./composer.phar install
+    - sudo -u apache bin/console cache:clear
+
+    # Update database
+    - mysql -u esgbu -pesgbu -D esgbu < sql/esgbu-dump.sql
+    #- sudo -u apache bin/console app:database-export --force
+
+    # Run mercure
+    - cd Mercure
+    - sudo env SERVER_NAME=:3000 MERCURE_PUBLISHER_JWT_KEY='d8748cf49e685ca50a97d797e6a1c75ca6e5dc565024c9e002b6a554dd8af6ecd63fd6aac97dddbb07aa3013ed589794ba63' MERCURE_SUBSCRIBER_JWT_KEY='2220a97d797e6a1c75ca6e5dc565024c9e002b6a554dd8af6ecd63fd6aac97dddbb07aa3013ed58933333' ./mercure start -config Caddyfile.dev & disown
+    
+    # Restart daemons
+    - sudo systemctl restart httpd
+    - sudo systemctl restart shibd

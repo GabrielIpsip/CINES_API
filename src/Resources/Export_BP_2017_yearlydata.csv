@@ -1,0 +1,1150 @@
+ID_BP;ID_SD;BibNom;BibType;BibRCR;BibDroit;BibEco;BibLSH;BibScStaps;BibSante;BibAut;BibPubVisé;BibDepDoc;BibETP;BibEntrees;BibSurfaceTot;BibSurfacePub;BibPlacesTot;BibPlacesGroup;BibSemHeures;BibSamJ;BibSamH;BibDimJ;BibDimH;BibAnneeH;BibAnneeJ;BibML;BibPrets;BibConsult;BibComIndirect;BibPretMatos;UAI_Old;NUMUn;UAI_2018;Ident_FMu;Nom interne
+206;32;Bibliothèque Bourget LAMA;associée;;0;0;0;1;0;0;recherche;;;;15;;;;;;;;;;;24;;;;;0731137P;UN12;0731137P;71;CHAMBERY
+207;32;Bibliothèque Bourget POLYTECH LOCIE;associée;;0;0;0;1;0;0;recherche;;;;0;;0;;;;;;;;;7;;;;;0731137P;UN13;0731137P;71;CHAMBERY
+208;33;BU IUT Aurillac;autre;;1;1;1;1;0;0;étudiant;;2;26965;376;350;113;12;46,5;;;;;1929,5;217;145;1466;0;0;84;0631005A;Un00;0631005A;74;CLERMONT-FERRAND (CF1 + CF2 puis fusion au 1-1-2017)
+209;33;Administration + Direction;autre;;0;0;0;0;0;1;mixte;0;9;0;0;0;0;0;0;;;;;0;0;0;0;0;0;0;0631005A;Un01;0631005A;74;CLERMONT-FERRAND (CF1 + CF2 puis fusion au 1-1-2017)
+210;33;BU droit et sciences économiques;autre;;1;1;0;0;0;0;mixte;;16,8;220737;2500;1350;340;0;71;;;;;2783;247;4434;28874;0;1197;56;0631005A;Un02;0631005A;74;CLERMONT-FERRAND (CF1 + CF2 puis fusion au 1-1-2017)
+211;33;BU Lettres Carnot;autre;;0;0;1;0;0;0;mixte;;1;3659;553;60;34;0;35;;;;;1050;150;1575;3659;0;1101;0;0631005A;UN03;0631005A;74;CLERMONT-FERRAND (CF1 + CF2 puis fusion au 1-1-2017)
+212;33;BU IUT Montluçon;autre;;0;0;0;1;0;0;étudiant;0;2;0;263;230;75;0;47,5;;;;;1841;198;364;1083;0;0;5;0631005A;Un04;0631005A;74;CLERMONT-FERRAND (CF1 + CF2 puis fusion au 1-1-2017)
+213;33;BU LSH Gergovia;autre;;0;0;1;0;0;0;étudiant;;9;183141;1110;880;220;10;72;;;;;2868;242;1369;26921;0;474;0;0631005A;Un05;0631005A;74;CLERMONT-FERRAND (CF1 + CF2 puis fusion au 1-1-2017)
+214;33;BU LSH Lafayette;autre;;0;0;1;0;0;0;mixte;;20,7;82662;3757;400;220;0;52,5;;;;;2203,5;218;9964;23539;0;4181;0;0631005A;Un06;0631005A;74;CLERMONT-FERRAND (CF1 + CF2 puis fusion au 1-1-2017)
+215;33;BU santé - odontologie;autre;;0;0;0;0;1;0;mixte;;1;8646;180;180;54;15;39,5;;;;;1563,5;202;85;1025;0;0;0;0631005A;Un07;0631005A;74;CLERMONT-FERRAND (CF1 + CF2 puis fusion au 1-1-2017)
+216;33;BU santé;autre;;0;0;0;0;1;0;mixte;;15,85;333701;2337;1177;380;14;77,5;;;;;3129,5;237;2979;11226;7864;185;223;0631005A;Un08;0631005A;74;CLERMONT-FERRAND (CF1 + CF2 puis fusion au 1-1-2017)
+217;33;BU sciences et techniques;autre;;0;0;0;1;0;0;mixte;;16,9;213262;5850;2800;669;97;63;;;;;2836;232;4054;24129;16000;0;1304;0631005A;Un09;0631005A;74;CLERMONT-FERRAND (CF1 + CF2 puis fusion au 1-1-2017)
+218;33;BU ESPE Chamalières;autre;;1;1;1;1;1;1;étudiant;;4;48303;885;800;94;8;48;;;;;1872;202;815;17831;2385;0;3;0631005A;UN10;0631005A;74;CLERMONT-FERRAND (CF1 + CF2 puis fusion au 1-1-2017)
+220;33;Bibliothèque Numérique;autre;;0;0;0;0;0;1;mixte;;9,35;0;175;0;0;0;0;;;;;0;0;0;0;0;0;0;0631005A;UN12;0631005A;74;CLERMONT-FERRAND (CF1 + CF2 puis fusion au 1-1-2017)
+221;33;BU ESPE-IUT Moulins;autre;;0;0;1;0;0;0;étudiant;;0;11124;385;282;60;38;38;;;;;1444;188;742;4087;0;0;2;0631005A;UN13;0631005A;74;CLERMONT-FERRAND (CF1 + CF2 puis fusion au 1-1-2017)
+222;33;BU droit et sciences économiques - Rotonde;autre;;1;1;0;0;0;0;étudiant;0;0;8949;165;160;60;12;40;;;;;856;107;0;0;0;0;3;0631005A;UN14;0631005A;74;CLERMONT-FERRAND (CF1 + CF2 puis fusion au 1-1-2017)
+223;33;BU Le Puy;autre;;0;0;1;1;0;0;mixte;;1;0;270;270;28;;46;;;;;1934,5;212;;663;0;0;1;0631005A;UN16;0631005A;74;CLERMONT-FERRAND (CF1 + CF2 puis fusion au 1-1-2017)
+224;33;Bibliothèque du CERDI;associée;;0;1;0;0;0;0;recherche;21000;1,4;0;165;112;48;0;55;;;;;2640;181;700;0;0;0;0;0631005A;UN17;0631005A;74;CLERMONT-FERRAND (CF1 + CF2 puis fusion au 1-1-2017)
+225;33;BU Lettres Gergovia niveau 2 (ex-BUFR);autre;;0;0;1;0;0;0;mixte;;2,8;21489;888;850;116;0;39;;;;;1187;159;2314;3573;0;0;0;0631005A;UN23;0631005A;74;CLERMONT-FERRAND (CF1 + CF2 puis fusion au 1-1-2017)
+226;33;Bibliothèque de Géologie;associée;;0;0;0;1;0;0;recherche;12500;1;65;165;165;15;10;37,5;;;;;0;0;0;0;0;0;0;0631005A;UN26;0631005A;74;CLERMONT-FERRAND (CF1 + CF2 puis fusion au 1-1-2017)
+227;33;Bibliothèque de SIGMA;associée;;0;0;0;1;0;0;mixte;41894;2,7;;;;;;40;;;;;2120;265;;301;0;0;0;0631005A;UN27;0631005A;74;CLERMONT-FERRAND (CF1 + CF2 puis fusion au 1-1-2017)
+228;33;Bibliothèque de Mathématiques et Informatique;associée;;0;0;0;1;0;0;mixte;40300;1;5213;300;60;31;5;40;;;;;0;0;0;2023;0;0;0;0631005A;UN28;0631005A;74;CLERMONT-FERRAND (CF1 + CF2 puis fusion au 1-1-2017)
+229;33;Bibliothèque du département de Physique;associée;;0;0;0;1;0;0;mixte;4050;1;1705;147;130;30;0;35,25;;;;;0;207;286;850;0;0;0;0631005A;UN29;0631005A;74;CLERMONT-FERRAND (CF1 + CF2 puis fusion au 1-1-2017)
+230;33;Pôle Documentaire du Campus agronomique de VetAgro Sup;associée;;0;0;0;1;0;0;mixte;55550;3,5;0;916;732;78;20;58;;;;;0;0;0;1112;0;0;0;0631005A;UN31;0631005A;74;CLERMONT-FERRAND (CF1 + CF2 puis fusion au 1-1-2017)
+231;33;Médiathèque de l'Orangerie;associée;;0;0;1;0;1;1;étudiant;9000;5,4;50000;500;470;130;15;42,5;;;;;2091;246;221;8487;6072;0;0;0631005A;UN32;0631005A;74;CLERMONT-FERRAND (CF1 + CF2 puis fusion au 1-1-2017)
+232;34;Centre de Documentation sur la Formation et le Travail;autre;;0;0;1;0;0;0;recherche;;2;598;160;86;11;0;28;;;;;1260;180;400;380;1500;0;0;0753471R;UN00;;76;CNAM
+233;34;Bibliothèque Conté;autre;;1;0;0;0;0;1;mixte;;3;11132;286;121;40;0;38;;;;;1664;218;88;2298;1618;20;0;0753471R;UN01;;76;CNAM
+234;34;Bibliothèque de l'ESGT;autre;;1;0;0;0;0;1;mixte;;1;8565;222;155;50;0;37,5;;;;;1650;220;102;1036;40;;0;0753471R;UN02;;76;CNAM
+235;34;Bibliothèque Gay-Lussac;autre;;0;0;1;0;0;1;mixte;;3,4;5607;236;85;19;0;38;;;;;1895;228;;7261;1967;914;0;0753471R;UN03;;76;CNAM
+236;34;Bibliothèque centrale;autre;;0;1;0;1;0;1;mixte;;29,3;16675;2430;647;172;12;54;;;;;2246;267;;10526;2299;;;0753471R;UN04;;76;CNAM
+237;34;Centre de documentation du CEET;autre;;1;1;1;0;0;0;recherche;;1;;95;70;14;0;37,5;;;;;1400;200;877;0;;;0;0753471R;UN05;;76;CNAM
+238;35;[Direction des bibliothèques du Collège de France];autre;;1;1;1;1;1;1;mixte;;11,75;;102;;;;;;;;;;;9;50;40;;;0753480A;Un00;;77;COLLEGE DE FRANCE
+239;35;Bibliothèque patrimoniale;autre;;1;1;1;1;1;1;mixte;;6,08;5694;2000;552;33;0;45;;;;;1998;222;1629;1337;1126;211;0;0753480A;UN01;;77;COLLEGE DE FRANCE
+240;35;Bibliothèque byzantine (n°UAI 073480A) et CHCB;autre;;0;0;1;0;0;0;mixte;;3,5;3653;583;308;27;0;45;;;;;1493;212;1360;0;;1366;0;0753480A;UN02;;77;COLLEGE DE FRANCE
+241;35;Bibliothèque des études arabes, turques et islamiques;autre;;0;0;1;0;0;0;mixte;;1,66;633;225;161;24;;25;;;;;850;160;842;0;122;736;0;0753480A;UN03;;77;COLLEGE DE FRANCE
+242;35;Bibliothèque d'égyptologie;autre;;0;0;1;0;0;0;mixte;;3,5;2249;194;93;22;0;45;;;;;2700;223;736;0;5850;20514;0;0753480A;UN04;;77;COLLEGE DE FRANCE
+243;35;Bibliothèques d'assyriologie et d'études Ouest sémitiques;autre;;0;0;1;0;0;1;mixte;;3,5;2429;259;105;21;0;45;;;;;1998;222;833;0;;11917;0;0753480A;UN05;;77;COLLEGE DE FRANCE
+244;35;Pôle Extrême-Orient;autre;;0;0;1;0;0;1;mixte;;2;1109;193;127;26;0;40;;;;;1880;235;271;;;;;0753480A;UN06;;77;COLLEGE DE FRANCE
+245;35;Bibliothèque d'Extrême-Orient_Chine;autre;;0;0;1;1;0;1;mixte;;6,28;;329;;;;;;;;;;;1916;130;50;1071;0;0753480A;UN07;;77;COLLEGE DE FRANCE
+246;35;Bibliothèque Extrême-Orient_ Corée;autre;;0;0;1;0;0;1;mixte;;1,67;;146;;;;;;;;;;;445;34;;70;0;0753480A;UN08;;77;COLLEGE DE FRANCE
+247;35;Bibliothèque Extrême-orient_Inde;autre;;0;0;1;0;0;1;mixte;;3;;188;;;;;;;;;;;1303;343;150;401;0;0753480A;UN09;;77;COLLEGE DE FRANCE
+248;35;Bibliothèque Extrême-Orient_Japon;autre;;0;0;1;0;0;1;mixte;;3;;160;;;;;;;;;;;443;125;;51;0;0753480A;UN10;;77;COLLEGE DE FRANCE
+249;35;bibliothèque d'Extreme-Orient_Tibet;autre;;0;0;1;0;0;1;mixte;;1;;99;;;;;;;;;;;266;4;;12;0;0753480A;UN11;;77;COLLEGE DE FRANCE
+250;35;Bibliothèque de la Société asiatique;associée;;0;0;1;1;0;1;recherche;0;3;115;215;15;2;0;18;;;;;846;235;1410;0;;48;0;0753480A;UN12;;77;COLLEGE DE FRANCE
+251;35;Bibliothèque Claude Lévi-Strauss;autre;;0;0;1;1;0;1;mixte;;4,35;2871;294;102;29;0;40;;;;;1752;219;600;464;;1989;0;0753480A;UN13;;77;COLLEGE DE FRANCE
+252;36;Service valorisation de l'information;;;0;0;0;1;1;1;recherche;3316823;;;1300;1000;25;10;25;;;;;;227;7650;4761;;;;0912281K;UN00;;78;CEA-Commissariat à l'énergie atomique
+253;36;Bibliothèque Cadarache;;;0;0;0;1;1;1;recherche;185643;;;1100;770;15;6;43;;;;;;237;1770;1808;;120;;0912281K;UN01;;78;CEA-Commissariat à l'énergie atomique
+254;36;Documentation Grenoble;;;0;0;0;1;1;1;recherche;280800;;;0;0;0;0;;;;;;;0;362;399;;399;;0912281K;UN02;;78;CEA-Commissariat à l'énergie atomique
+255;36;Bibliothèque Marcoule;;;0;0;0;1;0;0;recherche;179121;;;0;;0;0;;;;;;;239;298;89;;;;0912281K;UN03;;78;CEA-Commissariat à l'énergie atomique
+256;36;Bureau IST CEA/DAM/CESTA;;;0;0;0;1;0;1;recherche;713892;;;0;0;0;0;;;;;;;0;0;0;;;;0912281K;UN04;;78;CEA-Commissariat à l'énergie atomique
+257;37;Site Benjamin Franklin;autre;;0;0;0;1;0;0;étudiant;;12,4;254246;1901;1149;434;292;52,5;;;;;2389;238;;6214;;196;0;0601609Y;UN00;0601609Y;79;COMPIEGNE
+258;37;Site Royallieu;autre;;0;0;0;1;0;0;recherche;;3,8;16429;1173;755;100;;42,5;;;;;1722;220;1789;639;;99;63;0601609Y;UN01;0601609Y;79;COMPIEGNE
+259;37;Administration / Global;autre;;0;0;0;1;0;0;;;;0;1169;0;;;;;;;;;;;;;;;0601609Y;UN02;0601609Y;79;COMPIEGNE
+260;38;Bibliothèque universitaire;autre;;1;1;1;1;1;1;mixte;595800;21,6;121733;4500;3000;380;56;60,5;;;;;2646;264;3516;14015;44371;240;0;7200111H;UN00;7200111H;81;CORTE
+261;39;CTLes;autre;;0;0;0;0;0;1;recherche;;28;0;18133;0;0;0;60;;;;;3012;251;27954;15319;0;15319;0;0772428W;UN00;;84;CTLES
+262;40;BIU Cujas;autre;;1;1;0;0;0;0;mixte;;81,3;464912;7400;1590;634;;69;;;;;2952;281;26000;38773;;107420;0;0752707K;Un00;0752707K;85;CUJAS
+263;41;Administration générale;autre;;0;0;0;0;0;0;;;13;0;373;;;;;;;;;;;;;;;;0211030F;Un00;0211030F;86;DIJON
+264;41;BU Droit-Lettres;autre;;1;0;1;0;0;0;mixte;;34,4;458284;11110;4335;1019;56;68;;;;;3000;281;21425;66674;44150;6303;0;0211030F;Un01;0211030F;86;DIJON
+265;41;BU Le Creusot;autre;;1;1;0;1;0;0;mixte;;4,7;30367;1858;1088;214;32;47;;;;;1859,5;206;410;2203;2740;91;0;0211030F;Un02;0211030F;86;DIJON
+266;41;Bibliothèque de l'IUT;autre;;0;1;0;1;0;0;étudiant;;6;52770;1083;760;192;62;47,7;;;;;1786;192;567;5237;537;65;0;0211030F;UN03;0211030F;86;DIJON
+267;41;BU Sciences;autre;;0;1;0;1;0;0;mixte;;15,6;116486;4682;2415;542;8;64,5;;;;;2640;263;4340;14050;5228;217;0;0211030F;Un04;0211030F;86;DIJON
+268;41;BU Santé;autre;;0;0;0;0;1;0;mixte;;10,8;131168;1563;747;292;0;55,5;;;;;2319,5;255;2404;12375;8218;630;0;0211030F;UN05;0211030F;86;DIJON
+269;41;B2UFR;autre;;0;0;1;0;0;0;mixte;;9,3;123264;1530;1356;461;0;44;;;;;1744;206;1454;13181;14084;0;0;0211030F;UN06;0211030F;86;DIJON
+270;41;BU Chalon;autre;;0;1;0;1;0;0;étudiant;;1;4206;114;109;29;0;34;;;;;1175,25;175;74;849;430;0;0;0211030F;UN07;0211030F;86;DIJON
+271;41;Bibliothèques de l'ESPE;autre;;0;0;1;0;0;0;mixte;;9,3;41078;1288;1058;222;;43;;;;;1715;201;1524;33369;22322;0;0;0211030F;UN08;0211030F;86;DIJON
+272;41;BS Droit;associée;;1;0;0;0;0;0;mixte;33915;2,5;78330;818;818;250;22;51;;;;;1973,5;233;1027;4754;;0;0;0211030F;UN09;0211030F;86;DIJON
+273;41;Bibliothèque de l'IAE;associée;;0;1;0;0;0;0;mixte;35266;1,5;;424;;97;;45;;;;;;211;380;3371;;;0;0211030F;UN10;0211030F;86;DIJON
+274;41;Médiathèque de l'UFR Langues et Communication;associée;;0;0;1;0;0;0;mixte;2839;1;;146;;56;;40;;;;;1550;195;27;530;120;;0;0211030F;UN11;0211030F;86;DIJON
+275;42;Bibliothèque Michel Serres;autre;;0;0;0;1;0;0;mixte;;8,8;41597;1000;500;90;0;61;;;;;2459;241;968;6222;;60;0;0690187D;UN00;;89;Ecole Centrale de Lyon
+276;43;Campus Paris-Saclay, bibliothèque Eiffel;autre;;0;0;0;1;0;0;mixte;;14,4;;1634;700;100;0;75,5;;;;;2963;247;2838;2782;;53;4;0921225G;UN00;;92;Ecole Centrale de Paris / Centrale-Supélec
+277;43;Campus de Rennes;autre;;0;0;0;1;0;0;mixte;;1;5705;233;195;40;10;41,5;;;;;1288;161;320;541;;1;0;0921225G;UN01;;92;Ecole Centrale de Paris / Centrale-Supélec
+278;43;Campus de Metz;autre;;0;0;0;1;0;0;mixte;;0,85;8078;355;203;42;28;41,5;;;;;1800;194;276;758;215;10;0;0921225G;UN02;;92;Ecole Centrale de Paris / Centrale-Supélec
+279;44;Bibliothèque de l'Ecole française d'Athènes;autre;;0;0;1;0;0;0;recherche;;;8963;668;607;53;0;60,5;;;;;2836;287;3055;;;;;1260001S;UN00;;103;Ecole française d'Athènes
+280;45;BIBLIOTHEQUE ECOLE FRANCAISE DE ROME;autre;;0;0;1;0;0;0;recherche;208845,01;14,83;21954;2329;1836;216;0;72;;;;;3310;281;6700;;84000;600;;1270009V;UN00;;104;Ecole française de Rome
+281;46;Bibliothèque centrale - Paris;autre;;0;0;1;0;0;1;recherche;;;;300;;36;;;;;;;;;;;;;;0751794T;UN00;;105;Ecole française d'extrême-orient
+282;46;Bibliothèque du Centre EFEO de Chiang Mai;autre;;0;0;0;0;0;0;recherche;;;;140;;24;;;;;;;;;;;;;;0751794T;UN01;;105;Ecole française d'extrême-orient
+283;46;Bibliothèque du Centre EFEO de Hanoi;autre;;0;0;0;0;0;0;recherche;;;;80;;15;;;;;;;;;;;;;;0751794T;UN02;;105;Ecole française d'extrême-orient
+284;46;Bibliothèque du Centre EFEO de Jakarta;autre;;0;0;0;0;0;0;recherche;;;;150;;8;;;;;;;;;;;;;;0751794T;UN03;;105;Ecole française d'extrême-orient
+285;46;Bibliothèque du Centre EFEO de Pondichéry;autre;;0;0;0;0;0;0;recherche;;;;152;;20;;;;;;;;;;;;;;0751794T;UN04;;105;Ecole française d'extrême-orient
+286;46;Bibliothèque du Centre EFEO de Siem Reap;Autre;;0;0;0;0;0;0;recherche;;;;94;;14;;;;;;;;;;;;;;0751794T;UN05;;105;Ecole française d'extrême-orient
+287;46;Bibliothèque du Centre EFEO de Vientiane;Autre;;0;0;0;0;0;0;recherche;;;;116;;7;;;;;;;;;;;;;;0751794T;UN06;;105;Ecole française d'extrême-orient
+288;46;Bibliothèque du Centre EFEO de Kyoto;autre;;0;0;0;0;0;0;recherche;;;;200;;11;;;;;;;;;;;;;;0751794T;UN07;;105;Ecole française d'extrême-orient
+289;47;Bibliothèque de l'Ecole nationale des chartes;autre;;0;0;1;0;0;0;mixte;;12,1;4280;732;680;60;0;58,5;;;;;1846;182;3910;1801;5187;308;0;0753478Y;Un00;;108;ECOLE NATIONALE DES CHARTES
+290;48;DDP;autre;;0;0;0;1;0;0;mixte;;0,8;;;;;;;;;;;;;;;;;;0753237L;UN00;;116;Ecole nationale supérieure d'arts et métiers
+291;48;Campus Aix;autre;;0;0;0;1;0;0;mixte;;1,7;29000;300;200;36;10;56,3;;;;;2252;200;540;2595;;;;0753237L;UN01;;116;Ecole nationale supérieure d'arts et métiers
+292;48;Campus Angers;autre;;0;0;0;1;0;0;mixte;;2;;500;;77;16;;;;;;;;;1120;;;;0753237L;UN02;;116;Ecole nationale supérieure d'arts et métiers
+293;48;Campus de Bordeaux;autre;;0;0;0;1;0;0;mixte;;2,6;34000;150;;40;14;58;;;;;2320;200;500;559;;;;0753237L;UN03;;116;Ecole nationale supérieure d'arts et métiers
+294;48;Campus de Châlons en Champagne;autre;;0;0;0;1;0;0;mixte;;2,6;34500;215;;54;;55;;;;;2475;225;140;622;;;;0753237L;UN04;;116;Ecole nationale supérieure d'arts et métiers
+295;48;Campus de Cluny;autre;;0;0;0;1;0;0;mixte;;3;20859;260;;52;16;57,5;;;;;2499;252;180;1026;;;;0753237L;UN05;;116;Ecole nationale supérieure d'arts et métiers
+296;48;Campus de Lille;autre;;0;0;0;1;0;0;mixte;;1,5;20000;470;;50;15;37;;;;;1554;210;132;423;;;;0753237L;UN06;;116;Ecole nationale supérieure d'arts et métiers
+297;48;Campus de Metz;autre;;0;0;0;1;0;0;mixte;;3,8;25000;220;;56;14;54,5;;;;;2507;276;180;986;;;;0753237L;UN07;;116;Ecole nationale supérieure d'arts et métiers
+298;48;Campus de Paris;autre;;0;0;0;1;0;0;mixte;;4;22718;400;;79;10;53,75;;;;;2472,5;230;509;1433;;;;0753237L;UN08;;116;Ecole nationale supérieure d'arts et métiers
+299;48;Institut de Chambéry;autre;;0;0;0;1;0;0;mixte;;0,4;;109;;16;;30;;;;;1230;205;16;161;;;;0753237L;UN09;;116;Ecole nationale supérieure d'arts et métiers
+300;49;SCDBA EPHE;autre;;0;0;1;1;0;1;recherche;;2,69;;320;179;;;;;;;;;;1307;101;1266;598;0;0753486G;UN00;;135;Ecole pratique des hautes études
+301;49;Bibliothèque Michel Fleury;autre;;0;0;1;0;0;0;recherche;;1,75;646;162;94;20;0;40;;;;;1880;235;1320;;;;;0753486G;UN01;;135;Ecole pratique des hautes études
+302;49;Bibliothèque des sciences religieuses;autre;;0;0;1;0;0;1;recherche;;1,5;646;162;94;20;0;40;;;;;1880;235;1025;;;;;0753486G;UN02;;135;Ecole pratique des hautes études
+303;49;Bibliothèque d'égyptologie Wladimir Golenischeff;autre;;0;0;1;0;0;1;recherche;;0,5;1219;120;40;13;0;25;;;;;900;210;530;;;;;0753486G;UN03;;135;Ecole pratique des hautes études
+304;49;Bibliothèque d'études mongoles et sibériennes;autre;;0;0;1;0;0;1;recherche;;0,3;200;110;35;20;0;14;;;;;588;84;320;;;;;0753486G;UN04;;135;Ecole pratique des hautes études
+305;49;Photothèque - Fonds Gabriel Millet;autre;;0;0;1;0;0;1;recherche;;1,5;35;46;20;6;0;25;;;;;900;188;215;;;;;0753486G;UN05;;135;Ecole pratique des hautes études
+306;49;Bibliothèque d'études tibétaines;autre;;0;0;1;0;0;1;recherche;;0,5;380;80;30;8;0;18;;;;;630;126;521;;;;;0753486G;UN06;;135;Ecole pratique des hautes études
+307;49;Bibliothèque d'études japonaises;autre;;0;0;1;0;0;1;recherche;;0,5;0;10;0;0;0;0;;;;;0;0;385;;;;;0753486G;UN07;;135;Ecole pratique des hautes études
+308;49;Centre de documentation de l'IESR;associée;;0;0;1;0;0;1;recherche;1554;0,5;;65;0;0;0;0;;;;;0;0;52;0;0;0;0;0753486G;UN08;;135;Ecole pratique des hautes études
+309;49;Centre de documentation du GSRL;associée;;0;0;1;0;0;0;recherche;;1;;;;;;;;;;;;;;;;;;0753486G;UN09;;135;Ecole pratique des hautes études
+310;50;Bibliothèque centrale;autre;;0;1;1;1;0;0;mixte;;8;73577;793;650;140;0;65,5;;;;;2669,5;252;1060;;;;;0940607Z;Un00;;144;ENS Cachan
+311;50;Bibliothèque Durkheim;associée;;1;1;1;0;0;0;recherche;;1;397;236;216;16;0;16,5;;;;;;;295;330;;0;0;0940607Z;UN02;;144;ENS Cachan
+312;50;Bibliothèque du CMLA;associée;;0;0;0;1;0;0;recherche;1703;1;;65;;4;0;;;;;;;230;158;;;0;0;0940607Z;UN03;;144;ENS Cachan
+313;50;Bibliothèque de l'IDA;associée;;0;0;0;1;1;0;recherche;;;;150;130;18;4;;;;;;;;;;;;;0940607Z;UN04;;144;ENS Cachan
+314;51;Bibliothèque Diderot de Lyon;autre;;0;0;1;1;0;0;recherche;;;444615;15800;;892;;58;;;;;2510;267;;77005;57206;26962;0;0694123G;UN00;;145;ENS Lyon
+317;53;Bibliothèque des Lettres Ulm;autre;;1;1;1;0;0;0;mixte;;47,11;160057;6437;4584;434;20;58;;;;;2690;278;18454;45499;72913;376;;0753455Y;UN00;;149;ENS Ulm
+318;53;Bibliothèque de Jourdan;autre;;1;1;1;0;0;0;mixte;;6,4;6501;1094;838;70;8;53;;;;;2364;265;1524;3511;1050;88;;0753455Y;UN01;;149;ENS Ulm
+319;53;Bibliothèque des sciences expérimentales;associée;;0;0;0;1;0;0;mixte;152492,06;6,5;51970;766;552;88;52;50;;;;;2296;232;1490;1393;1309;47;;0753455Y;UN03;;149;ENS Ulm
+320;53;Bibliothèque d'archéologie UMR 8546;associée;;0;0;1;0;0;0;mixte;5394,9;1;2500;197;197;20;18;32;;;;;1498;214;836;258;;43;;0753455Y;UN04;;149;ENS Ulm
+321;53;Bibliothèque de mathématiques et informatique;associée;;0;0;0;1;0;0;recherche;188294;5,4;24499;1135;967;91;9;55;;;;;2489;271;1981;3551;2138;6;;0753455Y;UN05;;149;ENS Ulm
+322;53;Bibliothèque de physique théorique;associée;;0;0;0;1;0;0;recherche;1067,9;0;;66;66;6;6;168;;;;;8760;365;82;100;;;;0753455Y;UN06;;149;ENS Ulm
+323;53;Relais d'information sur les sciences de la cognition;associée;;0;1;1;1;1;1;recherche;1208,45;0,4;44;144;100;0;0;38,5;;;;;;209;78;63;15;;;0753455Y;UN07;;149;ENS Ulm
+324;53;Centre documentaire du Caphés;associée;;0;0;1;1;1;0;recherche;4930,95;2;1247;327;78;8;0;39;;;;;1782;228;1517;;;;;0753455Y;UN08;;149;ENS Ulm
+325;53;Bibliothèque de l'Agrégation de physique - chimie;associée;;0;0;0;1;0;0;étudiant;6636,11;0,7;3350;176;160;41;15;26,25;;;;;1128;150;204;2685;;;;0753455Y;UN09;;149;ENS Ulm
+326;53;Bibliothèque des Archives Husserl;associée;;0;0;1;0;0;0;recherche;1606,48;1;18;35;35;3;;37,5;;;;;;;173;0;20;;;0753455Y;UN10;;149;ENS Ulm
+327;54;ENSSIB;autre;;0;0;1;0;0;0;mixte;;;35829;1814;865;120;52;63;;;;;;265;;;;;;0692459Y;UN00;;151;ENSSIB
+328;55;Bibliothèque numérique;autre;;1;1;1;1;1;1;mixte;;;;;;;;;;;;;;;;;;;;0912167L;UN00;0912167L;154;EVRY VAL-D'ESSONNE
+329;55;Bibliothèque UFR Sciences et Techniques;associée;;0;0;0;1;0;0;mixte;7095;1;;120;120;32;0;37,5;;;;;1530;204;77;319;;;;0912167L;UN01;0912167L;154;EVRY VAL-D'ESSONNE
+330;55;Bibliothèque IUT site Brétigny;associée;;1;1;0;1;0;1;mixte;10417;1;;103;99;32;;21;;;;;740;141;111;144;;;;0912167L;UN02;0912167L;154;EVRY VAL-D'ESSONNE
+331;55;Bibliothèque Universitaire (Centrale);autre;;1;1;1;1;0;1;mixte;;36,8;220662;6500;3200;750;65;61;;;;;2531;251;5931;56672;1750;876;;0912167L;UN03;0912167L;154;EVRY VAL-D'ESSONNE
+332;55;BU - UFR Sciences de l'Homme et de la société;autre;;1;1;1;0;0;1;mixte;11605;0,7;3041;300;260;30;0;24;;;;;848;141;217;;;;;0912167L;UN04;0912167L;154;EVRY VAL-D'ESSONNE
+333;56;Bibliothèque du Campus de Nancy;associée;;1;1;1;0;0;0;étudiant;12809;0,5;;250;;111;20;62;;;;;1860;180;307;2635;;;;0753431X;UN01;;156;Fondation nationale des sciences politiques
+334;56;Bibliothèque Copernic du campus de Dijon;associée;;1;1;1;0;0;0;étudiant;13842;0,6;5414;103;;54;;57;;;;;1473;181;245;2831;;;;0753431X;UN02;;156;Fondation nationale des sciences politiques
+335;56;Bibliothèque Pablo Neruda du campus de Poitiers;associée;;1;1;1;0;0;0;étudiant;8754;0,5;;280;;75;10;62;;;;;1984;174;243;2723;;;;0753431X;UN03;;156;Fondation nationale des sciences politiques
+336;56;Bibliothèque du Campus de Menton;associée;;1;1;1;0;0;0;étudiant;17140;0,2;;324;;75;;54;;;;;1566;145;243;1482;;;;0753431X;UN04;;156;Fondation nationale des sciences politiques
+337;56;Bibliothèque du Campus du Havre;associée;;1;1;1;0;0;0;étudiant;18999;0,4;;350;;175;28;65;;;;;1941;189;224;1523;;;;0753431X;UN05;;156;Fondation nationale des sciences politiques
+338;56;Biliothèque du Campus de Reims;associée;;1;1;1;0;0;0;étudiant;43552,27;3;;1656;1656;520;38;69;;;;;1988;168;631;8079;;;;0753431X;UN06;;156;Fondation nationale des sciences politiques
+339;56;Bibliothèque de Sciences Po Paris;autre;;1;1;1;0;0;0;mixte;;96,22;983586;7293;2931;805;32;85,5;;;;;3611;266;24295;152813;41876;74300;;0753431X;UN07;;156;Fondation nationale des sciences politiques
+340;60;Campus de Bourges;autre;;0;0;0;0;0;0;mixte;;2;;266;;60;;45,5;;;;;1920,1;211;99;1513;;142;;0180974L;UN00;;173;INSA Centre Val-de-Loire (>=2015)
+341;60;Bibliothèque cursus ingénieursCampus de Blois;autre;;0;0;0;0;0;0;mixte;;1;;289;;40;;40;;;;;1568;196;166;468;;;;0180974L;UN01;;173;INSA Centre Val-de-Loire (>=2015)
+342;60;Département Ecole dDe la nature et du paysage;autre;;0;0;0;0;0;1;étudiant;;1;;167;;20;;48;;;;;1726;202;197;2478;;;;0180974L;UN02;;173;INSA Centre Val-de-Loire (>=2015)
+343;61;Bibliothèque de l'Institut de France;autre;;0;0;0;0;0;1;recherche;;19,8;2863;;;60;;45;;;;;2088;232;15000;279;;4160;0;0755355N;Un00;0755355N;178;INSTITUT DE FRANCE
+344;61;Bibliothèque Thiers;autre;;0;0;1;0;0;0;recherche;2420,91;2;249;;;12;;12;;;;;;;;;;;;0755355N;UN01;0755355N;178;INSTITUT DE FRANCE
+345;62;Centre de ressources en information scientifiques (CRIS);;;0;0;0;1;1;0;recherche;;9;;150;80;6;4;50;;;;;11000;220;510;152;;;;0922643Y;UN00;;180;IRSN-Institut de radioprotection et de sûreté nucléaire
+346;63;IRD;autre;;0;0;0;0;0;1;recherche;;10,9;;;;;;;;;;;;;;;;;;0755362W;UN00;;182;IRD-Institut de recherche pour le développement
+347;64;Bibliothèque de l'IFAO;autre;;0;0;1;0;0;0;recherche;;8;;1024;893;83;0;;;;;;;;2516;;;;;3010001R;UN00;;190;Institut français d'archéologie orientale du Caire
+348;64;Bibliothèque accès 24/24;autre;;0;0;1;0;0;0;recherche;;;;810;810;83;0;168;;;;;7236;301;2516;;;;;3010001R;UN01;;190;Institut français d'archéologie orientale du Caire
+349;64;Bibliothèque salle de lecture;autre;;0;0;1;0;0;0;recherche;;8;2755;99;99;25;0;42,5;;;;;1696;199;8;;;;;3010001R;UN03;;190;Institut français d'archéologie orientale du Caire
+350;65;Ifremer;;;0;0;0;0;0;0;;;;;;;;;;;;;;;;;;;;;0922262J;UN00;;192;IFREMER-Institut français de recherche pour l'exploitation de la mer
+351;66;SERVICE DOCUMENTATION ET INFORMATION SCIENTIFIQUE ET TECHNIQ;autre;;0;0;1;1;0;1;recherche;;14,6;;1031;;55;;;;;;;;;2648;1026;;;0;0772765M;UN00;;193;IFSTTAR-Institut Français des Sciences et Technologies des Transports, de l'Aménagement et des Réseaux
+352;67;IFP Energies nouvelles;;;0;1;0;1;0;1;recherche;;;;100;;;;;;;;;;;;;;;;0922642X;UN00;;194;IFPEN-Institut français du pétrole et des Energies Nouvelles
+353;68;INRA DIST;autre;;0;0;0;0;0;1;recherche;;;;;;;;;;;;;;;;;;;;0755361V;UN00;;196;INRA-Institut national de la recherche agronomique
+354;69;BiblioInserm;autre;;0;0;0;1;1;0;recherche;;;;;0;;0;;;;;;;;;;;;;0755364Y;UN00;;197;INSERM-Institut national de la santé et de la recherche médicale
+355;69;iPubli;autre;;0;0;0;1;1;0;recherche;;;;;;;;;;;;;;;;;;;;0755364Y;UN01;;197;INSERM-Institut national de la santé et de la recherche médicale
+356;69;BiblioInserm;autre;;0;0;0;1;1;0;recherche;;;;;;;;;;;;;;;;;;;;0755364Y;UN02;;197;INSERM-Institut national de la santé et de la recherche médicale
+357;69;HAL-Inserm;autre;;0;0;0;1;1;0;recherche;;;;;;;;;;;;;;;;;;;;0755364Y;UN03;;197;INSERM-Institut national de la santé et de la recherche médicale
+358;70;INERIS;;;0;0;0;0;0;0;;;;;;;;;;;;;;;;;;;;;0602098E;UN00;;198;INERIS-Institut national de l'environnement industriel et des risques
+359;71;Inria;;;0;0;0;1;0;0;recherche;;;;4159;0;0;;;;;;;;;;;;;;0780491K;UN00;;199;INRIA-Institut national de recherche en informatique et en automatique
+360;72;IRSTEA;;;1;1;1;1;0;1;recherche;;;;;;;;;;;;;;;;;;;;0922644Z;UN00;;200;IRSTEA-Institut national de Recherche en Sciences et Technologies pour l'Environnement et l'Agriculture
+361;73;Service documentation, bibliothèque et archives de l'Ined;autre;;0;1;1;0;1;0;recherche;;9;2747;500;238;22;;38,75;;;;;1867,5;249;1830;2321;1243;;0;0755360U;UN00;;206;INED-Institut national d'études démographiques
+362;74;Bibliothèque de l'INHA;autre;;0;0;1;0;0;0;recherche;;70,15;91543;8056;3857;342;20;62;;;;;3030;291;17690;76;;35660;;0755026F;UN00;;207;Institut national d'histoire de l'art
+363;75;Centre de Ressources en Information Scientifique (CeRIS);autre;;0;0;0;1;1;0;recherche;;12,75;1807;1032;206;36;0;40;;;;;1992;249;6959;1057;;205;0;0755366A;UN00;;213;Institut Pasteur
+364;76;BU DROIT-LETTRES;autre;;1;1;1;0;0;0;mixte;;23,8;329445;8500;5600;826;80;59;;;;;2432;247;5330;47831;;865;;9740064B;UN00;9740064B;220;LA REUNION
+365;76;BU TAMPON;autre;;1;0;0;1;1;0;mixte;;9,4;111367;3000;2410;307;46;59;;;;;2727;248;1398;21199;;20;;9740064B;Un01;9740064B;220;LA REUNION
+366;76;ADMINISTRATION GENERALE;autre;;0;0;0;0;0;0;mixte;;6;;;;;;;;;;;;;;;;;;9740064B;UN02;9740064B;220;LA REUNION
+367;76;IUT DE ST PIERRE;autre;;0;1;1;1;0;0;mixte;;2;29767;193;170;40;12;50;;;;;1990;199;170;1598;;0;;9740064B;UN03;9740064B;220;LA REUNION
+368;76;BU SCIENCES;autre;;0;0;0;1;1;0;mixte;;11;116039;2600;1243;280;35;59;;;;;2354;250;1488;9994;;23;;9740064B;UN04;9740064B;220;LA REUNION
+369;76;BU Bellepierre (ESPE);autre;;0;0;1;0;0;1;mixte;;4;33142;600;300;80;0;52,5;;;;;2237;213;679;14823;;;;9740064B;UN05;9740064B;220;LA REUNION
+370;76;ESIROI;autre;;0;0;0;1;0;0;mixte;;0,8;;116;98;41;0;60;;;;;;;57;355;;;;9740064B;UN06;9740064B;220;LA REUNION
+1166;76;BU SANTÉ;autre;;0;0;0;0;1;0;mixte;;2;17602;212;175;68;0;50;;;;;2046,75;211;39;766;;;206;9740064B;UN07;9740064B;220;LA REUNION
+371;76;CRJ-CEMOI;associée;;1;1;0;0;0;0;recherche;15118;1;;75;75;14;2;37;;;;;;;175;2138;;;;9740064B;UN08;9740064B;220;LA REUNION
+372;76;Centre audio-visuel;associée;;1;1;1;0;0;0;mixte;2500;;;30;;74;3;14,5;;;;;653;;;;;;;9740064B;UN10;9740064B;220;LA REUNION
+373;76;CIRCI;associée;;0;0;1;0;0;0;recherche;;;;35;;4;;;;;;;;;22;;;;;9740064B;UN11;9740064B;220;LA REUNION
+374;76;PROFIL;associée;;0;0;0;0;0;1;étudiant;3853;2;420;170;;74;15;30;;;;;1300;314;15;;;;;9740064B;UN12;9740064B;220;LA REUNION
+375;76;LCF;associée;;0;0;1;0;0;0;recherche;;;;16;;4;;;;;;;;;86;;;;;9740064B;UN13;9740064B;220;LA REUNION
+376;77;Centrale;autre;;1;1;1;1;0;0;mixte;;34;335003;6748;4722;1008;66;61,5;;;;;2736,5;264;4832;62145;;951;1595;0171482U;Un00;0171482U;222;LA ROCHELLE
+377;78;IUT;autre;;1;1;0;1;0;1;étudiant;;6;26083;516;341;158;0;57,5;;;;;1765,5;189;428;5383;9435;106;3;0762856S;Un00;0762856S;225;LE HAVRE
+378;78;BUC;autre;;1;1;1;1;0;0;étudiant;;32;375397;8472;5497;980;80;75,5;;;;;2979,5;254;4391;54236;79428;451;446;0762856S;UN01;0762856S;225;LE HAVRE
+379;79;BU Le Mans;autre;;1;1;1;1;1;0;mixte;;32,1;404419;7000;5500;1097;100;65;;;;;2703;255;6422;46778;;688;;0720850H;UN03;0720850H;226;LE MANS
+380;79;Laval;autre;;1;1;0;1;0;0;mixte;;3;;240;200;60;0;49;;;;;2392;225;261;4293;;182;;0720850H;UN05;0720850H;226;LE MANS
+1076;80;Lilliad;autre;;1;1;1;1;1;1;mixte;;70;448913;8800;5000;1024;203;64;;;;;2993;267;7500;50259;;;;0595785T;UN00;;227;LILLE 1 (<=2017)
+1077;80;Bibliothèque Régionale de Recherche en Mathématiques/B2RM;associée;;0;0;0;1;0;0;recherche;;;;780;;50;;;;;;;;;;;;;;0595785T;UN01;;227;LILLE 1 (<=2017)
+1078;80;Centre de documentation et de révision - UFR sciences terre;associée;;0;0;0;1;0;0;étudiant;10000;1;150;94;94;37;32;36,2;;;;;;189;85;100;10;;;0595785T;UN03;;227;LILLE 1 (<=2017)
+1079;80;Bibliothèque Télécom Lille;associée;;0;0;0;1;0;0;mixte;;;;400;300;38;30;;;;;;;;;;;;;0595785T;UN08;;227;LILLE 1 (<=2017)
+1080;80;Centre de ressources - IUT A;associée;;0;0;0;0;0;1;mixte;;;;217;;64;36;;;;;;;;;;;;;0595785T;UN10;;227;LILLE 1 (<=2017)
+1081;80;Centre de documentation Fac. des sciences éco. et sociales;associée;;0;1;1;0;0;0;mixte;;;;350;100;10;6;;;;;;;;;;;;;0595785T;UN11;;227;LILLE 1 (<=2017)
+1082;80;Centre de documentation IAE;associée;;1;1;1;0;0;0;mixte;56070;1;;550;;50;;35,5;;;;;1483;227;610;293;;;;0595785T;UN13;;227;LILLE 1 (<=2017)
+1083;80;Centre de documentation SUAIO;autre;;0;0;0;0;0;1;étudiant;;;;500;500;80;80;;;;;;;;;;;;;0595785T;UN15;;227;LILLE 1 (<=2017)
+1084;81;Droit-Gestion;autre;;1;1;0;0;0;0;mixte;;34,9;510402;5336;3693;702;80;63;;;;;2609;257;5182;77815;;3610;48;0596012P;Un00;;228;LILLE 2 (<=2017)
+1085;81;BU Santé - Learning Center;autre;;0;0;0;0;1;0;mixte;;28,6;737431;3676;2430;707;66;83;;;;;3323;255;1125;23460;;96;1928;0596012P;UN02;;228;LILLE 2 (<=2017)
+1086;81;Bibliothèque de l'Institut des Sciences du Travail;associée;;1;0;0;0;0;0;étudiant;10718,73;1;2600;140;140;36;14;37,5;;;;;1911;255;250;38;;;;0596012P;UN06;;228;LILLE 2 (<=2017)
+1087;81;Bibliothèque de laFaculté des Sciences du Sport et de l'Educ;associée;;0;0;0;1;0;0;mixte;29400;2,8;44061;260;235;130;20;47,5;;;;;2089,5;239;320;3207;;;;0596012P;UN07;;228;LILLE 2 (<=2017)
+1088;81;Bibliothèque de recherche Paul Duez;associée;;1;0;0;0;0;0;recherche;22250;1;24996;560;535;90;0;47,5;;;;;2039;201;488;0;;0;0;0596012P;UN08;;228;LILLE 2 (<=2017)
+1089;81;Centre de documentaiton de la Faculté de chirurgie dentaire;associée;;0;0;0;0;1;0;mixte;2189,46;2;;300;243;55;;47,25;;;;;1947;221;410;2213;;;;0596012P;UN09;;228;LILLE 2 (<=2017)
+1090;82;Bibliothèque Universitaire Centrale;autre;;0;1;1;0;0;0;mixte;;;451340;17381;7600;1100;77;63;;;;;2676;263;27826;166339;;27670;46;0592755Z;UN00;;229;LILLE 3 (<=2017)
+1091;82;Bibliothèque Albert-Marie Schmidt;associée;;0;0;1;0;0;0;mixte;;;;714;395;110;16;;;;;;;;;;;;;0592755Z;UN01;;229;LILLE 3 (<=2017)
+1092;82;Bibliothèque Angellier;associée;;0;0;1;0;0;0;mixte;5960;1;;620;330;120;0;36;;;;;1230;190;1490;2160;;3000;;0592755Z;UN02;;229;LILLE 3 (<=2017)
+1093;82;Bibliothèque DEFI-FLE;associée;;0;0;1;0;0;0;mixte;2312;1;;76;68;18;;36;;;;;;;85;2860;;;;0592755Z;UN03;;229;LILLE 3 (<=2017)
+1094;82;Bibliothèque Eric Weil;associée;;0;0;1;0;0;0;recherche;570;1;;184;;38;;36;;;;;1656;187;269;;;;;0592755Z;UN05;;229;LILLE 3 (<=2017)
+1095;82;Bibliothèques études germaniques et scandinaves;associée;;0;0;1;0;0;0;mixte;1650;1;;416;180;70;12;30;;;;;880;171;1432;1002;;1002;0;0592755Z;UN06;;229;LILLE 3 (<=2017)
+1096;82;Bibliothèques études romanes slaves et orientalres;associée;;0;0;1;0;0;0;mixte;12500;1;8400;400;195;120;0;45;;;;;1453;192;1179;2251;;;;0592755Z;UN07;;229;LILLE 3 (<=2017)
+1097;82;Bibliothèque Humanités;associée;;0;0;1;0;0;0;mixte;21000;;41500;714;395;112;15;49;;;;;1987;211;1550;6348;;;;0592755Z;UN08;;229;LILLE 3 (<=2017)
+1098;82;Bibliothèque Georges Lefebvre - IRHiS;associée;;0;0;1;0;0;0;recherche;13000;1;3025;592;250;70;0;36,3;;;;;1402;201;2430;0;;4126;0;0592755Z;UN09;;229;LILLE 3 (<=2017)
+1099;82;Bibliothèque Infocom;associée;;1;1;1;0;0;0;mixte;15000;1,5;15707;178;165;53;;49;;;;;1789,5;204;225;2672;;;;0592755Z;UN10;;229;LILLE 3 (<=2017)
+1100;82;Bibliothèque IUT B;associée;;1;1;1;0;1;1;étudiant;13000;1,9;18088;266;206;62;20;46;;;;;1600;190;400;2529;;506;;0592755Z;UN11;;229;LILLE 3 (<=2017)
+1101;82;Bibliothèque IMMD-LEA;associée;;1;1;1;0;0;0;mixte;24200;1,4;84000;547;489;160;52;56,5;;;;;2121,5;201;250;3825;55000;200;;0592755Z;UN12;;229;LILLE 3 (<=2017)
+1102;82;Bibliothèque Michelet;associée;;0;0;1;0;0;0;mixte;14500;1,5;;700;;238;30;43;;;;;1740;;783;1429;;;;0592755Z;UN13;;229;LILLE 3 (<=2017)
+1103;82;Bibliothèque de Philosophie;associée;;0;0;1;0;0;0;mixte;;;;178;;63;;;;;;;;;;;;;;0592755Z;UN14;;229;LILLE 3 (<=2017)
+1104;82;Bibliothèque des sciences de l'Antiquité - BSA;associée;;0;0;1;0;0;0;mixte;18000;1,5;;351;125;30;0;42,5;;;;;1550;202;1000;3078;;;0;0592755Z;UN15;;229;LILLE 3 (<=2017)
+1105;82;Bibliothèques Sciences de l'éducation - Jacques Hédoux;associée;;0;0;1;0;0;0;mixte;4816;;;253;;65;45;36;;;;;1150;160;80;1300;;;;0592755Z;UN16;;229;LILLE 3 (<=2017)
+1106;82;Bibliothèques Savoirs, Textes et Langage- STL;associée;;0;0;1;1;0;0;recherche;18500;1;;181;181;28;28;38,5;;;;;;220;150;0;;;;0592755Z;UN17;;229;LILLE 3 (<=2017)
+1107;82;Bibliothèque Jacques Vandier;associée;;0;0;1;0;0;0;recherche;10000;1;;132;30;24;24;30;;;;;1387;221;228;;;;;0592755Z;UN18;;229;LILLE 3 (<=2017)
+1108;82;Bibliothèque testothèque de psychologie;autre;;0;0;1;0;0;0;recherche;8952;;;97;65;8;4;12;;;;;400;100;130;;;;;0592755Z;UN19;;229;LILLE 3 (<=2017)
+381;83;Administration générale;autre;;0;0;0;0;0;0;;;;;;;;;;;;;;;;;;;;;0870111Y;Un00;0870111Y;231;LIMOGES
+382;83;Droit;autre;;1;1;0;0;0;0;mixte;85000;7,5;273240;3540;2702;527;12;61;;;;;2724;240;3520;14214;0;879;0;0870111Y;Un01;0870111Y;231;LIMOGES
+383;83;Lettres;autre;;0;0;1;0;0;0;mixte;;8,5;85691;3475;1970;404;26;54;;;;;2480;232;3793;20291;;1059;;0870111Y;Un02;0870111Y;231;LIMOGES
+384;83;Santé;autre;;0;0;0;0;1;0;mixte;;7,6;161000;2130;1150;350;0;65;;;;;2850;196;1996;16368;;150;0;0870111Y;Un03;0870111Y;231;LIMOGES
+385;83;Sciences;autre;;0;0;0;1;0;0;mixte;;6;;1782;600;153;18;50;;;;;2245;228;1800;5291;;111;;0870111Y;Un04;0870111Y;231;LIMOGES
+386;83;Bibliothèque du Campus Universitaire de Brive;autre;;1;1;0;1;0;1;mixte;;5;31440;540;448;78;0;55,5;;;;;2536;281;472;7443;;;;0870111Y;UN05;0870111Y;231;LIMOGES
+387;83;ESPE Limoges;autre;;0;0;0;0;0;1;mixte;15899;4,5;50160;882;604;114;14;49;;;;;2109;216;798;13254;;102;0;0870111Y;UN06;0870111Y;231;LIMOGES
+388;83;Bibliothèque de l'IUT du Limousin - site de Limoges;autre;;0;1;0;1;0;1;étudiant;;;;407;375;110;24;47,5;;;;;1995;210;256;777;;6;;0870111Y;UN07;0870111Y;231;LIMOGES
+389;83;ENSIL;autre;;0;0;0;1;0;0;mixte;;1;;526;416;82;24;41,25;;;;;785;77;146;307;;5;;0870111Y;UN08;0870111Y;231;LIMOGES
+390;83;Bibliothèque du Campus Universitaire d'Egletons;autre;;0;0;0;1;0;0;mixte;;1;;124;99;20;0;36,8;;;;;1406,8;191;135;329;;;;0870111Y;UN09;0870111Y;231;LIMOGES
+391;83;Bibliothèque de l'IUT du Limousin - Site de Tulle;autre;;0;0;0;1;0;0;mixte;;0,5;;161;161;30;0;18,33;;;;;700,53;191;145;352;;;;0870111Y;UN10;0870111Y;231;LIMOGES
+392;83;ESPE Tulle;autre;;0;0;0;0;0;1;mixte;10510;1,8;;223;215;36;;47,5;;;;;1811,5;212;335;4590;;4;16;0870111Y;UN11;0870111Y;231;LIMOGES
+393;83;Bibliothèque du Campus Universitaire de Guéret;autre;;0;0;1;0;0;0;mixte;;1,5;;300;192;45;;51;;;;;2178;210;330;3472;;112;;0870111Y;UN12;0870111Y;231;LIMOGES
+394;83;ENSIL/ENSCI;autre;;0;0;0;1;0;0;mixte;;2;;378;260;64;24;51;;;;;833,6;84;441;766;;15;;0870111Y;UN13;0870111Y;231;LIMOGES
+395;84;Bibliothèque littéraire Jacques Doucet;autre;;0;0;1;0;0;0;recherche;;;1614;394;;16;;;;;;;;;;;;;;075_BLJD;UN00;;233;LITTERAIRE JACQUES DOUCET
+396;85;Boulogne-sur-Mer;autre;;1;1;1;1;0;0;étudiant;;11,1;121223;3603;3220;295;46;58;;;;;2550;261;1463;13883;;;2377;0596013R;Un00;0596013R;234;LITTORAL
+397;85;Calais;autre;;0;0;0;1;1;0;étudiant;;9,2;63885;2773;2393;277;84;57,25;;;;;2285;239;1203;5453;;;1383;0596013R;Un01;0596013R;234;LITTORAL
+398;85;Dunkerque;autre;;1;1;1;1;0;0;étudiant;;19,7;122255;3655;3207;472;77;60;;;;;2578;263;1405;11882;;;1517;0596013R;Un02;0596013R;234;LITTORAL
+399;85;Direction - Affaires générales;autre;;1;1;1;1;1;0;mixte;;3,8;;;;;;;;;;;;;;;;;;0596013R;UN03;0596013R;234;LITTORAL
+400;85;Pôle de Recherche Sciences Humaines et Sociales;associée;;0;1;1;0;0;0;recherche;6497,25;2;;178;100;20;20;35;;;;;;225;157;115;;;;0596013R;UN04;0596013R;234;LITTORAL
+401;85;Saint-Omer;autre;;0;1;0;1;0;0;étudiant;;3,1;17239;210;165;50;50;53;;;;;1946;211;83;796;;;519;0596013R;UN05;0596013R;234;LITTORAL
+402;85;Pôle de Recherche Sciences Humaines et Sociales;associée;;1;0;1;0;0;0;recherche;9100;1;360;110;100;20;10;38;;;;;;300;583;250;;;;0596013R;UN06;0596013R;234;LITTORAL
+403;85;Campus de la Mer;associée;;1;1;1;1;0;0;recherche;;;;60;;;;;;;;;;;5;16;;;;0596013R;UN07;0596013R;234;LITTORAL
+404;86;BU Metz Saulcy;autre;;1;1;1;1;1;0;mixte;;35,4;442974;9575;8076;956;116;64;;;;;2842;274;14098;98299;;;196;0542400R;UN00;0542400R;235;LORRAINE
+405;86;BU Metz Bridoux;autre;;0;0;0;1;1;0;étudiant;;1;18252;372;372;44;0;50;;;;;1705;188;386;3965;;;;0542400R;UN01;0542400R;235;LORRAINE
+406;86;BU Sciences;autre;;0;0;0;1;1;0;mixte;;15,1;218517;5810;3916;647;121;58;;;;;2490;259;4213;37911;;;776;0542400R;Un02;0542400R;235;LORRAINE
+407;86;BU Metz Technopole;autre;;0;0;0;1;0;0;étudiant;;0;385;197;197;20;0;2;;;;;160;81;196;320;;;;0542400R;UN03;0542400R;235;LORRAINE
+408;86;Bibliothèque Américaine;autre;;0;0;1;0;0;1;étudiant;;3,1;12244;318;272;39;22;25;;;;;1109;236;698;6784;;;;0542400R;UN04;0542400R;235;LORRAINE
+409;86;BU Santé Médecine;autre;;0;0;0;0;1;0;mixte;;20,5;321833;6214;3018;850;50;55;;;;;2466;231;5743;46019;;;1534;0542400R;UN05;0542400R;235;LORRAINE
+410;86;BU Santé Pharmacie;autre;;0;0;0;0;1;0;mixte;;2;33539;1359;513;140;0;48,5;;;;;2125,5;227;1048;9885;;;;0542400R;UN06;0542400R;235;LORRAINE
+411;86;BU Lettres;autre;;0;0;1;0;0;0;mixte;;22,2;275275;8072;3576;840;41;57,5;;;;;2639;264;9342;50051;;;211;0542400R;UN07;0542400R;235;LORRAINE
+412;86;BU Droit;autre;;1;1;0;0;0;0;mixte;;17,7;331442;7623;1403;520;0;64;;;;;2947;275;16275;38753;;;130;0542400R;UN08;0542400R;235;LORRAINE
+413;86;BU Gestion;autre;;0;1;0;0;0;0;mixte;;7,3;85381;678;594;140;30;66,5;;;;;2027;195;652;12999;;;0;0542400R;UN09;0542400R;235;LORRAINE
+414;86;BU Ecoles Ingénieurs Brabois;autre;;0;0;0;1;0;0;mixte;;14,8;65882;3156;1766;300;88;55;;;;;2433,5;231;3548;9162;;;37;0542400R;UN10;0542400R;235;LORRAINE
+415;86;BU Ecoles Ingénieurs ENSIC;autre;;0;0;0;1;0;0;mixte;;3;42204;1114;712;164;0;58,25;;;;;2499;230;1003;3108;;;;0542400R;UN11;0542400R;235;LORRAINE
+416;86;BU Ecoles Ingénieurs GM-GSI;autre;;0;0;0;1;0;0;mixte;;2;22256;428;285;58;0;50;;;;;1971;210;313;3796;;;;0542400R;UN12;0542400R;235;LORRAINE
+1167;86;BU Ecoles Ingénieurs des Mines;autre;;0;0;0;1;0;0;mixte;;0;0;76;76;12;12;41;;;;;673;82;523;494;;;;0542400R;UN13;0542400R;235;LORRAINE
+417;86;BU Ecoles Ingénieurs ENSTIB;autre;;0;0;0;1;0;0;mixte;;2,2;22947;300;270;130;20;47,5;;;;;1923;213;224;2805;;;;0542400R;UN14;0542400R;235;LORRAINE
+418;86;BU ESPE Epinal;autre;;1;1;0;0;0;1;mixte;;1;10604;385;285;42;10;40;;;;;1581;201;580;9079;;;;0542400R;UN15;0542400R;235;LORRAINE
+419;86;BU ESPE Maxeville;autre;;1;1;0;0;0;1;mixte;;5;25855;556;510;70;0;46,5;;;;;1962;232;639;22349;;;;0542400R;UN16;0542400R;235;LORRAINE
+420;86;BU ESPE Montigny;autre;;1;1;0;0;0;1;mixte;;4;27167;1004;413;90;59;51,25;;;;;2059;205;676;33459;;;;0542400R;UN17;0542400R;235;LORRAINE
+421;86;BU ESPE Bar le Duc;autre;;1;1;0;0;0;1;mixte;;0;1461;166;120;16;8;36,5;;;;;1207;170;287;2667;;;;0542400R;UN18;0542400R;235;LORRAINE
+422;86;BU ESPE Sarreguemines;autre;;1;1;0;0;0;1;mixte;;0;8946;161;161;33;14;43,5;;;;;1632;207;169;6237;;;;0542400R;UN19;0542400R;235;LORRAINE
+423;86;BU IUT Charlemagne;autre;;1;1;1;1;0;0;étudiant;;3,8;44120;471;303;96;0;49;;;;;2263;231;1126;12704;;;;0542400R;UN20;0542400R;235;LORRAINE
+424;86;BU IUT Longwy;autre;;1;1;0;1;0;0;étudiant;;0;6768;159;159;49;34;34,5;;;;;1363;183;280;2026;;;3;0542400R;UN21;0542400R;235;LORRAINE
+425;86;BU IUT Saint Dié;autre;;1;1;1;1;0;0;étudiant;;1;4494;130;120;24;24;39,5;;;;;1499;205;82;1553;;;;0542400R;UN22;0542400R;235;LORRAINE
+426;86;BU IUT Epinal;autre;;1;1;1;1;0;0;étudiant;;0;5635;173;142;50;5;40,5;;;;;1466;191;129;1432;;;9;0542400R;UN23;0542400R;235;LORRAINE
+427;86;BU IUT Thionville;autre;;0;1;0;1;0;0;étudiant;;0,8;5930;150;120;61;54;29,25;;;;;1108;182;160;1697;;;;0542400R;UN24;0542400R;235;LORRAINE
+428;86;Bibliothèque fictive;autre;;1;1;1;1;1;1;mixte;;19,7;;;;;;;;;;;;;;;;;;0542400R;UN25;0542400R;235;LORRAINE
+429;86;BU Ecoles Ingénieurs ENIM;autre;;0;0;0;1;0;0;mixte;;2;10122;190;187;47;47;48,5;;;;;1818,5;210;93;830;;;;0542400R;UN26;0542400R;235;LORRAINE
+430;87;BU santé Lyon-Sud;autre;;0;0;0;0;1;0;mixte;;5;193210;500;;147;;80;;;;;3177;248;274;6746;157;;;0690246T;Un00;0690246T;236;LYON 1
+431;87;BU santé Rockefeller;autre;;0;0;0;0;1;1;mixte;;22,5;870419;4900;;761;63;91;;;;;3802;302;8083;34224;483;91;19;0690246T;Un01;0690246T;236;LYON 1
+432;87;BU sciences La Doua;autre;;1;1;1;1;1;1;mixte;;51,8;864770;12664;;954;72;90;;;;;3687;302;16231;83050;1069;897;82;0690246T;Un02;0690246T;236;LYON 1
+433;87;Centre de documentation - Département pharmaceutique santé p;associée;;0;0;0;0;1;0;mixte;2500;0,5;100;50;;10;;20;;;;;800;200;25;120;50;;;0690246T;UN04;0690246T;236;LYON 1
+434;87;BU Education Croix-Rousse;autre;;0;0;1;0;0;1;mixte;;9;125869;1300;;261;32;52;;;;;1994;251;2969;77694;977;167;;0690246T;UN05;0690246T;236;LYON 1
+435;87;BU sciences Gerland;autre;;0;1;0;1;0;0;mixte;;0,5;31277;269;185;24;13;40;;;;;1422;188;73;1169;13;;;0690246T;UN06;0690246T;236;LYON 1
+436;87;BU santé Odontologie;autre;;0;0;0;0;1;0;mixte;;2;30496;335;;100;;44;;;;;1632;229;482;2266;16;;;0690246T;UN07;0690246T;236;LYON 1
+437;87;BU sciences Mathématiques;autre;;0;0;0;1;0;0;recherche;;3,2;33350;700;;67;6;45;;;;;1818;212;1964;5652;100;;;0690246T;UN09;0690246T;236;LYON 1
+438;87;BU Education Bourg-en-Bresse;autre;;0;0;1;0;0;1;mixte;;1,5;9150;464;;86;;27;;;;;964;177;731;15239;61;21;;0690246T;UN11;0690246T;236;LYON 1
+439;87;BU Education Saint Etienne;autre;;0;0;1;0;0;1;mixte;;2,5;21248;554;;65;;36;;;;;1450;214;1391;26008;76;48;;0690246T;UN12;0690246T;236;LYON 1
+440;87;Bibliothèque IUT - Bourg en Bresse;associée;;1;1;0;1;1;1;étudiant;15409;1;20072;221;174;58;20;45,5;;;;;1786,5;205;135;962;;26;;0690246T;UN15;0690246T;236;LYON 1
+441;87;Bibliothèque IUT - DOUA Villeurbanne;associée;;1;1;1;1;1;1;mixte;46144;3;25377;370;291;100;;45,5;;;;;1574;173;184;2945;;;;0690246T;UN16;0690246T;236;LYON 1
+442;87;Bibliothèque IUT - Gratte-ciel Villeurbanne;associée;;1;1;0;1;0;1;étudiant;19863;3;44417;355;347;137;18;45,25;;;;;1579,5;170;126;773;;;;0690246T;UN17;0690246T;236;LYON 1
+443;87;IPNL-Doc;associée;;0;0;0;1;0;0;mixte;;1,8;;;;30;0;50;;;;;2400;240;;;;;;0690246T;UN18;0690246T;236;LYON 1
+444;87;Bibliothèque-cartothèque Sciences de la Terre;associée;;0;0;0;1;0;0;mixte;3861;1,4;1082;696;237;28;;35;;;;;1365;195;2900;662;;;;0690246T;UN19;0690246T;236;LYON 1
+445;88;Affaires générales;autre;;1;1;1;0;0;0;mixte;;31,2;;;;;;;;;;;;;;;;;;0693782L;UN00;0693782L;237;LYON 2
+446;88;Cartothèque;associée;;0;0;1;0;0;0;mixte;3500;1,7;;240;;48;;35;;;;;1540;220;500;;;;;0693782L;UN01;0693782L;237;LYON 2
+447;88;CFMI;associée;;0;0;1;0;0;1;étudiant;6912;0,5;4000;80;;17;10;40;;;;;1640;205;34;1500;0;250;0;0693782L;UN03;0693782L;237;LYON 2
+448;88;Bibliothèque Universitaire Chevreul;autre;;1;1;1;0;0;0;mixte;;16,3;556545;5602;4428;668;117;68;;;;;2725;250;5105;82830;;449;37;0693782L;UN04;0693782L;237;LYON 2
+449;88;Bibliothèque Universitaire Bron;autre;;1;1;1;0;0;0;mixte;;15,6;312602;6438;4751;738;35;50;;;;;2149;225;8390;101830;;1062;32;0693782L;Un06;0693782L;237;LYON 2
+450;88;SCUIO-IP;associée;;0;0;0;0;0;1;mixte;11500;1;2067;150;150;35;35;27;;;;;1147;192;;;;;;0693782L;UN07;0693782L;237;LYON 2
+451;88;Laboratoire Aménagement et économie des transports (LAET);associée;;0;1;1;0;0;1;mixte;8137;1;;31;;14;;;;;;;;;;;;;;0693782L;UN08;0693782L;237;LYON 2
+452;88;IEB;associée;;0;0;1;0;0;1;mixte;;1;1000;47;25;25;4;20;;;;;630;130;55;;70;2;;0693782L;UN11;0693782L;237;LYON 2
+453;88;Centre Max Weber;associée;;0;0;1;0;0;0;recherche;4385;0,4;;18;15;10;0;38,5;;;;;1940;252;30;;;;;0693782L;UN13;0693782L;237;LYON 2
+454;88;CIHAM UMR 5648;associée;;0;0;1;0;0;0;mixte;12582;1,1;;55;35;19;6;28,75;;;;;1286;226;310;109;450;;;0693782L;UN14;0693782L;237;LYON 2
+455;88;GATE;associée;;0;1;0;0;0;0;mixte;12408;1;;49;;10;;42,5;;;;;1275;215;61;28;;;;0693782L;UN15;0693782L;237;LYON 2
+456;88;MOM;associée;;0;0;1;0;0;1;mixte;99563;9,8;;2000;;137;;41;;;;;;190;;;;;;0693782L;UN16;0693782L;237;LYON 2
+457;88;IUT;associée;;0;1;1;0;0;1;mixte;17435;1;14000;330;300;69;61;48,5;;;;;2037;210;75;280;7200;;;0693782L;UN19;0693782L;237;LYON 2
+458;89;Droit - Philosophie;autre;;1;0;1;0;0;1;mixte;;;163577;1756;1233;184;0;70;;;;;2943,5;259;1302;51092;;2677;;0693783M;Un00;0693783M;238;LYON 3
+459;89;BU Lyon 3;autre;;1;1;1;0;0;1;mixte;;;;;;;;;;;;;;;;;;;;0693783M;UN01;0693783M;238;LYON 3
+460;89;Salle de lecture de la MILC;autre;;0;0;1;0;0;0;recherche;;;36437;400;400;42;10;59,5;;;;;2745;259;976;2272;;0;;0693783M;UN02;0693783M;238;LYON 3
+461;89;Manufacture;autre;;1;1;1;0;0;0;mixte;;;823328;6870;4506;960;289;70;;;;;3094,5;270;2934;146348;;2604;;0693783M;Un05;0693783M;238;LYON 3
+462;90;SCD Doc'INSA - Bibliothèque Marie Curie;autre;;0;0;0;1;0;0;mixte;;23,1;299876;4000;3150;650;254;73;;;;;2750;245;3906;20448;35000;549;;0690192J;UN01;;239;LYON INSA
+463;91;Bibliothèque - Fondation Maison des Sciences de l'Homme;autre;;1;0;1;0;0;0;recherche;;32,3;8128;646;390;48;0;45;;;;;1354;144;10246;5780;;8412;0;0753655R;Un00;;242;Maison des sciences de l'Homme (Fondation)
+464;92;Bibliothèque fictive;Autre;;0;0;0;0;0;0;;579780;49,4;;;;;;;;;;;;;111;;;;;0772522Y;UN00;0772522Y;243;MARNE-LA-VALLEE
+465;92;Georges Perec;autre;;1;1;1;1;0;0;mixte;;37,1;164083;8600;6100;753;100;58;;;;;2425;;4352;21192;;18;0;0772522Y;UN01;0772522Y;243;MARNE-LA-VALLEE
+466;92;Arts et Multimédia (A David-Néel);autre;;0;0;0;0;0;1;étudiant;;1;9604;200;187;37;0;40;;;;;1399,5;183;187;1659;;561;0;0772522Y;UN02;0772522Y;243;MARNE-LA-VALLEE
+467;92;Copernic Recherche;autre;;0;0;0;1;0;1;recherche;;1;457;445;440;20;0;24;;;;;735;123;582;203;;5;0;0772522Y;UN03;0772522Y;243;MARNE-LA-VALLEE
+468;92;IUT Site de Champs;autre;;0;0;0;0;0;1;étudiant;;1;8165;130;130;36;0;42;;;;;1559;191;191;681;;0;0;0772522Y;UN04;0772522Y;243;MARNE-LA-VALLEE
+469;92;IUT Site de Meaux;autre;;0;1;0;0;0;1;étudiant;;2,5;27418;337;317;80;25;45;;;;;1614;180;192;485;;0;0;0772522Y;UN05;0772522Y;243;MARNE-LA-VALLEE
+470;92;Tourisme Management;autre;;0;1;0;1;0;1;mixte;;3;10520;177;160;40;0;46,5;;;;;1716,5;200;257;2758;;0;0;0772522Y;UN06;0772522Y;243;MARNE-LA-VALLEE
+471;93;Bibliothèque MAZARINE;autre;;1;0;1;1;0;1;mixte;;32;14336;3200;524;140;20;40;;;;;1876;242;13788;74;1300;4929;0;0754945T;Un00;0754945T;245;MAZARINE
+472;94;Droit Economie Gestion;autre;;1;1;0;0;0;0;mixte;;32,15;478791;13700;7300;1554;228;63;;;;;2643;260;7811;62219;57564;2643;329;0340834X;Un00;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+473;94;Lettres Montpellier;autre;;0;0;1;0;0;0;mixte;;38,75;657033;11697;6115;1239;8;63,5;;;;;2636,5;252;13182;154519;36120;18537;170;0340834X;Un01;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+474;94;Médecine Nîmes;autre;;0;0;0;0;1;0;mixte;;5,25;179165;1126;995;331;8;82,5;;;;;3281,5;290;526;12396;16240;453;942;0340834X;Un02;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+1168;94;Médecine CV (jusqu'au 31 août 2017);autre;;0;0;0;0;1;0;mixte;;6,1;35456;2122;402;120;0;45;;;;;1305;145;6583;1048;;;0;0340834X;Un03;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+475;94;Odontologie;autre;;0;0;0;0;1;0;mixte;;1,3;45756;620;504;71;0;56;;;;;2273,5;211;169;984;;;0;0340834X;UN04;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+476;94;Pharmacie;autre;;0;0;0;0;1;0;mixte;;9,3;210069;1688;1384;377;0;70;;;;;2798;215;1606;7341;9352;476;173;0340834X;UN05;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+477;94;Sciences;autre;;0;0;0;1;0;0;mixte;;19,96;439540;6895;4491;891;50;72,5;;;;;3021;222;6481;36301;;257;0;0340834X;Un06;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+478;94;Médecine UPM;autre;;0;0;0;0;1;0;mixte;;11,7;210447;1467;1287;300;27;70;;;;;2859,5;216;568;13914;17928;41;82;0340834X;Un07;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+479;94;Services Centraux;autre;;0;0;0;0;0;1;;;31,73;;0;0;0;0;;;;;;;;;;;;;0340834X;UN08;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+480;94;STAPS;autre;;0;0;0;1;0;0;mixte;;1,45;28872;220;195;84;0;43;;;;;1493;175;160;4851;381;0;0;0340834X;UN09;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+481;94;IUT Montpellier et antenne Sète;autre;;0;0;0;1;0;0;étudiant;;1;23545;370;370;97;97;39;;;;;1585;169;300;590;;;;0340834X;UN10;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+482;94;IUT Nîmes;autre;;0;0;0;1;0;0;étudiant;;1,06;;210;210;40;0;55;;;;;638;39;456;177;;;;0340834X;UN11;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+483;94;Lettres Béziers;autre;;0;0;0;0;0;1;étudiant;;1;9000;400;350;80;0;47,5;;;;;1809,52;206;463;1274;;4;0;0340834X;UN12;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+484;94;IUT Béziers;autre;;0;0;0;1;0;0;étudiant;;1;;100;100;52;16;36;;;;;1454;202;64;179;;;;0340834X;UN13;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+485;94;Lettres Saint-Charles;autre;;0;0;1;0;0;0;recherche;;4,15;88520;1000;940;120;0;68;;;;;2724;252;1254;6494;6048;20;45;0340834X;UN14;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+486;94;Bibliothèque UFR Droit-sciences politiques;associée;;1;0;0;0;0;0;étudiant;21550;3,6;;342;322;147;0;50;;;;;2290;231;406;0;;0;0;0340834X;UN15;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+487;94;UM-FDE-11 Carcassonne;associée;;0;0;0;0;0;1;mixte;7475;1;9288;254;238;50;0;27;;;;;1281;204;378;4529;;20;0;0340834X;UN16;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+488;94;UM-FDE-48 Mende;associée;;0;0;0;0;0;1;mixte;4366;1;4548;146;;34;;30,5;;;;;1244;204;55;3743;;5;0;0340834X;UN17;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+489;94;UM-FDE-66 Perpignan;associée;;0;0;0;0;0;1;mixte;10430;2;21524;232;202;48;6;39;;;;;1590;204;509;8485;;51;0;0340834X;UN18;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+490;94;UM-FDE-34 Montpellier;associée;;0;0;0;0;0;1;mixte;16001;2,8;51575;435;401;94;0;44;;;;;1876;220;1105;25571;;23;39;0340834X;UN19;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+491;94;UM-FDE-30 Nîmes;associée;;0;0;0;0;0;1;étudiant;10576;2;;350;350;55;0;33;;;;;1346;204;1005;10710;;5;0;0340834X;UN20;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+492;94;UM-FDE-Montpellier Cedhre;associée;;0;0;0;0;0;1;mixte;1735;1,5;;112;50;6;0;;;;;;;;364;0;;;0;0340834X;UN21;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+493;94;UPV-Bibliothèque Danny Serrato AES;associée;;0;1;0;0;0;0;étudiant;;0,6;;135;;8;;;;;;;;;324;116;;;;0340834X;UN22;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+494;94;UPV-Bibliothèque d'allemand;associée;;0;0;1;0;0;0;étudiant;;0;;63;;12;;;;;;;;60;210;;;;;0340834X;UN23;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+495;94;UPV-Bibliothèque d'arabe;associée;;0;0;1;0;0;0;étudiant;;0;;20;;8;;;;;;;;;39;;;;;0340834X;UN24;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+496;94;UPV-bibliothèque biologie, écologie, environnement;associée;;0;0;0;1;0;0;mixte;0;0;;12;;4;0;;;;;;;;81;;;;;0340834X;UN25;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+497;94;UPV-bibliothèque de l'ITIC;associée;;0;0;1;0;0;0;étudiant;7399;1;;120;;20;;35;;;;;1330;190;188;1629;;;;0340834X;UN26;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+498;94;UPV-bibliothèque des arts;associée;;0;0;1;0;0;0;étudiant;737;0,5;;72;;26;;36;;;;;1311;166;105;222;;;;0340834X;UN27;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+499;94;UPV-bibliothèque d'occitan;associée;;0;0;1;0;0;0;étudiant;;0;;44;;21;;;;;;;;130;102;56;;;;0340834X;UN28;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+500;94;UPV-bibliothèque François Daumas égyptologie;associée;;0;0;1;0;0;0;mixte;1;;4202;289;;26;;37;;;;;1582;316;894;;;;;0340834X;UN29;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+501;94;UPV-bibliothèque hispanique;associée;;0;0;1;0;0;0;étudiant;1702;1,3;1326;266;;68;;29;;;;;792;200;405;721;;;;0340834X;UN30;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+502;94;UPV-CDPS IEFE;associée;;0;0;1;0;0;0;étudiant;;1;;1332;;50;;;;;;;;;;;;;;0340834X;UN31;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+503;94;UPV-centre de documentation langue et littérature italiennes;associée;;0;0;1;0;0;0;étudiant;350;0;;60;;24;;25;;;;;600;120;108;;;;;0340834X;UN32;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+504;94;UPV-bibliothèque Louis Roussel grec moderne;associée;;0;0;1;0;0;0;étudiant;0;0;;45;;20;;;;;;;;180;32;;;;;0340834X;UN33;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+505;94;UPV-CDPS Lettres-philosophie;associée;;0;0;1;0;0;0;étudiant;4115;1;68299;315;273;68;;48;;;;;1634;190;685;1607;;;;0340834X;UN34;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+506;94;UPV-bibliothèque de portugais;associée;;0;0;1;0;0;0;étudiant;;0;;44;;16;;;;;;;;130;109;;;;;0340834X;UN35;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+507;94;UM-bibliothèque du LIRMM;associée;;0;0;0;1;0;0;mixte;2500;1;;60;50;9;8;28,5;;;;;5415;190;60;;;;;0340834X;UN36;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+508;94;UPV-CDPS Castets;associée;;0;0;1;0;0;0;étudiant;5100;0,8;;492;;92;;45;;;;;1890;210;526;1356;;;;0340834X;UN37;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+509;94;UPV-CDPS géographie;associée;;0;0;1;0;0;0;étudiant;1350;1;;205;;40;;29;;;;;1350;225;450;632;;;;0340834X;UN38;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+510;94;UPV-CDPS histoire;associée;;0;0;1;0;0;0;étudiant;;0,8;;190;;40;;;;;;;;;522;;;;;0340834X;UN39;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+511;94;UM-bibliothèque du LMGC;associée;;0;0;0;1;0;0;recherche;3400;1;;;;3;0;38;;;;;;;;75;;;;0340834X;UN40;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+512;94;UPV-CDPS lettres classiques;associée;;0;0;1;0;0;0;étudiant;673;0;;64;;18;;12;;;;;400;93;170;;;;;0340834X;UN41;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+513;94;UPV-CDPS sujet et sociétés - psycho;associée;;0;0;1;0;0;0;étudiant;0;1;;126;;24;;;;;;;;;211;1951;;;;0340834X;UN42;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+514;94;UPV-Bibliothèque de chinois;associée;;0;0;1;0;0;0;étudiant;;0;;43;;16;;;;;;;;130;54;;;;;0340834X;UN43;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+515;94;UPV-Bibliothèque slave;associée;;0;0;1;0;0;0;étudiant;;0;;44;;21;;;;;;;;130;80;;;;;0340834X;UN44;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+516;94;UPV-bibliothèque d'hébreu;associée;;0;0;1;0;0;0;étudiant;0;0;;20;;8;;;;;;;;;18;;;;;0340834X;UN45;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+517;94;UPV-bibliothèque Charles Dugas - archéologie;associée;;0;0;1;0;0;0;étudiant;3000;1;1015;133;;33;;30;;;;;1116;186;265;;;;;0340834X;UN46;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+518;94;UPV-bibliothèque d'archéologie de Lattes;associée;;0;0;1;0;0;0;mixte;;2;;110;;20;;30;;;;;;;425;;;;;0340834X;UN47;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+519;94;UPV-bibliothèque du Dipralang;associée;;0;0;1;0;0;0;recherche;;0,5;;;;;;;;;;;;;79;;;;;0340834X;UN48;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+520;94;Bibliothèque universitaire historique de médecine;autre;;0;0;0;0;1;1;mixte;;3,9;8008;2122;402;120;0;40;;;;;840;105;6583;292;;1981;0;0340834X;UN49;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+521;94;UM-bibliothèque de l'ISEM;associée;;0;0;0;1;0;0;mixte;;;;120;;10;;;;;;;;;;;;;;0340834X;UN50;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+522;94;UM-bibliothèque Géosciences;associée;;0;0;0;1;0;0;recherche;;;;100;40;10;;;;;;;;;;;;;;0340834X;UN51;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+523;94;Direction SCD UM;autre;;1;1;1;1;1;0;mixte;;3,9;;50;;0;;;;;;;;;;;;;;0340834X;UN52;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+524;94;UM-bibliothèque AMAP;associée;;0;0;0;1;0;0;recherche;4445;1;;54;54;1;0;33;;;;;1500;300;160;;;;;0340834X;UN53;0340834X;247;MONTPELLIER (M1 + M2 +M3 puis M Univ  + M3 au 1-1-2015)
+1169;95;BUSIM;Associée;;0;0;1;0;0;0;mixte;3737;1,2;;639;398;20;6;55,5;;;;;2201;1963;1963;342;3520;16;;0680115F;Un00;0680115F;250;MULHOUSE
+525;95;Bibliothèque de Colmar;autre;;1;1;0;0;0;0;mixte;27606;7,4;88509;1993;1710;308;60;54,5;;;;;2245;223;641;5143;3978;0;47;0680115F;Un01;0680115F;250;MULHOUSE
+1170;95;services SCD;autre;;0;0;0;0;0;0;;;;;;;;;;;;;;;;;;;;;0680115F;UN02;0680115F;250;MULHOUSE
+526;95;Bibliothèque des Collines (IUT);autre;;0;1;0;0;0;0;mixte;12417;2,7;31688;320;320;92;32;53;;;;;1911;32;219;2491;670;0;10;0680115F;UN03;0680115F;250;MULHOUSE
+527;95;Bibliothèque de l'Illberg;autre;;0;0;1;1;0;0;mixte;46054;9,7;77008;1420;1175;216;19;63;;;;;2532;257;1883;23982;4300;2164;2333;0680115F;UN04;0680115F;250;MULHOUSE
+528;95;Bibliothèque de la Fonderie;autre;;1;1;0;0;0;0;mixte;41174;4,9;82602;1820;1159;222;28;55,5;;;;;2201;239;1220;15109;27203;4;234;0680115F;UN06;0680115F;250;MULHOUSE
+529;97;Bibliothèque centrale du Muséum;autre;;0;0;1;1;0;0;mixte;;;70854;10080;1141;232;28;;;;;;;;;;;;;0753494R;UN00;;252;Museum national d'histoire naturelle
+1171;97;Bibliothèque spécialisée Mammifères et Oiseaux;autre;;0;0;0;1;0;0;recherche;;;98;122;5;4;;;;;;;;;;;;;;0753494R;UN01;;252;Museum national d'histoire naturelle
+530;97;Bibliothèque spécialisée Ichtyologie;autre;;0;0;0;1;0;0;recherche;;;215;134;32;8;;;;;;;;;;;;;;0753494R;UN02;;252;Museum national d'histoire naturelle
+531;97;Bibliothèque spécialisée Crustacés;autre;;0;0;0;1;0;0;recherche;;;300;52;;2;;;;;;;;;;;;;;0753494R;UN03;;252;Museum national d'histoire naturelle
+532;97;Bibliothèque spécialisée Musée de l'Homme;autre;;0;0;1;1;0;0;mixte;;;2486;600;200;28;;;;;;;;;;;;;;0753494R;UN04;;252;Museum national d'histoire naturelle
+533;97;Bibliothèque spécialisée Cultures;autre;;0;0;1;1;0;0;mixte;;;15;105;;2;;;;;;;;;;;;;;0753494R;UN05;;252;Museum national d'histoire naturelle
+534;97;Bibliothèque spécialisée Paléontologie;autre;;0;0;0;1;0;0;recherche;;;800;152;20;4;;;;;;;;;;;;;;0753494R;UN06;;252;Museum national d'histoire naturelle
+535;97;Bibliothèque spécialisée géologie;autre;;0;0;0;1;0;0;recherche;;;300;227;30;8;;;;;;;;;;;;;;0753494R;UN07;;252;Museum national d'histoire naturelle
+536;97;Bibliothèque spécialisée malacologie;autre;;0;0;0;1;0;0;recherche;;;150;120;;6;;;;;;;;;;;;;;0753494R;UN08;;252;Museum national d'histoire naturelle
+537;97;Bibliothèque spécialisée biologie parasitaire;autre;;0;0;0;1;1;0;recherche;;;100;84;60;12;;;;;;;;;;;;;;0753494R;UN09;;252;Museum national d'histoire naturelle
+538;97;Bibliothèque spécialisée anatomie comparée;autre;;0;0;0;1;0;0;recherche;;;200;78;48;6;;;;;;;;;;;;;;0753494R;UN11;;252;Museum national d'histoire naturelle
+539;97;Bibliothèque spécialisée botanique;autre;;0;0;0;1;0;0;recherche;;;600;545;;10;;;;;;;;;;;;;;0753494R;UN12;;252;Museum national d'histoire naturelle
+540;97;Bibliothèque spécialisée entomologie;autre;;0;0;0;1;0;0;recherche;;;900;180;;8;;;;;;;;;;;;;;0753494R;UN13;;252;Museum national d'histoire naturelle
+541;97;Bibliothèque spécialisée anthropologie maritime;autre;;0;0;1;0;0;0;mixte;;;59;51;25;5;;;;;;;;;;;;;;0753494R;UN14;;252;Museum national d'histoire naturelle
+542;97;Bibliothèque spécialisée écologie;autre;;0;0;0;1;0;0;recherche;;;744;61;;4;;;;;;;;;;;;;;0753494R;UN15;;252;Museum national d'histoire naturelle
+543;97;Bibliothèque spécialisée reptiles et amphibiens;autre;;0;0;0;1;0;0;recherche;;;100;62;;2;;;;;;;;;;;;;;0753494R;UN16;;252;Museum national d'histoire naturelle
+544;98;BU La Roche-sur-Yon;autre;;1;1;1;1;0;1;mixte;;5;90356;1318;1068;274;104;53;;;;;2086;235;1036;15322;;;938;0440121T;Un00;0440121T;257;NANTES
+545;98;BA08 CDMO;associée;;1;0;0;0;0;0;recherche;2755;0;;85;;15;;35;;;;;1421;203;45;0;;;0;0440121T;UN01;0440121T;257;NANTES
+546;98;BU Saint-Nazaire;autre;;0;0;0;1;0;0;mixte;;1,8;26294;737;700;130;12;45;;;;;1815,5;217;415;7078;;252;0;0440121T;Un02;0440121T;257;NANTES
+547;98;BU Santé;autre;;0;0;0;0;1;0;mixte;;20,4;648024;6400;5200;660;48;104,5;;;;;4225,3;311;6029;19826;19330;500;281;0440121T;Un03;0440121T;257;NANTES
+548;98;BU Sciences, technologie et STAPS - site Lombarderie;autre;;0;0;0;1;0;0;mixte;;17,9;216267;4638;2362;646;23;57;;;;;2521;265;3661;22466;9730;54;826;0440121T;Un04;0440121T;257;NANTES
+549;98;BU Lettres, sciences humaines et sociales;autre;;0;0;1;0;0;0;mixte;;32,8;348474;7837;3795;866;75;57;;;;;2561,5;270;9547;111836;;4344;6666;0440121T;UN05;0440121T;257;NANTES
+550;98;BU Droit, économie, gestion;autre;;1;1;0;0;0;0;mixte;;23,7;385498;6000;4155;712;58;57;;;;;2590,5;273;4361;53605;;3334;696;0440121T;UN06;0440121T;257;NANTES
+551;98;BU Sciences, technologie et STAPS - site Chantrerie;autre;;0;0;0;1;0;1;mixte;;3;34905;662;464;150;80;49;;;;;2137;235;509;3598;3;37;8;0440121T;UN07;0440121T;257;NANTES
+552;98;BA01 Psychologie;associée;;0;0;1;0;0;0;mixte;8000;1,5;4365;227;198;50;24;30;;;;;1260;210;311;1260;;;0;0440121T;UN08;0440121T;257;NANTES
+553;98;BA04 Sociologie F.-Mollé;associée;;0;0;1;0;0;0;mixte;5200;1;4750;172;172;55;40;33;;;;;1350;201;196;3522;;;12;0440121T;UN09;0440121T;257;NANTES
+554;98;BA02 Lettres anciennes et Philosophie;associée;;0;0;1;0;0;0;mixte;5638;0,9;3105;224;224;22;0;16;;;;;1108;154;756;4482;;;;0440121T;UN10;0440121T;257;NANTES
+555;98;BA03 CRHIA Paul-Bois;associée;;0;0;1;0;0;0;mixte;9487;2;;;208;28;6;31;;;;;1216;287;848;1981;;;;0440121T;UN12;0440121T;257;NANTES
+556;98;BA05 CIDRe-CREN;associée;;0;0;1;0;0;0;mixte;2942;0,6;13390;193;193;27;0;21;;;;;1513;198;651;2239;;;0;0440121T;UN13;0440121T;257;NANTES
+557;98;BA06 IGARUN Géothèque André-Vigarié;associée;;0;0;1;0;0;0;mixte;8500;1;;100;100;38;;29;;;;;1206;208;400;729;;;0;0440121T;UN15;0440121T;257;NANTES
+558;98;BA07 i-FLE Service universitaire des langues (SUL);associée;;0;0;1;0;0;0;mixte;2799;0,5;;47;;18;;35;;;;;1330;190;38;2131;;;0;0440121T;UN16;0440121T;257;NANTES
+559;98;BA09 DCS;associée;;1;0;0;0;0;0;recherche;12131,46;0,2;;50;50;20;0;35;;;;;1617;231;65;0;;;0;0440121T;UN17;0440121T;257;NANTES
+560;98;BA10 IEMN-IAE;associée;;0;1;0;0;0;0;mixte;24169;1;1500;175;150;36;10;53;;;;;2130;210;272;1292;;;0;0440121T;UN18;0440121T;257;NANTES
+561;98;BA11 Institut de recherche en droit privé (IRDP);associée;;1;0;0;0;0;0;recherche;7452,18;0,3;;90;70;30;6;35;;;;;1421;203;88;0;;;0;0440121T;UN19;0440121T;257;NANTES
+562;98;BA12 Centre Fançois-Viète (CFV);associée;;0;0;1;1;0;0;mixte;920;0,2;;37;37;0;0;36;;;;;1456;208;228;40;;;0;0440121T;UN20;0440121T;257;NANTES
+563;98;BA13 Centre régional de documentation mathématique (CRDM);associée;;0;0;0;1;0;0;recherche;85350;1,8;2400;350;;52;10;41;;;;;1876;232;849;720;;;0;0440121T;UN21;0440121T;257;NANTES
+564;98;BA14 Documentation d'Odontologie;associée;;0;0;0;0;1;0;mixte;8933;1;7056;80;80;50;0;38;;;;;1593;225;136;0;;;0;0440121T;UN22;0440121T;257;NANTES
+565;98;BA15a Centre de ressources documentaires de l'ESPE-Nantes;associée;;0;0;1;0;0;0;mixte;22638;4,8;44453;1150;726;186;82;46;;;;;1893;203;861;21745;;;0;0440121T;UN23;0440121T;257;NANTES
+566;98;BA15b Centre de ressources documentaires de l’ESPE – Angers;associée;;0;1;1;0;0;0;mixte;12082;2,8;29700;300;250;62;8;48;;;;;1737;197;593;16300;;;;0440121T;UN24;0440121T;257;NANTES
+567;98;BA15c Centre de ressources documentaires de l’ESPE - Laval;associée;;0;0;1;0;0;0;mixte;6300;1,5;10252;200;200;32;32;49;;;;;1876;254;157;4022;;;0;0440121T;UN25;0440121T;257;NANTES
+568;98;BA15d Centre de ressources documentaires de l’ESPE – Le Mans;associée;;0;0;1;0;0;0;mixte;11284;2;31109;430;348;60;23;50;;;;;2002;211;424;13438;;;;0440121T;UN26;0440121T;257;NANTES
+569;98;Direction-Administration;autre;;0;0;0;0;0;0;mixte;;16;0;;0;0;0;0;;;;;0;0;0;0;0;0;0;0440121T;UN27;0440121T;257;NANTES
+570;98;BA16a IUT de Nantes - site de Nantes-Joffre;associée;;1;1;1;1;0;0;mixte;4230;1,5;11556;200;200;58;0;43;;;;;1757;185;192;1357;;;;0440121T;UN28;0440121T;257;NANTES
+571;98;BA16b IUT de Nantes - site de Carquefou (Fleuriaye);associée;;0;0;0;1;0;0;mixte;8319,09;1,5;11751;300;300;75;8;43,25;;;;;1500;178;74;674;;;;0440121T;UN29;0440121T;257;NANTES
+572;98;BA17 IUT de Saint-Nazaire;associée;;0;0;0;1;0;1;étudiant;1110;2;42210;247;227;88;68;45;;;;;1665;181;121;1508;;;0;0440121T;UN30;0440121T;257;NANTES
+573;99;BU Droit;autre;;1;0;0;0;0;0;mixte;0;13,4;226979;5117;3408;757;38;60;;;;;2431;246;5487;19087;30550;1462;785;0060634G;Un00;;260;NICE
+574;99;BU STAPS;autre;;0;0;0;1;0;0;mixte;0;1,5;33484;360;345;80;24;40,5;;;;;1559;200;183;2677;1890;0;428;0060634G;UN01;;260;NICE
+575;99;BU Médecine;autre;;0;0;0;0;1;0;mixte;0;10,1;127263;1100;500;157;0;60;;;;;2426,5;246;1722;7389;8131;16;527;0060634G;UN02;;260;NICE
+576;99;BU Sciences;autre;;0;0;0;1;1;0;mixte;0;12,8;239511;3258;2432;587;12;60;;;;;2447;246;1671;12242;2350;21;2315;0060634G;UN03;;260;NICE
+577;99;BU Saint Jean d'Angély;autre;;0;1;1;0;1;0;mixte;0;9,8;509955;2898;2432;433;18;100;;;;;4051;306;1364;15120;18767;18;5469;0060634G;Un04;;260;NICE
+578;99;BU Lettres, Arts, Sciences Humaines - Henri Bosco;autre;;0;0;1;0;0;0;mixte;0;18,2;351352;5197;3408;832;32;60;;;;;2446;246;9622;39570;39997;961;2765;0060634G;UN05;;260;NICE
+579;99;BU Médecine - Antenne de l'Archet;autre;;0;0;0;0;1;0;mixte;0;0;16096;198;135;37;0;44;;;;;2119,5;223;249;1279;210;0;0;0060634G;UN06;;260;NICE
+580;99;Learning Centre Sophia Tech;autre;;0;0;0;1;0;0;mixte;0;2,8;68879;470;450;160;40;70,5;;;;;3017,5;266;105;2006;141;0;389;0060634G;UN07;;260;NICE
+581;99;SIDOC / DAG;autre;;0;0;0;0;0;1;mixte;0;17,8;0;350;0;0;0;0;;;;;0;0;0;0;0;0;0;0060634G;UN08;;260;NICE
+592;100;SCD de l'Université de Nîmes Fictive;autre;;1;1;1;1;0;0;mixte;;10,3;;;;;;;;;;;;;;;;;;0301687W;UN00;;262;NIMES
+593;100;SCD de L'Université de Nîmes-Site Vauban;autre;;1;1;1;1;0;0;mixte;;;136142;3073;2322;412;76;58,5;;;;;2514,5;255;1913;18944;;158;;0301687W;UN01;;262;NIMES
+594;100;SCD de L'Université de Nîmes-Site Hoche;autre;;0;0;1;0;0;0;mixte;;;3128;73;73;8;4;31;;;;;849,75;;140;868;;;;0301687W;UN02;;262;NIMES
+595;101;Bibliothèque Universitaire centrale;autre;;1;1;1;1;1;1;mixte;194167,3;13;145108;2150;1702;450;108;72,5;;;;;2349;197;1720;18006;;48;;9830606S;UN00;9830606S;263;NOUVELLE CALEDONIE
+596;101;Bibliothèque ESPE Nouville;autre;;0;0;1;1;0;1;mixte;69078,2;2,2;12437;236;208;51;4;50;;;;;2300;228;345;8788;;149;;9830606S;UN01;9830606S;263;NOUVELLE CALEDONIE
+597;101;Médiathèque Universitaire - Antenne de Wallis et Futuna;autre;;0;0;0;0;0;1;mixte;5224,85;1;1018;115;115;33;8;37;;;;;1641;230;219;1001;;;;9830606S;UN02;9830606S;263;NOUVELLE CALEDONIE
+598;102;Bibliothèque;autre;;0;0;0;0;0;0;;;;2980;;;;;;;;;;;;;;;;;0753496T;UN00;;265;Observatoire de Paris
+599;102;Section de Meudon;autre;;0;0;0;1;0;0;recherche;;;1650;774;191;33;0;168;;;;;8760;365;2970;492;;;;0753496T;UN01;;265;Observatoire de Paris
+600;102;Bibliothèque Paris;autre;;0;0;0;1;0;0;recherche;;;1692;700;;14;0;45;;;;;2241;250;2172;317;;1089;;0753496T;UN02;;265;Observatoire de Paris
+601;102;Bibliothèque fictive;autre;;0;0;1;1;0;0;recherche;;;;0;0;0;0;;;;;;;;;;;;;0753496T;UN03;;265;Observatoire de Paris
+602;102;Bibliothèque de l'IMCCE;associée;;0;0;0;1;0;0;recherche;;;;30;30;4;0;168;;;;;8760;365;255;;;;;0753496T;UN04;;265;Observatoire de Paris
+603;103;Centre de documentation;;;0;0;0;0;0;0;;;;;;;;;;;;;;;;;;;;;0922641W;UN00;;267;ONERA-Office national d'études et de recherches aérospatiales
+604;104;B.U. Bourges;autre;;1;1;0;1;0;0;mixte;;4,07;36307;780;426;125;65;50;;;;;2055;222;586;2691;;14;;0450744P;UN01;0450744P;269;ORLEANS
+605;104;IUT Chartres;associée;;1;1;0;1;0;1;étudiant;3330,75;1;;95;95;28;;37,5;;;;;1426,5;189;43;236;;;;0450744P;UN02;0450744P;269;ORLEANS
+606;104;B.U. Lettres, Langues et Sciences humaines;autre;;0;0;1;0;0;0;mixte;;9,11;105138;3099;1297;220;12;60;;;;;2535;228;5021;28504;11765;2171;;0450744P;UN03;0450744P;269;ORLEANS
+607;104;B.U. Sciences, Technologies, STAPS;autre;;0;0;0;1;1;0;mixte;83593;10,38;206409;2801;1460;356;30;60;;;;;2594,5;226;3202;38837;;441;;0450744P;UN04;0450744P;269;ORLEANS
+608;104;B.U. Droit, Economie, Gestion;autre;;1;1;0;0;0;0;mixte;;11,16;227576;3456;1676;405;112;69;;;;;2686;245;4932;34494;;1271;;0450744P;UN05;0450744P;269;ORLEANS
+609;104;IUT Indre Châteauroux;associée;;0;1;0;0;0;1;mixte;3865,93;1;;168;168;34;;48,75;;;;;1950;200;70;456;;;;0450744P;UN06;0450744P;269;ORLEANS
+610;104;IUT Indre Issoudun;associée;;0;1;0;0;0;1;mixte;3608;1;;119;119;30;0;37,5;;;;;1500;200;46;275;;;;0450744P;UN07;0450744P;269;ORLEANS
+611;104;Centre d'Etudes Supérieures Châteauroux;associée;;1;1;1;0;0;0;étudiant;18900;1,93;;342;332;70;;49;;;;;2010;230;200;2232;;;;0450744P;UN08;0450744P;269;ORLEANS
+612;104;Bibliothèque de l'antenne du Collegium sciences et technique;associée;;0;0;0;1;0;1;étudiant;2184,16;1;;364;364;68;60;34;;;;;1872;234;36;170;;;;0450744P;UN09;0450744P;269;ORLEANS
+613;104;Centre Universitaire d'Etudes juridiques Bourges;associée;;1;1;0;0;0;0;mixte;32900;1;16344;362;321;100;8;40;;;;;1544;193;500;5501;;;;0450744P;UN10;0450744P;269;ORLEANS
+614;104;Espé CRD Blois;associée;;0;0;1;0;0;0;étudiant;9317;2;17160;135;126;29;0;47,5;;;;;1923;264;264;14240;;18;;0450744P;UN11;0450744P;269;ORLEANS
+615;104;Espé CRD Bourges;associée;;0;0;1;1;0;0;étudiant;9220;2;;223;203;24;0;48,25;;;;;1918;216;251;15231;;;;0450744P;UN12;0450744P;269;ORLEANS
+616;104;Espé CRD Chartres;associée;;0;0;1;1;0;0;étudiant;9474;2;;191;191;29;0;47,5;;;;;1893;206;261;9402;1363;0;;0450744P;UN13;0450744P;269;ORLEANS
+617;104;Espé CRD Châteauroux;associée;;0;0;1;1;0;0;étudiant;8162;1;;184;164;44;0;47,5;;;;;1759;197;209;7214;;;;0450744P;UN14;0450744P;269;ORLEANS
+618;104;Espé CRD Fondettes;associée;;0;0;0;0;0;1;mixte;18204;2,5;20812;425;370;57;0;48,25;;;;;1830,25;206;426;21223;;27;6;0450744P;UN15;0450744P;269;ORLEANS
+619;104;Espé CRD ORLEANS;associée;;0;0;1;1;0;0;étudiant;18029;2,8;20938;293;209;32;0;47,5;;;;;1765;202;447;20711;;;;0450744P;UN16;0450744P;269;ORLEANS
+620;105;Centre de documentation et de recherche Espace André Tunc;associée;;1;0;0;0;0;0;mixte;20000;2;10316;500;490;79;8;52,5;;;;;2362,5;220;450;0;13500;0;0;0752719Y;UN00;0752719Y;273;PARIS 1
+621;105;Bibliothèque Broca;autre;;1;1;0;0;0;1;étudiant;;4,8;73673;620;464;125;0;49;;;;;1859,5;230;438;16598;246;34;;0752719Y;UN01;0752719Y;273;PARIS 1
+622;105;Bibliothèque de philosophie;autre;;0;0;1;0;0;0;mixte;;2;10629;93;64;40;0;45,5;;;;;1610,1;206;690;2785;;;;0752719Y;UN02;0752719Y;273;PARIS 1
+623;105;Bibliothèque Jean Maitron (Centre d'histoire sociale du XXe);associée;;0;0;1;0;0;0;mixte;10000;2,2;1775;220;70;20;;21;;;;;898;214;1200;0;0;7200;0;0752719Y;UN03;0752719Y;273;PARIS 1
+624;105;Bibliothèque des Arts plastiques et Sciences de l'art;autre;;0;0;1;0;0;0;mixte;;2,5;53250;300;206;57;0;47,5;;;;;1744,25;199;389;;285;451;;0752719Y;UN04;0752719Y;273;PARIS 1
+625;105;Bibliothèque Jacques Lagroye;autre;;1;0;0;0;0;0;recherche;;;6114;79;68;36;0;46;;;;;1615,3;186;292;1110;;;;0752719Y;UN05;0752719Y;273;PARIS 1
+626;105;Bibliothèque Pierre Mendès France;autre;;1;1;1;0;0;0;mixte;;;322766;3062;1953;465;19;59;;;;;2388,5;262;3801;75085;;;;0752719Y;UN06;0752719Y;273;PARIS 1
+627;105;Bibliothèque d'étude doctorales juridiques de la Sorbonne;associée;;1;0;0;0;0;0;mixte;29080;2;;336;164;49;0;47;;;;;2115;225;1360;0;;;0;0752719Y;UN07;0752719Y;273;PARIS 1
+628;105;Bibliothèque du CRIA;autre;;0;0;1;0;0;0;recherche;;;;;;2;0;;;;;;;;;;;;;0752719Y;UN08;0752719Y;273;PARIS 1
+629;105;Bibliothèque Halphen;associée;;0;0;1;0;0;0;mixte;10000;1;;42;30;16;0;39;;;;;1716;220;519;0;0;0;0;0752719Y;UN09;0752719Y;273;PARIS 1
+630;105;Bibliothèque Master 2 Transports Internationaux;autre;;1;1;0;0;0;0;mixte;5400;1;200;30;30;15;15;;;;;;;225;20;15;0;0;0;0752719Y;UN10;0752719Y;273;PARIS 1
+631;105;Bibliothèque de l'IRBIMMA;associée;;0;0;1;0;0;0;mixte;21500;1;1730;242;45;22;0;21;;;;;810;195;445;0;0;;0;0752719Y;UN11;0752719Y;273;PARIS 1
+632;105;Bibliothèque du CHRIC;associée;;0;0;1;0;0;0;recherche;1186;1;;35;35;17;;17;;;;;748;220;200;;;;;0752719Y;UN12;0752719Y;273;PARIS 1
+633;105;Bibliothèque François Chevalier (CRALMI);associée;;0;0;1;0;0;0;mixte;2000;1;60;25;25;4;4;20;;;;;800;200;184;100;0;0;0;0752719Y;UN14;0752719Y;273;PARIS 1
+634;105;Bibliothèque Lavisse;associée;;0;0;1;0;0;0;mixte;33139;5;8757;200;100;40;0;47,5;;;;;1865,5;196;1400;2493;;12088;0;0752719Y;UN18;0752719Y;273;PARIS 1
+635;105;Bibliothèque de l'IEDES;associée;;1;1;1;0;0;1;mixte;3731;1;2640;88;80;29;9;41;;;;;2354;226;31992;5030;65;0;0;0752719Y;UN19;0752719Y;273;PARIS 1
+636;105;Bibliothèque Maurice Agulhon (Centre d'Histoire du XIXe s.);associée;;0;0;1;0;0;0;mixte;3898,36;1;800;28;18;8;0;17;;;;;700;200;180;40;;300;300;0752719Y;UN21;0752719Y;273;PARIS 1
+637;105;PRISM SORBONNE - UFR06;associée;;0;1;0;0;0;0;recherche;4170;0;;35;;13;0;70;;;;;3150;225;40;0;;;;0752719Y;UN22;0752719Y;273;PARIS 1
+638;105;Bibliothèque du CHSPM;associée;;0;0;1;0;0;0;recherche;;;;24;0;0;0;;;;;;;;;;;;;0752719Y;UN24;0752719Y;273;PARIS 1
+639;105;Bibliothèque NOSOPHI;associée;;1;0;1;0;0;0;recherche;;;;23;0;0;0;0;;;;;0;0;38;0;0;0;0;0752719Y;UN25;0752719Y;273;PARIS 1
+640;105;Centre de documentation de l'ISST;associée;;1;1;1;0;0;0;mixte;25000;1;1200;285;120;24;16;60;;;;;2520;210;1200;120;25;0;0;0752719Y;UN26;0752719Y;273;PARIS 1
+641;105;Centre de documentation Maison des Sciences Economiques;associée;;0;1;0;0;0;0;mixte;84572;6,8;;890;350;79;6;46;;;;;1984;230;2500;1663;;;0;0752719Y;UN27;0752719Y;273;PARIS 1
+642;105;Bibliothèque Gernet Glotz;associée;;0;0;1;0;0;0;mixte;63146;5,5;11274;602;200;62;20;48;;;;;2280;285;1943;2425;33329;309;4;0752719Y;UN28;0752719Y;273;PARIS 1
+1172;105;Centre de documentation de l'IREST;associée;;0;1;0;0;0;0;mixte;;;;14;;10;;;;;;;;;;;;;;0752719Y;UN29;0752719Y;273;PARIS 1
+643;105;Bibliothèque du CHAC;associée;;0;0;1;0;0;0;recherche;549;0;;25;25;12;0;4;;;;;176;44;150;0;;;;0752719Y;UN30;0752719Y;273;PARIS 1
+644;105;Bibliothèque de l'IHPST;associée;;0;0;1;1;0;0;recherche;;;;90;0;0;0;;;;;;;;;;;;;0752719Y;UN31;0752719Y;273;PARIS 1
+645;105;Bibliothèque de l'IHES;autre;;0;0;1;0;0;0;mixte;1584;1;1000;58;22;20;4;38;;;;;1482;220;623;40;740;2500;0;0752719Y;UN33;0752719Y;273;PARIS 1
+646;105;Bibliothèque de droit social et études sociales;associée;;1;0;1;0;0;0;mixte;0;1;;65;58;29;0;47,5;;;;;2090;310;200;0;30;2;0;0752719Y;UN35;0752719Y;273;PARIS 1
+647;105;Bibliothèque de droit international et européen (BDIE);associée;;1;0;0;0;0;0;mixte;0;1;132;132;;40;0;52;;;;;2216;215;400;0;1550;0;0;0752719Y;UN36;0752719Y;273;PARIS 1
+648;105;Bibliothèque du CRHS;associée;;0;0;1;0;0;0;recherche;239;0;;45;45;12;0;3;;;;;132;44;200;;;;;0752719Y;UN37;0752719Y;273;PARIS 1
+649;105;Bibliothèque du CRHECC;associée;;0;0;1;0;0;0;recherche;244;0;;45;45;12;0;3;;;;;132;44;143;;;;;0752719Y;UN38;0752719Y;273;PARIS 1
+650;105;Bibliothèque Claude Fohlen (CRHNA);associée;;0;0;1;0;0;0;recherche;225,37;0;;60;50;12;0;6;;;;;528;88;250;;;;;0752719Y;UN39;0752719Y;273;PARIS 1
+651;105;Bibliothèque du CRHM;associée;;0;0;1;0;0;0;recherche;0;0;;60;60;20;0;4;;;;;176;44;275;10;0;;0;0752719Y;UN40;0752719Y;273;PARIS 1
+1173;105;Bibliothèque ISOR;associée;;0;0;1;0;0;0;recherche;0;0;;20;20;12;;4;;;;;176;44;80;0;;;;0752719Y;UN41;0752719Y;273;PARIS 1
+652;105;Bibliothèque de recherches africaines (BRA);associée;;0;0;1;0;0;0;mixte;16500;4;;194;76;18;0;41;;;;;1886;223;1145;42;55;85;0;0752719Y;UN42;0752719Y;273;PARIS 1
+653;105;Bibliothèque du CH2ST;associée;;0;0;1;0;0;0;recherche;1981;0;250;20;20;14;0;8;;;;;348;87;82;0;0;0;0;0752719Y;UN43;0752719Y;273;PARIS 1
+654;105;Bibliothèque de l'IHRF;associée;;0;0;1;0;0;0;mixte;4150;1;700;100;58;15;0;28;;;;;1228;220;560;220;968;440;0;0752719Y;UN44;0752719Y;273;PARIS 1
+655;106;BU;autre;;1;1;1;1;1;0;mixte;;86;861364;15900;9172;1417;30;65,5;;;;;2866;268;15000;171715;;8797;239;0921510S;Un00;0921510S;274;PARIS 10
+656;106;Bibliothèque de l'UFR SPSE;autre;;0;0;0;0;1;0;mixte;;1,5;66608;270;234;82;6;48;;;;;2083;215;322;5420;250;;;0921510S;UN01;0921510S;274;PARIS 10
+657;106;Bibliothèque de l'UFR Langues et Civilisations Etrangères;autre;;0;0;1;0;0;0;mixte;;2;46808;397;365;76;6;45;;;;;1764;196;349;3926;96;;;0921510S;UN02;0921510S;274;PARIS 10
+658;106;Bibliothèque du Pôle scientifique et technologique;autre;;0;0;0;1;0;0;mixte;;2;43329;400;370;107;6;50;;;;;2025;225;266;2305;;;;0921510S;UN03;0921510S;274;PARIS 10
+659;106;Bibliothèque de l'UFR DSP;associée;;1;0;0;0;0;0;mixte;47011;3,5;89034;250;228;118;;47;;;;;1890;210;487;1116;;;;0921510S;UN04;0921510S;274;PARIS 10
+660;106;Bibliothèque d'UFR Histoire-Histoire de l'Art;associée;;0;0;1;0;0;0;mixte;9520;1;49490;400;375;200;6;40;;;;;1950;277;845;0;;;;0921510S;UN05;0921510S;274;PARIS 10
+661;106;Bibliothèque de Médiadix;associée;;0;0;0;0;0;1;mixte;30123,68;2,5;13788;300;265;52;;50;;;;;2035;207;;2012;;;;0921510S;UN06;0921510S;274;PARIS 10
+662;106;Bibliothèque de SEGMI;associée;;0;1;0;0;0;0;mixte;9851,47;1;;230;209;78;6;52,5;;;;;1750;190;198;3643;;;;0921510S;UN07;0921510S;274;PARIS 10
+663;106;Bibliothèque d'AES-Sociologie;associée;;0;0;1;0;0;0;mixte;7110;2;10615;215;210;72;12;42;;;;;1488;186;193;1260;;;;0921510S;UN08;0921510S;274;PARIS 10
+664;106;Bibliothèque de Philosophie;associée;;0;0;1;0;0;0;mixte;5165;1;22092;125;114;35;15;46;;;;;1800;195;500;2175;;;;0921510S;UN09;0921510S;274;PARIS 10
+665;106;Bibliothèque d'Urbanisme;associée;;0;0;1;0;0;0;recherche;4598;1;858;49;49;17;;30;;;;;1100;170;95;259;;;;0921510S;UN10;0921510S;274;PARIS 10
+666;106;Bibliothèque de Géographie;associée;;0;0;1;0;0;0;mixte;30;1;1053;75;66;40;;29;;;;;790;158;316;381;150;;;0921510S;UN11;0921510S;274;PARIS 10
+667;106;Bibliothèque du Pôle universitaire Léonard de Vinci;autre;;1;1;0;0;0;0;étudiant;;2;21180;100;90;36;6;42,5;;;;;1861,5;219;68;2578;75;;;0921510S;UN12;0921510S;274;PARIS 10
+668;106;Bibliothèque de Lettres et sciences du langage;associée;;0;0;1;0;0;0;mixte;7455;1;4760;179;79;53;20;46;;;;;1971;219;574;1212;;;;0921510S;UN13;0921510S;274;PARIS 10
+669;107;Châtenay Malabry Pharmacie;autre;;0;0;0;0;1;0;mixte;;13;107972;6000;1626;517;0;56;;;;;2320;219;3190;4082;1836;56;0;0911688R;Un00;0911688R;275;PARIS 11
+670;107;Bibliothèque de l'IUT de Sceaux;associée;;1;1;1;0;0;0;mixte;18973;2;;500;470;90;;45;;;;;1800;200;150;1846;;;;0911688R;UN01;0911688R;275;PARIS 11
+671;107;Kremlin Bicêtre-Médecine;autre;;0;0;0;0;1;0;mixte;;12;146293;1712;1350;350;35;64;;;;;2808;233;2244;15698;30130;102;;0911688R;Un02;0911688R;275;PARIS 11
+672;107;Sceaux Droit-Economie-Gestion;autre;;1;1;0;0;0;0;mixte;;17;212695;1900;1350;335;18;58;;;;;2409;258;2583;22339;;;;0911688R;Un03;0911688R;275;PARIS 11
+673;107;Orsay Economie-Droit;autre;;1;0;0;0;0;0;étudiant;;;;;;;;;;;;;;;;;;;;0911688R;Un04;0911688R;275;PARIS 11
+674;107;Orsay Sciences;autre;;0;0;0;1;1;1;mixte;;31;336482;8570;3070;589;66;63,5;;;;;2669;267;4375;35297;59594;1810;0;0911688R;Un05;0911688R;275;PARIS 11
+675;107;Administration générale BU;autre;;1;1;0;1;1;0;mixte;;8,5;;;;;;;;;;;;;;;;;;0911688R;UN06;0911688R;275;PARIS 11
+676;107;Orsay Staps;autre;;0;0;0;1;0;0;mixte;;5;;;;;;;;;;;;;414;5462;191;49;;0911688R;UN07;0911688R;275;PARIS 11
+677;107;Bibliothèque de l'IUT d'Orsay;associée;;0;0;0;1;0;0;étudiant;15000;2;;396;320;130;90;42,5;;;;;17304;204;280;;;;;0911688R;UN08;0911688R;275;PARIS 11
+678;107;Bibliothèque de l'IUT de Cachan;associée;;0;1;0;0;0;0;étudiant;;2;;304;;92;12;52,5;;;;;;;269;;;;;0911688R;UN09;0911688R;275;PARIS 11
+679;107;Bibliothèque de la Recherche;associée;;1;1;0;0;0;0;mixte;48815;1;;655;573;90;12;65;;;;;2810;201;950;209;4900;750;0;0911688R;UN10;0911688R;275;PARIS 11
+681;108;Bibliothèque du centre OBM;associée;;1;0;0;0;0;0;recherche;11840;1;;90;90;24;0;37,5;;;;;;;224;0;;;;0941683U;UN00;0941683U;276;PARIS 12
+682;108;Bibliothèque d'Ergothérapie;associée;;0;0;0;0;1;0;étudiant;1766;0,1;;60;55;20;0;17,5;;;;;632;123;45;502;;0;0;0941683U;UN01;0941683U;276;PARIS 12
+683;108;Bibliothèque Sciences Economiques et Sociales;associée;;0;0;1;0;0;0;étudiant;2546;0,5;;50;43;20;0;14;;;;;644;230;41;58;;;;0941683U;UN02;0941683U;276;PARIS 12
+684;108;Bibliothèque du SCUIO;associée;;0;0;0;0;0;1;étudiant;10207;2,5;;140;140;31;0;26,5;;;;;1152,5;181;42;388;;;;0941683U;UN03;0941683U;276;PARIS 12
+685;108;DIRECTION SERVICE COMMUN DE LA DOCUMENTATION;autre;;1;1;1;1;1;1;mixte;;9,8;;120;0;0;0;;;;;;;;;;;;;0941683U;UN04;0941683U;276;PARIS 12
+686;108;BIBLIOTHEQUE DU CAMPUS CENTRE;autre;;0;1;1;1;0;0;mixte;;26,4;401933;4277;3250;651;52;64,5;;;;;2666,5;259;3904;43578;35080;136;8685;0941683U;UN05;0941683U;276;PARIS 12
+687;108;BIBLIOTHEQUE DE MEDECINE;autre;;0;0;0;0;1;0;mixte;;11,8;501124;1675;1050;535;14;77,5;;;;;2998;257;1325;15138;51914;0;0;0941683U;UN06;0941683U;276;PARIS 12
+688;108;BIBLIOTHEQUE DE DROIT;autre;;1;0;0;0;0;0;mixte;;15,6;354271;3083;2600;486;58;64,5;;;;;2825;257;1409;37862;83893;153;0;0941683U;UN07;0941683U;276;PARIS 12
+689;108;BIBLIOTHEQUE D'ECONOMIE GESTION;autre;;0;1;0;0;0;0;mixte;;15,8;237919;2629;2200;488;36;64,5;;;;;2649;252;1045;31522;21331;130;8080;0941683U;UN08;0941683U;276;PARIS 12
+690;108;BIBLIOTHEQUE DU CENTRE DE FONTAINEBLEAU;autre;;0;0;0;0;0;1;mixte;;2;23095;149;119;40;0;39;;;;;1719;222;114;1207;149;0;0;0941683U;UN09;0941683U;276;PARIS 12
+691;108;BIBLIOTHEQUE DE SENART;autre;;0;1;1;1;0;1;mixte;;7;62404;1230;810;222;30;48;;;;;2142;226;374;9309;2862;0;678;0941683U;UN10;0941683U;276;PARIS 12
+692;108;BIBLIOTHEQUE DE L'IUT DE VITRY;autre;;0;0;0;0;0;1;mixte;;1;626;140;140;24;0;36,75;;;;;1219;181;74;115;0;0;0;0941683U;UN11;0941683U;276;PARIS 12
+693;108;BIBLIOTHEQUES DE L'ESPE;autre;;0;0;1;0;0;0;mixte;;13,6;136000;1662;1365;338;12;45;;;;;1962;225;1919;69510;52515;0;0;0941683U;UN12;0941683U;276;PARIS 12
+694;108;Bibliothèque du département de Communication politique et pu;associée;;1;0;0;0;0;0;mixte;;;;55;55;26;0;8;;;;;296;37;7;60;;;;0941683U;UN13;0941683U;276;PARIS 12
+695;108;Bibliothèque de l'Ecole Nationale Vétérinaire d'Alfort;associée;;0;0;0;0;1;0;mixte;93069;2,8;;1600;800;80;0;44,5;;;;;2136;240;3000;910;0;0;0;0941683U;UN14;0941683U;276;PARIS 12
+696;108;Bibliothèque historique Poëte et Sellier;associée;;0;0;0;0;0;1;mixte;0;1,11;365;100;16;4;0;30;;;;;1092;182;230;102;;;;0941683U;UN15;0941683U;276;PARIS 12
+1174;109;Sciences;autre;;0;0;0;1;0;1;mixte;;0;;0;0;0;0;50;;;;;;;;5338;;;0;0931487L;Un00;0931487L;277;PARIS 13
+697;109;Santé-Médecine;autre;;1;1;1;1;1;1;mixte;;15;571141;3430;2400;527;34;85;;;;;3279;273;;12363;;;0;0931487L;Un01;0931487L;277;PARIS 13
+1175;109;Droit-Lettres;autre;;1;1;1;0;0;0;mixte;;0;;0;0;0;0;50;;;;;;;0;21050;;;0;0931487L;Un02;0931487L;277;PARIS 13
+698;109;bibliothèque « fictive » unique;autre;;1;1;1;1;1;1;mixte;;0;0;0;0;0;0;0;;;;;0;0;0;0;0;0;0;0931487L;UN03;0931487L;277;PARIS 13
+699;109;Edgar Morin (campus de Villetaneuse);autre;;1;1;1;1;1;1;mixte;;;;5000;;897;0;43;;;;;;;;21128;;;0;0931487L;UN04;0931487L;277;PARIS 13
+700;110;Assas;autre;;1;1;1;0;0;0;étudiant;;17,96;505000;2500;1800;450;0;71,5;;;;;2622;245;2555;59048;90933;962;774;0754523J;Un00;0754523J;278;PARIS 2
+701;110;Melun;autre;;1;1;0;0;0;0;étudiant;;3,74;115438;640;469;180;6;60;;;;;1977,5;176;535;9917;7673;0;125;0754523J;Un01;0754523J;278;PARIS 2
+702;110;Vaugirard;autre;;1;1;1;0;0;0;étudiant;;4,59;135338;400;380;108;0;57,5;;;;;1962,5;200;213;12595;14106;544;983;0754523J;Un02;0754523J;278;PARIS 2
+703;110;Bibliothèque numérique;autre;;1;1;1;0;0;0;mixte;;;;;;;;168;;;;;8760;365;;;;;;0754523J;UN03;0754523J;278;PARIS 2
+704;111;BU Censier;autre;;0;0;1;0;0;0;mixte;;47,25;417311;2688;1542;658;0;60;;;;;2567;252;4738;83720;;3488;;0752734P;Un00;0752734P;279;PARIS 3
+705;111;Théâtrothèque Gaston-Baty;associée;;0;0;1;0;0;0;mixte;19447,88;7;35685;262;;40;0;57,5;;;;;2437,5;240;900;5816;;48709;;0752734P;UN01;0752734P;279;PARIS 3
+706;111;Etudes Italiennes;autre;;0;0;1;0;0;0;mixte;;3;19582;259;125;52;;42,5;;;;;1955;202;690;2180;;1090;;0752734P;Un02;0752734P;279;PARIS 3
+707;111;Monde Anglophone;autre;;0;0;1;0;0;0;recherche;;4;17368;162;60;24;0;45;;;;;1872;208;686;1670;;1323;;0752734P;Un03;0752734P;279;PARIS 3
+708;111;Orient Monde Arabe;autre;;0;0;1;0;0;0;mixte;;3,4;11198;200;80;36;;42,5;;;;;1817,5;220;561;2364;;150;;0752734P;Un04;0752734P;279;PARIS 3
+709;111;Bibliothèque Pierre Monbeig - IHEAL;associée;;0;0;1;0;0;0;recherche;40461,53;4;3588;350;;80;;37;;;;;1448;169;3750;2770;;3553;;0752734P;UN05;0752734P;279;PARIS 3
+710;111;Bibliothèque de l'ESIT;autre;;0;0;1;0;0;0;mixte;;1,3;4250;180;;41;;45;;;;;1692;201;154;1666;;;;0752734P;UN06;0752734P;279;PARIS 3
+711;111;Littérature Générale et Comparée;autre;;0;0;1;0;0;0;mixte;;0,8;442;57;40;20;0;21;;;;;756;108;263;183;;;;0752734P;Un07;0752734P;279;PARIS 3
+712;111;Linguistique africaine;autre;;0;0;1;0;0;0;mixte;;1;1533;42;36;16;0;35;;;;;1302;186;70;77;;;;0752734P;UN08;0752734P;279;PARIS 3
+713;111;Etudes Portugaises;autre;;0;0;1;0;0;0;mixte;;1,5;8432;147;42;12;0;37,5;;;;;1477,5;197;495;687;;;;0752734P;Un09;0752734P;279;PARIS 3
+714;111;Administration générale;autre;;1;1;1;0;0;0;mixte;25830;9;;;;;;;;;;;;;;;;;;0752734P;UN10;0752734P;279;PARIS 3
+715;111;Centre interuniversitaire d'études hongroises;autre;;0;0;1;0;0;0;mixte;;0,5;214;26;26;8;0;18,5;;;;;741;172;141;22;;;;0752734P;UN11;0752734P;279;PARIS 3
+1157;112;Direction SCD services transversaux;autre;;0;0;0;0;0;0;;;;;;;;;;;;;;;;;;;;;0752735R;UN00;;280;PARIS 4 (<=2017)
+1134;112;Bibliothèque Malesherbes;autre;;0;0;1;0;0;0;mixte;;18,1;41089;3000;1600;200;22;61,5;;;;;503,5;;;10239;;4554;0;0752735R;Un01;;280;PARIS 4 (<=2017)
+1135;112;Bibliothèque Georges Ascoli et Paul Hazard;associée;;0;0;1;0;0;0;mixte;;;;250;120;60;20;;;;;;;;;;;;;0752735R;UN02;;280;PARIS 4 (<=2017)
+1136;112;Bibliothèque UFR philosophie;associée;;0;0;1;0;0;0;mixte;4038,28;1;2720;104;60;20;10;22,5;;;;;751,5;;300;306;1060;155;;0752735R;UN03;;280;PARIS 4 (<=2017)
+1137;112;Bibliothèque des Etudes Ibériques;autre;;0;0;1;0;0;0;recherche;;3;7779;206;170;55;9;41,5;;;;;1643,5;198;950;2524;1132;155;25;0752735R;UN04;;280;PARIS 4 (<=2017)
+1138;112;Bibliothèque Michelet;autre;;0;0;1;0;0;0;mixte;1840;450;92302;1840;450;140;0;50;;;;;2438;230;2861;;;;10;0752735R;UN05;;280;PARIS 4 (<=2017)
+1139;112;Bibliothèque Clignancourt;autre;;0;0;1;0;0;0;mixte;;15,7;303462;4415;3448;498;30;55;;;;;2227;242;4377;49600;80200;562;74;0752735R;UN06;;280;PARIS 4 (<=2017)
+1140;112;Bibliothèque des thèses Serpente;autre;;0;0;1;0;0;0;mixte;;5,1;59576;700;450;65;15;52;;;;;2223;231;1740;;;;8;0752735R;UN07;;280;PARIS 4 (<=2017)
+1141;112;Bibliotheque d'histoire des religions;associée;;0;0;1;0;0;0;recherche;11000;1;1200;200;40;12;;30;;;;;;215;;;135;170;0;0752735R;UN08;;280;PARIS 4 (<=2017)
+1142;112;Bibliothèque UFR anglais;associée;;0;0;1;0;0;0;mixte;1903,43;1;3398;75;75;34;4;29;;;;;885,5;154;628;511;40;100;;0752735R;UN09;;280;PARIS 4 (<=2017)
+1143;112;Bibliothèque du Centre de recherches égyptologiques de la So;associée;;0;0;1;0;0;0;mixte;;;;130;115;35;;;;;;;;;;;;;;0752735R;UN10;;280;PARIS 4 (<=2017)
+1144;112;Bibliothèque du CEROC Centre Enseignement et Recherche d'Oc;associée;;0;0;1;0;0;0;mixte;4000;1;150;80;16;3;;30;;;;;1734;;;;62;70;;0752735R;UN11;;280;PARIS 4 (<=2017)
+1145;112;Bibliothèque du CELLF 19;associée;;0;0;1;0;0;0;recherche;1500;1;350;18;10;15;15;25;;;;;875;;12;;350;;;0752735R;UN12;;280;PARIS 4 (<=2017)
+1146;112;Bibliothèque des Etudes Catalanes;autre;;0;0;1;0;0;0;mixte;;1;486;72;54;16;;21,5;;;;;815;;;554;;22;;0752735R;UN13;;280;PARIS 4 (<=2017)
+1147;112;Bibliothèque du Centre d'Etudes slaves ( Eur'Orbem);associée;;0;0;1;0;0;0;recherche;4321;2,6;976;379;97;15;;37,5;;;;;1560;;;;215;2928;;0752735R;UN14;;280;PARIS 4 (<=2017)
+1148;112;Bibliothèque de L'Institut d'Etudes Augustiniennes;associée;;0;0;1;0;0;0;recherche;6000;1,5;1221;441;330;13;;27;;;;;1157;;;;;;;0752735R;UN15;;280;PARIS 4 (<=2017)
+1149;112;Bibliothèque de l'UFR de Langue française;associée;;0;0;1;0;0;0;mixte;;;;60;45;16;0;;;;;;;;;;;;;0752735R;UN16;;280;PARIS 4 (<=2017)
+1150;112;Bibliothèque de l'Institut de Papyrologie de la Sorbonne;associée;;0;0;1;0;0;0;recherche;5000;1;400;;;24;12;24;;;;;1080;130;270;;;;;0752735R;UN17;;280;PARIS 4 (<=2017)
+1151;112;Bibliothèque du CELSA Ctre ét. litt. et scientif. appliquees;associée;;0;0;1;0;0;0;mixte;35841;2;20510;110;80;24;16;44;;;;;1761;213;;4418;;953;;0752735R;UN19;;280;PARIS 4 (<=2017)
+1152;112;Médiathèques ESPE Paris;associée;;0;0;1;0;0;0;mixte;104504;15;85836;1460;778;198;12;47,5;;;;;2007;223;2999;52957;30134;531;61;0752735R;UN20;;280;PARIS 4 (<=2017)
+716;113;HEGP;autre;;0;0;0;0;1;0;mixte;;2;26358;147;132;59;0;74,5;;;;;3235;280;178;4141;0;0;0;0752736S;UN00;0752736S;281;PARIS 5
+717;113;Bibliothèque de l'IUT;associée;;0;1;0;0;0;1;étudiant;26500;3;44153;300;150;84;55;47,5;;;;;1917,5;215;333;3517;0;0;0;0752736S;UN01;0752736S;281;PARIS 5
+718;113;STAPS;autre;;0;0;0;1;0;0;mixte;;2,75;;540;510;139;50;50;;;;;2223;228;152;3428;0;0;891;0752736S;UN02;0752736S;281;PARIS 5
+719;113;Cordeliers;autre;;0;0;0;0;1;0;mixte;;3,55;120848;447;377;137;0;70;;;;;2739;206;341;10847;0;0;77;0752736S;UN03;0752736S;281;PARIS 5
+720;113;Bibliothèque de sciences humaines et sociales Descartes-CNRS;autre;;0;0;1;0;0;0;mixte;;6,65;72909;800;500;132;14;53;;;;;2424;251;3890;15174;0;93;0;0752736S;UN04;0752736S;281;PARIS 5
+721;113;BU Cochin;autre;;0;0;0;0;1;0;mixte;;5,1;130065;785;494;240;12;83,5;;;;;3375;293;817;12247;159;3;0;0752736S;UN05;0752736S;281;PARIS 5
+722;113;Odontologie;autre;;0;0;0;0;1;0;mixte;;3,6;30409;294;174;48;0;50;;;;;2127;219;418;4852;0;0;3;0752736S;Un06;0752736S;281;PARIS 5
+723;113;Henri Piéron;autre;;0;0;1;0;0;0;mixte;;11,55;180142;2960;1992;509;48;59,5;;;;;2444,5;255;3297;32408;0;563;0;0752736S;Un08;0752736S;281;PARIS 5
+724;113;Bibliothèque de droit;autre;;1;1;0;0;0;0;mixte;;10,05;;1150;530;188;0;64;;;;;2666;236;1759;21472;0;0;6;0752736S;UN09;0752736S;281;PARIS 5
+725;113;Saints-Pères sciences;autre;;0;0;0;0;1;0;mixte;;9;247890;1129;760;280;44;74;;;;;2905;250;543;10611;12038;178;4624;0752736S;Un10;0752736S;281;PARIS 5
+726;113;Direction et services transversaux;autre;;1;1;1;1;1;0;mixte;;25,25;;200;0;0;0;;;;;;;;;;;;;0752736S;UN12;0752736S;281;PARIS 5
+1156;114;Direction et services transversaux;autre;;0;0;0;1;1;0;mixte;;21,3;;1127;0;;;;;;;;;;;;;;;0752737T;UN00;;282;PARIS 6 (<=2017)
+1109;114;SBR -Station biologique de Roscoff;associée;;0;0;0;1;0;0;mixte;2000;1;;320;280;20;0;37,3;;;;;;230;1500;;;;;0752737T;UN01;;282;PARIS 6 (<=2017)
+1110;114;OOB -Bibliothèque de l'Observatoire océanologique de Banyuls;associée;;0;0;0;1;0;0;mixte;;2;;440;15;8;0;;;;;;;;;;;;;0752737T;UN02;;282;PARIS 6 (<=2017)
+1111;114;Dechaume-Delarue;autre;;0;0;0;1;0;0;étudiant;;2,8;29080;290;83;16;0;42,5;;;;;1857;219;566;1050;;135;;0752737T;UN03;;282;PARIS 6 (<=2017)
+1112;114;Pitié-Salpêtrière;autre;;0;0;0;0;1;0;étudiant;;10,85;361646;882;621;360;0;79;;;;;3191;253;1163;27446;;88;256;0752737T;Un04;;282;PARIS 6 (<=2017)
+1113;114;Saint-Antoine;autre;;0;0;0;0;1;0;étudiant;;6,6;115734;580;370;156;0;65;;;;;2547;214;437;9828;;;11;0752737T;Un05;;282;PARIS 6 (<=2017)
+1114;114;Axial;autre;;0;0;0;0;1;0;mixte;;2,75;17859;208;132;39;0;45;;;;;1793;200;212;1696;;;;0752737T;Un06;;282;PARIS 6 (<=2017)
+1115;114;Tenon;autre;;0;0;0;0;1;0;mixte;;3,25;9338;198;89;32;0;45;;;;;1773;200;334;1267;;;;0752737T;Un07;;282;PARIS 6 (<=2017)
+1116;114;Charcot;autre;;0;0;0;0;1;0;recherche;;1,05;1201;149;97;16;0;20;;;;;835;204;287;;;;;0752737T;Un09;;282;PARIS 6 (<=2017)
+1117;114;Bibliothèque des Licences;autre;;0;0;0;1;0;0;étudiant;;17,2;710192;3350;2750;788;243;70;;;;;2842;251;1530;56526;;;14701;0752737T;UN10;;282;PARIS 6 (<=2017)
+1118;114;OOV - Observatoire océanologique de Villefranche-sur-Mer;associée;;0;0;0;1;0;0;mixte;;;;230;70;28;0;;;;;;;;;;;;;0752737T;UN11;;282;PARIS 6 (<=2017)
+1119;114;Bibliothèque de l'Atrium;autre;;0;0;0;1;0;0;étudiant;;6,5;109559;935;783;202;28;50;;;;;2072;210;115;6181;;;3196;0752737T;UN12;;282;PARIS 6 (<=2017)
+1120;114;Bibliothèque des L1;autre;;0;0;0;1;0;0;étudiant;;10,7;252002;2248;2060;531;73;50;;;;;1984;199;700;14867;;;5812;0752737T;UN13;;282;PARIS 6 (<=2017)
+1121;114;IMPMC - Institut de minéralogie et de physique...;associée;;0;0;0;1;0;0;mixte;;;;25;25;0;0;;;;;;;;285;;;;;0752737T;UN14;;282;PARIS 6 (<=2017)
+1122;114;IHP - Institut Henri Poincaré;associée;;0;0;0;1;0;0;mixte;170000;4;8000;950;530;60;0;45;;;;;1998;222;2895;60;;;;0752737T;UN15;;282;PARIS 6 (<=2017)
+1123;114;Biologie Chimie Physique recherche;autre;;0;0;0;1;0;0;mixte;;8,6;141748;2880;1980;342;28;50;;;;;2109;213;4500;2386;;184;2568;0752737T;UN16;;282;PARIS 6 (<=2017)
+1124;114;IAP - Institut d'astrophysique de Paris;associée;;0;0;0;1;0;0;mixte;15000;1;;96;25;10;0;40;;;;;1824;228;1955;150;;;;0752737T;UN18;;282;PARIS 6 (<=2017)
+1181;114;IPGP - Institut de physique du globe de Paris;associée;;0;0;0;1;0;0;recherche;;1;;144;100;15;0;45;;;;;2340;220;605;60;20;30;;0752737T;UN19;;282;PARIS 6 (<=2017)
+1126;114;Mathématiques-Informatique Recherche;autre;;0;0;0;1;0;0;mixte;;9,9;166125;2692;2102;396;18;50;;;;;2148;223;5365;7219;;95;422;0752737T;UN20;;282;PARIS 6 (<=2017)
+1127;114;LPNHE - Labo de physique nucléaire et des hautes énergies;associée;;0;0;0;1;0;0;recherche;;;;33;33;16;0;;;;;;;;;;;;;0752737T;UN23;;282;PARIS 6 (<=2017)
+1128;114;Géosciences;autre;;0;0;0;1;0;0;mixte;;14,3;67145;1480;1184;151;30;50;;;;;2204;226;3910;4285;;552;1192;0752737T;UN25;;282;PARIS 6 (<=2017)
+1182;114;IJLRA - Bibliothèque de mécanique;associée;;0;0;0;1;0;0;mixte;9600;0,2;;150;40;15;0;7;;;;;280;120;500;420;;;;0752737T;UN26;;282;PARIS 6 (<=2017)
+1130;114;IJLRA - Lutheries Acoustique Musique (LAM);associée;;0;0;0;1;0;0;mixte;450;0,05;;30;30;6;0;;;;;;;;60;;;;;0752737T;UN28;;282;PARIS 6 (<=2017)
+1131;114;LSTA - Laboratoire de statistiques théoriques et appliquées;associée;;0;0;0;1;0;0;mixte;3000;;200;188;80;30;0;45;;;;;1980;300;600;50;;30;;0752737T;UN29;;282;PARIS 6 (<=2017)
+1132;114;LPMA - Laboratoire de probabilités et modèles aléatoires;associée;;0;0;0;1;0;0;mixte;14000;;1000;80;20;12;0;;;;;;;;250;;;;;0752737T;UN30;;282;PARIS 6 (<=2017)
+727;115;Xavier-Bichat;autre;;0;0;0;0;1;0;mixte;;13;425749;2625;1700;611;24;70;;;;;2698,5;215;2330;15877;;173;1576;0752738U;Un00;0752738U;283;PARIS 7
+728;115;Villemin;autre;;0;0;0;0;1;0;mixte;;9;205095;1046;858;320;;73,5;;;;;2724;243;820;18772;;22;2014;0752738U;Un01;0752738U;283;PARIS 7
+729;115;Odontologie;autre;;0;0;0;0;1;0;mixte;;3;24624;300;230;98;12;51,5;;;;;1777;178;352;4127;;100;2;0752738U;Un02;0752738U;283;PARIS 7
+730;115;Bibliothèque MIR Mathématique - Informatique - Recherhe;associée;;0;0;0;1;0;0;mixte;;4,7;93449;600;600;70;4;50;;;;;2290;229;4039;7219;;95;32;0752738U;UN03;0752738U;283;PARIS 7
+731;115;Robert-Debré;autre;;0;0;0;0;1;0;mixte;;3;19740;155;155;28;;48;;;;;2017;209;427;1402;;;;0752738U;Un04;0752738U;283;PARIS 7
+732;115;Bibliothèque de l'UFR Physique-Recherche;autre;;0;0;0;1;0;0;mixte;;;947;285;275;15;0;;;;;;;;;;;;;0752738U;UN05;0752738U;283;PARIS 7
+733;115;Direction;autre;;0;0;0;0;0;0;;;;;210;;;;;;;;;;;;;;;;0752738U;Un06;0752738U;283;PARIS 7
+734;115;Bibliothèque LCAO Langues et Civilisations  d'Asie Orientale;associée;;0;0;1;0;0;0;mixte;;3,5;54723;340;320;80;11;44;;;;;1830;208;2320;1524;;139;;0752738U;UN07;0752738U;283;PARIS 7
+735;115;ENSEMBLE SCD;autre;;1;1;1;1;1;0;mixte;;;;;;;;;;;;;;;;;;;;0752738U;UN08;0752738U;283;PARIS 7
+736;115;Bibliothèque des Grands Moulins site Paris Rive Gauche;autre;;1;1;1;1;0;0;mixte;;41,2;731452;9647;8000;1424;60;61;;;;;2458;256;9161;110977;;1125;891;0752738U;UN09;0752738U;283;PARIS 7
+738;116;Bibliothèque universitaire;autre;;1;1;1;0;0;1;mixte;;89,73;591287;15430;12221;1492;82;62,5;;;;;2533;229;18480;203445;168173;5172;2950;0931849E;Un00;0931849E;284;PARIS 8
+739;116;Cartothèque;associée;;0;0;1;0;0;0;mixte;3190;2;;300;300;30;0;35,5;;;;;1612;215;;952;;;0;0931849E;UN01;0931849E;284;PARIS 8
+740;116;IUT Montreuil;associée;;0;1;1;0;0;1;mixte;13145;1;;84;84;32;0;32;;;;;1312;160;;819;;;0;0931849E;UN02;0931849E;284;PARIS 8
+741;116;IUT de Tremblay-en-France;associée;;0;1;0;0;0;1;mixte;;;;200;200;48;18;;;;;;;;;;;;;0931849E;UN03;0931849E;284;PARIS 8
+742;117;SCD;autre;;1;1;0;1;0;0;mixte;;42;534572;5095;3570;865;129;73;;;;;2942,5;263;6993;32650;1563;2500;0;0752147B;Un00;0752147B;285;PARIS DAUPHINE
+743;118;BU Droit-Lettres - Pôle Recherche;autre;;0;0;1;0;0;0;recherche;;8,2;;850;800;95;0;51,5;;;;;2169;254;2980;10681;7175;0;0;0641439S;UN00;0641439S;287;PAU
+744;118;BU Sciences et Techniques;autre;;0;0;0;1;0;0;mixte;;10,4;46924;1202;428;173;0;47,5;;;;;2032,5;232;1357;6206;3022;246;146;0641439S;UN01;0641439S;287;PAU
+745;118;Bibliothèque de l'IUT de Mont-de-Marsan;autre;;0;0;0;1;0;0;étudiant;;0,5;1652;82;82;39;0;18;;;;;685;146;81;172;136;0;0;0641439S;UN02;0641439S;287;PAU
+746;118;BU Droit-Lettres - Pôle Formation;autre;;1;1;1;0;0;0;mixte;;14,75;229244;4888;2000;603;30;64;;;;;2544;254;4611;39188;23650;1748;261;0641439S;UN03;0641439S;287;PAU
+747;118;Service des Affaires générales;autre;;0;0;0;0;0;0;;;6,1;;;;;;;;;;;;;;;;;;0641439S;UN04;0641439S;287;PAU
+748;118;BU Florence Delay;autre;;1;1;1;0;0;0;mixte;;7,4;88916;1619;1134;220;19;56;;;;;2341;257;1666;7830;5663;;65;0641439S;UN05;0641439S;287;PAU
+749;118;BU Département STAPS;autre;;0;0;0;1;0;0;mixte;;1,25;20151;150;150;34;0;44;;;;;1696;210;192;2184;1331;0;3;0641439S;UN06;0641439S;287;PAU
+750;118;Bibliothèque de l'IPRA;autre;;0;0;0;1;0;0;recherche;;1;;224;213;24;0;51,5;;;;;2369;227;488;419;947;0;0;0641439S;UN07;0641439S;287;PAU
+751;118;Bibliothèque de l'ENSGTI;autre;;0;0;0;1;0;0;mixte;;0;;44;44;10;0;25;;;;;;;30;;;;;0641439S;UN08;0641439S;287;PAU
+752;118;BU Sciences-Techniques-Informatique Anglet-Montaury;autre;;0;0;0;1;0;0;mixte;;2;25849;560;490;118;16;43;;;;;1737;210;248;1587;660;;27;0641439S;UN09;0641439S;287;PAU
+753;118;Centre de recherche Droit;autre;;1;0;0;0;0;0;recherche;;1;;542;542;60;0;36;;;;;1464;210;919;;;;;0641439S;UN10;0641439S;287;PAU
+754;118;Centre de recherche Economie-Gestion;autre;;0;1;0;0;0;0;recherche;;0,8;;365;365;64;0;29;;;;;1190;210;309;159;;;;0641439S;UN11;0641439S;287;PAU
+1176;118;Bibliothèque de LAM-UPPA;associée;;1;1;1;0;0;0;recherche;;;;36;;8;0;;;;;;;;;;;;;0641439S;UN13;0641439S;287;PAU
+1177;118;Bibliothèque du CDRE;associée;;1;0;0;0;0;0;recherche;;;;240;240;45;0;42,5;;;;;;;250;;;;;0641439S;UN15;0641439S;287;PAU
+755;119;Droit et Sciences Economiques;autre;;1;1;0;0;0;0;étudiant;74349;7,2;139248;1563;1231;293;12;55,5;;;;;2304;245;1566;21879;;729;;0660080D;Un00;0660080D;288;PERPIGNAN
+756;119;Site délocalisé de Font-Romeu;autre;;0;0;0;1;0;0;étudiant;4603;1;19322;77;77;22;0;40;;;;;1436,75;181;53;1051;;;;0660080D;UN01;0660080D;288;PERPIGNAN
+757;119;Sciences;autre;;0;0;0;1;0;0;étudiant;22915;5,7;90644;1470;785;170;16;55,5;;;;;2339;245;1392;8145;;320;;0660080D;Un02;0660080D;288;PERPIGNAN
+758;119;Site délocalisé de Narbonne;autre;;1;0;0;0;0;0;étudiant;16053;2;30536;198;178;82;0;47,5;;;;;1912;213;190;2983;;;;0660080D;UN03;0660080D;288;PERPIGNAN
+759;119;Bib. Tautavel;associée;;0;0;1;0;0;0;recherche;0;1;;88;88;10;0;37,5;;;;;1762;235;56;0;;;;0660080D;UN04;0660080D;288;PERPIGNAN
+760;119;Lettres et Sciences Humaines;autre;;0;0;1;0;0;0;étudiant;50575;9,4;117013;2005;1481;381;18;55,5;;;;;2304;245;2337;32703;;1793;;0660080D;UN05;0660080D;288;PERPIGNAN
+761;119;Bib. spécialisée Anglais;associée;;0;0;1;0;0;0;mixte;0;0;;73;65;27;;6,5;;;;;143;88;116;52;;;;0660080D;UN06;0660080D;288;PERPIGNAN
+1178;119;Bib. spécialisée Espagnol;associée;;0;0;1;0;0;0;mixte;0;0;;78;78;36;0;21;;;;;462;110;111;24;;;;0660080D;UN07;0660080D;288;PERPIGNAN
+762;119;Bib. Maison des Pays catalans;autre;;0;0;1;0;0;0;mixte;600;0,3;;100;100;15;0;13;;;;;390;90;119;161;;;;0660080D;UN09;0660080D;288;PERPIGNAN
+763;119;Général (bib. fictive);autre;;0;0;0;0;0;1;étudiant;147343;12;;2224;1438;304;;;;;;;;;;;;;;0660080D;UN10;0660080D;288;PERPIGNAN
+764;119;Bib. spécialisée Géographie;associée;;0;0;1;0;0;0;mixte;150;0;;65;65;18;0;140;;;;;308;110;139;8;;;;0660080D;UN12;0660080D;288;PERPIGNAN
+765;120;BU Sciences, Techniques et Sport - Futuroscope;autre;;0;0;0;1;0;0;mixte;;3,6;18706;1660;687;121;14;44;;;;;1809;226;1256;1638;;52;11;0860701V;UN00;0860701V;289;POITIERS
+766;120;BU Lettres;autre;;1;1;1;0;0;0;mixte;;17,6;221071;8693;3000;842;72;63;;;;;2607,5;257;15348;36267;;3707;;0860701V;Un01;0860701V;289;POITIERS
+767;120;Médiathèque de l'ESPE - Site  de la Vienne;autre;;0;1;1;1;0;1;étudiant;;2,66;32764;340;325;74;30;45;;;;;1713;193;627;11391;;;;0860701V;UN02;0860701V;289;POITIERS
+768;120;BU Médecine Pharmacie;autre;;0;0;0;0;1;0;mixte;;8,3;255117;957;836;333;0;63;;;;;2640;257;2395;9565;;;;0860701V;UN03;0860701V;289;POITIERS
+769;120;BU Sciences, Techniques et Sport - Campus;autre;;0;0;0;1;0;0;mixte;;8,6;126295;5500;1215;295;42;55;;;;;2343,5;225;4034;7859;;359;;0860701V;UN04;0860701V;289;POITIERS
+770;120;Direction Administration SRID;autre;;0;0;0;0;0;0;;;16,3;;497;0;;;;;;;;;;;;;;;0860701V;UN05;0860701V;289;POITIERS
+771;120;Service du Fonds ancien;autre;;0;0;0;0;0;1;mixte;;3,8;261;797;189;27;0;40;;;;;1812;230;2042;18;137;1503;;0860701V;UN06;0860701V;289;POITIERS
+772;120;Bibliothèque de l'IAE - CEPE (Angoulême);autre;;0;1;0;0;0;0;mixte;;1;;88;60;12;0;30,5;;;;;1590,5;195;152;500;;;;0860701V;UN07;0860701V;289;POITIERS
+773;120;BU Michel Foucault (SHA, Moyen Âge);autre;;0;0;1;0;0;0;mixte;;10,6;101867;2070;1510;280;24;62,25;;;;;2554;257;2915;19855;;2763;2;0860701V;UN08;0860701V;289;POITIERS
+774;120;Bibliothèque de l'IAE (Poitiers);autre;;0;1;0;0;0;0;mixte;;2;31140;250;230;102;50;63,5;;;;;2400,5;236;492;4350;;;;0860701V;UN09;0860701V;289;POITIERS
+775;120;Bibliothèque du Pôle universitaire de Niort;autre;;1;1;1;1;0;1;mixte;;3,8;51904;652;558;113;34;50;;;;;2115,5;221;725;17229;;;;0860701V;UN10;0860701V;289;POITIERS
+776;120;Médiathèque de l'ESPE - Site de la Charente;autre;;0;1;1;1;0;1;étudiant;;1,4;8129;613;595;84;;27;;;;;1082;195;428;7743;;;;0860701V;UN12;0860701V;289;POITIERS
+777;120;Bibliothèque de l'IUT d'Angoulême;associée;;0;1;1;1;0;1;mixte;1000;1;;272;;62;;37,5;;;;;1537,5;205;46;625;;;;0860701V;UN13;0860701V;289;POITIERS
+778;120;Bibliothèque de l'IUT de Poitiers (Châtellerault);associée;;0;1;0;1;0;1;étudiant;;1;;50;50;20;15;27;;;;;1215;219;15;56;;;;0860701V;UN14;0860701V;289;POITIERS
+779;120;Bibliothèque du Centre Universitaire de la Charente;autre;;1;0;0;1;1;1;étudiant;;1,5;29193;359;350;94;0;60;;;;;2348;221;431;1271;;;;0860701V;UN15;0860701V;289;POITIERS
+780;120;Bibliothèque de l'IUT de Poitiers - Campus;associée;;0;1;0;1;0;0;étudiant;6301,54;1;;262;240;96;0;30;;;;;960;160;250;293;;;;0860701V;UN16;0860701V;289;POITIERS
+781;120;Bibliothèque de Média Centre Ouest (CRFCB);associée;;0;0;0;0;0;1;mixte;4043,6;1;;100;100;18;;37,5;;;;;1762,5;235;142;443;;;;0860701V;UN18;0860701V;289;POITIERS
+782;120;Maison des Sciences de l'Homme et de la société;associée;;0;0;1;0;0;0;recherche;6000;2;4000;530;530;60;;42;;;;;1848;220;831;1178;27;;;0860701V;UN19;0860701V;289;POITIERS
+783;120;UFR Droit - Centre de doctorat;associée;;1;0;0;0;0;0;recherche;50000;3,2;;823;700;157;17;62;;;;;;254;1100;7861;;;;0860701V;UN21;0860701V;289;POITIERS
+784;120;UFR SFA - Bibliothèque de mathématiques;associée;;0;0;0;1;0;0;recherche;32278;1,5;;238;238;20;;46,25;;;;;1942,5;210;708;1447;;;;0860701V;UN22;0860701V;289;POITIERS
+785;120;UFR SHA - Bibliothèque de géographie Théodore Lefebvre;associée;;0;0;1;0;0;0;mixte;6623;0,8;4794;140;140;35;0;30;;;;;1230;164;336;970;;75;;0860701V;UN23;0860701V;289;POITIERS
+786;120;UFR SHA - CESCM - Pôle documentaire Berthelot;associée;;0;0;1;0;0;0;recherche;7000;1;3568;186;;14;8;40;;;;;920;;;34;;1570;;0860701V;UN24;0860701V;289;POITIERS
+787;120;UFR SFA - S'Factory;associée;;0;0;0;1;0;1;étudiant;700;1;7233;125;90;62;26;37,5;;;;;1308,75;175;6;150;;;;0860701V;UN25;0860701V;289;POITIERS
+788;120;UFR SFA - Bibliothèque de Géosciences;associée;;0;0;0;1;0;0;;;;;;;;;;;;;;;;;;;;;0860701V;UN26;0860701V;289;POITIERS
+789;120;BU Droit Economie Gestion;autre;;1;1;0;0;0;0;mixte;;9,5;273665;2166;1695;532;8;68;;;;;2770;257;1229;23909;;36;;0860701V;UN28;0860701V;289;POITIERS
+790;121;Bibliothèque universitaire;autre;;1;1;1;1;1;0;mixte;;11,5;192701;1850;1200;298;0;65,5;;;;;2784,5;260;2207;49702;759;1163;569;9840390B;UN00;9840390B;293;POLYNESIE FRANCAISE
+791;121;médiathèque de l'ESPE;autre;;0;0;0;0;0;1;mixte;;1,5;29349;178;153;45;16;47,5;;;;;1963,5;222;257;14495;160;152;0;9840390B;UN01;9840390B;293;POLYNESIE FRANCAISE
+792;122;Direction des Ressources et savoirs (DRS);autre;;1;1;1;1;1;1;mixte;;;;90;0;0;;;;;;;;;;;;;;0755575C;UN00;;297;COMUE Paris Sciences et Lettres (ex PRES) (>=2015)
+793;123;;autre;;1;1;1;1;1;1;recherche;;;;;;;;;;;;;;;;;;;;0772710C;UN00;;298;COMUE Université Paris-Est (Ex PRES) (>=2015)
+794;124;Bibliothèque Reims Education;autre;;0;1;1;0;0;1;mixte;;2,81;19698;278;278;60;0;47;;;;;2114,5;212;181;23374;;;0;0511121S;UN00;0511121S;299;REIMS
+795;124;Bibliothèque "fictive" Direction/administration;autre;;1;1;1;1;1;1;mixte;;6,4;;;;;;;;;;;;;;;;;;0511121S;UN01;0511121S;299;REIMS
+796;124;Bibliothèque du Pôle Santé;autre;;0;0;0;0;1;0;mixte;;10,8;329118;2216;2000;455;62;65;;;;;2857,5;227;3667;28742;;7;80;0511121S;Un02;0511121S;299;REIMS
+797;124;Bibliothèque Moulin de la Housse;autre;;0;1;0;1;0;1;mixte;;8,7;165816;3171;1915;404;19;64;;;;;2678;260;2937;42804;;623;297;0511121S;UN03;0511121S;299;REIMS
+798;124;Bibliothèque du Centre Universitaire de Troyes;autre;;1;1;1;0;0;0;mixte;;4,69;44173;495;408;130;0;51;;;;;2094,5;210;446;6271;;11;3;0511121S;Un04;0511121S;299;REIMS
+799;124;Bibliothèque de l'IUT de Troyes;autre;;1;1;0;1;0;0;mixte;;3,66;29480;413;328;107;16;50;;;;;2007;208;408;4111;;;42;0511121S;UN05;0511121S;299;REIMS
+800;124;Bibliothèque Robert de Sorbon;autre;;1;1;1;0;0;0;mixte;;28,86;435878;9000;6500;1000;36;68;;;;;2777;259;11331;146849;;2865;206;0511121S;UN06;0511121S;299;REIMS
+801;124;Bibliothèque Universitaire de Châlons en Champagne;autre;;0;0;1;1;0;0;mixte;;2,38;15934;203;200;36;0;44,5;;;;;1930,75;206;220;10086;;;1;0511121S;UN07;0511121S;299;REIMS
+802;124;Bibliothèque Universitaire de Charleville-Mézières;autre;;0;0;1;1;0;0;mixte;;2,38;14093;337;282;42;;44,3;;;;;2052,45;209;219;10139;;;0;0511121S;UN08;0511121S;299;REIMS
+803;124;Bibliothèque Universitaire de Chaumont;autre;;0;0;1;1;0;0;mixte;;1,16;1232;65;45;16;0;36,25;;;;;1006;149;137;4537;;;;0511121S;UN09;0511121S;299;REIMS
+804;124;Bibliothèque Troyes Education;autre;;0;0;1;0;0;0;mixte;;2,68;3270;191;188;23;0;50;;;;;1553,25;197;80;7059;;;1;0511121S;UN10;0511121S;299;REIMS
+805;125;BU Droit, Economie, Gestion;autre;;1;1;1;0;0;0;mixte;;17,4;683716;7146;3239;757;88;85,5;;;;;3318;280;19085;43284;16544;4988;50;0352288X;Un00;0352288X;302;RENNES 1
+806;125;BUFR intégrée de l'ENSSAT - Lannion;autre;;0;0;0;1;0;0;mixte;;1;;180;140;43;;60,5;;;;;2190;215;443;737;;;;0352288X;Un01;0352288X;302;RENNES 1
+807;125;BU Sciences et philosophie;autre;;0;0;1;1;0;0;mixte;;15,85;253341;5141;3647;902;120;80;;;;;3377;264;6026;40968;24957;392;172;0352288X;Un02;0352288X;302;RENNES 1
+808;125;Bibliothèque du PU Saint-Brieuc;associée;;1;0;0;0;0;0;étudiant;21935;1;;908;850;220;;52,5;;;;;2166,5;245;791;;;;;0352288X;UN04;0352288X;302;RENNES 1
+809;125;BU Santé;autre;;0;0;0;0;1;0;mixte;;15,95;222881;3192;2286;599;87;60;;;;;2531,5;260;4196;19700;19881;337;5;0352288X;Un05;0352288X;302;RENNES 1
+810;125;BUFR intégrée de l'I.U.T. de LANNION;autre;;1;1;1;1;0;1;mixte;;1,5;23173;380;300;135;;50;;;;;2200;220;492;1940;2580;;30;0352288X;UN06;0352288X;302;RENNES 1
+811;125;Direction - services transverses;autre;;1;1;1;1;1;0;mixte;;17,67;;0;0;0;0;;;;;;;;;;;;;0352288X;UN07;0352288X;302;RENNES 1
+812;125;SCELVA;associée;;0;0;0;0;0;1;étudiant;15556;2,9;;146;146;51;25;34,5;;;;;1330;200;71;2593;;;;0352288X;UN08;0352288X;302;RENNES 1
+813;125;Archéosciences;associée;;0;0;1;1;0;0;mixte;10000;1;500;140;20;6;;35;;;;;1610;230;620;;;;;0352288X;UN09;0352288X;302;RENNES 1
+814;125;IRMAR;associée;;0;0;0;1;0;0;recherche;16539,6;2,8;;800;740;108;18;35,75;;;;;1656;230;;1815;16100;;;0352288X;UN10;0352288X;302;RENNES 1
+815;125;IUT GEA-CS Rennes;associée;;0;1;1;0;0;0;étudiant;21285;1,8;15798;310;280;88;;41;;;;;1457;183;300;5028;;;;0352288X;UN11;0352288X;302;RENNES 1
+816;125;Géosciences OSUR;associée;;0;0;0;1;0;0;recherche;7500;2;;360;60;8;;40;;;;;1700;220;1700;;;;;0352288X;UN12;0352288X;302;RENNES 1
+817;125;ENSCR;associée;;0;0;0;1;0;1;étudiant;12000;1;;119;103;40;;40;;;;;1640;205;180;1670;;;;0352288X;UN13;0352288X;302;RENNES 1
+818;125;SOIE;associée;;0;0;0;0;0;1;étudiant;2290;2;;;;;;41,5;;;;;1700;200;;142;;;;0352288X;UN14;0352288X;302;RENNES 1
+819;125;IPAG;associée;;1;1;1;0;1;1;mixte;20969;2;12606;413;389;55;;50;;;;;2113;221;673;2612;3750;;;0352288X;UN15;0352288X;302;RENNES 1
+820;125;IEJ;associée;;1;0;0;0;0;0;mixte;;1;890;138;99;50;;36,25;;;;;1435,5;198;;100;990;;;0352288X;UN16;0352288X;302;RENNES 1
+821;125;IEP Rennes;associée;;1;1;1;0;0;0;mixte;104000;4,7;128782;1149;1015;256;88;53,5;;;;;2146;223;2050;13636;;1034;;0352288X;UN17;0352288X;302;RENNES 1
+1179;125;IGR;autre;;0;1;0;0;0;0;mixte;;1,5;1806;333;300;68;16;55;;;;;1905;246;268;2219;;;;0352288X;UN18;0352288X;302;RENNES 1
+822;125;CHD;associée;;1;0;0;0;0;0;recherche;1089;0,5;;90;;21;;19;;;;;707;186;266;200;;;;0352288X;UN19;0352288X;302;RENNES 1
+823;125;CEDRE;associée;;1;0;0;0;0;0;mixte;11200;1,5;24750;300;270;60;;36,5;;;;;1570;209;930;5120;125;;;0352288X;UN20;0352288X;302;RENNES 1
+824;125;IEP Rennes - Antenne Caen;associée;;1;1;1;0;0;0;mixte;7000;0,5;;134;120;40;15;25,5;;;;;1173;228;97;344;;;;0352288X;UN21;0352288X;302;RENNES 1
+825;126;Centre de documentation LAHM;associée;;0;0;1;0;0;0;mixte;372;1;;84;80;40;30;35;;;;;1428;204;119;146;149;0;132;0352303N;UN00;0352303N;303;RENNES 2
+826;126;Mediathèque;autre;;0;0;1;1;0;0;mixte;;4;101749;1106;1040;246;58;43;;;;;1732;211;448;36672;;0;0;0352303N;Un01;0352303N;303;RENNES 2
+827;126;Bibliothèque Arts -Lettres - Communication;autre;;0;0;1;0;0;1;mixte;;1,8;46614;546;430;129;14;43;;;;;1722;210;580;7459;;774;0;0352303N;UN02;0352303N;303;RENNES 2
+828;126;Bibliothèques de Sciences Sociales;autre;;0;1;1;0;0;0;mixte;;4,7;80763;1410;1195;380;76;43;;;;;1726;210;1119;28320;;51;0;0352303N;UN05;0352303N;303;RENNES 2
+829;126;Bibliothèque de Musique;autre;;0;0;1;0;0;0;mixte;;2;29166;272;235;66;0;43;;;;;1720;210;296;6133;;111;0;0352303N;UN07;0352303N;303;RENNES 2
+830;126;Bibliothèque de Sciences Humaines;autre;;0;0;1;0;0;0;mixte;;2;52478;489;452;111;10;43;;;;;1724;211;448;8189;;147;0;0352303N;UN08;0352303N;303;RENNES 2
+831;126;Bibliothèque Centrale;autre;;0;1;1;1;0;1;mixte;;55,1;722162;14443;11485;1442;100;66;;;;;2689;263;18695;123274;;6781;0;0352303N;UN10;0352303N;303;RENNES 2
+832;126;Bibliothèque Universitaire de Saint-Brieuc;associée;;0;1;1;1;0;0;étudiant;25320;2;90000;832;764;115;0;52,3;;;;;2214;246;583;6726;;5;0;0352303N;UN11;0352303N;303;RENNES 2
+833;126;Bibliothèque des STAPS;autre;;0;0;1;1;0;0;mixte;;1,8;50999;442;410;96;0;43;;;;;1715;209;;6710;;76;0;0352303N;UN12;0352303N;303;RENNES 2
+834;126;CERHIO, Bibliothèque centre recherche historique de l'Ouest;associée;;1;0;1;0;0;0;recherche;12700;1;;360;345;37;0;37,3;;;;;1537;205;;1876;;0;0;0352303N;UN14;0352303N;303;RENNES 2
+835;126;CFCB, Centre de Formation aux Carrières des Bibliothèques;associée;;1;1;1;0;0;1;mixte;7287;1;;326;268;24;8;32,5;;;;;1105;170;100;2168;;;0;0352303N;UN15;0352303N;303;RENNES 2
+836;126;Bibliothèque SUIO;associée;;0;1;1;1;0;1;étudiant;8126;6,3;;117;114;56;0;23,5;;;;;970;206;;401;;0;0;0352303N;UN16;0352303N;303;RENNES 2
+837;126;Bibliothèque SFC, CCB, CEFOCOP;associée;;0;1;1;0;0;1;mixte;2743;;;40;40;12;0;;;;;;;;75;;;0;0;0352303N;UN17;0352303N;303;RENNES 2
+838;127;Bibliothèque de l'INSA Rennes;autre;;0;0;0;1;0;0;mixte;;5,8;39208;528;425;108;;55,5;;;;;2273;218;;4040;;;;0350097R;Un00;;304;RENNES INSA
+839;128;Evreux;autre;;1;0;0;1;0;0;mixte;;4;34672;1040;900;110;32;49,5;;;;;228;;614;6532;;;;0761652H;Un00;0761652H;306;ROUEN
+840;128;Section Lettres;autre;;0;0;1;1;0;0;mixte;;13,6;156795;4000;3000;423;0;58;;;;;2593;259;7160;40771;19213;1171;70;0761652H;UN01;0761652H;306;ROUEN
+841;128;Médecine;autre;;0;0;0;0;1;0;mixte;;10,7;350427;2000;1200;400;24;75,5;;;;;3217;261;2639;12989;31549;511;;0761652H;Un02;0761652H;306;ROUEN
+842;128;Sciences Mad.;autre;;0;0;0;1;0;0;mixte;;6,25;57008;2840;1540;220;34;50;;;;;2153;230;1470;7583;23920;569;;0761652H;Un03;0761652H;306;ROUEN
+843;128;Sciences MSA;autre;;0;0;0;1;0;0;mixte;;7,45;36445;3865;1778;364;60;55,5;;;;;2637;260;1412;7791;17940;51;;0761652H;Un04;0761652H;306;ROUEN
+844;128;Section Droit;autre;;1;1;0;0;0;0;mixte;;12,4;119425;5525;4800;510;40;68;;;;;3008;266;3572;22448;17548;477;;0761652H;UN06;0761652H;306;ROUEN
+845;128;Section Formation des maîtres Rouen;autre;;0;0;1;1;0;1;mixte;;9,21;56092;1200;1100;110;25;50,5;;;;;2292;263;;34540;22026;;;0761652H;UN07;0761652H;306;ROUEN
+846;128;Bibliothèque de mathématiques de Rouen;associée;;0;0;0;1;0;0;mixte;31023;1;;242;211;6;;32,25;;;;;1225,5;360;;1287;;2;;0761652H;UN08;0761652H;306;ROUEN
+847;128;Pôle documentaire langues et civilisationq;associée;;0;0;1;0;0;0;mixte;16076;1;25192;515;250;81;8;50;;;;;1850;185;;1397;;;;0761652H;UN09;0761652H;306;ROUEN
+848;128;Pôle documentaire sciences humaines et sociales;associée;;0;0;1;0;0;0;mixte;;;;400;200;70;;;;;;;;;;;;;;0761652H;UN10;0761652H;306;ROUEN
+849;129;Bibliothèque de l'INSA de Rouen;autre;;0;0;0;1;0;0;mixte;;6,3;93980;800;600;220;10;59;;;;;2665;288;1315;3425;;;16;0760165S;UN00;;307;ROUEN INSA
+850;130;Fonds Général;autre;;1;1;1;1;1;1;mixte;;;313761;16320;2353;767;0;72;;;;;3083;276;36366;;102924;85528;;0752706J;Un00;0752706J;309;SAINTE GENEVIEVE
+851;130;Réserve;autre;;1;1;1;1;1;1;recherche;;8,64;1360;;116;20;0;43;;;;;1866;276;6720;;;3177;;0752706J;Un01;0752706J;309;SAINTE GENEVIEVE
+852;130;Nordique;autre;;1;1;1;0;0;1;mixte;;3;1583;;176;18;0;24;;;;;1004;251;5606;2758;799;2781;;0752706J;Un02;0752706J;309;SAINTE GENEVIEVE
+853;131;Bibliothèque;autre;;1;1;1;0;0;1;étudiant;;45,2;609905;6519;4579;971;58;60;;;;;2392;242;4457;109354;106310;0;229;0755041X;UN00;0755041X;310;SAINTE-BARBE
+854;132;Bibliothèque universitaire Tréfilerie;autre;;1;1;1;0;0;0;mixte;;29,3;563049;6359;3709;654;125;65,5;;;;;2792;267;7363;42891;;2931;812;0421523C;UN00;0421523C;311;SAINT-ETIENNE
+855;132;Bibliothèque universitaire Santé;autre;;0;0;0;0;1;0;mixte;;7,05;281282;1858;1590;473;70;55;;;;;2347;223;841;7089;;311;81;0421523C;UN01;0421523C;311;SAINT-ETIENNE
+856;132;Bibliothèque universitaire de Roanne;autre;;1;1;1;1;1;0;mixte;;4;106240;1154;990;112;10;48,25;;;;;2142;234;359;5148;;2;133;0421523C;UN02;0421523C;311;SAINT-ETIENNE
+857;132;Bibliothèque universitaire de Sciences;autre;;0;0;0;1;0;0;mixte;;9,1;87634;1799;847;348;42;55,5;;;;;2357,5;260;1201;6651;;774;99;0421523C;UN03;0421523C;311;SAINT-ETIENNE
+858;132;Bibliothèque du CERCRID;associée;;1;0;1;0;0;0;recherche;18511;1,2;;155;;30;22;28;;;;;929;142;381;463;;;16;0421523C;UN05;0421523C;311;SAINT-ETIENNE
+859;132;Centre de documentation du CIEREC;associée;;0;0;1;0;0;0;recherche;1886;0,3;;36;;21;;12;;;;;543;181;63;27;;;;0421523C;UN06;0421523C;311;SAINT-ETIENNE
+860;132;Médiathèque du CILEC;associée;;0;0;1;0;0;1;mixte;935;1;;190;190;53;32;19;;;;;870;92;96;1637;;;;0421523C;UN07;0421523C;311;SAINT-ETIENNE
+861;132;Bibliothèque de l'Institut du travail;associée;;1;1;0;0;0;0;mixte;9446,33;0,5;;30;25;14;14;18,5;;;;;747;100;34;;;;;0421523C;UN08;0421523C;311;SAINT-ETIENNE
+862;132;Bibliothèque de l'IUT;associée;;1;1;1;1;0;0;étudiant;14393;3;;571;521;108;58;47,5;;;;;1946;218;227;1993;;1;590;0421523C;UN09;0421523C;311;SAINT-ETIENNE
+863;132;Centre de documentation du GATE Lyon Saint-Etienne;associée;;0;1;0;0;0;0;recherche;9324;0,08;;52;52;8;0;;;;;;;;162;;;;;0421523C;UN10;0421523C;311;SAINT-ETIENNE
+864;132;Centre de documentation recherche HISOMA - Jean PALERNE;associée;;0;0;1;0;0;0;recherche;420;0,3;;37;;10;;12;;;;;543;181;66;12;;;;0421523C;UN11;0421523C;311;SAINT-ETIENNE
+865;132;Centre de documentation recherche IHRIM;associée;;0;0;1;0;0;0;recherche;1017;0,3;;57;;16;;12;;;;;543;181;235;44;;;;0421523C;UN12;0421523C;311;SAINT-ETIENNE
+866;132;Centre de documentation recherche LEM-CERCOR;associée;;0;0;1;0;0;0;recherche;6432;0,3;;76;;15;;12;;;;;543;181;365;100;;;;0421523C;UN13;0421523C;311;SAINT-ETIENNE
+867;132;Direction et bibliothèque numérique;autre;;0;0;0;0;0;0;;;4;;;;;;;;;;;;;;;;;;0421523C;UN15;0421523C;311;SAINT-ETIENNE
+868;132;Bibliothèque universitaire Manufacture;autre;;0;0;0;1;0;1;mixte;;;870;52;52;16;0;12,68;;;;;458;57;;252;;;;0421523C;UN16;0421523C;311;SAINT-ETIENNE
+869;132;Centre de documentation recherche CELEC;associée;;0;0;1;0;0;0;recherche;564;0,3;;17;;19;;12;;;;;543;181;70;66;;;;0421523C;UN17;0421523C;311;SAINT-ETIENNE
+870;133;centrale;autre;;0;0;1;0;0;0;mixte;;;266392;10076;2072;569;27;62;;;;;2691;268;;200245;;172634;0;0752705H;Un00;0752705H;314;SORBONNE
+871;133;Géographie;autre;;0;0;1;0;0;0;mixte;;;;1099;450;160;19;51,5;;;;;2303,5;259;;8020;;13767;;0752705H;Un01;0752705H;314;SORBONNE
+872;134;Bibliothèque des Arts;autre;;0;0;1;0;0;0;mixte;;2,5;25501;914;170;85;0;50,5;;;;;2016;221;1018;5356;26520;1892;0;0673029D;UN00;0673029D;315;STRASBOURG
+873;134;Bibliothèque IGBMC (Institut génétique et biologie moléculai;associée;;0;0;0;1;0;0;mixte;;1;;162;;24;24;168;;;;;8736;365;465;;20;;0;0673029D;UN01;0673029D;315;STRASBOURG
+874;134;Bibliothèque CUEJ (Centre Univ. Enseignement Journalisme);autre;;0;0;1;0;0;0;étudiant;;0,5;2470;50;50;20;0;38;;;;;1425;190;210;450;0;0;0;0673029D;Un02;0673029D;315;STRASBOURG
+875;134;Bibliothèque Droit recherche (Escarpe);autre;;1;0;0;0;0;0;recherche;;2,8;52875;1181;975;182;0;50;;;;;2196;224;1960;5044;;43;0;0673029D;Un03;0673029D;315;STRASBOURG
+876;134;Bibliothèque Faculté de droit;autre;;1;0;0;0;0;0;étudiant;;4,3;43542;1006;630;210;0;50;;;;;1714;183;2099;0;855;285;0;0673029D;Un04;0673029D;315;STRASBOURG
+877;134;Bibliothèque Histoire 1er cycle;autre;;0;0;1;0;0;0;étudiant;;3;45601;559;311;72;0;47,5;;;;;1700;169;1624;9064;;393;;0673029D;UN05;0673029D;315;STRASBOURG
+878;134;Bibliothèque PEGE (Pôle Européen de Gestion et d'Economie);autre;;0;1;0;0;0;0;mixte;;7,25;334143;2900;2741;545;36;80;;;;;3068;234;1172;20786;;1747;0;0673029D;Un06;0673029D;315;STRASBOURG
+879;134;Bibliothèque de Recherche en Histoire;autre;;0;0;1;0;0;0;recherche;;3;56872;559;311;114;16;50;;;;;2043;221;1625;9064;;394;;0673029D;UN07;0673029D;315;STRASBOURG
+880;134;Bibliothèque IEP IPAG;autre;;1;0;0;0;0;0;mixte;;4,5;72446;494;308;140;;50;;;;;2097;228;1554;12751;;266;0;0673029D;UN08;0673029D;315;STRASBOURG
+881;134;Bibliothèque IUT-Pharmacie;autre;;0;0;1;1;1;0;mixte;;7;68699;2349;1497;438;90;49;;;;;1912;225;1233;4634;;0;0;0673029D;Un09;0673029D;315;STRASBOURG
+882;134;Bibliothèque IDT (Institut Du Travail);autre;;1;0;0;0;0;0;mixte;;1;1286;191;48;8;0;35;;;;;1378;196;790;662;686;420;0;0673029D;Un10;0673029D;315;STRASBOURG
+884;134;Bibliothèque MISHA (Maison Inter-U Sciences Homme Alsace);autre;;0;0;1;0;0;0;recherche;;5,5;100203;2065;1756;170;16;50;;;;;2098;221;2512;6856;24221;214;0;0673029D;UN13;0673029D;315;STRASBOURG
+885;134;Bibliothèque Langues;autre;;0;0;1;0;0;0;mixte;;5,56;99098;1240;1110;257;19;50;;;;;2040;226;3433;8273;;37;0;0673029D;UN14;0673029D;315;STRASBOURG
+886;134;Bibliothèque ESPE Strasbourg;autre;;1;0;0;0;1;0;mixte;;5,9;50630;1515;976;214;0;46,5;;;;;1907;216;623;32572;36;170;0;0673029D;UN15;0673029D;315;STRASBOURG
+887;134;Bibliothèque Sciences sociales;autre;;0;0;1;0;0;0;mixte;;2;36824;357;278;82;0;49;;;;;1978;217;797;11167;;412;0;0673029D;UN16;0673029D;315;STRASBOURG
+888;134;Bibliothèque de l'Observatoire astronomique;associée;;0;0;0;1;0;0;recherche;24000;1;;300;;10;;;;;;;;;385;;;;;0673029D;UN17;0673029D;315;STRASBOURG
+889;134;Bibliothèque Portique;autre;;0;0;1;0;0;0;mixte;;6,7;96992;1155;763;185;0;52,3;;;;;2153;222;3405;17548;;1041;0;0673029D;UN18;0673029D;315;STRASBOURG
+890;134;Bibliothèque Psychologie Sciences de l'Education (BPSE);autre;;0;0;1;1;1;0;mixte;;5,29;47730;584;469;135;22;51;;;;;2091;222;933;14649;6660;103;0;0673029D;UN20;0673029D;315;STRASBOURG
+891;134;Bibliothèque Géographie;autre;;0;0;1;0;0;0;mixte;;2,96;23089;503;349;92;0;48;;;;;1801;223;1011;4752;4389;412;0;0673029D;UN21;0673029D;315;STRASBOURG
+892;134;Bibliothèque Pôle API;autre;;0;0;0;1;0;0;mixte;;2,6;23434;550;475;70;0;44;;;;;1894;230;585;2416;;0;0;0673029D;UN22;0673029D;315;STRASBOURG
+893;134;Bibliothèque Centrale de Recherche Cronenbourg (BCR);autre;;0;0;0;1;0;0;mixte;;1,1;398;400;379;45;0;25;;;;;986;223;1205;2303;100;0;0;0673029D;UN23;0673029D;315;STRASBOURG
+894;134;Bibliothèque Médecine et Odontologie (BMO);autre;;0;0;0;0;1;0;mixte;;8,3;186322;4160;1349;528;0;76;;;;;3075;258;10250;17798;22662;634;0;0673029D;UN25;0673029D;315;STRASBOURG
+895;134;Bibliothèque historique de la Faculté de médecine;associée;;0;0;0;1;1;1;mixte;0;1,5;;330;140;14;10;31;;;;;786;145;1000;39;34;30;0;0673029D;UN29;0673029D;315;STRASBOURG
+896;134;Bibliothèque ESPE Colmar;autre;;0;0;1;0;1;0;mixte;;1,9;;272;250;80;0;46,5;;;;;1867;215;619;18051;21;0;0;0673029D;UN30;0673029D;315;STRASBOURG
+897;134;Bibliothèque U2U3 (Droit-LSHS-Sciences);autre;;1;0;1;0;0;0;étudiant;;17,3;495278;3001;1740;475;56;75;;;;;2984;257;12282;58924;;245;0;0673029D;UN31;0673029D;315;STRASBOURG
+898;134;Bibliothèque ESPE Sélestat;autre;;1;0;0;0;1;0;mixte;;0,5;;235;225;27;0;33,5;;;;;1038;165;210;5566;;;0;0673029D;UN32;0673029D;315;STRASBOURG
+1180;134;Bibliothèque ESPE Colmar Pôle des langues;autre;;1;0;0;0;1;0;mixte;;1,9;;75;60;2;0;35;;;;;1191;172;169;4907;;0;0;0673029D;UN33;0673029D;315;STRASBOURG
+899;134;Bibliothèque IREM;associée;;0;0;0;1;0;0;mixte;3822;1;670;81;24;22;6;29;;;;;1304;198;141;618;;;;0673029D;UN34;0673029D;315;STRASBOURG
+900;134;Bibliothèque IUT Louis Pasteur;associée;;1;1;0;1;0;0;mixte;9921;1;2856;118;118;28;16;36,75;;;;;1463;201;50;1820;215;;;0673029D;UN35;0673029D;315;STRASBOURG
+901;134;Bibliothèque CEIPI;associée;;1;0;0;0;0;0;mixte;37299;1;3804;75;64;20;0;50;;;;;2280;224;441;400;68;475;12;0673029D;UN36;0673029D;315;STRASBOURG
+902;134;Bibliothèque IRMA (Inst. Recherche Mathématiques Avancées);associée;;0;0;0;1;0;0;recherche;113165;3,7;;700;670;87;10;39;;;;;1833;235;2075;3212;;;;0673029D;UN37;0673029D;315;STRASBOURG
+903;134;Bibliothèque IPCMS (Inst. Physique et chimie des matériaux);associée;;0;0;0;1;0;0;mixte;1800;1;26;80;80;12;;37,5;;;;;1607;318;237;3061;;;0;0673029D;UN38;0673029D;315;STRASBOURG
+904;134;Bibliothèque Géologie;associée;;0;0;0;1;0;0;mixte;17400;1;;418;;30;0;36;;;;;1590;215;;400;19;5;0;0673029D;UN39;0673029D;315;STRASBOURG
+905;134;Bibliothèque ENGEES (Génie de l'eau et de l'environnement);associée;;0;0;0;1;0;0;mixte;28000;1;4373;194;170;26;8;45;;;;;1745;213;265;668;;;0;0673029D;UN40;0673029D;315;STRASBOURG
+906;134;Bibliothèque de géophysique;associée;;0;0;0;1;0;0;mixte;6802;1,1;1929;124;100;26;0;37;;;;;10100;167;649;325;;;0;0673029D;UN41;0673029D;315;STRASBOURG
+907;134;Bibliothèque Théologie;associée;;0;0;1;0;0;0;mixte;28520;2,8;41500;725;400;60;0;50;;;;;2262,5;230;2800;7172;;;;0673029D;UN42;0673029D;315;STRASBOURG
+908;135;Bibliothèque nationale et universitaire;autre;;1;1;1;0;0;1;mixte;1363582;158,35;650533;30317;9320;741;34;80;;;;;3652;332;72479;217372;41611;128041;0;0671451N;Un00;;319;STRASBOURG BNU
+909;136;Bibliothèque;autre;;0;0;0;1;0;1;mixte;;2,8;58075;426;400;80;20;70,5;;;;;2667,2;245;757;5176;9;;;0670190T;UN00;;320;STRASBOURG INSA
+910;137;BU La Garde;autre;;0;1;1;1;0;0;mixte;;13,5;257508;4200;2300;534;143;58;;;;;2426;252;2469;16787;8337;0;155;0830989Z;Un00;0830989Z;325;TOULON
+911;137;BU Droit Toulon;autre;;1;0;0;0;0;0;mixte;;9;172418;1500;950;228;6;58;;;;;2468;256;1446;12325;26817;71;50;0830989Z;Un01;0830989Z;325;TOULON
+912;137;BU SeaTech;autre;;0;0;0;1;0;0;mixte;;2;24798;225;210;70;0;47,5;;;;;2056;220;190;1002;3036;0;3;0830989Z;Un02;0830989Z;325;TOULON
+913;137;Administration générale;autre;;0;0;0;0;0;0;mixte;;2;;;;;;;;;;;;;;;;;;0830989Z;UN03;0830989Z;325;TOULON
+914;137;BU Droit Draguignan;autre;;1;0;0;0;0;0;mixte;;1,5;42348;370;353;95;0;46,5;;;;;1861;207;266;1132;;0;2;0830989Z;UN04;0830989Z;325;TOULON
+915;137;BU Éco-Gestion-Média;autre;;0;1;0;0;0;1;mixte;;2;45795;308;278;50;0;50;;;;;2056;221;202;3608;2468;0;503;0830989Z;UN05;0830989Z;325;TOULON
+916;138;Arsenal;autre;;1;1;1;0;0;1;mixte;;;580195;9500;5468;848;158;75,5;;;;;3112,5;267;12916;101535;;3062;425;0312480C;Un00;0312480C;326;TOULOUSE 1
+917;138;Manufacture;autre;;1;1;0;0;0;1;mixte;;;239078;4500;3717;574;54;63;;;;;2788,5;266;2097;9728;;;242;0312480C;Un01;0312480C;326;TOULOUSE 1
+918;138;Administration Générale;Autre;;0;0;0;0;0;0;;;;;;;;;;;;;;;;;;;;;0312480C;Un02;0312480C;326;TOULOUSE 1
+919;138;Garrigou-Boutaric;autre;;1;1;1;0;0;1;mixte;;;78802;737;577;209;0;45;;;;;1512;168;930;2503;;;;0312480C;UN03;0312480C;326;TOULOUSE 1
+920;138;Centre Universitaire de Tarn-et-Garonne-Médiathèque Montauri;associée;;1;0;0;0;0;1;étudiant;6568;1,8;;425;;112;16;47,5;;;;;1938;204;;3069;;;;0312480C;UN04;0312480C;326;TOULOUSE 1
+921;138;INSTITUT D'ETUDES JUDICIAIRES;associée;;0;0;0;0;0;0;;;;;;;;;;;;;;;;;;;;;0312480C;UN05;0312480C;326;TOULOUSE 1
+922;138;Institut d'Etudes Politiques;associée;;1;1;1;0;0;1;mixte;45000;3;;270;134;42;;45;;;;;1890;210;1445;;;;;0312480C;UN06;0312480C;326;TOULOUSE 1
+923;138;IUT Rodez;associée;;1;1;1;1;0;1;étudiant;8634;1,5;;249;187;59;8;40,5;;;;;1620;200;228;3048;;;;0312480C;UN07;0312480C;326;TOULOUSE 1
+924;138;Centre Toulousain d'Histoire du Droit et des Idées Politique;associée;;1;0;0;0;0;0;mixte;6170;;730;210;;40;;25;;;;;1022;146;;240;480;;;0312480C;UN08;0312480C;326;TOULOUSE 1
+925;138;Centre de droit des affaires;associée;;1;0;0;0;0;0;recherche;7500;;;110;110;32;5;45;;;;;1440;235;20;;50;;;0312480C;UN09;0312480C;326;TOULOUSE 1
+926;138;Salle de travail de l'institut de droit privé IDP;associée;;1;0;0;0;0;0;recherche;2135;;;50;50;13;8;40;;;;;1560;195;100;;;;;0312480C;UN10;0312480C;326;TOULOUSE 1
+927;139;Bibliothèque Universitaire Centrale;autre;;0;0;1;0;0;0;mixte;;;428749;15236;9496;1489;24;;;;;;;;;;;;;0312477Z;Un00;0312477Z;327;TOULOUSE 2
+928;139;Direction du SCD (unité fictive);autre;;0;0;1;0;0;0;mixte;;;0;150;0;0;0;;;;;;;;;;;;;0312477Z;UN01;0312477Z;327;TOULOUSE 2
+929;139;Bibliothèque de l'ESPE Midi-Pyrénées;autre;;1;1;1;1;0;1;mixte;;;135573;4799;4317;569;134;;;;;;;;;;;;;0312477Z;UN02;0312477Z;327;TOULOUSE 2
+930;139;Centre de ressources Olympe de Gouges;autre;;0;1;1;0;0;0;étudiant;;;251251;2300;1482;365;48;;;;;;;;;;;;;0312477Z;UN03;0312477Z;327;TOULOUSE 2
+931;139;Centre de ressources Lettres, Arts, Philosophie;associée;;0;0;1;0;0;0;étudiant;;;70826;690;570;130;42;;;;;;;;;;;;;0312477Z;UN04;0312477Z;327;TOULOUSE 2
+932;139;Centre universitaire Tarn-et-Garonne; Médiatèque Montauriol;associée;;0;0;0;0;0;1;étudiant;;;;425;;112;16;;;;;;;;;;;;;0312477Z;UN05;0312477Z;327;TOULOUSE 2
+933;139;Centre de Ressources des Langues;associée;;0;0;1;0;0;0;étudiant;;;185041;2200;;317;16;;;;;;;;;;;;;0312477Z;UN06;0312477Z;327;TOULOUSE 2
+935;139;Bibliothèque de Psychologie;associée;;0;0;1;1;1;0;mixte;;;181354;1200;400;150;24;;;;;;;;;;;;;0312477Z;UN08;0312477Z;327;TOULOUSE 2
+937;139;Bibiothèque d'Etudes méridionales;associée;;0;0;1;0;0;0;mixte;;;4454;373;245;48;8;;;;;;;;;;;;;0312477Z;UN11;0312477Z;327;TOULOUSE 2
+938;139;Espace Documentation Recherche;associée;;0;0;1;0;0;0;recherche;;;0;595;590;51;0;;;;;;;;;;;;;0312477Z;UN12;0312477Z;327;TOULOUSE 2
+939;139;Médiathèque de l'ESAV;associée;;0;0;1;0;0;0;mixte;;;;150;40;16;4;;;;;;;;;;;;;0312477Z;UN13;0312477Z;327;TOULOUSE 2
+940;139;Bibliothèque IUT Figeac;associée;;1;1;1;1;1;0;mixte;;;10219;150;140;68;14;;;;;;;;;;;;;0312477Z;UN14;0312477Z;327;TOULOUSE 2
+941;140;Bibliothèque universitaire de Santé - Allées Jules Guesde;autre;;0;0;0;0;1;0;mixte;;;;2298;204;110;6;;;;;;;;;;;;;0312461G;Un00;0312461G;328;TOULOUSE 3
+942;140;Bibliothèque universitaire de Santé Rangueil;autre;;0;0;0;0;1;0;mixte;;;;4100;2130;638;12;;;;;;;;;;;;;0312461G;Un01;0312461G;328;TOULOUSE 3
+943;140;bibliothèque universitaire de Sciences;autre;;0;0;0;1;0;0;mixte;;;;9632;4585;942;96;;;;;;;;;;;;;0312461G;Un02;0312461G;328;TOULOUSE 3
+944;140;Université Toulouse 3 - SCD Afafires générales;autre;;0;0;0;0;0;1;mixte;;;;;;;;;;;;;;;;;;;;0312461G;UN03;0312461G;328;TOULOUSE 3
+945;140;IUT site Ponsan - centre de ressources documentaires;autre;;1;1;1;1;0;1;étudiant;25551,86;5;;432;375;137;22;46,5;;;;;2003;207;342;4114;0;0;0;0312461G;UN04;0312461G;328;TOULOUSE 3
+946;140;IUT de Tarbes - Bibliothèque;autre;;1;1;1;1;0;1;étudiant;;3;35950;323;300;98;0;44;;;;;1930;220;331;3051;;;2;0312461G;UN05;0312461G;328;TOULOUSE 3
+947;140;IUT site Rangueil - centre de ressources documentaires;autre;;1;1;0;1;0;1;étudiant;19148,89;2,4;54662;400;340;125;20;44;;;;;1698;;191;2095;;0;0;0312461G;UN06;0312461G;328;TOULOUSE 3
+948;140;CDRSHS-UPS - Centre de documentation pour la recherche SHS;associée;;1;1;1;1;0;0;mixte;;;;50;50;10;10;;;;;;;;;;;;;0312461G;UN07;0312461G;328;TOULOUSE 3
+949;140;Bibliothèque de l'IRSAMC;associée;;0;0;0;1;0;0;recherche;;;;120;;12;8;;;;;;;;;;;;;0312461G;UN08;0312461G;328;TOULOUSE 3
+950;140;Centre de ressources documentaires - IUT de Castres;associée;;1;1;1;1;1;0;mixte;;;;400;385;145;40;;;;;;;;;;;;;0312461G;UN09;0312461G;328;TOULOUSE 3
+951;140;Bibliothèque Faculté de Chirurgie dentaire et Odontologie;associée;;0;0;0;0;1;0;étudiant;;;;65;;16;;;;;;;;;;;;;;0312461G;UN10;0312461G;328;TOULOUSE 3
+952;140;Bibliothèque Institut de Recherche Informatique de Toulouse;associée;;0;0;0;1;0;0;recherche;;;;90;;6;;;;;;;;;;;;;;0312461G;UN11;0312461G;328;TOULOUSE 3
+953;140;Bibliothèque Institut Claudius Régaud;associée;;0;0;0;0;1;0;mixte;;;;80;60;17;8;;;;;;;;;;;;;0312461G;UN12;0312461G;328;TOULOUSE 3
+954;140;Bibliothèque communue Auch Canopé - ESPE - IUT;associée;;1;1;0;1;0;1;étudiant;;;;500;389;62;;;;;;;;;;;;;;0312461G;UN13;0312461G;328;TOULOUSE 3
+955;140;Centre de documentation Observatoire Midi-Pyrénées;associée;;0;0;0;1;0;0;recherche;;;;450;;14;10;;;;;;;;;;;;;0312461G;UN14;0312461G;328;TOULOUSE 3
+956;140;Bibliothèque de l'Institut de Mathématiques de Toulouse;associée;;0;0;0;1;0;0;mixte;;;;550;550;50;15;;;;;;;;;;;;;0312461G;UN15;0312461G;328;TOULOUSE 3
+957;140;Service de documentation de Chimie;associée;;0;0;0;1;0;0;recherche;;;;93;40;16;12;;;;;;;;;;;;;0312461G;UN16;0312461G;328;TOULOUSE 3
+958;140;Bib. d'épidémiologie (Centre Régio. Doc. Santé publique);associée;;0;0;0;0;1;0;mixte;;;;32;28;7;6;;;;;;;;;;;;;0312461G;UN17;0312461G;328;TOULOUSE 3
+959;141;ENSAT;autre;;0;0;0;1;0;0;mixte;;4;119976;803;664;111;103;59;;;;;2405;222;977;4365;;126;668;0312481D;Un00;0312481D;329;TOULOUSE INP
+960;141;ENSEEIHT;autre;;0;0;0;1;0;0;mixte;;3,8;57432;403;302;64;;59;;;;;2402;218;604;5144;;;;0312481D;Un01;0312481D;329;TOULOUSE INP
+961;141;ENSIACET;autre;;0;0;0;1;0;0;mixte;;4;125774;1319;960;218;80;54;;;;;2227;219;1094;5354;;79;8664;0312481D;UN02;0312481D;329;TOULOUSE INP
+962;141;Affaires Générales du SCD;autre;;0;0;0;1;0;0;mixte;;4,08;;43;;;;;;;;;;;;;;;;0312481D;UN03;0312481D;329;TOULOUSE INP
+963;141;ENVT;associée;;0;0;1;1;1;0;mixte;99097;2,8;30451;945;230;74;24;48,5;;;;;2002;218;319;1538;;497;0;0312481D;UN04;0312481D;329;TOULOUSE INP
+964;141;ENIT;associée;;0;0;0;1;0;0;mixte;72307;3,7;33974;375;345;105;0;51,5;;;;;2069;219;532;6170;;;0;0312481D;UN05;0312481D;329;TOULOUSE INP
+965;141;Ecole d'Ingénieurs de Purpan;associée;;0;0;0;0;0;1;mixte;72000;4;39667;700;350;75;10;42,5;;;;;1253;205;1657;6156;0;0;0;0312481D;UN06;0312481D;329;TOULOUSE INP
+966;141;Bibliothèque de l'Institut de Mécanique des Fluides deTlse;associée;;0;0;0;1;1;0;recherche;;;;70;;12;5;;;;;;;;;;;;;0312481D;UN07;0312481D;329;TOULOUSE INP
+967;141;Bibliothèque INP du laboratoire LAPLACE (ex LEEI);associée;;0;0;0;1;0;1;mixte;4169,35;0,5;;30;15;0;0;28;;;;;1176;168;83;21;;0;;0312481D;UN08;0312481D;329;TOULOUSE INP
+968;141;Médiathèque de la météopole de Toulouse;associée;;0;0;0;1;0;0;mixte;33641;2,8;;393;346;26;12;40;;;;;1960;245;439;1091;;;0;0312481D;UN09;0312481D;329;TOULOUSE INP
+969;142;BIB'INSA (bibliothèque centrale);autre;;0;0;0;1;0;0;mixte;;9,2;94315;1014;800;197;36;52,5;;;;;2160;211;817;7704;;1425;134;0310152X;UN01;;330;TOULOUSE INSA
+970;143;SICD - Livre ancien;autre;;1;1;1;1;1;0;mixte;;;56;49;30;4;;;;;;;;;78;0;;100;0;0312479B;UN00;0312479B;332;TOULOUSE SICD
+971;144;Bibliothèque universitaire de Blois;autre;;1;0;0;1;0;1;mixte;;5,9;68234;1670;760;122;18;55;;;;;2273;247;713;6476;5053;36;0;0370853B;Un00;0370853B;333;TOURS
+972;144;Bibliothèque universitaire de Droit, Economie et Géographie;autre;;1;1;1;0;0;0;mixte;;16,6;276683;3395;2596;626;64;56;;;;;2392;257;3183;64757;85560;236;0;0370853B;Un01;0370853B;333;TOURS
+973;144;Bibliothèque universitaire de Lettres et Sciences humaines;autre;;0;0;1;0;0;0;mixte;;29,8;131534;4326;1689;416;126;61;;;;;2568,5;258;9434;84661;6302;15133;0;0370853B;Un02;0370853B;333;TOURS
+974;144;Bibliothèque universitaire de Médecine Emile-Aron;autre;;0;0;0;0;1;0;mixte;;11,4;259175;1926;1200;326;12;65;;;;;2680;248;1220;13648;4738;;0;0370853B;Un03;0370853B;333;TOURS
+975;144;Bibliothèque universitaire de Sciences-Pharmacie;autre;;0;0;0;1;1;0;mixte;;11;118514;3367;2997;391;51;52;;;;;2214;222;4362;16137;2760;402;0;0370853B;Un04;0370853B;333;TOURS
+976;144;Centre de documentation IUT;autre;;1;1;1;1;1;1;mixte;;2,7;32922;400;380;135;14;44;;;;;1860;223;424;3636;1932;0;0;0370853B;UN06;0370853B;333;TOURS
+977;144;Laboratoire de mathématiques et physique théorique;associée;;0;0;0;1;0;0;mixte;23886;1;;185;17;20;8;38,5;;;;;1601;208;303;1146;;;;0370853B;UN07;0370853B;333;TOURS
+978;144;Départements d'histoire, histoire de l'art et archéologie;associée;;0;0;1;0;0;1;mixte;30887;3;;400;370;100;6;43;;;;;1725;199;1380;8773;16000;;;0370853B;UN08;0370853B;333;TOURS
+979;144;Bibliothèque musicale Jean-Yves Couteau;associée;;0;0;1;0;0;0;mixte;6704;2,6;;332;250;40;;32,5;;;;;;200;368;8361;1640;6721;;0370853B;UN09;0370853B;333;TOURS
+980;144;Département de Philosophie;associée;;0;0;1;0;0;0;mixte;;;;50;10;23;15;40,5;;;;;;160;5552;402;50;0;0;0370853B;UN10;0370853B;333;TOURS
+981;144;UFR  CESR (Centre d'études supérieures de la Renaissance);associée;;0;0;1;0;0;0;recherche;27732;3;;360;88;22;10;42,5;;;;;;230;1475;4051;;;;0370853B;UN12;0370853B;333;TOURS
+982;144;UFR Droit-Recherche;associée;;1;1;0;0;0;0;mixte;35128;1;22639;200;175;34;;;;;;;;;631;1709;;14;;0370853B;UN13;0370853B;333;TOURS
+983;144;Polytech-Tours DI-DEE-DMS;associée;;0;0;0;1;0;1;mixte;16838;1,3;;280;280;52;36;48;;;;;1968;248;269;1841;;;;0370853B;UN14;0370853B;333;TOURS
+984;144;Polytech-Tours aménagement;associée;;1;1;1;1;0;1;mixte;12952;1,7;;142;142;45;10;50;;;;;2050;205;480;2767;;;;0370853B;UN15;0370853B;333;TOURS
+985;144;Maison de l'orientation et de l'insertion professionnelle;associée;;0;0;0;0;0;1;étudiant;6513;0,25;2000;53;53;20;14;25;;;;;1050;140;33;1045;;;;0370853B;UN17;0370853B;333;TOURS
+986;144;Institut européen d'histoire et cultures de l'alimentation;associée;;0;0;1;0;0;0;mixte;15582;1;;176;147;28;6;31;;;;;1395;225;270;1793;;;;0370853B;UN18;0370853B;333;TOURS
+987;144;Ecole d'orthophonie;associée;;0;0;0;0;1;0;étudiant;;;;40;40;18;6;;;;;;;;;325;;;;0370853B;UN19;0370853B;333;TOURS
+988;145;Bibliothèque de l'Université de Technologie de Troyes;autre;;0;1;1;1;0;0;mixte;;12,8;263260;2200;1663;450;104;73;;;;;2693,5;252;1155;8342;2407;188;74;0101082X;Un00;0101082X;334;TROYES
+989;146;BU Cambrai;autre;;1;0;1;1;0;1;mixte;;1,6;15636;365;282;78;0;50;;;;;1825;202;423;2728;1955;296;229;0595346R;Un00;0595346R;339;VALENCIENNES
+990;146;BU Tertiales;autre;;1;1;0;0;0;1;mixte;;13,4;118720;2600;1530;382;99;64;;;;;2689;268;1933;19582;17388;91;975;0595346R;Un01;0595346R;339;VALENCIENNES
+991;146;BU Maubeuge;autre;;0;0;0;1;0;1;mixte;;1;18088;254;239;40;12;42;;;;;1480;191;177;1157;2116;27;0;0595346R;Un02;0595346R;339;VALENCIENNES
+992;146;BU Mont Houy;autre;;0;0;1;1;0;0;mixte;;24,5;211967;5447;3182;869;98;64;;;;;2666;270;4566;37657;25185;1526;2444;0595346R;UN03;0595346R;339;VALENCIENNES
+993;146;Ressources électroniques;autre;;1;1;1;1;0;0;mixte;;;;;;;;;;;;;;;;;;;;0595346R;UN04;0595346R;339;VALENCIENNES
+994;147;Bu des Sciences de Versailles;autre;;0;0;0;1;1;0;mixte;;10,8;170952;4011;2800;354;48;52,5;;;;;2121;214;2104;12772;6600;4;16407;0783398V;UN00;0783398V;341;VERSAILLES-ST-QUENTIN
+995;147;Bibliothèque numérique;autre;;1;1;1;1;1;1;recherche;;;;;;;;;;;;;;;;;;;;0783398V;UN01;0783398V;341;VERSAILLES-ST-QUENTIN
+996;147;Bibliothèque médicale de Boulogne;autre;;0;0;0;0;1;0;étudiant;;2;33106;110;97;32;0;75;;;;;2817;234;125;2859;;;;0783398V;UN02;0783398V;341;VERSAILLES-ST-QUENTIN
+997;147;BU de Saint-Quentin-En -Yvelines;autre;;1;1;1;1;1;0;mixte;;32;440158;7389;5160;1100;86;65,5;;;;;2629;241;4869;47587;30700;741;;0783398V;UN03;0783398V;341;VERSAILLES-ST-QUENTIN
+998;147;laboratoire LMV;associée;;0;0;0;1;0;0;recherche;2009;0,5;;30;24;2;0;;;;;;;;100;84;;;;0783398V;UN04;0783398V;341;VERSAILLES-ST-QUENTIN
+999;147;laboratoire LATMOS;associée;;0;0;0;1;0;0;recherche;0;0,5;;220;220;25;12;;;;;;;;60;9;;;;0783398V;UN05;0783398V;341;VERSAILLES-ST-QUENTIN
+1000;147;IUT (pôle technologique) VELIZY;autre;;0;0;1;1;0;0;étudiant;;2;19512;409;363;81;18;48,75;;;;;1874;191;88;1781;3000;0;0;0783398V;UN06;0783398V;341;VERSAILLES-ST-QUENTIN
+1001;147;IUT (pôle technologique) RAMBOUILLET;autre;;1;1;0;1;0;0;étudiant;;1,5;9804;177;177;50;8;37,5;;;;;1448;202;78;568;800;;0;0783398V;UN07;0783398V;341;VERSAILLES-ST-QUENTIN
+1002;147;IUT (pôle technologique)MANTES;autre;;1;1;0;1;0;1;étudiant;;1,9;34463;251;177;85;42;45;;;;;1685;199;74;837;1500;0;0;0783398V;UN08;0783398V;341;VERSAILLES-ST-QUENTIN
+1003;147;laboratoire VIP;associée;;1;0;0;0;0;0;mixte;;;;101;;20;;;;;;;;;;;;;;0783398V;UN09;0783398V;341;VERSAILLES-ST-QUENTIN
+1004;147;laboratoire ESR/DYPAC;associée;;0;0;1;0;0;0;mixte;3234;1;15;50;;10;;;;;;;;;;2;;;;0783398V;UN10;0783398V;341;VERSAILLES-ST-QUENTIN
+1005;147;Laboraroire DANTE;associée;;1;0;0;0;0;0;mixte;2918;1;;105;;35;;40;;;;;1120;140;44;;;;;0783398V;UN11;0783398V;341;VERSAILLES-ST-QUENTIN
+1006;147;laboratoire CHSC, bibliothèque du Centre d'Histoire Culturel;associée;;0;0;1;0;0;0;mixte;829;1;1968;121;105;45;35;;;;;;;;;138;;;;0783398V;UN12;0783398V;341;VERSAILLES-ST-QUENTIN
+1008;148;Bibliothèque universitaire;autre;;1;1;1;1;1;1;mixte;;;62365;1547;858;134;16;62;;;;;2359;234;1527;23540;;99;;9730482L;UN00;9730482L;342;GUYANE (>=2015)
+1009;149;Grand Equipement Documentaire;autre;;0;0;1;0;0;1;recherche;;11,6;0;;;;;;;;;;;;;;;;;093GEDCC;UN00;;343;Campus Condorcet - GED (>=2016)
+1010;150;BU ESPE ARRAS;autre;;0;1;1;1;0;1;mixte;47812;4,9;48000;734;495;118;17;53;;;;;2325;227;759;26247;525;300;0;0596870X;UN00;;344;ComUE Lille Nord de France (>=2016)
+1011;150;BU ESPE DOUAI;autre;;0;1;1;1;0;1;mixte;22559;1,8;9449;133;120;19;0;48;;;;;2078;;219;9449;;;0;0596870X;UN01;;344;ComUE Lille Nord de France (>=2016)
+1012;150;BU ESPE GRAVELINES;autre;;0;1;1;1;0;1;mixte;26130;2;9659;255;213;45;0;49;;;;;1905;225;349;9659;;;;0596870X;UN02;;344;ComUE Lille Nord de France (>=2016)
+1013;150;BU ESPE OUTREAU;autre;;0;1;1;1;0;1;mixte;25527;2;8129;240;220;60;40;48;;;;;2043;215;167;8129;72;7;1;0596870X;UN03;;344;ComUE Lille Nord de France (>=2016)
+1014;150;BU ESPE VALENCIENNES;autre;;0;1;1;1;0;1;mixte;27161;2;19295;300;250;36;19;50;;;;;2011;225;315;10836;;;0;0596870X;UN04;;344;ComUE Lille Nord de France (>=2016)
+1015;150;BU ESPE VILLENEUVE D'ASCQ;autre;;0;1;1;1;0;1;mixte;70990;5,8;79600;686;432;70;0;53;;;;;2340;225;631;51554;56296;;;0596870X;UN05;;344;ComUE Lille Nord de France (>=2016)
+1016;150;BU ESPE Fonds Patrimonial Ecole Normale Instit;autre;;1;1;1;1;1;1;mixte;0;0;0;372;;0;;52,5;;;;;2325;227;1116;304;0;304;0;0596870X;UN06;;344;ComUE Lille Nord de France (>=2016)
+1017;151;BU MEDECINE-PHARMACIE;autre;;0;0;0;0;1;0;mixte;;13,5;254046;2399;1499;476;10;65;;;;;2691;229;3378;10614;;;4450;0383505D;Un00;0383505D;345;Université Grenoble Alpes (>=2016)
+1018;151;BU SCIENCES;autre;;0;0;0;1;0;0;mixte;;46,7;488035;13400;8500;1300;163;66;;;;;2764;262;12743;33003;;;;0383505D;Un01;0383505D;345;Université Grenoble Alpes (>=2016)
+1019;151;BU PROFESSORAT EDUCATION;autre;;0;1;1;1;0;1;mixte;;10,3;100718;1743;1443;339;72;44;;;;;1848;209;2640;46377;8684;;;0383505D;UN02;0383505D;345;Université Grenoble Alpes (>=2016)
+1020;151;DLST - L'R;associée;;0;0;0;1;0;0;étudiant;936,08;1,63;9544;126;126;55;0;57,4;;;;;1777,75;171;30;278;;;;0383505D;UN03;0383505D;345;Université Grenoble Alpes (>=2016)
+1022;151;BIBLIOTHEQUE INSTITUT FOURIER;associée;;0;0;0;1;0;0;recherche;150333;2;;821;722;55;4;43;;;;;1786;218;1859;1386;;;;0383505D;UN05;0383505D;345;Université Grenoble Alpes (>=2016)
+1023;151;INSTITUT de GEOGRAPHIE ALPINE. BIBLIOTHEQUE et CARTOTHEQUE;associée;;0;0;1;1;0;0;mixte;9450,84;3;;645;369;80;;50,5;;;;;2151,3;213;117;3946;27;2069;0;0383505D;UN06;0383505D;345;Université Grenoble Alpes (>=2016)
+1024;151;IUT1;associée;;0;0;0;1;0;0;étudiant;15300;3;52765;690;596;209;133;77,5;;;;;2945;190;12881;1120;;;289;0383505D;UN07;0383505D;345;Université Grenoble Alpes (>=2016)
+1025;151;MI2S Bibliothèque IMAG;associée;;1;1;1;1;1;1;recherche;;;;195;85;20;0;;;;;;;;;;;;;0383505D;UN08;0383505D;345;Université Grenoble Alpes (>=2016)
+1026;151;POLYTECH;associée;;0;0;0;1;0;0;étudiant;0;0,8;;150;140;48;48;21;;;;;;;96;;;;;0383505D;UN09;0383505D;345;Université Grenoble Alpes (>=2016)
+1027;151;GRENOBLE INP mediatheque ENSE3 GreEn-ER;associée;;0;0;0;1;0;0;mixte;8376;2;;520;500;130;40;62,5;;;;;;2422;300;1373;;32;;0383505D;UN10;0383505D;345;Université Grenoble Alpes (>=2016)
+1028;151;IREM;associée;;0;0;0;1;0;0;mixte;815;0,22;;64;64;24;;31,5;;;;;1418;225;142;50;;;;0383505D;UN11;0383505D;345;Université Grenoble Alpes (>=2016)
+1029;151;GRENOBLE INP -  BIBLIOTHEQUE GENIE INDUSTRIEL;associée;;0;0;0;1;0;0;mixte;13283;1,8;20050;200;200;51;40;50;;;;;2075;220;302;1246;;;;0383505D;UN12;0383505D;345;Université Grenoble Alpes (>=2016)
+1030;151;CDR OLIVIER DE SERRES;associée;;0;0;1;1;0;0;mixte;;;;50;50;15;;;;;;;;;;;;;;0383505D;UN13;0383505D;345;Université Grenoble Alpes (>=2016)
+1031;151;GIPSA-LAB BIBLIOTHEQUE MUTUALISEE;associée;;0;0;0;1;0;0;recherche;;;;120;120;4;4;38,5;;;;;1591;210;453;259;;;;0383505D;UN14;0383505D;345;Université Grenoble Alpes (>=2016)
+1032;151;BIBLIOTHEQUE ANSELME PAYEN PAGORA;associée;;0;0;0;1;0;0;mixte;13800;2,2;;340;302;55;42;44;;;;;1980;225;700;377;165;68;0;0383505D;UN15;0383505D;345;Université Grenoble Alpes (>=2016)
+1033;151;BIBLIOTHEQUE PHELMA;associée;;0;0;0;1;0;0;mixte;4500;1,3;;200;180;50;50;41;;;;;1935;216;225;1218;;;;0383505D;UN16;0383505D;345;Université Grenoble Alpes (>=2016)
+1034;151;PHITEM ESPACE MULTIMEDIA;associée;;0;0;0;1;0;0;étudiant;0;0;6975;375;320;80;0;52;;;;;1481;133;51;;;;;0383505D;UN17;0383505D;345;Université Grenoble Alpes (>=2016)
+1035;151;IUT2 Learning Centre;associée;;1;1;1;0;1;0;étudiant;40000;4;45000;624;512;78;39;47;;;;;1846;213;446;8787;3570;170;651;0383505D;UN18;0383505D;345;Université Grenoble Alpes (>=2016)
+1036;151;Centre de documentation IUT Verdun;associée;;1;1;1;0;0;0;étudiant;9000;1;;78;78;32;0;35;;;;;1303;190;70;1343;;;;0383505D;UN19;0383505D;345;Université Grenoble Alpes (>=2016)
+1037;151;Bibliothèque du CHRIPA;associée;;0;0;1;0;0;0;recherche;;;;198;160;21;;;;;;;;;;;;;;0383505D;Un20;0383505D;345;Université Grenoble Alpes (>=2016)
+1038;151;Bibliothèque CREG - GAEL;associée;;0;1;0;0;0;0;recherche;7012;1,4;;144;44;10;0;29;;;;;1183;156;208;;;;;0383505D;UN21;0383505D;345;Université Grenoble Alpes (>=2016)
+1039;151;Bibliothèque Universitaire Droit Lettres de Grenoble;autre;;1;1;1;0;0;0;mixte;;60,5;603024;13574;8650;1447;167;72;;;;;2905,5;258;18941;98148;;1915;259;0383505D;UN22;0383505D;345;Université Grenoble Alpes (>=2016)
+1040;151;Centre de documentation EDDEN;associée;;0;1;0;0;0;0;recherche;;;;159;43;12;;;;;;;;;;;;;;0383505D;Un23;0383505D;345;Université Grenoble Alpes (>=2016)
+1041;151;Bibliothèque de Master de la Faculté d'économie;associée;;1;1;1;1;0;0;mixte;9175,83;1;;235;225;40;10;35;;;;;1094;200;227;1220;;;436;0383505D;Un24;0383505D;345;Université Grenoble Alpes (>=2016)
+1042;151;Bibliothèque de l'IAE;associée;;1;1;0;0;0;1;étudiant;29493,08;1,36;54567;500;460;250;50;55;;;;;2100;217;385;2543;;18;0;0383505D;Un25;0383505D;345;Université Grenoble Alpes (>=2016)
+1043;151;Bibliothèque de l'UFR Langues étrangères;associée;;0;1;1;0;0;1;mixte;13752;2,8;32987;552;552;110;6;40;;;;;1720;215;1130;3699;;;59;0383505D;Un26;0383505D;345;Université Grenoble Alpes (>=2016)
+1044;151;Bilbiothèque d'études anglophones;;;0;0;0;0;0;0;;;;;;;;;;;;;;;;;;;;;0383505D;Un27;0383505D;345;Université Grenoble Alpes (>=2016)
+1045;151;Bibliothèque Lettres et Arts du Spectacle;associée;;0;0;1;0;0;0;mixte;;;;444;351;109;30;;;;;;;;;;;;;0383505D;Un28;0383505D;345;Université Grenoble Alpes (>=2016)
+1046;151;Bibliothèque du département des sciences du langage;associée;;0;0;1;0;0;1;mixte;;;;198;162;38;;;;;;;;;;;;;;0383505D;Un29;0383505D;345;Université Grenoble Alpes (>=2016)
+1047;151;Centre de ressources de l'UFR Arts & Sc. Humaines;associée;;0;0;1;0;0;1;mixte;11085,76;2,8;56321;768;682;153;19;49;;;;;1976;213;1490;9552;;710;;0383505D;Un30;0383505D;345;Université Grenoble Alpes (>=2016)
+1048;151;Centre de documentation GIPSA lab dép parole cognition;associée;;0;0;1;0;0;1;mixte;3343;0,3;;50;50;8;0;;;;;;;;116;166;;;;0383505D;Un31;0383505D;345;Université Grenoble Alpes (>=2016)
+1049;151;Institut d'Urbanisme de Grenoble;associée;;1;1;1;0;1;1;mixte;14231,67;2,5;9193;330;173;36;0;38;;;;;1026;135;155;;;;;0383505D;Un32;0383505D;345;Université Grenoble Alpes (>=2016)
+1050;151;Bibliothèque de recherche de la Faculté de droit1;associée;;1;0;1;0;0;0;recherche;;;;400;400;7;4;;;;;;;;;;;;;0383505D;Un33;0383505D;345;Université Grenoble Alpes (>=2016)
+1051;151;Bibliothèque de dialectologie GIPSA LAB;associée;;0;0;1;0;0;1;mixte;1015;0,3;;32;32;4;;;;;;;;;363;220;;;;0383505D;Un34;0383505D;345;Université Grenoble Alpes (>=2016)
+1052;151;Centre de documentation IUT2 Vienne;associée;;1;1;1;0;0;0;étudiant;3400;0,5;;102;102;28;0;35;;;;;1320;194;;164;;;;0383505D;Un35;0383505D;345;Université Grenoble Alpes (>=2016)
+1053;151;Bibliothèque universitaire Valence;autre;;1;1;1;1;0;0;étudiant;;5,3;;5484;3333;65;28;43;;;;;2107;245;;15306;3403;55;26;0383505D;Un36;0383505D;345;Université Grenoble Alpes (>=2016)
+1054;151;Bibliothèque de l'ICM;autre;;0;0;1;0;0;0;mixte;;1,5;;325;313;67;0;42;;;;;1680;212;252;3140;;;;0383505D;Un37;0383505D;345;Université Grenoble Alpes (>=2016)
+1055;151;Service interétablissement de documentation (SID) UGA/GINP;autre;;1;1;1;1;1;0;mixte;;;;;;;;;;;;;;;;;;;;0383505D;UN38;0383505D;345;Université Grenoble Alpes (>=2016)
+1056;151;Bibliothèque IUT/IAE Valence;associée;;1;1;1;1;0;0;étudiant;3069;0,8;;243;243;80;40;51;;;;;1887;185;108;1709;;;;0383505D;UN39;0383505D;345;Université Grenoble Alpes (>=2016)
+1057;151;Bibliothèque Sciences et technologies UGA ESISAR GINP Valenc;associée;;0;0;0;1;0;0;étudiant;2434,64;1;;285;260;50;0;40;;;;;1720;215;132;1063;;;;0383505D;UN40;0383505D;345;Université Grenoble Alpes (>=2016)
+1058;151;Bibliothèque STAPS / ITDD Valence;associée;;0;0;0;1;0;0;étudiant;1302;1;;186;186;40;6;39;;;;;1525;190;113;716;;;;0383505D;UN41;0383505D;345;Université Grenoble Alpes (>=2016)
+1059;151;Bibliothèque Droit Economie Valence;associée;;1;1;0;0;0;0;étudiant;12177,46;1;;160;160;38;;38;;;;;1550;202;167;247;;;;0383505D;UN42;0383505D;345;Université Grenoble Alpes (>=2016)
+1060;151;Bibliothèque Arts Lettres Langues Valence;associée;;1;1;1;0;0;0;étudiant;1682,4;1;;128;120;40;;36;;;;;1440;201;105;262;;;;0383505D;UN43;0383505D;345;Université Grenoble Alpes (>=2016)
+1061;151;Bibliothèque axe énergie de GAEL;associée;;0;1;0;0;0;0;recherche;;;;159;43;12;;;;;;;;;;;;;;0383505D;UN44;0383505D;345;Université Grenoble Alpes (>=2016)
+1062;151;Centre de documentation des laboratoires juridiques;associée;;1;0;0;0;0;0;recherche;15091,14;1;568;163;149;14;0;36;;;;;1488;207;257;351;;;;0383505D;UN45;0383505D;345;Université Grenoble Alpes (>=2016)
+1063;151;Bibliothèque de l'IUGA;associée;;1;1;1;1;1;1;mixte;7101,18;5,5;;975;542;116;0;46,5;;;;;708,1;77;272;5448;29;2083;0;0383505D;UN47;0383505D;345;Université Grenoble Alpes (>=2016)
+1064;151;Bibliothèque d'UFR langage, lettres et spectacle / Bulles;associée;;0;0;1;0;0;0;mixte;25736,32;3,2;;412;333;130;30;42;;;;;1521,5;182;677;17123;;592;0;0383505D;UN48;0383505D;345;Université Grenoble Alpes (>=2016)
+1068;152;BU du campus de Fouillole;autre;;1;1;0;1;1;0;mixte;;16;184905;2525;2000;391;0;63;;;;;2456,5;241;1919;17263;;48;0;9720434P;Un00;9720434P;346;ANTILLES (>=2015)
+1069;152;Bibliothèque hospitalo-universitaire de Guadeloupe;associée;;0;0;0;0;1;0;mixte;0;1,5;;110;81;17;0;35,5;;;;;1298,5;179;208;185;;;;9720434P;Un01;9720434P;346;ANTILLES (>=2015)
+1070;152;Bibliothèque "fictive" SCD;autre;;0;0;0;0;0;0;;;8;;;;;;;;;;;;;;;;;;9720434P;UN02;9720434P;346;ANTILLES (>=2015)
+1071;152;BU du campus du Morne Ferret;autre;;0;0;1;1;0;0;mixte;;3;28550;480;430;58;0;58;;;;;2276;245;830;26244;;;0;9720434P;UN03;9720434P;346;ANTILLES (>=2015)
+1072;152;BU du Campus de Schoelcher;autre;;1;1;1;1;0;0;mixte;;23;63216;6000;4016;582;24;63;;;;;2474,5;243;3608;34567;;363;;9720434P;Un05;9720434P;346;ANTILLES (>=2015)
+1073;152;Bibliothèque hospitalo-universitaire de Martinique;associée;;0;0;0;0;1;0;mixte;4237;3;;140;130;38;0;57,5;;;;;2433;250;210;3128;;;;9720434P;Un06;9720434P;346;ANTILLES (>=2015)
+1074;152;Bu du campus du Camp Jacob;autre;;0;0;1;0;0;1;mixte;;5;37233;1200;1015;154;20;57;;;;;2282,5;250;839;4496;;57;0;9720434P;UN07;9720434P;346;ANTILLES (>=2015)
+1075;152;BU du campus de Fort-de-France;autre;;0;0;1;1;0;1;mixte;;3;43241;330;300;64;0;62;;;;;2462,5;241;462;20504;;0;0;9720434P;UN08;9720434P;346;ANTILLES (>=2015)
+1;1;Bibliothèque;autre;;0;0;0;0;0;0;;;;;;;;;;;;;;;;;;;;;0753705V;Un00;;1;ACAD. NAT. DE MEDECINE
+2;4;Centre de documentation;autre;;1;0;0;1;0;1;mixte;;;;44;;5;;;;;;;;;;;;;;0922684T;UN00;;6;ANDRA-Agence nationale pour la gestion des déchets radioactifs
+3;5;Bibliothèque Médecine-Odontologie;autre;;0;0;0;0;1;0;mixte;;22,4;482859;4695;2373;496;12;69;;;;;2887,5;252;7330;27612;;661;0;0134031L;UN00;0134031L;9;AIX-MARSEILLE (>=2012)
+4;5;Bibliothèque Pharmacie;autre;;0;0;0;0;1;0;mixte;;5,5;149109;2706;1055;407;19;57,5;;;;;2482,5;220;1909;6255;;200;0;0134031L;UN01;0134031L;9;AIX-MARSEILLE (>=2012)
+5;5;Bibliothèque Médecine Nord;autre;;0;0;0;0;1;0;mixte;;0,6;2180;617;435;80;0;17;;;;;620,5;73;71;1359;;0;0;0134031L;UN02;0134031L;9;AIX-MARSEILLE (>=2012)
+6;5;IUT Hygiène, Sécurité, Environnement;associée;;0;0;0;1;0;0;mixte;5954;;;129;100;35;25;;;;;;;;225;;;;;0134031L;UN03;0134031L;9;AIX-MARSEILLE (>=2012)
+7;5;IUT Métiers du Livre;associée;;0;0;1;0;0;0;étudiant;4876;0,6;;62;62;24;19;33;;;;;;;57;492;;;;0134031L;UN04;0134031L;9;AIX-MARSEILLE (>=2012)
+8;5;Bibliothèque Sciences & techniques LUMINY;autre;;0;0;0;1;0;0;mixte;;9,4;139314;2378;1679;346;44;55;;;;;2482;222;1949;19545;210;640;90;0134031L;UN05;0134031L;9;AIX-MARSEILLE (>=2012)
+9;5;Bibliothèque économie-gestion Ferry;autre;;0;1;0;0;0;0;mixte;;7;75336;890;690;164;34;52,5;;;;;2243,5;220;882;8487;500;175;0;0134031L;UN06;0134031L;9;AIX-MARSEILLE (>=2012)
+11;5;Bibliothèque universitaire de Gap;autre;;0;1;0;1;1;1;mixte;;3;48373;600;480;124;14;49,5;;;;;2095;219;402;3256;450;571;0;0134031L;UN08;0134031L;9;AIX-MARSEILLE (>=2012)
+12;5;Bibliothèque Droit & sciences politiques Schuman;autre;;1;1;0;0;0;0;mixte;;30,2;418490;6800;2800;750;42;62;;;;;2296;220;11506;55084;;8392;0;0134031L;UN09;0134031L;9;AIX-MARSEILLE (>=2012)
+13;5;Bibliothèque IMPGT Saporta;autre;;1;1;1;0;0;0;mixte;;2;21829;90;76;26;0;45;;;;;1819;202;91;2610;;0;0;0134031L;UN10;0134031L;9;AIX-MARSEILLE (>=2012)
+14;5;Bibliothèque Droit & économie La Canebière;autre;;1;1;0;0;0;0;étudiant;;4,7;101700;326;303;112;0;50;;;;;2144,5;215;478;10586;;25;0;0134031L;UN11;0134031L;9;AIX-MARSEILLE (>=2012)
+15;5;Bibliothèque Sciences & techniques MONTPERRIN;autre;;0;0;0;1;0;0;étudiant;;3,5;36590;286;260;75;0;45;;;;;1793,25;211;153;2040;845;40;0;0134031L;UN12;0134031L;9;AIX-MARSEILLE (>=2012)
+16;5;Bibliothèque Sciences & techniques St-JEROME;autre;;0;0;0;1;0;0;mixte;;12,8;106992;5100;3068;411;191;55;;;;;2356;219;2958;15296;;521;;0134031L;UN13;0134031L;9;AIX-MARSEILLE (>=2012)
+17;5;Bibliothèque ALLSH Fenouillères;autre;;0;0;1;0;0;0;mixte;;32,6;290738;7490;5940;1002;94;67;;;;;2321;221;18141;100024;;6904;0;0134031L;UN14;0134031L;9;AIX-MARSEILLE (>=2012)
+18;5;Bibliothèque Sciences & techniques St-CHARLES;autre;;0;0;1;1;0;0;mixte;;14,4;215588;4428;1900;369;36;61,5;;;;;2597,5;253;6926;28813;;564;387;0134031L;UN15;0134031L;9;AIX-MARSEILLE (>=2012)
+19;5;Bibliothèque du laboratoire Parole et Langage (LPL);associée;;0;0;1;0;0;0;recherche;;2;;30;;10;;30;;;;;;;442;;;;;0134031L;UN16;0134031L;9;AIX-MARSEILLE (>=2012)
+20;5;Bibliothèque ESPE Marseille- Canebière;autre;;0;0;1;1;0;0;mixte;;3,8;50016;282;267;76;8;54;;;;;2248;234;419;16310;;43;0;0134031L;UN17;0134031L;9;AIX-MARSEILLE (>=2012)
+21;5;Bibliothèque ESPE Aix en Provence;autre;;0;0;1;0;0;0;mixte;;6,3;56842;611;530;84;0;54;;;;;2150;230;735;20672;;266;0;0134031L;UN18;0134031L;9;AIX-MARSEILLE (>=2012)
+22;5;Bibliothèque ESPE Avignon;autre;;0;0;1;0;0;0;mixte;;3,4;25589;267;250;55;0;46,5;;;;;2019,5;220;279;11685;;0;0;0134031L;UN19;0134031L;9;AIX-MARSEILLE (>=2012)
+23;5;Bibliothèque ESPE-IUT Digne;autre;;0;0;1;1;0;0;mixte;;1,6;6861;175;160;32;0;43;;;;;1843;216;147;6278;;0;0;0134031L;UN20;0134031L;9;AIX-MARSEILLE (>=2012)
+24;5;Centre Régional de Formation aux Carrières des bibliothèques;associée;;0;0;1;0;0;0;mixte;3490;0,1;;307;87;16;0;20;;;;;;;93;;;10;;0134031L;UN21;0134031L;9;AIX-MARSEILLE (>=2012)
+25;5;Bibliothèque économie-gestion Bernard du Bois;autre;;0;1;0;0;0;0;mixte;;5,9;77480;1250;1000;280;48;50;;;;;1982;201;314;8422;500;41;0;0134031L;UN22;0134031L;9;AIX-MARSEILLE (>=2012)
+26;5;Bibliothèque DSP Arles;associée;;1;0;0;0;0;0;étudiant;7646,77;1;;110;;40;;35;;;;;1456;;131;;;;;0134031L;UN23;0134031L;9;AIX-MARSEILLE (>=2012)
+27;5;Bibliothèque DSP Cassin;associée;;1;0;0;0;0;0;mixte;;;;600;;79;;;;;;;;;1030;;;;;0134031L;UN24;0134031L;9;AIX-MARSEILLE (>=2012)
+28;5;Bibliothèque DSP CRA;associée;;1;0;0;0;0;0;recherche;4665;1;150;60;;20;;9;;;;;270;30;125;0;30;20;0;0134031L;UN25;0134031L;9;AIX-MARSEILLE (>=2012)
+29;5;Bibliothèque DSP CREEADP;associée;;1;1;0;0;0;0;recherche;;1;;25;;2;;40;;;;;;;74;;;;;0134031L;UN26;0134031L;9;AIX-MARSEILLE (>=2012)
+30;5;Bibliothèque DSP Salle de droit privé;associée;;1;0;0;0;0;0;recherche;;0,25;;140;;70;0;58;;;;;;;305;;;;;0134031L;UN27;0134031L;9;AIX-MARSEILLE (>=2012)
+31;5;Bibliothèque IEP;associée;;1;0;0;0;0;0;mixte;;4;;750;438;131;0;56,5;;;;;;;1098;2738;;;;0134031L;UN28;0134031L;9;AIX-MARSEILLE (>=2012)
+32;5;Bibliothèque DSP ISPEC;associée;;1;0;0;0;0;0;recherche;;1;;190;;34;;43,75;;;;;;;500;;;;;0134031L;UN29;0134031L;9;AIX-MARSEILLE (>=2012)
+33;5;Bibliothèque DSP Poncet;associée;;1;0;0;0;0;0;recherche;;1;;136;100;32;;36,5;;;;;;;145;1084;;;;0134031L;UN30;0134031L;9;AIX-MARSEILLE (>=2012)
+34;5;Bibliothèque DSP Laboratoire de théorie du droit;associée;;1;0;0;0;0;0;recherche;;0,5;;120;;14;;16;;;;;;;;;;;;0134031L;UN31;0134031L;9;AIX-MARSEILLE (>=2012)
+35;5;CEREGE;associée;;0;0;0;1;0;0;recherche;12000;1;;250;;15;;168;;;;;;;;;;;;0134031L;UN32;0134031L;9;AIX-MARSEILLE (>=2012)
+36;5;Centre d'Océanologie de Marseille (COM);associée;;0;0;0;1;0;0;recherche;12710;1;;270;;3;;168;;;;;;;;;;;;0134031L;UN33;0134031L;9;AIX-MARSEILLE (>=2012)
+38;5;Observatoire des sciences de l'Univers Institut Pytheas;associée;;0;0;0;1;0;0;recherche;11000;;;200;;6;;168;;;;;;;1050;;;;;0134031L;UN37;0134031L;9;AIX-MARSEILLE (>=2012)
+39;5;Observatoire des sciences de l'Univers Institut Pytheas;associée;;0;0;0;1;0;0;recherche;11000;;;290;;16;10;168;;;;;;;1000;;;;;0134031L;UN38;0134031L;9;AIX-MARSEILLE (>=2012)
+40;5;SATIS;associée;;0;0;1;1;0;0;étudiant;;1;;50;;12;;24,5;;;;;;;71;;;;;0134031L;UN39;0134031L;9;AIX-MARSEILLE (>=2012)
+41;5;Anthropologie Bioculturelle;associée;;0;0;0;0;1;0;recherche;;1;;72;;2;;35;;;;;;;109;;;;;0134031L;UN40;0134031L;9;AIX-MARSEILLE (>=2012)
+42;5;Bibliothèque EFS AM;associée;;0;0;0;0;1;0;recherche;0;0,2;;0;;0;;0;;;;;;;3;;;;;0134031L;UN41;0134031L;9;AIX-MARSEILLE (>=2012)
+43;5;CRD Espace Ethique Méditerranéen;associée;;0;0;1;0;1;0;recherche;3480;1;;80;;15;;37,5;;;;;;;90;;;;;0134031L;UN42;0134031L;9;AIX-MARSEILLE (>=2012)
+44;5;Bibliothèque du Laboratoire de médecine légale;associée;;1;0;0;0;1;0;recherche;;1;;;;6;;;;;;;;;60;;;;;0134031L;UN43;0134031L;9;AIX-MARSEILLE (>=2012)
+45;5;Bibliothèque IAE AMU;associée;;0;1;0;0;0;0;mixte;30004;2;11133;341;294;50;40;52,5;;;;;2278,5;217;750;;;;;0134031L;UN44;0134031L;9;AIX-MARSEILLE (>=2012)
+46;5;Service Documentation de l'IRT d'Aix en Provence;associée;;1;1;1;0;1;0;mixte;6198;0,5;;50;20;8;8;37,5;;;;;;;;;;;;0134031L;UN45;0134031L;9;AIX-MARSEILLE (>=2012)
+47;5;Bibliothèque de département IUT Carrières Sociales;associée;;1;1;1;0;0;1;mixte;2095;1;;65;;29;;31,2;;;;;;;65;117;;;;0134031L;UN46;0134031L;9;AIX-MARSEILLE (>=2012)
+48;5;Aix Gaston Berger - IUT GEA/GLT/GMP/TC;associée;;0;1;0;0;0;0;mixte;26584,63;2,3;;240;200;68;;46,5;;;;;1855;205;300;2168;;;0;0134031L;UN47;0134031L;9;AIX-MARSEILLE (>=2012)
+49;6;Bibliothèque Albi;associée;;1;0;1;1;0;0;étudiant;70998,25;10,8;92696;2132;1180;275;75;51,25;;;;;1475,5;185;2237;16862;;198;18;0811293R;UN00;;14;ALBI
+50;6;BU Rodez;autre;;1;1;1;1;0;0;étudiant;23776,45;3,6;26696;273;236;82;32;43;;;;;1798;218;380;1915;;7;2;0811293R;UN01;;14;ALBI
+51;6;BU Castres;autre;;0;0;0;1;1;0;mixte;6819,33;0,8;2640;181;157;77;32;40;;;;;1616;202;388;1925;;;;0811293R;UN02;;14;ALBI
+52;7;Pôle CAMPUS;autre;;0;0;1;1;0;0;mixte;;19,5;230075;5720;2230;486;34;58;;;;;2428;226;5635;44498;433;4188;;0801253C;UN01;0801253C;16;AMIENS
+53;7;IUT de l'Aisne (Laon);associée;;1;1;0;0;0;0;étudiant;8491;2;10025;165;165;80;;48;;;;;1661;186;145;834;;0;;0801253C;UN02;0801253C;16;AMIENS
+54;7;IUT d'Amiens;associée;;0;1;0;1;0;1;étudiant;22048;1,8;83292;227;220;100;18;49;;;;;1848;176;590;2725;;0;;0801253C;UN03;0801253C;16;AMIENS
+55;7;Pôle SANTE;autre;;0;0;0;0;1;0;mixte;;15,5;161608;2700;1675;366;16;57;;;;;2560;226;3873;16562;11720;832;;0801253C;UN04;0801253C;16;AMIENS
+56;7;BEAUVAIS;autre;;0;1;1;0;0;0;mixte;;2,8;30263;1136;1100;130;26;46,3;;;;;1873,45;209;313;1908;;0;;0801253C;UN05;0801253C;16;AMIENS
+57;7;SAINT-QUENTIN;autre;;0;0;0;1;0;1;mixte;;2,7;31071;485;437;106;10;47;;;;;2025,5;;274;4013;;0;;0801253C;UN06;0801253C;16;AMIENS
+58;7;Pôle CATHEDRALE;autre;;1;1;0;1;0;0;mixte;;19,8;275681;5800;4750;631;48;62;;;;;2602;262;3966;35938;;166;;0801253C;UN07;0801253C;16;AMIENS
+1158;7;ESPE Amiens;autre;;0;0;0;0;0;1;mixte;;4;16650;600;600;60;0;45;;;;;1989;221;394;10095;;0;;0801253C;UN08;0801253C;16;AMIENS
+59;7;ESPE Beauvais;autre;;0;0;0;0;0;1;mixte;;2;13487;500;470;51;11;45,75;;;;;1876;205;329;10896;;0;;0801253C;UN09;0801253C;16;AMIENS
+60;7;IUT de l'Oise (Creil);autre;;0;1;0;1;0;1;étudiant;;2;13958;190;160;60;0;42,06;;;;;1575,3;197;157;692;;0;;0801253C;UN10;0801253C;16;AMIENS
+61;7;Soissons;autre;;1;0;0;1;0;1;étudiant;;1;7888;211;185;40;;41,3;;;;;1502,95;198;139;1089;;0;;0801253C;UN11;0801253C;16;AMIENS
+62;7;Pôle CAMPUS (Teinturerie);autre;;0;0;1;0;0;1;mixte;;2;28646;230;200;54;0;45;;;;;1908;212;369;7948;;0;;0801253C;UN12;0801253C;16;AMIENS
+63;7;ESPE Laon;autre;;0;0;0;0;0;1;mixte;;1;8012;300;300;60;;39,75;;;;;1661;209;76;5088;;0;;0801253C;UN13;0801253C;16;AMIENS
+1159;7;BS de Psychologie-Sociologie;associée;;0;0;1;0;0;0;mixte;;;;78;78;18;;;;;;;;;;;;;;0801253C;UN20;0801253C;16;AMIENS
+1160;7;Centre de documentation recherche;associée;;1;1;0;0;0;0;mixte;;;;200;200;45;;;;;;;;;;;;;;0801253C;UN21;0801253C;16;AMIENS
+1161;7;BS de l'IPAG;associée;;1;0;0;0;0;0;mixte;;;;80;80;20;;;;;;;;;;;;;;0801253C;UN22;0801253C;16;AMIENS
+64;8;Bibliothèque Universitaire Belle-Beille;autre;;0;0;1;1;0;0;mixte;;25,1;606170;8895;5067;1137;372;65;;;;;2769;261;9091;86128;;;1006;0491677G;UN02;0491677G;18;ANGERS
+65;8;Bibliothèque Université Saint-Serge;autre;;1;1;0;0;1;0;mixte;;23,7;719194;5500;4750;900;185;91;;;;;3971;308;3302;56482;;;2321;0491677G;UN05;0491677G;18;ANGERS
+66;10;Bibliothèque de Lettres, Langues, Sciences Humaines et Socia;autre;;0;1;1;0;0;0;mixte;;19,4;342516;4800;3300;455;96;58;;;;;2540;254;3503;28500;;;233;0623982S;Un00;0623982S;21;ARTOIS
+67;10;Bibliothèque de Sciences Appliquées;autre;;0;0;0;1;0;1;mixte;;5,8;35214;1300;810;202;24;55;;;;;2393;223;508;5046;7000;100;23;0623982S;Un01;0623982S;21;ARTOIS
+68;10;Bibliothèque de Droit et Sciences Politiques;autre;;1;0;0;0;0;0;mixte;;7,6;67690;1800;;264;20;55;;;;;2301,5;227;1230;8362;364;;;0623982S;Un02;0623982S;21;ARTOIS
+69;10;Bibliothèque de Sciences;autre;;0;0;0;1;0;0;mixte;;7,8;51520;2015;662;167;48;55;;;;;2408;226;606;5729;462;;4;0623982S;Un03;0623982S;21;ARTOIS
+70;10;Bibliothèque de STAPS;autre;;0;0;0;1;0;0;mixte;;3;39901;200;169;67;16;52,5;;;;;1903,5;204;141;1964;75;;4;0623982S;Un04;0623982S;21;ARTOIS
+71;10;Bibliothèque de l'IUT Lens;autre;;1;1;1;1;0;0;mixte;;1,7;23210;130;80;27;24;45;;;;;1473;168;192;1257;;;10;0623982S;UN05;0623982S;21;ARTOIS
+72;10;Bibliothèque du centre robinson;autre;;0;0;1;0;0;0;recherche;;1;204;321;167;12;8;7;;;;;252;36;817;44;143;143;0;0623982S;UN06;0623982S;21;ARTOIS
+73;11;Maurice Agulhon;autre;;1;1;1;1;0;0;mixte;;25,5;396859;6900;4700;690;90;60,5;;;;;2640;218;4482;40535;;;;0841028L;UN01;0841028L;24;AVIGNON
+74;11;Bibliothèque Campus J.H Fabre;autre;;0;0;0;1;0;0;mixte;29289;3,8;40108;400;380;70;12;50;;;;;2180;218;301;5063;;;;0841028L;UN02;0841028L;24;AVIGNON
+75;12;La contemporaine;autre;;1;1;1;0;0;1;mixte;;67,42;35245;13171;2470;125;20;60;;;;;2940;279;30011;;;19357;;0921867E;UN00;0921867E;25;La contemporaine - Ex BDIC
+76;12;MHC-BDIC;;;0;0;0;0;0;0;;;;;;;;;;;;;;;;;;;;;0921867E;Un01;0921867E;25;La contemporaine - Ex BDIC
+77;13;Bibliothèque de l'UTBM - site de Sévenans;autre;;0;0;0;1;0;0;mixte;;9,5;59416;1020;750;190;20;55;;;;;1999;214;;3221;;0;69;0900441R;UN00;0900441R;26;BELFORT MONTBELIARD
+78;13;Bibliothèque de l'UTBM - site de Belfort;autre;;0;0;0;1;0;0;mixte;;2,8;70112;669;421;141;14;70;;;;;2580;269;195;3789;;25;43;0900441R;UN01;0900441R;26;BELFORT MONTBELIARD
+79;13;Bibliothèque fictive;autre;;0;0;0;1;0;1;mixte;;;;;;;;;;;;;;;;;;;;0900441R;UN02;0900441R;26;BELFORT MONTBELIARD
+1162;14;Administration générale;autre;;0;0;0;0;0;0;;;13,1;;;;;;;;;;;;;;;;;;0250986L;Un00;0250986L;27;BESANCON
+80;14;BU Lucien Febvre Belfort;autre;;1;1;1;1;0;0;mixte;;10,5;73963;3665;2011;401;57;53;;;;;2188;256;1730;25095;4876;65;0;0250986L;Un01;0250986L;27;BESANCON
+81;14;BU Proudhon Droit Economie Gestion;autre;;1;1;0;0;0;0;mixte;;11,3;386102;3400;2600;340;40;57,5;;;;;2514;233;2744;29154;48694;1138;0;0250986L;Un02;0250986L;27;BESANCON
+82;14;BU Lettres et sciences humaines;autre;;0;0;1;0;0;0;mixte;;18,4;284948;4619;610;256;19;60;;;;;2508,5;257;11495;109651;19039;0;0;0250986L;Un03;0250986L;27;BESANCON
+83;14;BU Santé;autre;;0;0;0;0;1;0;mixte;;11;353216;3018;2000;345;30;65;;;;;2783;275;3292;23713;42000;9;0;0250986L;Un04;0250986L;27;BESANCON
+84;14;BU Montbéliard;autre;;0;1;1;1;0;0;mixte;;5,8;29055;1669;815;174;21;45;;;;;1852;220;947;8357;5030;12;0;0250986L;Un05;0250986L;27;BESANCON
+85;14;BU Sciences Sport;autre;;0;0;0;1;0;0;mixte;;14,5;149012;3609;1255;206;12;60;;;;;2487,5;258;4797;24014;14045;1208;16;0250986L;Un06;0250986L;27;BESANCON
+87;14;IUT BESANCON-VESOUL Bibliothèque de Besançon;autre;;0;1;0;1;0;0;mixte;;0,8;32695;382;318;99;32;47,75;;;;;1668;185;180;3342;;;0;0250986L;UN08;0250986L;27;BESANCON
+88;14;BU Education Besançon;autre;;0;0;1;0;0;0;mixte;;3,38;35716;516;393;74;35;42;;;;;1517;182;837;19563;;279;0;0250986L;UN09;0250986L;27;BESANCON
+89;14;BU Education Lons;autre;;0;0;1;0;0;0;mixte;;2;;450;400;57;24;41;;;;;1633,5;208;555;7358;;;0;0250986L;UN11;0250986L;27;BESANCON
+90;14;BU Vesoul;autre;;0;1;1;1;0;0;mixte;;1,5;28563;255;227;40;0;42;;;;;1700;216;304;5449;6400;123;0;0250986L;UN12;0250986L;27;BESANCON
+91;14;Hérodote;associée;;0;0;1;0;0;0;mixte;4176,91;1;17728;195;195;38;12;31,75;;;;;1338;210;423;4738;16200;;0;0250986L;UN13;0250986L;27;BESANCON
+92;15;Médecine;autre;;0;0;0;0;0;0;;;;140272;;;270;;66;;;;;;;;;;;;075SANTE;UN00;;34;BIU Santé
+93;15;Pharmacie;autre;;0;0;0;0;0;0;;;;71511;;;215;;64,5;;;;;;;;;;;;075SANTE;UN01;;34;BIU Santé
+94;15;Ensemble de la BIU;;;0;0;0;0;0;0;;;;;;;;;;;;;;;;;;;;;075SANTE;UN02;;34;BIU Santé
+95;18;Bibliothèque Henri Guillemin;autre;;0;0;1;0;0;0;mixte;;3,16;71355;840;;166;0;44,5;;;;;9345;210;1280;12569;;;0;0333008R;UN00;0333008R;37;BORDEAUX 3
+96;18;Bibliothèque franco-allemande;autre;;0;0;1;0;0;0;mixte;;1;1756;198;183;22;12;24;;;;;1008;210;407;2080;;54;0;0333008R;UN01;0333008R;37;BORDEAUX 3
+97;18;Bibliothèque Robert Etienne;autre;;0;0;1;0;0;0;mixte;;2,5;25312;700;600;60;0;43,5;;;;;1851;214;3159;1315;;;0;0333008R;UN02;0333008R;37;BORDEAUX 3
+98;18;Bibliothèque d'Etudes ibériques;autre;;0;0;1;0;0;0;mixte;;2,8;38670;388;134;72;0;44,5;;;;;1919,5;216;1300;3230;;;0;0333008R;Un03;0333008R;37;BORDEAUX 3
+99;18;Bibliothèque d'Histoire et d'Histoire de l'art Elie Vinet;autre;;0;0;1;0;0;0;mixte;;1,8;38941;440;390;115;0;40,5;;;;;1746;205;1493;10721;;82;0;0333008R;Un04;0333008R;37;BORDEAUX 3
+100;18;Bibliothèque LE-LEA;autre;;0;0;1;0;0;0;mixte;;2,19;35533;376;;66;0;44,5;;;;;1045;168;1037;10354;;;0;0333008R;Un05;0333008R;37;BORDEAUX 3
+101;18;Lettres et Sciences Humaines;autre;;0;0;1;0;0;0;mixte;;30,9;442913;6200;3130;526;0;56;;;;;2424;266;11000;116594;;4499;0;0333008R;Un06;0333008R;37;BORDEAUX 3
+102;18;Bibliothèque de Géographie / Cartothèque;autre;;0;0;1;0;0;0;mixte;;4;24639;425;170;101;0;45;;;;;2025;225;2143;3947;;800;0;0333008R;UN07;0333008R;37;BORDEAUX 3
+103;18;Bibliothèque fictive;autre;;0;0;1;0;0;0;mixte;;9;;;;;;;;;;;;;;;;;;0333008R;UN08;0333008R;37;BORDEAUX 3
+104;18;Centre de documentation de l'ISIC;autre;;0;0;1;0;0;0;étudiant;;0,65;764;38;38;12;0;22,5;;;;;1003;135;53;489;;;0;0333008R;UN10;0333008R;37;BORDEAUX 3
+105;18;Bibliothèque du DEFLE;associée;;0;0;1;0;0;0;étudiant;;1;3400;92;92;27;0;22,25;;;;;941,5;168;81;2706;;;0;0333008R;UN11;0333008R;37;BORDEAUX 3
+106;18;Bibliothèque de l'IUT/IJBA;autre;;0;0;1;0;0;0;étudiant;;3,12;52672;390;349;100;0;47;;;;;2021;205;603;9669;;111;0;0333008R;UN12;0333008R;37;BORDEAUX 3
+107;18;Centre de documentation IATU;autre;;0;0;1;0;0;0;mixte;;2,2;1515;69;49;12;0;45;;;;;2025;225;202;1388;;;0;0333008R;UN13;0333008R;37;BORDEAUX 3
+108;21;BU PLURIDISCIPLINAIRE;autre;;1;1;1;1;1;0;étudiant;23226,84;5;109541;600;120;99;;71,5;;;;;2622;269;827;6305;;;;0333308S;Un00;0333308S;41;Bordeaux Université (>=2014)
+109;21;BUF d'économie;autre;;0;1;0;0;0;0;mixte;3278;2,3;14796;140;111;64;0;40;;;;;1634;209;200;2766;;;;0333308S;UN01;0333308S;41;Bordeaux Université (>=2014)
+110;21;ISCJ (Institut des Sciences Criminelles et de la justice);associée;;1;0;1;0;0;0;mixte;10860;1,7;10075;200;;54;;40;;;;;;;200;4900;;;;0333308S;Un02;0333308S;41;Bordeaux Université (>=2014)
+111;21;Bib. Droit-Langues (Agen);autre;;1;1;1;0;0;0;mixte;17905,31;3;45000;1000;800;130;24;51;;;;;2121;247;482;3353;;;;0333308S;Un03;0333308S;41;Bordeaux Université (>=2014)
+112;21;ESPE d'Aquitaine;associée;;0;0;1;0;0;0;mixte;113027;16,85;101397;1824;;306;;45;;;;;;;3280;67448;;;;0333308S;Un04;0333308S;41;Bordeaux Université (>=2014)
+113;21;Bibliothèque de l'IDE de Périgueux;autre;;1;1;0;0;0;0;mixte;22030,63;2;28938;300;250;90;8;47,5;;;;;1902;212;545;2197;;;;0333308S;Un05;0333308S;41;Bordeaux Université (>=2014)
+114;21;CERFAPS (Centre europ étud et rech en droit famille et pers);associée;;1;0;0;0;0;0;recherche;1413;0,1;;44;;16;;36;;;;;;;75;693;;;;0333308S;Un07;0333308S;41;Bordeaux Université (>=2014)
+115;21;COMPTRASEC (Centre de droit comparé du travail et sécu soc);autre;;1;0;0;0;0;0;recherche;29000;2,3;;135;;31;;35;;;;;;;255;;;;;0333308S;Un08;0333308S;41;Bordeaux Université (>=2014)
+116;21;BUFR Histoire du droit;associée;;1;0;0;0;0;0;mixte;6370;2;;127;;43;;47,5;;;;;;;587;914;;;;0333308S;UN09;0333308S;41;Bordeaux Université (>=2014)
+117;21;GRETHA (Groupe de Rech en Éco Théorique et  Appliqué);associée;;1;0;0;0;0;0;recherche;17396;1;;136;;13;;35;;;;;;;250;190;;;;0333308S;Un10;0333308S;41;Bordeaux Université (>=2014)
+118;21;CMRP (Centre Montesquieu de rech politique);associée;;1;0;0;0;0;0;recherche;1868;0,1;;45;;10;;35;;;;;;;73;;;;;0333308S;Un11;0333308S;41;Bordeaux Université (>=2014)
+119;21;CRDEI (Centre de Rech et de Docu Europ et Internationales);associée;;1;0;0;0;0;0;recherche;12657;;;140;;25;;18;;;;;;;411;;;;;0333308S;Un12;0333308S;41;Bordeaux Université (>=2014)
+120;21;Institut du travail;associée;;1;1;0;0;0;0;recherche;12674;0,5;;52;;6;;32;;;;;;;134;538;;;;0333308S;Un13;0333308S;41;Bordeaux Université (>=2014)
+121;21;LAREFI (Labo d’analyse et de rech en éco et finances inter);associée;;0;1;0;0;0;0;recherche;3061;0,1;;12;;0;;;;;;;;;33;;;;;0333308S;Un14;0333308S;41;Bordeaux Université (>=2014)
+122;21;Bib. ILD (Institut Léon Duguit);associée;;1;0;1;0;0;0;recherche;2523;0,1;;49;;15;;29;;;;;;;115;;;;;0333308S;UN15;0333308S;41;Bordeaux Université (>=2014)
+123;21;Bibliothèque de l'IUT - site de Gradignan;autre;;0;0;0;1;0;0;étudiant;15999,57;2,5;23800;186;180;47;;49,5;;;;;2001;207;160;4459;;;;0333308S;Un18;0333308S;41;Bordeaux Université (>=2014)
+124;21;Bibliothèque Michel Serres;autre;;0;0;0;1;0;0;mixte;11652,36;1,5;;297;261;48;0;;;;;;;;129;1057;;;;0333308S;Un19;0333308S;41;Bordeaux Université (>=2014)
+125;21;Bib PACEA (Préhistoire à l'Actuel Culture et Environnement);associée;;0;0;0;1;0;0;mixte;8400;1;82;140;;20;;;;;;;;;440;462;;;;0333308S;Un20;0333308S;41;Bordeaux Université (>=2014)
+126;21;Bib ICMCB (Institut de Chimie de la Matière Condensée de Bx);associée;;0;0;0;1;0;0;recherche;23029;1;420;60;;9;;29;;;;;;;420;;;;;0333308S;Un21;0333308S;41;Bordeaux Université (>=2014)
+127;21;BUFR Droit public;associée;;1;0;0;0;0;0;mixte;11300;2;36145;188;;69;;55;;;;;;;382;1334;;;;0333308S;Un23;0333308S;41;Bordeaux Université (>=2014)
+128;21;Bib. Observatoire aquitain des Sciences de l'Univers (OASU);associée;;0;0;0;1;0;0;mixte;1200;1;;110;;12;;70;;;;;;;500;72;;;;0333308S;Un24;0333308S;41;Bordeaux Université (>=2014)
+129;21;BU SH - SCIENCES DE L'HOMME;autre;;0;0;1;0;0;0;mixte;63664,42;11,1;240706;1907;1352;296;;55,5;;;;;2406;267;1532;35976;;745;;0333308S;Un25;0333308S;41;Bordeaux Université (>=2014)
+130;21;BMI - Bib Maths et Informatiques;autre;;0;0;0;1;0;0;recherche;127048,65;3;;650;600;62;6;45;;;;;2070;230;2025;837;;;;0333308S;Un26;0333308S;41;Bordeaux Université (>=2014)
+131;21;STAPS;autre;;0;0;0;1;0;0;mixte;14081,09;3,3;39359;390;180;70;;50;;;;;2051;227;477;4300;;;;0333308S;Un27;0333308S;41;Bordeaux Université (>=2014)
+1163;21;Odontologie;autre;;0;0;0;0;1;0;mixte;13899,67;0,8;5267;130;;24;;24;;;;;822;173;369;;;;;0333308S;Un28;0333308S;41;Bordeaux Université (>=2014)
+132;21;ISVV - Institut des sciences de la Vigne et du Vin;autre;;0;0;0;1;0;0;mixte;12379,3;2,4;22197;374;280;76;;44;;;;;1913;220;366;3652;;;;0333308S;Un29;0333308S;41;Bordeaux Université (>=2014)
+133;21;Bib CRPP Centre de Recherche PAUL PASCAL;associée;;0;0;0;1;0;0;recherche;5113,12;1;;100;;3;;32,5;;;;;;;160;2;;;;0333308S;Un30;0333308S;41;Bordeaux Université (>=2014)
+134;21;BU SVS - SCIENCES DU VIVANT ET DE LA SANTE;autre;;0;0;0;0;1;0;mixte;84863,29;18,9;684942;6463;3175;862;16;76,5;;;;;3247;267;9770;27638;;930;;0333308S;Un31;0333308S;41;Bordeaux Université (>=2014)
+135;21;Bib. Institut du Thermalisme;autre;;0;0;0;0;1;0;mixte;;1,7;1987;200;;32;;35;;;;;1540;176;;400;;;;0333308S;Un32;0333308S;41;Bordeaux Université (>=2014)
+136;21;Bibliothèque de la Station marine d'Arcachon;autre;;0;0;0;1;0;0;mixte;;;;98;35;0;;;;;;;;;;;;;;0333308S;Un33;0333308S;41;Bordeaux Université (>=2014)
+137;21;BU DSPE - DROIT, SCIENCE POLITIQUE, ECONOMIE;autre;;1;1;0;0;0;0;mixte;250075,58;19,8;436765;5589;2680;713;28;56;;;;;2562;;8155;78980;;;;0333308S;Un34;0333308S;41;Bordeaux Université (>=2014)
+138;21;BUFR Droit privé;associée;;1;0;0;0;0;0;mixte;23090;3;43090;277;;104;;55;;;;;;;703;3110;;;;0333308S;Un35;0333308S;41;Bordeaux Université (>=2014)
+139;21;INFOTHEQUE DU POLE UNIV. DE SCIENCES DE GESTION;autre;;1;1;0;0;0;0;mixte;64409,15;8,7;111161;1104;892;186;16;52,5;;;;;2264;228;924;14208;;;;0333308S;Un36;0333308S;41;Bordeaux Université (>=2014)
+140;21;BU ST - SCIENCES ET TECHNIQUES;autre;;0;0;0;1;0;0;mixte;117271;17,1;763581;8621;6161;1036;52;76,5;;;;;3153;265;6190;43048;;;;0333308S;Un37;0333308S;41;Bordeaux Université (>=2014)
+141;21;Bibliothèque de l'ISPED;associée;;0;0;0;0;1;0;recherche;6651;2;;100;;15;;40;;;;;;;150;33;;;;0333308S;UN38;0333308S;41;Bordeaux Université (>=2014)
+142;22;Administration/Services Transversaux;autre;;0;0;0;0;0;1;mixte;;14,3;;;;;;;;;;;;;;;;;;0290323U;Un00;0290323U;42;BREST
+143;22;Bibliothèque universitaire ESPE;autre;;0;0;1;1;0;1;mixte;;13,2;139200;2432;2165;565;119;46;;;;;1907;213;2111;51712;;557;;0290323U;UN01;0290323U;42;BREST
+144;22;Quimper IUT;autre;;1;1;1;1;1;1;mixte;;2;17000;315;300;120;40;46;;;;;1978;215;690;1914;;;;0290323U;Un02;0290323U;42;BREST
+145;22;Lettres;autre;;0;0;1;0;0;0;mixte;;13,2;479794;5661;3345;550;70;75;;;;;3151;259;;57508;;;;0290323U;Un03;0290323U;42;BREST
+146;22;Bouguen;autre;;1;1;0;1;1;0;mixte;;11,6;282593;4815;2762;652;71;75;;;;;2954;259;3687;26066;;268;207;0290323U;UN04;0290323U;42;BREST
+147;22;Pôle universitaire Pierre-Jakez Helias;autre;;1;1;1;0;0;0;mixte;;3,8;60012;1124;756;175;36;48;;;;;2002;224;;14288;;452;;0290323U;UN05;0290323U;42;BREST
+148;22;Bibliothèque du CRBC;associée;;0;0;1;0;0;0;mixte;;;;900;600;100;20;;;;;;;;;;;;;0290323U;UN06;0290323U;42;BREST
+149;22;Bibliothèque La Pérouse;autre;;0;0;0;1;0;1;mixte;;1,5;21885;2657;1152;90;12;39;;;;;1736;224;;1468;;;;0290323U;UN07;0290323U;42;BREST
+150;22;Bibliothèque de Mathématiques;associée;;0;0;0;1;0;0;mixte;37497;1;;130;;5;;35;;;;;1500;;81;500;;;;0290323U;UN08;0290323U;42;BREST
+151;22;Bibliothèque du département d'informatique;associée;;0;0;0;1;0;0;mixte;1000;0,25;;69;49;4;;18;;;;;768;210;81;42;;;;0290323U;UN09;0290323U;42;BREST
+152;22;Santé;autre;;0;0;0;0;1;0;mixte;;6;166709;1179;1014;336;;75;;;;;3116;260;1002;16818;;50;;0290323U;UN10;0290323U;42;BREST
+1164;22;Bibliothèque du Laboratoire "Domaines océaniques";associée;;0;0;0;1;0;0;mixte;;;;70;;14;;;;;;;;;;;;;;0290323U;UN11;0290323U;42;BREST
+153;22;Bibliothèque de Géoarchitecture;associée;;0;0;1;1;0;0;mixte;1306;0,4;220;77;69;15;12;18;;;;;600;175;;202;;;;0290323U;UN12;0290323U;42;BREST
+154;23;Administration générale;autre;;0;0;0;0;0;1;;;;;;;;;;;;;;;;;;;;;0561779E;Un00;0561779E;43;BRETAGNE-SUD
+155;23;BU de Lorient;autre;;0;0;1;1;0;0;mixte;;12,6;96331;2678;2116;291;40;57;;;;;2358;226;;16319;6675;170;0;0561779E;UN01;0561779E;43;BRETAGNE-SUD
+156;23;Bibliothèque associée de l'IUT de Vannes;associée;;1;1;0;0;0;1;mixte;26000;2,4;46656;516;422;127;26;49;;;;;2232;228;399;2595;44;28;0;0561779E;UN02;0561779E;43;BRETAGNE-SUD
+157;23;BU campus de Vannes Tohannic;autre;;1;1;0;1;0;0;mixte;;11,6;164521;2267;1791;413;64;57;;;;;2358;226;;19930;10969;76;0;0561779E;UN03;0561779E;43;BRETAGNE-SUD
+158;24;Bibliothèque Universitaire des Langues et Civilisations;autre;;1;0;1;0;0;0;mixte;990682,18;96;885376;16134;6122;910;118;72;;;;;3336;278;40138;48076;;52849;10291;0755040W;UN01;;49;BULAC
+159;25;BRGM-Bibliothèque;autre;;0;0;0;1;0;0;;;3,9;;;;10;;10,5;;;;;;60;9000;;;;;0755363X;UN00;;50;BRGM-Bureau de recherches géologiques et minières
+160;26;Bibliothèque universitaire Madeleine-Brès;autre;;0;0;0;0;1;1;mixte;;14,6;413899;2807;2163;580;52;76;;;;;3246;266;2122;20116;0;920;0;0141110F;Un00;0141110F;52;CAEN
+161;26;Bibliothèque universitaire Pierre-Sineux;autre;;1;1;1;0;0;1;mixte;;25,8;360073;12926;3975;712;32;69;;;;;2854;224;19637;47501;0;1453;0;0141110F;Un01;0141110F;52;CAEN
+162;26;Bibliothèque universitaire Rosalind-Franklin;autre;;0;0;0;1;0;1;mixte;;16,4;305684;7732;6700;1112;102;58;;;;;2521;267;6024;16283;0;503;0;0141110F;Un02;0141110F;52;CAEN
+163;26;Transversal SCD;autre;;1;1;1;1;1;1;mixte;;19,6;0;0;0;0;0;0;;;;;0;0;0;0;0;0;0;0141110F;UN03;0141110F;52;CAEN
+164;26;Bibliothèque universitaire Olympe-de-Gouges;autre;;1;1;1;1;0;1;étudiant;;2,8;38548;1032;772;140;20;43;;;;;1738;202;540;9211;0;0;0;0141110F;UN04;0141110F;52;CAEN
+165;26;Bibliothèque universitaire Blanche-Maupas;autre;;1;1;0;1;0;1;mixte;;3;20213;885;589;143;28;45;;;;;1715;199;427;3243;0;119;0;0141110F;UN05;0141110F;52;CAEN
+166;26;Média Normandie;associée;;0;0;0;0;0;1;étudiant;2248;;;25;10;4;0;35;;;;;;;25;447;0;0;0;0141110F;UN06;0141110F;52;CAEN
+167;26;ESPE centre de Saint-Lô;associée;;0;0;1;0;0;0;mixte;11553;2;25935;400;400;70;58;44,5;;;;;1675,25;202;359;8154;0;0;9;0141110F;UN07;0141110F;52;CAEN
+169;26;Bibliothèque universitaire Gaston-Mialaret;associée;;0;1;1;1;0;0;mixte;25230;5;53141;773;560;104;21;47,5;;;;;2076,5;191;1146;21657;0;141;0;0141110F;UN09;0141110F;52;CAEN
+170;26;Bibliothèque Tove Jansson;associée;;0;0;1;0;0;0;mixte;10663;3;;1300;1000;150;0;46,5;;;;;1930;208;3020;4161;0;66;0;0141110F;UN10;0141110F;52;CAEN
+171;26;Bibliothèque-Cartothèque de l'UFR SEGGAT;associée;;0;1;1;0;0;0;mixte;20566;2,9;;450;360;120;16;49;;;;;2175;222;600;9660;0;4340;0;0141110F;UN11;0141110F;52;CAEN
+172;26;Bibliothèque historique Madeleine Deries;associée;;0;0;1;0;0;0;mixte;5668;1,8;22512;350;350;64;0;43,75;;;;;1840;190;649;4686;0;0;0;0141110F;UN12;0141110F;52;CAEN
+173;26;Bibliothèque des Sciences de l'Homme - Pierre Barbéris;associée;;0;0;1;0;0;0;mixte;21268;1,9;61914;540;471;100;34;44;;;;;1751;199;1400;9038;0;0;0;0141110F;UN13;0141110F;52;CAEN
+174;26;Bibliothèque de Droit Nicolas Politis;associée;;1;1;0;0;0;0;mixte;106950;1;74000;635;323;180;64;47;;;;;1898;202;1500;199;0;35;0;0141110F;UN14;0141110F;52;CAEN
+175;26;Centre de Documentation MRSH;associée;;0;1;1;0;0;1;recherche;1037;1,8;520;216;100;25;0;29;;;;;1276;190;657;263;0;85;0;0141110F;UN18;0141110F;52;CAEN
+176;26;Centre de Ressources en Langues - MLI;associée;;0;0;0;0;0;1;étudiant;5881;2;21002;331;289;80;40;47;;;;;1964;213;60;1929;0;0;0;0141110F;UN20;0141110F;52;CAEN
+177;26;Médiathèque EM Normandie - IAE;associée;;0;1;0;0;0;0;mixte;51299;4,2;58350;676;591;97;10;43,5;;;;;1941;226;470;6346;0;554;0;0141110F;UN21;0141110F;52;CAEN
+178;27;Bibliothèque de la Casa de Velázquez;autre;;0;0;1;0;0;0;recherche;;6,5;4012;1204;1106;64;0;59;;;;;2474;251;5172;6303;0;0;0;1340004B;UN00;;54;Casa de Velasquez
+179;28;Délégation à l'IST;autre;;0;0;0;1;0;1;recherche;;7,54;1420;1000;;0;0;20;;;;;;166;5230;710;;;;0342214X;UN00;;55;CIRAD-Centre de coopération internationale en recherche agronomique pour le développement
+180;29;CNRS central;autre;;1;1;1;1;0;0;recherche;3266798,47;;;;;;;;;;;;;;;;;;;0753639Y;UN00;;66;CNRS-Centre national de la recherche scientifique
+181;29;INIST;autre;;1;1;1;1;1;1;recherche;5712588,99;191,2;;;;;;;;;;;;;;;;;;0753639Y;UN01;;66;CNRS-Centre national de la recherche scientifique
+182;29;UMS Persée;autre;;1;1;1;1;0;0;recherche;;2,1;;;;;;;;;;;;;;;;;;0753639Y;UN02;;66;CNRS-Centre national de la recherche scientifique
+183;29;UMS CCSD;;;1;1;1;1;1;1;mixte;;;;;;;;;;;;;;;;;;;;0753639Y;UN04;;66;CNRS-Centre national de la recherche scientifique
+184;30;pôle Information scientifique et technique;;;0;0;0;0;0;0;;;;;;;;;;;;;;;;;;;;;0942226J;UN00;;68;CSTB-Centre scientifique et technique du bâtiment
+185;31;Chênes;autre;;1;1;1;0;0;0;mixte;;7;143665;2800;2700;295;20;52,5;;;;;2210;218;722;10900;27925;;;0951989W;Un00;0951989W;70;CERGY-PONTOISE
+186;31;Saint-Martin;autre;;0;1;0;1;0;0;mixte;;6,4;127988;1200;1050;174;8;47,5;;;;;1896,5;202;517;8229;5182;0;0;0951989W;UN01;0951989W;70;CERGY-PONTOISE
+187;31;Neuville;autre;;0;0;0;1;0;0;mixte;;6;63018;858;820;249;53;47,5;;;;;1809;200;462;4799;1864;9;;0951989W;Un02;0951989W;70;CERGY-PONTOISE
+188;31;Cerclades;autre;;1;1;1;1;0;1;mixte;;29,7;231711;6655;3535;746;38;65;;;;;2856;260;7703;37375;69309;446;;0951989W;UN04;0951989W;70;CERGY-PONTOISE
+189;31;Argenteuil;autre;;0;1;0;0;0;0;étudiant;;0,8;2863;410;410;63;53;30,5;;;;;1310;167;43;451;28;1;;0951989W;UN05;0951989W;70;CERGY-PONTOISE
+190;31;Sarcelles;autre;;0;0;1;0;0;0;étudiant;;1;6488;140;140;34;12;38,35;;;;;1591;209;75;228;130;;;0951989W;UN07;0951989W;70;CERGY-PONTOISE
+191;31;Antony;autre;;0;0;1;0;0;0;étudiant;;3,5;26122;346;271;70;37;45;;;;;1781;205;1013;17139;2831;212;;0951989W;UN09;0951989W;70;CERGY-PONTOISE
+192;31;Gennevilliers;autre;;0;0;1;0;0;0;étudiant;;4;13811;471;261;39;;42,5;;;;;1621,5;205;203;12256;1764;;;0951989W;UN10;0951989W;70;CERGY-PONTOISE
+193;31;Cergy-Hirsch;autre;;0;0;1;0;0;0;étudiant;;4,7;34344;978;640;199;195;47,5;;;;;1775;200;1041;24476;3847;;;0951989W;UN11;0951989W;70;CERGY-PONTOISE
+194;31;Saint-Germain en Laye;autre;;1;0;1;0;0;0;mixte;;5,6;25628;600;530;92;;42;;;;;1861;205;2432;29514;4189;12;;0951989W;UN12;0951989W;70;CERGY-PONTOISE
+195;32;Bibliothèque Jacob LLSETI;associée;;0;0;1;0;0;0;recherche;;;;131;131;8;2;;;;;;;;;;;;;0731137P;UN00;0731137P;71;CHAMBERY
+196;32;BU Jacob;autre;;1;1;1;0;0;0;mixte;0;14,1;167015;2444;1445;481;29;54;;;;;2256,5;220;;33820;;431;0;0731137P;UN01;0731137P;71;CHAMBERY
+197;32;Bibliothèque Jacob CDPPOC;associée;;1;0;0;0;0;0;recherche;18000;0,1;;26;26;7;6;8;;;;;320;80;49;15;;100;;0731137P;UN02;0731137P;71;CHAMBERY
+198;32;BU Bourget;autre;;0;0;1;1;0;0;mixte;0;12;131712;2300;1300;360;30;54;;;;;2176,5;213;;19621;;177;0;0731137P;Un03;0731137P;71;CHAMBERY
+199;32;SCD;autre;;1;1;1;1;0;0;mixte;0;5;0;165;0;0;0;0;;;;;0;0;0;0;0;0;0;0731137P;UN04;0731137P;71;CHAMBERY
+200;32;BU Annecy;autre;;1;1;0;1;0;0;mixte;0;9,6;56293;932;781;102;0;48;;;;;1996,5;201;;10739;;7;0;0731137P;UN05;0731137P;71;CHAMBERY
+1165;32;Bibliothèque Jacob ISEFE;associée;;0;0;1;0;0;0;mixte;750;1;43;20;20;3;;28;;;;;;;3451;510;;;;0731137P;UN06;0731137P;71;CHAMBERY
+201;32;Bibliothèque Annecy IREGE;associée;;0;1;1;0;0;0;recherche;;;;18;17;;0;;;;;;;;;;;;;0731137P;UN07;0731137P;71;CHAMBERY
+202;32;Bibliothèque Annecy POLYTECH;associée;;0;0;0;1;0;0;mixte;;;;75;75;5;5;;;;;;;;;;;;;0731137P;UN08;0731137P;71;CHAMBERY
+203;32;Bibliothèque Annecy LAPP;associée;;0;0;0;1;0;0;recherche;;;;210;200;;;;;;;;;;;;;;;0731137P;UN09;0731137P;71;CHAMBERY
+204;32;Bibliothèque Jacob CNFEDS;associée;;0;0;1;0;0;0;étudiant;;0,1;;;;;;44,75;;;;;;;;;0;;;0731137P;UN10;0731137P;71;CHAMBERY
+205;32;Bibliothèque Bourget EDYTEM Choppy;associée;;0;0;0;1;0;0;recherche;;;;15;;2;;54;;;;;;;110;;;;;0731137P;UN11;0731137P;71;CHAMBERY

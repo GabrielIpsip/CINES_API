@@ -1,0 +1,1157 @@
+ID_BP;ID_SD_2018;BibNom;BibType;BibFictive;BibAdresse;BibCP;BibVille;BibDroit;BibEco;BibLSH;BibScStaps;BibSante;BibAut;BibPubVisé;UAI_Old;NUMUn;UAI_2018;Ident_FMu
+218;33;BU ESPE Chamalières;autre;0;ESPE CLERMONT AUVERGNE [RC] 36 AVENUE JEAN JAURES;63400;Chamalières;1;1;1;1;1;1;étudiant;0631005A;UN10;0631005A;74
+219;33;Bibliothèque du centre Michel de L'Hospital;associée;0;Ecole de Droit [RC] CS 20054 [RC] 41, Boulevard François Mitterrand;63002;Clermont-Ferrand;1;0;0;0;0;0;recherche;0631005A;UN11;0631005A;74
+220;33;Bibliothèque Numérique;autre;1;6 impasse Amélie Murat, Campus des Cézeaux;63174;Aubière;0;0;0;0;0;1;mixte;0631005A;UN12;0631005A;74
+221;33;BU ESPE-IUT Moulins;autre;0;28 rue des Geais;03000;Moulins;0;0;1;0;0;0;étudiant;0631005A;UN13;0631005A;74
+222;33;BU droit et sciences économiques - Rotonde;autre;0;26 avenue Léon Blum;63000;Clermont-Ferrand;1;1;0;0;0;0;étudiant;0631005A;UN14;0631005A;74
+223;33;BU Le Puy;autre;0;8 RUE JEAN-BAPTISTE FABRE CS 10219;43012;Le Puy en Velay;0;0;1;1;0;0;mixte;0631005A;UN16;0631005A;74
+224;33;Bibliothèque du CERDI;associée;0;65 boulevard François Mitterrand;63000;Clermont-Ferrand;0;1;0;0;0;0;recherche;0631005A;UN17;0631005A;74
+225;33;BU Lettres Gergovia niveau 2 (ex-BUFR);autre;0;29, boulevard Gergovia, 2e étage;63000;Clermont-Ferrand;0;0;1;0;0;0;mixte;0631005A;UN23;0631005A;74
+226;33;Bibliothèque de Géologie;associée;0;Laboratoire Magmas et Volcans, Campus des Cézeaux;63170;Aubière;0;0;0;1;0;0;recherche;0631005A;UN26;0631005A;74
+227;33;Bibliothèque de SIGMA;associée;0;IFMA CAMPUS DE CLERMONT/LES CEZEAUX 27 rue Roche GeneS;63170;Aubière;0;0;0;1;0;0;mixte;0631005A;UN27;0631005A;74
+228;33;Bibliothèque de Mathématiques et Informatique;associée;0;Campus des Cézeaux, 3 place Vasarely;63170;Aubière;0;0;0;1;0;0;mixte;0631005A;UN28;0631005A;74
+229;33;Bibliothèque du département de Physique;associée;0;Département de physique, [RC] Campus universitaire des Cézeaux, [RC] 24 avenue des Landais;63170;Aubière;0;0;0;1;0;0;mixte;0631005A;UN29;0631005A;74
+230;33;Pôle Documentaire du Campus agronomique de VetAgro Sup;associée;0;89, avenue de l'Europe - BP 35;63370;Lempdes;0;0;0;1;0;0;mixte;0631005A;UN31;0631005A;74
+231;33;Médiathèque de l'Orangerie;associée;0;Pôle universitaire de Vichy - 1 avenue des Célestins;03200;Vichy;0;0;1;0;1;1;étudiant;0631005A;UN32;0631005A;74
+232;34;Centre de Documentation sur la Formation et le Travail;autre;0;41, rue Gay-Lussac;75005;Paris;0;0;1;0;0;0;recherche;0753471R;UN00;;76
+233;34;Bibliothèque Conté;autre;0;2 rue Conté;75003;Paris;1;0;0;0;0;1;mixte;0753471R;UN01;;76
+234;34;Bibliothèque de l'ESGT;autre;0;1 Boulevard Pythagore;72000;Le Mans;1;0;0;0;0;1;mixte;0753471R;UN02;;76
+235;34;Bibliothèque Gay-Lussac;autre;0;41 rue Gay-Lussac;75005;Paris;0;0;1;0;0;1;mixte;0753471R;UN03;;76
+236;34;Bibliothèque centrale;autre;0;292 rue Saint-Martin;75003;Paris;0;1;0;1;0;1;mixte;0753471R;UN04;;76
+237;34;Centre de documentation du CEET;autre;0;29, promenade Michel Simon;93166;Noisy-le-Grand;1;1;1;0;0;0;recherche;0753471R;UN05;;76
+238;35;[Direction des bibliothèques du Collège de France];autre;1;11 Place Marcelin Berthelot;75005;PARIS;1;1;1;1;1;1;mixte;0753480A;Un00;;77
+239;35;Bibliothèque patrimoniale;autre;0;11 Place Marcelin Berthelot;75005;PARIS;1;1;1;1;1;1;mixte;0753480A;UN01;;77
+240;35;Bibliothèque byzantine (n°UAI 073480A) et CHCB;autre;0;4 rue Valette;75005;PARIS;0;0;1;0;0;0;mixte;0753480A;UN02;;77
+241;35;Bibliothèque des études arabes, turques et islamiques;autre;0;4 rue Valette;75005;PARIS;0;0;1;0;0;0;mixte;0753480A;UN03;;77
+242;35;Bibliothèque d'égyptologie;autre;0;11 Place Marcelin Berthelot;75005;PARIS;0;0;1;0;0;0;mixte;0753480A;UN04;;77
+243;35;Bibliothèques d'assyriologie et d'études Ouest sémitiques;autre;0;11 Place Marcelin Berthelot;75005;PARIS;0;0;1;0;0;1;mixte;0753480A;UN05;;77
+244;35;Pôle Extrême-Orient;autre;0;49 bis AV de la Belle Gabrielle;75012;PARIS;0;0;1;0;0;1;mixte;0753480A;UN06;;77
+245;35;Bibliothèque d'Extrême-Orient_Chine;autre;0;49 bis av de la Belle Gabrielle;75012;PARIS;0;0;1;1;0;1;mixte;0753480A;UN07;;77
+246;35;Bibliothèque Extrême-Orient_ Corée;autre;0;49 bis Av de la Belle Gabrielle;75012;PARIS;0;0;1;0;0;1;mixte;0753480A;UN08;;77
+247;35;Bibliothèque Extrême-orient_Inde;autre;0;49 bis av de la Belle Gabrielle;75012;PARIS;0;0;1;0;0;1;mixte;0753480A;UN09;;77
+248;35;Bibliothèque Extrême-Orient_Japon;autre;0;49 Bis Av de la Belle gabrielle;75012;PARIS;0;0;1;0;0;1;mixte;0753480A;UN10;;77
+249;35;bibliothèque d'Extreme-Orient_Tibet;autre;0;49 bis av de la Belle Gabrielle;75012;PARIS;0;0;1;0;0;0;mixte;0753480A;UN11;;77
+250;35;Bibliothèque de la Société asiatique;associée;0;49 bis Av de la Belle Gabrielle;75012;PARIS;0;0;1;1;0;1;recherche;0753480A;UN12;;77
+251;35;Bibliothèque Claude Lévi-Strauss;autre;0;Laboratoire d'anthropologie sociale [RC] 3 rue D'Ulm;75005;PARIS;0;0;1;1;0;1;mixte;0753480A;UN13;;77
+252;36;Service valorisation de l'information;autre;0;CEA/Saclay [RC] DSM/SAC/UST/SVI [RC] PC88;91191;Gif sur Yvette;0;0;0;1;1;1;recherche;0912281K;UN00;;78
+253;36;Bibliothèque Cadarache;autre;0;CEA Cadarache [RC] Bat 120;13108;Saint-Paul Lez-Durance;0;0;0;1;1;1;recherche;0912281K;UN01;;78
+254;36;Documentation Grenoble;autre;0;CEA grenoble [RC] DRT/VALO/SMS/IST [RC] 17 rue des martyrs;38054;Grenoble;0;0;0;1;1;1;recherche;0912281K;UN02;;78
+255;36;Bibliothèque Marcoule;autre;0;;30207;Bagnols sur Cèze;0;0;0;1;0;0;recherche;0912281K;UN03;;78
+256;36;Bureau IST CEA/DAM/CESTA;autre;0;Avenue des Sablières [RC] CS60001;13108;La Barp;0;0;0;1;0;1;recherche;0912281K;UN04;;78
+257;37;Site Benjamin Franklin;autre;0;Rue Roger Couttolenc;60200;COMPIEGNE;0;0;0;1;0;0;étudiant;0601609Y;UN00;0601609Y;79
+258;37;Site Royallieu;autre;0;Rue du Docteur Schweitzer;60200;COMPIEGNE;0;0;0;1;0;0;recherche;0601609Y;UN01;0601609Y;79
+259;37;Administration / Global;autre;1;Rue Roger Couttolen;60200;COMPIEGNE;0;0;0;1;0;0;;0601609Y;UN02;0601609Y;79
+260;38;Bibliothèque universitaire;autre;0;Bâtiment Desanti [RC] Av. du 9 Septembre [RC] BP-52;20250;Corté;1;1;1;1;1;1;mixte;7200111H;UN00;7200111H;81
+261;39;Centre Technique du Livre de l'enseignement supérieur;autre;0;14 avenue Gutenberg;77607;Bussy-Saint-Georges;0;0;0;0;0;0;;0772428W;UN00;;84
+262;40;BIU Cujas;autre;0;2 rue Cujas;75005;Paris;1;1;0;0;0;0;mixte;0752707K;Un00;0752707K;85
+263;41;Administration générale;autre;1;3 Esplanade Erasme;21000;Dijon;0;0;0;0;0;0;;0211030F;Un00;0211030F;86
+264;41;BU Droit-Lettres;autre;0;3 esplanade Erasme;21000;Dijon;1;0;1;0;0;0;mixte;0211030F;Un01;0211030F;86
+265;41;BU Le Creusot;autre;0;4 rue de l'Université;71200;Le Creusot;1;1;0;1;0;0;mixte;0211030F;Un02;0211030F;86
+266;41;Bibliothèque de l'IUT;autre;0;7 Boulevard du Docteur Petitjean;21000;Dijon;0;1;0;1;0;0;étudiant;0211030F;UN03;0211030F;86
+267;41;BU Sciences;autre;0;6 rue Sully;21000;Dijon;0;1;0;1;0;0;mixte;0211030F;Un04;0211030F;86
+268;41;BU Santé;autre;0;7 boulevard Jeanne d'Arc;21000;Dijon;0;0;0;0;1;0;mixte;0211030F;UN05;0211030F;86
+269;41;B2UFR;autre;0;2 Boulevard Gabriel;21000;Dijon;0;0;1;0;0;0;mixte;0211030F;UN06;0211030F;86
+270;41;BU Chalon;autre;0;1 allée des Granges Forestier;71100;Chalon-sur-Saône;0;1;0;1;0;0;étudiant;0211030F;UN07;0211030F;86
+271;41;Bibliothèques de l'ESPE;autre;0;51 rue Charles Dumont;21000;Dijon;0;0;1;0;0;0;mixte;0211030F;UN08;0211030F;86
+272;41;BS Droit;associée;0;4 boulevard Gabriel;21000;Dijon;1;0;0;0;0;0;mixte;0211030F;UN09;0211030F;86
+273;41;Bibliothèque de l'IAE;associée;0;Pôle d'économie et de Gestion;21000;Dijon;0;1;0;0;0;0;mixte;0211030F;UN10;0211030F;86
+274;41;Médiathèque de l'UFR Langues et Communication;associée;0;4 boulevard Gabriel [RC] Extension Lettres;21000;Dijon;0;0;1;0;0;0;mixte;0211030F;UN11;0211030F;86
+275;42;Bibliothèque Michel Serres;autre;0;36 avenue Guy de Collongue;69134;Ecully;0;0;0;1;0;0;mixte;0690187D;UN00;;89
+276;43;Campus Paris-Saclay, bibliothèque Eiffel;autre;0;;91190;Gif-sur-Yvette;0;0;0;1;0;0;mixte;0921225G;UN00;;92
+277;43;Campus de Rennes;autre;0;Avenue de la Boulaie / CS 47601;35576;Cesson-Sévigné Cedex;0;0;0;1;0;0;mixte;0921225G;UN01;;92
+278;43;Campus de Metz;autre;0;2 rue Edouard Belin;57070;Metz;0;0;0;1;0;0;mixte;0921225G;UN02;;92
+279;44;Bibliothèque de l'Ecole française d'Athènes;autre;0;6 rue Didotou;10680;Athènes (Grèce);0;0;1;0;0;0;recherche;1260001S;UN00;;103
+280;45;BIBLIOTHEQUE ECOLE FRANCAISE DE ROME;autre;0;Piazza Farnese, 67;00186;ROMA (Italia);0;0;1;0;0;0;recherche;1270009V;UN00;;104
+281;46;Bibliothèque centrale - Paris;autre;0;22 avenue du Président-Wilson;75116;Paris;0;0;1;0;0;1;recherche;0751794T;UN00;;105
+282;46;Bibliothèque du Centre EFEO de Chiang Mai;autre;0;131 Charoen Prathet Road, A. Muang;50100;Chiang Mai (Thaïlande);0;0;0;0;0;0;recherche;0751794T;UN01;;105
+283;46;Bibliothèque du Centre EFEO de Hanoi;autre;0;5a Xóm H&#7841; H&#7891;i, Hoàn Ki&#7871;m;     ;Hanoi (Vietnam);0;0;0;0;0;0;recherche;0751794T;UN02;;105
+284;46;Bibliothèque du Centre EFEO de Jakarta;autre;0;Jl. Ampera III no.26 [RC] Kemang;12550;Jakarta (Indonésie);0;0;0;0;0;0;recherche;0751794T;UN03;;105
+285;46;Bibliothèque du Centre EFEO de Pondichéry;autre;0;16-19 rue Dumas [RC] 605001;     ;Pondichéry (Inde);0;0;0;0;0;0;recherche;0751794T;UN04;;105
+286;46;Bibliothèque du Centre EFEO de Siem Reap;autre;0;Phum Boeng Daun Pa, Slorkram [RC] PO BOX 93300;     ;Siem Reap (Cambodge);0;0;0;0;0;0;recherche;0751794T;UN05;;105
+204;32;Bibliothèque Jacob CNFEDS;associée;0;378 rue de la République;73000;Chambéry;0;0;1;0;0;0;étudiant;0731137P;UN10;0731137P;71
+205;32;Bibliothèque Bourget EDYTEM Choppy;associée;0;Bibliothèque universitaire;73370;Le Bourget-du-Lac;0;0;0;1;0;0;recherche;0731137P;UN11;0731137P;71
+206;32;Bibliothèque Bourget LAMA;associée;0;Domaine univeristaire;73370;Le Bourget-du-Lac;0;0;0;1;0;0;recherche;0731137P;UN12;0731137P;71
+207;32;Bibliothèque Bourget POLYTECH LOCIE;associée;0;Domaine universitaire;73370;Le Bourget-du-Lac;0;0;0;1;0;0;recherche;0731137P;UN13;0731137P;71
+208;33;BU IUT Aurillac;autre;0;Rue de l'École normale;15013;Aurillac;1;1;1;1;0;0;étudiant;0631005A;Un00;0631005A;74
+209;33;Administration + Direction;autre;1;1 boulevard Lafayette;63000;Clermont-Ferrand;0;0;0;0;0;1;mixte;0631005A;Un01;0631005A;74
+210;33;BU droit et sciences économiques;autre;0;41, Bd François Mitterand;63037;Clermont-Ferrand;1;1;0;0;0;0;mixte;0631005A;Un02;0631005A;74
+211;33;BU Lettres Carnot;autre;0;40 avenue Carnot;63000;Clermont-Ferrand;0;0;1;0;0;0;mixte;0631005A;UN03;0631005A;74
+212;33;BU IUT Montluçon;autre;0;Avenue Aristide Briand;03100;Montluçon;0;0;0;1;0;0;étudiant;0631005A;Un04;0631005A;74
+213;33;BU LSH Gergovia;autre;0;29 Boulevard Gergovia;63000;Clermont-Ferrand;0;0;1;0;0;0;étudiant;0631005A;Un05;0631005A;74
+214;33;BU LSH Lafayette;autre;0;1 boulevard Lafayette;63000;Clermont-Ferrand;0;0;1;0;0;0;mixte;0631005A;Un06;0631005A;74
+215;33;BU santé - odontologie;autre;0;2 rue de Braga;63000;Clermont-Ferrand;0;0;0;0;1;0;mixte;0631005A;Un07;0631005A;74
+216;33;BU santé;autre;0;28 place Henri Dunant;63000;Clermont-Ferrand;0;0;0;0;1;0;mixte;0631005A;Un08;0631005A;74
+217;33;BU sciences et techniques;autre;0;Campus universitaire des Cézeaux - [RC] 6 place Vasarely;63170;Aubière;0;0;0;1;0;0;mixte;0631005A;Un09;0631005A;74
+287;46;Bibliothèque du Centre EFEO de Vientiane;autre;0;1 rue Sisangvone – Unit 6 [RC] Bane Naxay [RC] BP 3248;     ;Vientiane (Laos);0;0;0;0;0;0;recherche;0751794T;UN06;;105
+288;46;Bibliothèque du Centre EFEO de Kyoto;autre;0;Kitashirakawa bettô-chô 29, Sakyô-ku [RC] 606-8276;     ;Kyoto (Japon);0;0;0;0;0;0;recherche;0751794T;UN07;;105
+289;47;Bibliothèque de l'Ecole nationale des chartes;autre;0;12, rue des Petits-Champs;75002;Paris;0;0;1;0;0;0;mixte;0753478Y;Un00;;108
+290;48;DDP;autre;1;151 boulevard de l'Hôpital;75013;Paris;0;0;0;1;0;0;mixte;0753237L;UN00;;116
+291;48;Campus Aix;autre;0;2, cours des Arts et Métiers;13617;Aix-en-Provence;0;0;0;1;0;0;mixte;0753237L;UN01;;116
+292;48;Campus Angers;autre;0;2, boulevard du Ronceray;49035;Angers Cedex 1;0;0;0;1;0;0;mixte;0753237L;UN02;;116
+293;48;Campus de Bordeaux;autre;0;Esplanade des Arts et Métiers;33405;Talence;0;0;0;1;0;0;mixte;0753237L;UN03;;116
+294;48;Campus de Châlons en Champagne;autre;0;Rue Saint Dominique;51006;Châlons-en-Champagne;0;0;0;1;0;0;mixte;0753237L;UN04;;116
+295;48;Campus de Cluny;autre;0;Rue Porte de Paris;71250;Cluny;0;0;0;1;0;0;mixte;0753237L;UN05;;116
+296;48;Campus de Lille;autre;0;8 boulevard Louis XIV;59046;Lille Cedex;0;0;0;1;0;0;mixte;0753237L;UN06;;116
+297;48;Campus de Metz;autre;0;4, rue Augustin Fresnel;57078;Metz Cedex 3;0;0;0;1;0;0;mixte;0753237L;UN07;;116
+298;48;Campus de Paris;autre;0;151 boulevard de l'Hôpital;75013;Paris;0;0;0;1;0;0;mixte;0753237L;UN08;;116
+299;48;Institut de Chambéry;autre;0;Savoie Technolac;73375;Le Bourget du Lac Cedex;0;0;0;1;0;0;mixte;0753237L;UN09;;116
+300;49;SCDBA EPHE;autre;1;Site Saint Barbe [RC] 4, rue Valette;75005;Paris;0;0;1;1;0;1;recherche;0753486G;UN00;;135
+301;49;Bibliothèque Michel Fleury;autre;0;EPHE - SCDBA [RC] 4, rue Valette;75005;Paris;0;0;1;0;0;0;recherche;0753486G;UN01;;135
+302;49;Bibliothèque des sciences religieuses;autre;0;EPHE - SCDBA [RC] 4, rue Valette;75005;Paris;0;0;1;0;0;1;recherche;0753486G;UN02;;135
+303;49;Bibliothèque d'égyptologie Wladimir Golenischeff;autre;0;EPHE - SCDBA [RC] 190, avenue de France;75013;Paris;0;0;1;0;0;1;recherche;0753486G;UN03;;135
+304;49;Bibliothèque d'études mongoles et sibériennes;autre;0;EPHE - SCDBA [RC] 190, avenue de France;75013;Paris;0;0;1;0;0;1;recherche;0753486G;UN04;;135
+305;49;Photothèque - Fonds Gabriel Millet;autre;0;EPHE - SCDBA [RC] Site Sainte Barbe [RC] 4, rue Valette;75005;Paris;0;0;1;0;0;1;recherche;0753486G;UN05;;135
+306;49;Bibliothèque d'études tibétaines;autre;0;EPHE - SCDBA [RC] Maison de l'Asie [RC] 22 avenue du Président Wilson;75016;Paris;0;0;1;0;0;1;recherche;0753486G;UN06;;135
+307;49;Bibliothèque d'études japonaises;autre;0;EPHE - SCDBA [RC] Maison de l'Asie [RC] 22 av. du Président Wilson;75016;Paris;0;0;1;0;0;1;recherche;0753486G;UN07;;135
+308;49;Centre de documentation de l'IESR;associée;0;EPHE - Institut européen en sciences des religions [RC] Les Patios Saint-Jacques [RC] 4-14 rue Ferrus;75014;Paris;0;0;1;0;0;1;recherche;0753486G;UN08;;135
+309;49;Centre de documentation du GSRL;associée;0;EPHE - CNRS Groupe société religions laïcité (UMR 8582) [RC] 27, rue Paul Bert [RC] 94204 Ivry-sur-Seine Ced;94200;Ivry-sur-Seine;0;0;1;0;0;0;recherche;0753486G;UN09;;135
+310;50;Bibliothèque centrale;autre;0;61, avenue du Président Wilson [RC] Bâtiment d'Alembert;94230;Cachan;0;1;1;1;0;0;mixte;0940607Z;Un00;;144
+311;50;Bibliothèque Durkheim;associée;0;61, avenue du Président Wilson [RC] Bâtiment Laplace;94230;Cachan;1;1;1;0;0;0;recherche;0940607Z;UN02;;144
+312;50;Bibliothèque du CMLA;associée;0;61, avenue du Président Wilson [RC] Bâtiment Laplace;94230;Cachan;0;0;0;1;0;0;recherche;0940607Z;UN03;;144
+313;50;Bibliothèque de l'IDA;associée;0;ENS Cachan - IDA [RC] 61 avenue du Président Wilson;94230;Cachan;0;0;0;1;1;0;recherche;0940607Z;UN04;;144
+314;51;Bibliothèque Diderot de Lyon;autre;1;5 parvis René Descartes BP 7000;69342;Lyon cedex 07;0;0;1;1;0;0;mixte;0694123G;UN00;;145
+315;51;Bibliothèque Diderot de Lyon ENS de Lyon;autre;0;Bibliothèque Diderot de Lyon [RC] 5 parvis René Descartes;69007;Lyon;0;0;1;0;0;1;mixte;0694123G;UN01;;145
+316;51;Bibliothèque Diderot de Lyon ENS de Lyon;autre;0;46, allée d'Italie;69007;Lyon;0;0;0;1;0;0;mixte;0694123G;UN02;;145
+317;53;Bibliothèque des Lettres Ulm;autre;0;45, rue d'Ulm;75005;Paris;1;1;1;0;0;0;mixte;0753455Y;UN00;;149
+318;53;Bibliothèque de Jourdan;autre;0;48, boulevard Jourdan;75014;Paris;1;1;1;0;0;0;mixte;0753455Y;UN01;;149
+319;53;Bibliothèque des sciences expérimentales;associée;0;29, rue d'Ulm;75005;Paris;0;0;0;1;0;0;mixte;0753455Y;UN03;;149
+320;53;Bibliothèque d'archéologie UMR 8546;associée;0;45, rue d'Ulm;75005;Paris;0;0;1;0;0;0;mixte;0753455Y;UN04;;149
+321;53;Bibliothèque de mathématiques et informatique;associée;0;45, rue d'Ulm;75005;Paris;0;0;0;1;0;0;mixte;0753455Y;UN05;;149
+322;53;Bibliothèque de physique théorique;associée;0;24, rue Lhomond;75005;Paris;0;0;0;1;0;0;recherche;0753455Y;UN06;;149
+323;53;Relais d'information sur les sciences de la cognition;associée;0;29, rue d'Ulm;75005;Paris;0;0;1;1;1;1;mixte;0753455Y;UN07;;149
+324;53;Centre documentaire du Caphés;associée;0;29, rue d'Ulm;75005;Paris;0;0;1;1;1;0;recherche;0753455Y;UN08;;149
+325;53;Bibliothèque de l'Agrégation de physique - chimie;associée;0;1, rue Maurice Arnoux;92120;Montrouge;0;0;0;1;0;0;étudiant;0753455Y;UN09;;149
+326;53;Bibliothèque des Archives Husserl;associée;0;45, rue d'Ulm;75005;Paris;0;0;1;0;0;0;recherche;0753455Y;UN10;;149
+327;54;ENSSIB;autre;0;17-21 boulevard du 11 Novembre 1918;69623;VILLEURBANNE;0;0;1;0;0;0;mixte;0692459Y;UN00;;151
+328;55;Bibliothèque numérique;autre;1;Bibliothèque fictive;     ;;1;1;1;1;1;1;mixte;0912167L;UN00;0912167L;154
+329;55;Bibliothèque UFR Sciences et Techniques;associée;0;40 rue du Pelvoux;91080;COURCOURONNES;0;0;0;1;0;0;mixte;0912167L;UN01;0912167L;154
+330;55;Bibliothèque IUT site Brétigny;associée;0;Château La Fontaine, Chemin de la Tuilerie;91220;Brétigny Sur Orge;1;1;0;1;0;1;mixte;0912167L;UN02;0912167L;154
+331;55;Bibliothèque Universitaire (Centrale);autre;0;2 rue André Lalande;91000;EVRY;1;1;1;1;0;1;mixte;0912167L;UN03;0912167L;154
+332;55;BU - UFR Sciences de l'Homme et de la société;autre;0;2 rue du Facteur Cheval;91000;EVRY;1;1;1;0;0;1;mixte;0912167L;UN04;0912167L;154
+333;56;Bibliothèque;;0;;;;0;0;0;0;0;0;;0753431X;Un00;;156
+334;56;Bibliothèque du Campus de Nancy;associée;0;94 Avenue Maréchal De Lattre de Tassigny;54000;Nancy;1;1;1;0;0;0;étudiant;0753431X;UN01;;156
+335;56;Bibliothèque Copernic du campus de Dijon;associée;0;14 avenue Victor Hugo;21000;Dijon;1;1;1;0;0;0;étudiant;0753431X;UN02;;156
+336;56;Bibliothèque Pablo Neruda du campus de Poitiers;associée;0;Hôtel Chaboureau, 49 Place Charles de Gaulle;86000;Poitiers;1;1;1;0;0;0;étudiant;0753431X;UN03;;156
+337;56;Bibliothèque du Campus de Menton;associée;0;11 Place Saint-Julien;06500;Menton;1;1;1;0;0;0;étudiant;0753431X;UN04;;156
+338;56;Bibliothèque du Campus du Havre;associée;0;77 rue Bellot;76600;Le Havre;1;1;1;0;0;0;étudiant;0753431X;UN05;;156
+339;56;Biliothèque du Campus de Reims;associée;0;Ancien Collège des Jésuites, 1 Place Museux;51100;Reims;1;1;1;0;0;0;étudiant;0753431X;UN06;;156
+340;56;Bibliothèque de Sciences Po Paris;autre;0;27 & 30 rue Saint Guillaume;75007;Paris;1;1;1;0;0;0;mixte;0753431X;UN07;;156
+341;60;Bibliothèque Campus de Bourges;autre;0;Campus de Bourges [RC] 88, bd Lahitolle [RC] CS 60013;18022;Bourges Cedex;0;0;0;0;0;0;mixte;0180974L;UN00;;173
+342;60;Bibliothèque GAMBETTA Campus de Blois;autre;0;3, rue de la Chocolaterie [RC] CS 23410;41034;Blois;0;0;0;0;0;0;mixte;0180974L;UN01;;173
+343;60;Bibliothèque CHOCOLATERIE DENP Campus de Blois;autre;0;9, rue de la Chocolaterie;41034;Blois;0;0;0;0;0;1;étudiant;0180974L;UN02;;173
+344;61;Bibliothèque de l'Institut de France;autre;0;23 quai de Conti;75006;Paris;0;0;0;0;0;1;recherche;0755355N;Un00;0755355N;178
+345;61;Bibliothèque Thiers;autre;0;27 Place St Georges;75009;Paris;0;0;1;0;0;0;recherche;0755355N;UN01;0755355N;178
+346;62;Centre de ressources en information scientifiques (CRIS);autre;0;BP 17;92262;Fontenay aux Roses Cedex;0;0;0;1;1;0;recherche;0922643Y;UN00;;180
+347;63;IRD;autre;0;;93143;BONDY;0;0;0;0;0;1;recherche;0755362W;UN00;;182
+348;64;Bibliothèque de l'IFAO;autre;1;37, rue al-Cheikh Youssef, Qasr al-Ayni;11441;Le Caire - Egypte;0;0;1;0;0;0;recherche;3010001R;UN00;;190
+349;64;Bibliothèque accès 24/24;autre;0;37, rue al-Cheikh Ali Youssef, Qasr al-Ayni;11441;Le Caire - Egypte;0;0;1;0;0;0;recherche;3010001R;UN01;;190
+350;64;Bibliothèque salle de lecture;autre;0;37 rue al-Cheikh Ali Youssef, Qasr al-Ayni;11441;Le Caire - Egypte;0;0;1;0;0;0;recherche;3010001R;UN03;;190
+351;65;Ifremer;autre;0;;;;0;0;0;0;0;0;;0922262J;UN00;;192
+352;66;SERVICE DOCUMENTATION ET INFORMATION SCIENTIFIQUE ET TECHNIQ;autre;0;14-20 Boulevard Newton [RC] Cité Descartes, Champs sur Marne;77447;Marne la Vallée;0;0;1;1;0;1;recherche;0772765M;UN00;;193
+353;67;IFP Energies nouvelles;autre;0;232 avenue Napoléon Bonaparte;92500;Rueil-Malmaison;0;1;0;1;0;1;recherche;0922642X;UN00;;194
+354;68;INRA DIST;autre;0;;78000;Versailles;0;0;0;0;0;1;recherche;0755361V;UN00;;196
+355;69;BiblioInserm;autre;0;CHU Bicêtre [RC] Bât. Claude Bernard [RC] 84 rue du Général Leclerc;94270;Le Kremlin Bicêtre;0;0;0;1;1;0;recherche;0755364Y;UN00;;197
+356;69;iPubli;autre;0;CHU Bicêtre [RC] Bât. Claude Bernard [RC] 84 rue du Général Leclerc;94270;Le Kremlin Bicêtre;0;0;0;1;1;0;recherche;0755364Y;UN01;;197
+357;69;BiblioInserm;autre;0;48-50 rue Albert;75013;Paris;0;0;0;1;1;0;recherche;0755364Y;UN02;;197
+358;69;HAL-Inserm;autre;0;CHU Bicêtre [RC] Bât. Claude Bernard [RC] 84 rue du Général Leclerc;94270;Le Kremlin Bicêtre;0;0;0;1;1;0;recherche;0755364Y;UN03;;197
+359;70;INERIS;autre;0;;;;0;0;0;0;0;0;;0602098E;UN00;;198
+360;71;Inria;autre;0;Domaine de Voluceau - Rocquencourt BP 105;78153;Le Chesnay;0;0;0;1;0;0;recherche;0780491K;UN00;;199
+361;72;IRSTEA;autre;0;1, rue Pierre-Gilles de Gennes  [RC] CS 10030;92761;Antony Cedex;1;1;1;1;0;1;recherche;0922644Z;UN00;;200
+362;73;Service documentation, bibliothèque et archives de l'Ined;autre;0;133, boulevard Davout;75020;PARIS;0;1;1;0;1;0;recherche;0755360U;UN00;;206
+363;74;Bibliothèque de l'INHA;autre;0;58 rue de Richelieu;75002;PARIS;0;0;1;0;0;0;recherche;0755026F;UN00;;207
+364;75;Centre de Ressources en Information Scientifique (CeRIS);autre;0;28 rue du Docteur Roux;75015;Paris;0;0;0;1;1;0;recherche;0755366A;UN00;;213
+365;76;BU DROIT-LETTRES;autre;0;15 avenue René Cassin [RC] CS92003;97744;Saint Denis Cedex 9;1;1;1;0;0;0;mixte;9740064B;UN00;9740064B;220
+366;76;BU TAMPON;autre;0;117 avenue du Général Ailleret;97430;Le Tampon;1;0;0;1;1;0;mixte;9740064B;Un01;9740064B;220
+367;76;ADMINISTRATION GENERALE;autre;1;15 avenue René Cassin CS92003;97744;SAINT DENIS CEDEC 9;0;0;0;0;0;0;mixte;9740064B;UN02;9740064B;220
+368;76;BU Terre Sainte;autre;0;40 avenue de Soweto;97410;Saint-Pierre;0;1;1;0;1;0;mixte;9740064B;UN03;9740064B;220
+369;76;BU SCIENCES;autre;0;15 avenue René Cassin [RC] CS92003;97744;Saint Denis Cedex 9;0;0;0;1;1;0;mixte;9740064B;UN04;9740064B;220
+370;76;BU Bellepierre (ESPE);autre;0;1 Allée des Aigues-Marines Bellepierre;97487;Saint Denis Cedex 9;0;0;1;0;0;1;mixte;9740064B;UN05;9740064B;220
+371;76;ESIROI;autre;0;Parc Technologique Universitaire [RC] 2 rue Joseph Wetzell;97490;Sainte Clotilde;0;0;0;1;0;0;mixte;9740064B;UN06;9740064B;220
+372;76;CRJ-CEMOI;associée;0;15 avenue René Cassin CS92003;97490;SAINT DENIS CEDEX 9;1;1;0;0;0;0;recherche;9740064B;UN08;9740064B;220
+373;76;Centre audio-visuel;associée;0;15 avenue René Cassin CS92003;97490;SAINT DENIS CEDEX 9;1;1;1;0;0;0;mixte;9740064B;UN10;9740064B;220
+374;76;CIRCI;associée;0;15 avenue René Cassin CS92003;97490;SAINT DENIS CEDEX 9;0;0;1;0;0;0;recherche;9740064B;UN11;9740064B;220
+375;76;PROFIL;associée;0;15 avenue René Cassin CS92003;97490;SAINT DENIS CEDEX 9;0;0;0;0;0;1;étudiant;9740064B;UN12;9740064B;220
+376;76;LCF;associée;0;15 avenue René Cassin CS92003;97490;SAINT DENIS CEDEX 9;0;0;1;0;0;0;recherche;9740064B;UN13;9740064B;220
+377;77;Centrale;autre;0;2 parvis Fernand Braudel;17000;La Rochelle;1;1;1;1;0;0;mixte;0171482U;Un00;0171482U;222
+378;77;Salle de travail Foletier;;0;;;;0;0;0;0;0;0;;0171482U;UN01;0171482U;222
+379;78;IUT;autre;0;32 Rue Boris Vian [RC] BP 4006;76610;LE HAVRE;1;1;0;1;0;1;étudiant;0762856S;Un00;0762856S;225
+380;78;BUC;autre;0;25 rue Philippe Lebon;76600;LE HAVRE;1;1;1;1;0;0;étudiant;0762856S;UN01;0762856S;225
+381;79;BU Le Mans;autre;0;Avenue Olivier Messiaen;72000;Le Mans;1;1;1;1;1;0;mixte;0720850H;UN03;0720850H;226
+382;79;Laval;autre;0;52 rue des Drs Calmette et Guérin;53000;Laval;1;1;0;1;0;0;mixte;0720850H;UN05;0720850H;226
+383;83;Administration générale;autre;1;;;;0;0;0;0;0;0;;0870111Y;Un00;0870111Y;231
+384;83;Droit;autre;0;5, rue Félix Eboué;87032;Limoges;1;1;0;0;0;0;mixte;0870111Y;Un01;0870111Y;231
+385;83;Lettres;autre;0;39C rue Camille Guérin;87031;Limoges;0;0;1;0;0;0;mixte;0870111Y;Un02;0870111Y;231
+386;83;Santé;autre;0;2 rue du Docteur Marcland;87025;Limoges;0;0;0;0;1;0;mixte;0870111Y;Un03;0870111Y;231
+387;83;Sciences;autre;0;123 avenue Albert Thomas;87060;Limoges cedex;0;0;0;1;0;0;mixte;0870111Y;Un04;0870111Y;231
+388;83;Bibliothèque du Campus Universitaire de Brive;autre;0;16 rue Jules Vallès;19100;Brive-la-Gaillarde;1;1;0;1;0;1;mixte;0870111Y;UN05;0870111Y;231
+389;83;ESPE Limoges;autre;0;209 bd de Vanteaux;87036;Limoges;0;0;0;0;0;1;mixte;0870111Y;UN06;0870111Y;231
+390;83;Bibliothèque de l'IUT du Limousin - site de Limoges;autre;0;Allée André Maurois;87065;Limoges cedex;0;1;0;1;0;1;étudiant;0870111Y;UN07;0870111Y;231
+391;83;ENSIL;autre;0;16 rue Atlantis;87280;Limoges;0;0;0;1;0;0;mixte;0870111Y;UN08;0870111Y;231
+392;83;Bibliothèque du Campus Universitaire d'Egletons;autre;0;17 Boulevard Jacques Derche;19300;Egletons;0;0;0;1;0;0;mixte;0870111Y;UN09;0870111Y;231
+393;83;Bibliothèque de l'IUT du Limousin - Site de Tulle;autre;0;5 rue du 9 juin 1944;19000;Tulle;0;0;0;1;0;0;mixte;0870111Y;UN10;0870111Y;231
+394;83;ESPE Tulle;autre;0;3, Boulevard du Marquisat;19000;Tulle;0;0;0;0;0;1;mixte;0870111Y;UN11;0870111Y;231
+395;83;Bibliothèque du Campus Universitaire de Guéret;autre;0;1, Avenue Marc Purat;23000;Guéret;0;0;1;0;0;0;mixte;0870111Y;UN12;0870111Y;231
+396;83;ENSIL/ENSCI;autre;0;12 rue Atlantis;87280;LIMOGES;0;0;0;1;0;0;mixte;0870111Y;UN13;0870111Y;231
+397;84;Bibliothèque littéraire Jacques Doucet;autre;0;8 place du Panthéon;75005;Paris;0;0;1;0;0;0;recherche;075_BLJD;UN00;;233
+398;85;Boulogne-sur-Mer;autre;0;Place Henri Heine;62200;Boulogne-sur-Mer;1;1;1;1;0;0;étudiant;0596013R;Un00;0596013R;234
+399;85;Calais;autre;0;190, rue Ferdinand Buisson;62100;Calais;0;0;0;1;1;0;étudiant;0596013R;Un01;0596013R;234
+400;85;Dunkerque;autre;0;55, avenue de l'Université;59140;Dunkerque;1;1;1;1;0;0;étudiant;0596013R;Un02;0596013R;234
+401;85;Direction - Affaires générales;autre;1;55, avenue de l'Université;59140;Dunkerque;1;1;1;1;1;0;mixte;0596013R;UN03;0596013R;234
+402;85;Pôle de Recherche Sciences Humaines et Sociales;associée;0;21 quai de la citadelle;59140;Dunkerque;0;1;1;0;0;0;recherche;0596013R;UN04;0596013R;234
+403;85;Saint-Omer;autre;0;Avenue Descartes;62219;Longuenesse;0;1;0;1;0;0;étudiant;0596013R;UN05;0596013R;234
+404;85;Pôle de Recherche Sciences Humaines et Sociales;associée;0;21-25, rue Saint-Louis;62200;Boulogne sur Mer;1;0;1;0;0;0;recherche;0596013R;UN06;0596013R;234
+405;85;Campus de la Mer;associée;0;Centre Universitaire de Capécure  [RC] Bassin Napoléon  [RC] Quai Masset;62200;Boulogne-sur-Mer;1;1;1;1;0;0;recherche;0596013R;UN07;0596013R;234
+406;86;BU Metz Saulcy;autre;0;Ile du Saulcy;57000;Metz;1;1;1;1;1;0;mixte;0542400R;UN00;0542400R;235
+407;86;BU Metz Bridoux;autre;0;Rue du Général Delestraint;57070;Metz;0;0;0;1;1;0;étudiant;0542400R;UN01;0542400R;235
+408;86;Bibliothèque des Sciences et Techniques;autre;0;Rue du jardin botanique;54600;Villers-Lès-Nancy;0;0;0;1;1;0;mixte;0542400R;Un02;0542400R;235
+409;86;BU Ecoles Ingénieurs Polytech Nancy;autre;0;2 rue Jean Lamour;54500;Vandœuvre-lès-Nancy;0;0;0;1;0;0;mixte;0542400R;UN03;0542400R;235
+410;86;Bibliothèque Américaine;autre;0;34, cours Léopold;54000;Nancy;0;0;1;0;0;1;étudiant;0542400R;UN04;0542400R;235
+411;86;BU Santé;autre;0;9 avenue de la Forêt de Haye;54500;Vandoeuvre-les-Nancy;0;0;0;0;1;0;mixte;0542400R;UN05;0542400R;235
+412;86;Médiathèque du campus Artem;autre;0;88 Rue du Sergent Blandan;54000;Nancy;0;1;0;1;0;1;mixte;0542400R;UN06;0542400R;235
+413;86;BU Lettres, sciences humaines et sociales;autre;0;46 avenue de la Libération;54000;Nancy;0;0;1;0;0;0;mixte;0542400R;UN07;0542400R;235
+414;86;BU Droit et Sciences économiques;autre;0;11, place Carnot;54000;Nancy;1;1;0;0;0;0;mixte;0542400R;UN08;0542400R;235
+415;86;BU Gestion;autre;0;13 rue Michel Ney;54000;Nancy;0;1;0;0;0;0;mixte;0542400R;UN09;0542400R;235
+416;86;BU Ecoles Ingénieurs Brabois;autre;0;2, avenue de la forêt de Haye;54500;Vandoeuvre-les-Nancy;0;0;0;1;0;0;mixte;0542400R;UN10;0542400R;235
+417;86;BU Ecoles Ingénieurs ENSIC;autre;0;1 rue Grandville;54000;Nancy;0;0;0;1;0;0;mixte;0542400R;UN11;0542400R;235
+418;86;BU Ecoles Ingénieurs GM-GSI;autre;0;6, rue Bastien-Lepage;54000;Nancy;0;0;0;1;0;0;mixte;0542400R;UN12;0542400R;235
+419;86;BU Ecoles Ingénieurs ENSTIB;autre;0;27 rue Philippe Séguin;88000;Epinal;0;0;0;1;0;0;mixte;0542400R;UN14;0542400R;235
+420;86;BU ESPE Epinal;autre;0;1 Rue Charles Perrault;88025;Epinal;1;1;0;0;0;1;mixte;0542400R;UN15;0542400R;235
+421;86;BU ESPE Maxeville;autre;0;5 rue Paul Richard;54357;Maxeville;1;1;0;0;0;1;mixte;0542400R;UN16;0542400R;235
+422;86;BU ESPE Montigny;autre;0;16 rue de la Victoire;57950;Montigny les Metz;1;1;0;0;0;1;mixte;0542400R;UN17;0542400R;235
+423;86;BU ESPE Bar le Duc;autre;0;1, Place de l'Ecole Normale;55014;Bar le Duc;1;1;0;0;0;1;mixte;0542400R;UN18;0542400R;235
+424;86;BU ESPE Sarreguemines;autre;0;Place Jeanne d'Arc;57200;Sarreguemines;1;1;0;0;0;1;mixte;0542400R;UN19;0542400R;235
+425;86;BU IUT Charlemagne;autre;0;2 ter boulevard Charlemagne;54000;Nancy;1;1;1;1;0;0;étudiant;0542400R;UN20;0542400R;235
+426;86;BU IUT Longwy;autre;0;186 rue de Lorraine;54400;Cosnes et Romain;1;1;0;1;0;0;étudiant;0542400R;UN21;0542400R;235
+427;86;BU IUT Saint Dié;autre;0;11, rue de l'Université;88100;Saint-Dié-des-Vosges;1;1;1;1;0;0;étudiant;0542400R;UN22;0542400R;235
+428;86;BU IUT Epinal;autre;0;7, rue des Fusillés de la Résistance;88000;Epinal;1;1;1;1;0;0;étudiant;0542400R;UN23;0542400R;235
+429;86;BU IUT Thionville;autre;0;Impasse Alfred Kastler;57970;Yutz;0;1;0;1;0;0;étudiant;0542400R;UN24;0542400R;235
+430;86;Bibliothèque fictive;autre;1;;     ;;1;1;1;1;1;1;mixte;0542400R;UN25;0542400R;235
+431;86;BU Ecoles Ingénieurs ENIM;autre;0;1 route d'Ars Laquenexy;57058;Metz;0;0;0;1;0;0;mixte;0542400R;UN26;0542400R;235
+432;87;BU santé Lyon-Sud;autre;0;Centre Hospitalier Lyon-Sud [RC] Faculté de médecine [RC] Lyon-Sud [RC] Chemin du Petit Revoyet;69600;OULLINS;0;0;0;0;1;1;mixte;0690246T;Un00;0690246T;236
+433;87;BU santé Rockefeller;autre;0;8 avenue Rockefeller;69008;LYON;0;0;0;0;1;1;mixte;0690246T;Un01;0690246T;236
+434;87;BU sciences La Doua;autre;0;Domaine de la Doua [RC] 20, avenue Gaston Berger;69100;VILLEURBANNE;1;1;1;1;1;1;mixte;0690246T;Un02;0690246T;236
+435;87;Centre de documentation - Département pharmaceutique santé p;associée;0;ISPB Faculté de pharmacie [RC] Domaine Rockefeller [RC] 8, avenue Rockefeller;69008;LYON;0;0;0;0;1;0;mixte;0690246T;UN04;0690246T;236
+436;87;BU Education Croix-Rousse;autre;0;ESPE [RC] 5 RUE ANSELME;69004;LYON;0;0;1;0;0;1;mixte;0690246T;UN05;0690246T;236
+437;87;BU sciences Gerland;autre;0;Domaine de Gerland [RC] 50 avenue Tony Garnier;69007;LYON;0;1;0;1;0;0;mixte;0690246T;UN06;0690246T;236
+438;87;BU santé Odontologie;autre;0;Domaine de la Buire [RC] 11, rue Guillaume Paradin;69008;LYON;0;0;0;0;1;0;mixte;0690246T;UN07;0690246T;236
+439;87;BU sciences Mathématiques;autre;0;Domaine de la Doua [RC] Bâtiment Jean Braconnier [RC] 21, avenue Claude Bernard [RC] BP 72215;69100;VILLEURBANNE;0;0;0;1;0;0;recherche;0690246T;UN09;0690246T;236
+440;87;BU Education Bourg-en-Bresse;autre;0;ESPE [RC] 40 RUE GENERAL DELESTRAINT;01000;BOURG-EN-BRESSE;0;0;1;0;0;1;mixte;0690246T;UN11;0690246T;236
+441;87;BU Education Saint Etienne;autre;0;90 rue de la Richelandière;42000;SAINT-ETIENNE;0;0;1;0;0;1;mixte;0690246T;UN12;0690246T;236
+442;87;Bibliothèque IUT - Bourg en Bresse;associée;0;71 rue Peter Fink;01000;BOURG-EN-BRESSE;1;1;0;1;1;1;étudiant;0690246T;UN15;0690246T;236
+443;87;Bibliothèque IUT - DOUA Villeurbanne;associée;0;Bâtiment 1 - 1 rue de la technologie;69100;VILLEURBANNE;1;1;1;1;1;1;mixte;0690246T;UN16;0690246T;236
+444;87;Bibliothèque IUT - Gratte-ciel Villeurbanne;associée;0;17 Rue de France;69100;VILLEURBANNE;1;1;0;1;0;1;étudiant;0690246T;UN17;0690246T;236
+445;87;IPNL-Doc;associée;0;Bâtiment Paul Dirac - 4 rue Enrico Fermi;69100;VILLEURBANNE;0;0;0;1;0;0;mixte;0690246T;UN18;0690246T;236
+446;87;Bibliothèque-cartothèque Sciences de la Terre;associée;0;bâtiment Géode [RC] 2 rue Dubois;69100;VILLEURBANNE;0;0;0;1;0;0;mixte;0690246T;UN19;0690246T;236
+447;88;Affaires générales;autre;1;;     ;;1;1;1;0;0;0;mixte;0693782L;UN00;0693782L;237
+448;88;Cartothèque;associée;0;bât Europe, 5 avenue P. Mendès France;69500;BRON;0;0;1;0;0;0;mixte;0693782L;UN01;0693782L;237
+449;88;CFMI;associée;0;95, boulevard Pinel;69500;BRON;0;0;1;0;0;1;étudiant;0693782L;UN03;0693782L;237
+450;88;Bibliothèque Universitaire Chevreul;autre;0;10 rue Chevreul;69007;LYON;1;1;1;0;0;0;mixte;0693782L;UN04;0693782L;237
+451;88;Bibliothèque Universitaire Bron;autre;0;5, avenue Pierre Mendès France;69500;BRON;1;1;1;0;0;0;mixte;0693782L;Un06;0693782L;237
+452;88;SCUIO-IP;associée;0;5 avenue P.Mendes-France;69500;Bron;0;0;0;0;0;1;mixte;0693782L;UN07;0693782L;237
+453;88;Laboratoire Aménagement et économie des transports (LAET);associée;0;14 avenue Berthelot;69007;LYON;0;1;1;0;0;1;mixte;0693782L;UN08;0693782L;237
+454;88;IEB;associée;0;5 avenue Pierre Mendès-France;69500;BRON;0;0;1;0;0;1;mixte;0693782L;UN11;0693782L;237
+455;88;Centre Max Weber;associée;0;Institut des Sciences de l'Homme [RC] 14 avenue Berthelot;69007;	Lyon;0;0;1;0;0;0;recherche;0693782L;UN13;0693782L;237
+456;88;CIHAM UMR 5648;associée;0;ISH 14 Av. Berthelot;69007;LYON;0;0;1;0;0;0;mixte;0693782L;UN14;0693782L;237
+457;88;GATE;associée;0;GATE Lyon St Etienne (CNRS UMR 5824) 93 chemin des Mouilles;69130;ECULLY;0;1;0;0;0;0;mixte;0693782L;UN15;0693782L;237
+458;88;MOM (Maison de l'Orient Méditerranéen);associée;0;5 rue Raulin;69007;LYON;0;0;1;0;0;1;mixte;0693782L;UN16;0693782L;237
+459;88;IUT;associée;0;160 Boulevard de l'Université;69500;BRON;0;1;1;0;0;1;mixte;0693782L;UN19;0693782L;237
+460;89;Droit - Philosophie;autre;0;15 Quai Claude Bernard;69007;LYON;1;0;1;0;0;1;mixte;0693783M;Un00;0693783M;238
+461;89;BU Lyon 3;autre;1;;69000;Lyon;0;0;0;0;0;0;;0693783M;UN01;0693783M;238
+462;89;Salle de lecture de la MILC;autre;0;35 rue Raulin;69007;Lyon;0;0;1;0;0;0;recherche;0693783M;UN02;0693783M;238
+463;89;Manufacture;autre;0;1C avenue des Frères Lumière;69355;LYON;1;1;1;0;0;0;mixte;0693783M;Un05;0693783M;238
+464;90;SCD Doc'INSA - Bibliothèque Marie Curie;autre;0;33 Avenue Jean Capelle;69100;Villeurbanne;0;0;0;1;0;0;mixte;0690192J;UN01;;239
+465;91;Bibliothèque - Fondation Maison des Sciences de l'Homme;autre;0;54 Boulevard Raspail;75006;Paris;1;0;1;0;0;0;recherche;0753655R;Un00;;242
+466;92;Bibliothèque fictive;autre;1;;     ;;0;0;0;0;0;0;;0772522Y;UN00;0772522Y;243
+467;92;Georges Perec;autre;0;RUE DES FRERES LUMIERE;77420;CHAMPS- SUR- MARNE;1;1;1;1;0;1;mixte;0772522Y;UN01;0772522Y;243
+468;92;Arts et Multimédia (A David-Néel);autre;0;2 allée du Promontoire;93160;Noisy-le-Grand;0;0;1;0;0;1;étudiant;0772522Y;UN02;0772522Y;243
+469;92;Copernic Recherche;autre;0;5 bd Descartes;77420;Champs-sur-Marne;0;0;0;1;0;1;recherche;0772522Y;UN03;0772522Y;243
+470;92;IUT Site de Champs;autre;0;2 rue Albert Einstein;77420;Champs-sur-Marne;0;0;0;0;0;1;étudiant;0772522Y;UN04;0772522Y;243
+471;92;IUT Site de Meaux;autre;0;17 rue Jablinot;77100;Meaux;1;1;1;1;0;1;étudiant;0772522Y;UN05;0772522Y;243
+472;92;Tourisme Management;autre;0;6-8 cours du Danube;77700;SERRIS;1;1;1;1;0;1;mixte;0772522Y;UN06;0772522Y;243
+473;93;Bibliothèque MAZARINE;autre;0;23 quai de Conti;75006;PARIS;1;0;1;1;0;1;mixte;0754945T;Un00;0754945T;245
+474;94;Richter;autre;0;60 rue des Etats Généraux;34000;Montpellier;1;1;0;0;0;0;mixte;0340834X;Un00;0340834X;247
+475;94;Lettres Montpellier;autre;0;Université Paul-Valéry Montpellier route de Mende;34000;Montpellier;0;0;1;0;0;0;mixte;0340834X;Un01;0340834X;247
+476;94;Médecine Nîmes;autre;0;186 chemin du Carreau de Lanes;30900;Nîmes;0;0;0;0;1;0;mixte;0340834X;Un02;0340834X;247
+477;94;Odontologie;autre;0;545 avenue du professeur Jean-Louis Viala;34193;Montpellier;0;0;0;0;1;0;mixte;0340834X;UN04;0340834X;247
+478;94;Pharmacie-PACES;autre;0;15 av, Charles Flahault;34000;Montpellier;0;0;0;0;1;0;mixte;0340834X;UN05;0340834X;247
+479;94;Sciences;autre;0;Place Eugène Bataillon;34000;Montpellier;0;0;0;1;0;0;mixte;0340834X;Un06;0340834X;247
+480;94;Médecine UPM;autre;0;641 avenue du doyen Gaston Giraud;34000;Montpellier;0;0;0;0;1;0;mixte;0340834X;Un07;0340834X;247
+481;94;Services Centraux;autre;1;60 rue des Etats Généraux;34000;Montpellier;0;0;0;0;0;1;;0340834X;UN08;0340834X;247
+482;94;STAPS;autre;0;700 Avenue du Pic Saint Loup;34090;Montpellier;0;0;0;1;0;0;mixte;0340834X;UN09;0340834X;247
+483;94;IUT Montpellier et antenne Sète;autre;0;99, Avenue d'Occitanie;34000;Montpellier;0;0;0;1;0;0;étudiant;0340834X;UN10;0340834X;247
+484;94;IUT Nîmes;autre;0;8 rue Jules Raimu;30000;Nîmes;0;0;0;1;0;0;étudiant;0340834X;UN11;0340834X;247
+485;94;Lettres Béziers;autre;0;Site universitaire Du Guesclin         Béziers;34506;Béziers;0;0;0;0;0;1;étudiant;0340834X;UN12;0340834X;247
+486;94;IUT Béziers;autre;0;3, Place du 14 juillet;34500;Béziers;0;0;0;1;0;0;étudiant;0340834X;UN13;0340834X;247
+487;94;Lettres Saint-Charles;autre;0;rue Henri Serre;34000;Montpellier;0;0;1;0;0;0;recherche;0340834X;UN14;0340834X;247
+488;94;Bibliothèque UFR Droit-sciences politiques;associée;0;39, rue de l'Université;34000;Montpellier;1;0;0;0;0;0;étudiant;0340834X;UN15;0340834X;247
+489;94;UM-FDE-11 Carcassonne;associée;0;122 avenue du Général Leclerc;11000;Carcassonne;0;0;0;0;0;1;mixte;0340834X;UN16;0340834X;247
+490;94;UM-FDE-48 Mende;associée;0;12 avenue du Père Coudrin;48000;MENDE;0;0;0;0;0;1;mixte;0340834X;UN17;0340834X;247
+491;94;UM-FDE-66 Perpignan;associée;0;3 avenue Alfred Sauvy;66000;Perpignan;0;0;0;0;0;1;mixte;0340834X;UN18;0340834X;247
+492;94;UM-FDE-34 Montpellier;associée;0;2 place Marcel Godechot;34000;Montpellier;0;0;0;0;0;1;mixte;0340834X;UN19;0340834X;247
+493;94;UM-FDE-30 Nîmes;associée;0;62 rue Vincent Faïta;30000;Nîmes;0;0;0;0;0;1;mixte;0340834X;UN20;0340834X;247
+494;94;UM-FDE-Montpellier Cedhre;associée;0;2 place Marcel Godechot;34000;Montpellier;0;0;0;0;0;1;recherche;0340834X;UN21;0340834X;247
+495;94;UPV-Bibliothèque Danny Serrato AES;associée;0;Université Paul-Valéry, route de mende;34000;Montpellier;0;1;0;0;0;0;étudiant;0340834X;UN22;0340834X;247
+496;94;UPV-Bibliothèque d'allemand;associée;0;Université Paul Valéry, route de Mende;34000;Montpellier;0;0;1;0;0;0;étudiant;0340834X;UN23;0340834X;247
+497;94;UPV-Bibliothèque d'arabe;associée;0;Université Paul Valéry, route de Mende;34000;Montpellier;0;0;1;0;0;0;étudiant;0340834X;UN24;0340834X;247
+498;94;UPV-bibliothèque biologie, écologie, environnement;associée;0;Université Paul Valéry, route de Mende;34000;Montpellier;0;0;0;1;0;0;mixte;0340834X;UN25;0340834X;247
+499;94;UPV-bibliothèque de l'ITIC;associée;0;Université Paul Valéry, route de Mende;34000;Montpellier;0;0;1;0;0;0;étudiant;0340834X;UN26;0340834X;247
+500;94;UPV-bibliothèque des arts;associée;0;Université Paul Valéry, route de Mende;34000;Montpellier;0;0;1;0;0;0;étudiant;0340834X;UN27;0340834X;247
+501;94;UPV-bibliothèque d'occitan;associée;0;Université Paul Valéry, route de Mende;34000;Montpellier;0;0;1;0;0;0;étudiant;0340834X;UN28;0340834X;247
+502;94;UPV-bibliothèque François Daumas égyptologie;associée;0;Université Paul Valéry, route de Mende;34000;Montpellier;0;0;1;0;0;0;mixte;0340834X;UN29;0340834X;247
+503;94;UPV-bibliothèque hispanique;associée;0;Université Paul Valéry, route de Mende;34000;Montpellier;0;0;1;0;0;0;étudiant;0340834X;UN30;0340834X;247
+504;94;UPV-CDPS IEFE;associée;0;Université Paul Valéry, route de Mende;34000;Montpellier;0;0;1;0;0;0;étudiant;0340834X;UN31;0340834X;247
+505;94;UPV-centre de documentation langue et littérature italiennes;associée;0;Université Paul Valéry, route de Mende;34000;Montpellier;0;0;1;0;0;0;étudiant;0340834X;UN32;0340834X;247
+506;94;UPV-bibliothèque Louis Roussel grec moderne;associée;0;Université Paul Valéry, route de Mende;34000;Montpellier;0;0;1;0;0;0;étudiant;0340834X;UN33;0340834X;247
+507;94;UPV-CDPS Lettres-philosophie;associée;0;Université Paul Valéry, route de Mende;34000;Montpellier;0;0;1;0;0;0;étudiant;0340834X;UN34;0340834X;247
+508;94;UPV-bibliothèque de portugais;associée;0;Université Paul Valéry, route de Mende;34000;Montpellier;0;0;1;0;0;0;étudiant;0340834X;UN35;0340834X;247
+509;94;UM-bibliothèque du LIRMM;associée;0;161, rue Ada;34000;Montpellier;0;0;0;1;0;0;mixte;0340834X;UN36;0340834X;247
+510;94;UPV-CDPS Castets;associée;0;Université Paul Valéry, route de Mende;34000;Montpellier;0;0;1;0;0;0;étudiant;0340834X;UN37;0340834X;247
+511;94;UPV-CDPS géographie;associée;0;Université Paul Valéry, route de Mende;34000;Montpellier;0;0;1;0;0;0;étudiant;0340834X;UN38;0340834X;247
+512;94;UPV-CDPS histoire;associée;0;Université Paul Valéry, route de Mende;34000;Montpellier;0;0;1;0;0;0;étudiant;0340834X;UN39;0340834X;247
+513;94;UM-bibliothèque du LMGC;associée;0;860 Rue de St - Priest;34095;Montpellier;0;0;0;1;0;0;recherche;0340834X;UN40;0340834X;247
+514;94;UPV-CDPS lettres classiques;associée;0;Université Paul Valéry, route de Mende;34000;Montpellier;0;0;1;0;0;0;étudiant;0340834X;UN41;0340834X;247
+515;94;UPV-CDPS sujet et sociétés - psycho;associée;0;Université Paul Valéry, route de Mende;34000;Montpellier;0;0;1;0;0;0;étudiant;0340834X;UN42;0340834X;247
+516;94;UPV-Bibliothèque de chinois;associée;0;Université Paul Valéry, route de Mende;34000;Montpellier;0;0;1;0;0;0;étudiant;0340834X;UN43;0340834X;247
+517;94;UPV-Bibliothèque slave;associée;0;Université Paul Valéry, route de Mende;34000;Montpellier;0;0;1;0;0;0;étudiant;0340834X;UN44;0340834X;247
+518;94;UPV-bibliothèque d'hébreu;associée;0;Université Paul Valéry, route de Mende;34000;Montpellier;0;0;1;0;0;0;étudiant;0340834X;UN45;0340834X;247
+519;94;UPV-bibliothèque Charles Dugas - archéologie;associée;0;Université Paul Valéry, route de Mende;34000;Montpellier;0;0;1;0;0;0;étudiant;0340834X;UN46;0340834X;247
+520;94;UPV-bibliothèque d'archéologie de Lattes;associée;0;390 avenue de Pérols;34970;Lattes;0;0;1;0;0;0;mixte;0340834X;UN47;0340834X;247
+521;94;UPV-bibliothèque du Dipralang;associée;0;Université Paul-Valéry, route de Mende;34000;Montpellier;0;0;1;0;0;0;recherche;0340834X;UN48;0340834X;247
+522;94;Bibliothèque universitaire historique de médecine;autre;0;2 rue Ecole de Médecine;34000;Montpellier;0;0;0;0;1;1;mixte;0340834X;UN49;0340834X;247
+523;94;UM-bibliothèque de l'ISEM;associée;0;place Eugène Bataillon;34095;Montpellier;0;0;0;1;0;0;mixte;0340834X;UN50;0340834X;247
+524;94;UM-bibliothèque Géosciences;associée;0;place Eugène Bataillon;34095;Montpellier;0;0;0;1;0;0;recherche;0340834X;UN51;0340834X;247
+525;94;Direction SCD UM;autre;1;Institut de Biologie;34000;Montpellier;1;1;1;1;1;0;mixte;0340834X;UN52;0340834X;247
+526;94;UM-bibliothèque AMAP;associée;0;boulevard de la Lironde;34000;Montpellier;0;0;0;1;0;0;recherche;0340834X;UN53;0340834X;247
+527;95;Bibliothèque de Colmar;autre;0;34 Rue du Grillenbreit;68000;Colmar;1;1;0;0;0;0;mixte;0680115F;Un01;0680115F;250
+528;95;Bibliothèque des Collines (IUT);autre;0;61 rue Albert Camus;68100;Mulhouse;0;1;0;0;0;0;mixte;0680115F;UN03;0680115F;250
+529;95;Bibliothèque de l'Illberg;autre;0;8, rue des Frères Lumière;68100;Mulhouse;0;0;1;1;0;0;mixte;0680115F;UN04;0680115F;250
+530;95;Bibliothèque de la Fonderie;autre;0;16, rue de la Fonderie;68200;Mulhouse;1;1;0;0;0;0;mixte;0680115F;UN06;0680115F;250
+531;97;Bibliothèque centrale du Muséum;autre;0;38 rue Geoffroy Saint-Hilaire;75005;Paris;0;0;1;1;0;0;mixte;0753494R;UN00;;252
+532;97;Bibliothèque spécialisée Ichtyologie;autre;0;43 rue Cuvier;75005;Paris;0;0;0;1;0;0;recherche;0753494R;UN02;;252
+533;97;Bibliothèque spécialisée Crustacés;autre;0;61 rue Buffon;75005;Paris;0;0;0;1;0;0;recherche;0753494R;UN03;;252
+534;97;Bibliothèque spécialisée Musée de l'Homme;autre;0;17 Place du Trocadéro;75016;Paris;0;0;1;1;0;0;mixte;0753494R;UN04;;252
+535;97;Bibliothèque spécialisée des Jardins;autre;0;43 rue Buffon;75005;Paris;0;0;1;1;0;0;mixte;0753494R;UN05;;252
+536;97;Bibliothèque spécialisée Paléontologie;autre;0;8 rue Buffon;75005;Paris;0;0;0;1;0;0;recherche;0753494R;UN06;;252
+537;97;Bibliothèque spécialisée géologie;autre;0;45 rue Buffon;75005;Paris;0;0;0;1;0;0;recherche;0753494R;UN07;;252
+538;97;Bibliothèque spécialisée malacologie;autre;0;55 rue Buffon;75005;Paris;0;0;0;1;0;0;recherche;0753494R;UN08;;252
+539;97;Bibliothèque spécialisée biologie parasitaire;autre;0;61 rue Buffon;75005;Paris;0;0;0;1;1;0;recherche;0753494R;UN09;;252
+540;97;Bibliothèque anatomie comparée, mammifères et oiseaux;autre;0;55 rue Buffon;75005;Paris;0;0;0;1;0;0;recherche;0753494R;UN11;;252
+541;97;Bibliothèque spécialisée botanique;autre;0;16 rue Buffon;75005;Paris;0;0;0;1;0;0;recherche;0753494R;UN12;;252
+542;97;Bibliothèque spécialisée entomologie;autre;0;45 rue Buffon;75005;Paris;0;0;0;1;0;0;recherche;0753494R;UN13;;252
+543;97;Bibliothèque spécialisée anthropologie maritime;autre;0;43 rue Cuvier;75005;Paris;0;0;1;0;0;0;mixte;0753494R;UN14;;252
+544;97;Bibliothèque spécialisée écologie;autre;0;4 avenue du Petit Château;91800;Brunoy;0;0;0;1;0;0;recherche;0753494R;UN15;;252
+545;97;Bibliothèque spécialisée reptiles et amphibiens;autre;0;25 rue Cuvier;75005;Paris;0;0;0;1;0;0;recherche;0753494R;UN16;;252
+546;98;BU La Roche-sur-Yon;autre;0;221, rue Hubert-Cailler;85000;La Roche-sur-Yon;1;1;1;1;0;1;mixte;0440121T;Un00;0440121T;257
+547;98;BA08 CDMO;associée;0;Chemin de la Censive-du-Tertre;44330;Nantes;1;0;0;0;0;0;recherche;0440121T;UN01;0440121T;257
+548;98;BU Saint-Nazaire;autre;0;Campus de Gavy [RC] Boulevard de l'Université;44600;Saint-Nazaire;0;0;0;1;0;0;mixte;0440121T;Un02;0440121T;257
+549;98;BU Santé;autre;0;9, rue Bias;44200;Nantes;0;0;0;0;1;0;mixte;0440121T;Un03;0440121T;257
+550;98;BU Sciences, technologie et STAPS - site Lombarderie;autre;0;2, rue de la Houssinière;44300;Nantes;0;0;0;1;0;0;mixte;0440121T;Un04;0440121T;257
+551;98;BU Lettres, sciences humaines et sociales;autre;0;Chemin de la Censive du Tertre;44300;Nantes;0;0;1;0;0;0;mixte;0440121T;UN05;0440121T;257
+552;98;BU Droit, économie, gestion;autre;0;Chemin de la Censive-du-Tertre;44322;Nantes;1;1;0;0;0;0;mixte;0440121T;UN06;0440121T;257
+553;98;BU Sciences, technologie et STAPS - site Chantrerie;autre;0;Rue Christian-Pauc;44300;Nantes;0;0;0;1;0;1;mixte;0440121T;UN07;0440121T;257
+554;98;BA01 Psychologie;associée;0;Campus Tertre, Bâtiment Nouveau Tertre, Faculté de Psychologie,  salles 130 et 131;44300;NANTES;0;0;1;0;0;0;mixte;0440121T;UN08;0440121T;257
+555;98;BA04 Sociologie F.-Mollé;associée;0;Chemin de la Censive du Tertre;44300;Nantes;0;0;1;0;0;0;mixte;0440121T;UN09;0440121T;257
+556;98;BA02 Lettres anciennes et Philosophie;associée;0;Bâtiment Censive, Chemin de la Censive du Tertre;44330;Nantes;0;0;1;0;0;0;mixte;0440121T;UN10;0440121T;257
+557;98;BA03 CRHIA;associée;0;Chemin de la Censive du Tertre;44330;Nantes;0;0;1;0;0;0;mixte;0440121T;UN12;0440121T;257
+558;98;BA05 CIDRe-CREN;associée;0;Bâtiment Censive, chemin de la Censive-du-Tertre;44330;Nantes;0;0;1;0;0;0;mixte;0440121T;UN13;0440121T;257
+559;98;BA06 IGARUN Géothèque André-Vigarié;associée;0;Chemin de la Censive-du-Tertre;44330;Nantes;0;0;1;0;0;0;mixte;0440121T;UN15;0440121T;257
+560;98;BA07 Service universitaire des langues (SUL);associée;0;Chemin de la censive du tertre Bât Tertre - 3ème étage;44312;Nantes;0;0;1;0;0;0;mixte;0440121T;UN16;0440121T;257
+561;98;BA09 DCS;associée;0;Bâtiment UFR Droit, salle 216 [RC] Chemin de la Censive-du-Tertre;44330;Nantes;1;0;0;0;0;0;recherche;0440121T;UN17;0440121T;257
+562;98;BA10 IEMN-IAE;associée;0;Chemin de la Censive-du-Tertre, bât. Petit-Port;44330;Nantes;0;1;0;0;0;0;mixte;0440121T;UN18;0440121T;257
+563;98;BA11 Institut de recherche en droit privé (IRDP);associée;0;Campus Tertre, Faculté de Droit, bâtiment B, salle 227 [RC] Chemin de la Censive-du-Tertre";44330;Nantes;1;0;0;0;0;0;recherche;0440121T;UN19;0440121T;257
+564;98;BA12 Centre Fançois-Viète (CFV);associée;0;UFR Sciences et Techniques [RC] 2, rue de la Houssinière;44300;Nantes;0;0;1;1;0;0;mixte;0440121T;UN20;0440121T;257
+565;98;BA13 Centre régional de documentation mathématique (CRDM);associée;0;UFR Sciences et techniques [RC] 2, rue de la Houssinière;44300;Nantes;0;0;0;1;0;0;recherche;0440121T;UN21;0440121T;257
+566;98;BA14 Documentation d'Odontologie;associée;0;UFR d'Odontologie [RC] 1, place Alexis-Ricordeau;44000;Nantes;0;0;0;0;1;0;mixte;0440121T;UN22;0440121T;257
+567;98;BA15a Centre de ressources documentaires de l'ESPE-Nantes;associée;0;4, chemin Launay-Violette;44322;Nantes;0;0;1;0;0;0;mixte;0440121T;UN23;0440121T;257
+568;98;BA15b Centre de ressources documentaires de l’ESPE – Angers;associée;0;7, rue Dacier;49000;Angers;0;1;1;0;0;0;mixte;0440121T;UN24;0440121T;257
+569;98;BA15c Centre de ressources documentaires de l’ESPE - Laval;associée;0;19, rue de Clermont;53014;Laval;0;0;1;0;0;0;mixte;0440121T;UN25;0440121T;257
+570;98;BA15d Centre de ressources documentaires de l’ESPE – Le Mans;associée;0;11, boulevard Pythagore;72000;Le Mans;0;0;1;0;0;0;mixte;0440121T;UN26;0440121T;257
+571;98;Direction-Administration;autre;1;Chemin de la Censive du Tertre;44330;Nantes;0;0;0;0;0;0;mixte;0440121T;UN27;0440121T;257
+572;98;BA16a IUT de Nantes - site de Nantes-Joffre;associée;0;3, rue du Maréchal-Joffre;44300;Nantes;1;1;1;1;0;0;mixte;0440121T;UN28;0440121T;257
+573;98;BA16b IUT de Nantes - site de Carquefou (Fleuriaye);associée;0;2, avenue du Professeur-Jean-Rouxel;44475;Carquefou;0;0;0;1;0;0;mixte;0440121T;UN29;0440121T;257
+574;98;BA17 IUT de Saint-Nazaire;associée;0;58, rue Michel-Ange;44600;Saint-Nazaire;0;0;0;1;0;1;étudiant;0440121T;UN30;0440121T;257
+575;99;BU Droit;autre;0;Université Nice Sophia Antipolis [RC] Campus Trotabas [RC] 28 avenue Émile Henriot;06000;Nice;1;0;0;0;0;0;mixte;0060634G;Un00;;260
+576;99;BU STAPS;autre;0;Université Nice Sophia Antipolis [RC] Campus STAPS [RC] Plaine du Var [RC] 260, route de Grenoble;06205;Nice;0;0;0;1;0;0;mixte;0060634G;UN01;;260
+577;99;BU Médecine;autre;0;Université Nice Sophia Antipolis [RC] Campus Pasteur [RC]  [RC] 28 avenue Valombrose;06107;Nice;0;0;0;0;1;0;mixte;0060634G;UN02;;260
+578;99;BU Sciences;autre;0;Université Nice Sophia Antipolis [RC] 28 avenue Valrose;06101;Nice Cedex 2;0;0;0;1;1;0;mixte;0060634G;UN03;;260
+579;99;BU Saint Jean d'Angély;autre;0;Université Nice Sophia Antipolis [RC] 24 avenue François Mitterrand;06357;Nice;0;1;1;0;1;0;mixte;0060634G;Un04;;260
+580;99;BU Lettres, Arts, Sciences Humaines - Henri Bosco;autre;0;Université Nice Sophia Antipolis [RC] Campus Carlone [RC]  [RC] 100, bd. Edouard-Herriot;06200;Nice;0;0;1;0;0;0;mixte;0060634G;UN05;;260
+581;99;BU Médecine - Antenne de l'Archet;autre;0;Centre Hospitalier Universitaire (CHU) [RC] Bâtiment Archimède [RC] 151 route Saint Antoine de Ginestière;06204;Nice;0;0;0;0;1;0;mixte;0060634G;UN06;;260
+582;99;Learning Centre Sophia Tech;autre;0;Campus Sophia Tech [RC] Université Nice Sophia Antipolis [RC] Bât. Forum [RC] Niveau - 2 [RC]  [RC] 930 Route des Colles;06903;Sophia-Antipolis;0;0;0;1;0;0;mixte;0060634G;UN07;;260
+583;99;SIDOC / DAG;autre;1;Service Commun de la Documentation - Université Nice Sophia Antipolis [RC]  [RC] 28 avenue Valrose;06101;Nice Cedex 2;0;0;0;0;0;1;mixte;0060634G;UN08;;260
+584;99;Bibliothèque de l'IUT Nice Côte d'Azur site de Fabron;associée;0;41 Boulevard Napoléon III;06200;NICE;1;1;1;1;0;0;mixte;0060634G;UN09;;260
+585;99;Bibliothèque de l'IUT Nice Côte d'Azur site de Cannes;associée;0;54 rue de Cannes;06150;CANNES LA BOCCA;1;1;1;1;0;0;mixte;0060634G;UN10;;260
+586;99;Bibliothèque de l'IUT Nice Côte d'Azur site de Menton;associée;0;58, chemin du Collège;06500;Menton;1;1;1;1;0;1;mixte;0060634G;UN11;;260
+587;99;Centre de Ressources Documentaires ESPE Académie de Nice si;associée;0;102 Avenue Philippe Gilet;83330;DRAGUIGNAN;0;0;0;0;0;1;mixte;0060634G;UN12;;260
+588;99;Médiathèque ESPE - Site George V;associée;0;89 avenue George V;06000;NICE;0;1;1;1;0;0;mixte;0060634G;UN13;;260
+589;99;Centre de Ressources Documentaires  ESPE Académie de Nice si;associée;0;59 allée Pratali;83500;LA SEYNE SUR MER;0;0;1;1;0;1;mixte;0060634G;UN14;;260
+590;99;Médiathèque ESPE - Site S. Liégeard;associée;0;43 av. S. Liégeard;06100;NICE;0;0;1;1;0;1;mixte;0060634G;UN15;;260
+591;99;Bibliothèque du LJAD;associée;0;Labo. J-A Dieudonné - UMR 7351 [RC] Université de Nice - Sophia Antipolis [RC] Parc Valrose;06100;NICE;0;0;0;1;0;0;mixte;0060634G;UN16;;260
+592;99;Bibliothèque du GREDEG;associée;0;250, Rue Albert Einstein - Bt 2;06560;VALBONNE;1;1;1;0;0;0;mixte;0060634G;UN17;;260
+593;99;Co-learning Montebello;autre;0;Resto U Montebello - 1er étage [RC] 96 avenue de Valrose;06100;Nice;0;0;0;0;0;0;étudiant;0060634G;UN18;;260
+594;100;SCD de l'Université de Nîmes Fictive;autre;1;Rue du docteur Georges Salan;30021;NÎMES;1;1;1;1;0;1;mixte;0301687W;UN00;;262
+595;100;SCD de L'Université de Nîmes-Site Vauban;autre;0;Rue du Docteur Georges Salan;30021;NÎMES;1;1;1;1;0;1;mixte;0301687W;UN01;;262
+596;100;SCD de L'Université de Nîmes-Site Hoche;autre;0;1 Place du président Doumergue;30021;NÎMES;0;0;1;0;0;1;mixte;0301687W;UN02;;262
+597;101;Bibliothèque Universitaire centrale;autre;0;Campus de Nouville [RC] Rue James Cook;98851;Nouméa Cedex;1;1;1;1;1;1;mixte;9830606S;UN00;9830606S;263
+598;101;Bibliothèque ESPE Nouville;autre;0;Ecole Supérieure du Professorat et de l'Education [RC] Campus de Nouville;98851;Nouméa Cedex;0;0;1;1;0;1;mixte;9830606S;UN01;9830606S;263
+599;101;Médiathèque Universitaire - Antenne de Wallis et Futuna;autre;0;Mata Utu;98860;UVEA WALLIS;0;0;0;0;0;1;mixte;9830606S;UN02;9830606S;263
+600;102;Bibliothèque;autre;0;;     ;;0;0;0;0;0;0;;0753496T;UN00;;265
+601;102;Section de Meudon;autre;0;5 place Jules Janssen;92190;Meudon;0;0;0;1;0;0;recherche;0753496T;UN01;;265
+602;102;Bibliothèque Paris;autre;0;77 avenue Denfert-Rochereau;75014;Paris;0;0;0;1;0;0;recherche;0753496T;UN02;;265
+603;102;Bibliothèque fictive;autre;1;61 avenue de l'Observatoire;75014;Paris;0;0;1;1;0;0;recherche;0753496T;UN03;;265
+604;102;Bibliothèque de l'IMCCE;associée;0;77 avenue Denfert Rochereau, Bâtiment A, 2 e étage;75014;Paris;0;0;0;1;0;0;recherche;0753496T;UN04;;265
+605;103;Centre de documentation;autre;0;;;;0;0;0;0;0;0;;0922641W;UN00;;267
+606;104;B.U. Bourges;autre;0;72 rue de Turly;18000;Bourges;1;1;0;1;0;0;mixte;0450744P;UN01;0450744P;269
+607;104;IUT Chartres;associée;0;1 place Roger Joly;28000;Chartres;1;1;0;1;0;1;étudiant;0450744P;UN02;0450744P;269
+608;104;B.U. Lettres, Langues et Sciences humaines;autre;0;6 rue de Tours;45072;Orléans;0;0;1;0;0;0;mixte;0450744P;UN03;0450744P;269
+609;104;B.U. Sciences, Technologies, STAPS;autre;0;9 rue de Saint Amand;45072;Orléans;0;0;1;1;1;0;mixte;0450744P;UN04;0450744P;269
+610;104;B.U. Droit, Economie, Gestion;autre;0;7 rue de Blois;45072;Orleans;1;1;1;0;0;0;mixte;0450744P;UN05;0450744P;269
+611;104;IUT Indre Châteauroux;associée;0;2 avenue François Mitterrand;36000;Châteauroux;0;1;0;0;0;1;mixte;0450744P;UN06;0450744P;269
+612;104;IUT Indre Issoudun;associée;0;5 rue Georges Brassens;36100;ISSOUDUN;0;1;0;0;0;0;mixte;0450744P;UN07;0450744P;269
+613;104;Centre d'Etudes Supérieures Châteauroux;associée;0;90 avenue François Mitterrand;36000;Châteauroux;1;1;1;0;0;0;étudiant;0450744P;UN08;0450744P;269
+614;104;Bibliothèque de l'antenne du Collegium sciences et technique;associée;0;21 rue de Loigny la Bataille;28000;Chartres;0;0;0;1;0;1;étudiant;0450744P;UN09;0450744P;269
+615;104;Bibliothèque Alciat;associée;0;Bibliothèque André Alciat [RC] Faculté de Droit [RC] Boulevard Lahitolle;18000;BOURGES;1;1;0;0;0;0;mixte;0450744P;UN10;0450744P;269
+616;104;Espé CRD Blois;associée;0;9 avenue Paul Reneaulme;41000;BLOIS;0;0;1;0;0;0;mixte;0450744P;UN11;0450744P;269
+617;104;Espé CRD Bourges;associée;0;Boulevard Emile Hilaire Amagat;18000;BOURGES;0;0;1;1;0;0;mixte;0450744P;UN12;0450744P;269
+618;104;Espé CRD Chartres;associée;0;5 rue du Maréchal Leclerc;28630;CHARTRES;0;0;1;1;0;0;étudiant;0450744P;UN13;0450744P;269
+619;104;Espé CRD Châteauroux;associée;0;102 route de Tours;36000;CHATEAUROUX;0;0;1;1;0;0;étudiant;0450744P;UN14;0450744P;269
+620;104;Espé CRD Fondettes;associée;0;Château de Bel air [RC] Quai de la Guignière;37230;FONDETTES;0;0;0;0;0;1;mixte;0450744P;UN15;0450744P;269
+621;104;Espé CRD ORLEANS;associée;0;110 rue du Faubourg St Jean;45000;ORLEANS;0;0;1;1;0;0;étudiant;0450744P;UN16;0450744P;269
+622;105;Centre de documentation et de recherche Espace André Tunc;associée;0;;     ;;1;0;0;0;0;0;mixte;0752719Y;UN00;0752719Y;273
+623;105;Bibliothèque Broca;autre;0;21, rue Broca;75005;Paris;1;1;0;0;0;0;étudiant;0752719Y;UN01;0752719Y;273
+624;105;Bibliothèque de philosophie;autre;0;17 rue de la Sorbonne;75231;PARIS;0;0;1;0;0;0;mixte;0752719Y;UN02;0752719Y;273
+625;105;Bibliothèque Jean Maitron (Centre d'histoire sociale du XXe);associée;0;9 rue Malher;75004;PARIS;0;0;1;0;0;0;mixte;0752719Y;UN03;0752719Y;273
+626;105;Bibliothèque de l'École des Arts de la Sorbonne;autre;0;47 rue des Bergers;75015;Paris;0;0;1;0;0;0;mixte;0752719Y;UN04;0752719Y;273
+627;105;Bibliothèque Jacques Lagroye;autre;0;14 rue Cujas;75005;Paris;1;0;0;0;0;0;recherche;0752719Y;UN05;0752719Y;273
+628;105;Bibliothèque Pierre Mendès France;autre;0;90 rue de Tolbiac;75013;Paris;1;1;1;0;0;0;mixte;0752719Y;UN06;0752719Y;273
+629;105;Bibliothèque d'étude doctorales juridiques de la Sorbonne;associée;0;9 rue Malher;75004;Paris;1;0;0;0;0;0;mixte;0752719Y;UN07;0752719Y;273
+630;105;Bibliothèque d'archéologie et des sciences de l'antiquité;associée;0;21 avenue de l'université;93023;Nanterre;0;0;1;0;0;0;mixte;0752719Y;UN08;0752719Y;273
+631;105;Bibliothèque Halphen;associée;0;1 rue Victor Cousin;75005;PARIS;0;0;1;0;0;0;mixte;0752719Y;UN09;0752719Y;273
+632;105;Bibliothèque Master 2 Transports Internationaux;autre;0;90 rue de Tolbiac;75013;Paris;1;1;0;0;0;0;mixte;0752719Y;UN10;0752719Y;273
+633;105;Bibliothèque de l'IRBIMMA;associée;0;17 rue de la Sorbonne;75005;PARIS;0;0;1;0;0;0;mixte;0752719Y;UN11;0752719Y;273
+634;105;Bibliothèque du CHRIC;associée;0;1 rue Victor Cousin Bureau F 603;75005;PARIS;0;0;1;0;0;0;mixte;0752719Y;UN12;0752719Y;273
+635;105;Bibliothèque François Chevalier (CRALMI);associée;0;17, rue de la Sorbonne [RC] Escalier C, 3ème étage. Bureau G006;75005;Paris;0;0;1;0;0;0;mixte;0752719Y;UN14;0752719Y;273
+636;105;Bibliothèque Lavisse;associée;0;17 rue de la Sorbonne;75005;Paris;0;0;1;0;0;0;mixte;0752719Y;UN18;0752719Y;273
+637;105;Bibliothèque de l'IEDES;associée;0;45 bis av. de la Belle Gabrielle;94736;Nogent sur Marne;1;1;1;0;0;1;mixte;0752719Y;UN19;0752719Y;273
+638;105;Bibliothèque Maurice Agulhon (Centre d'Histoire du XIXe s.);associée;0;17 rue de la Sorbonne;75005;PARIS;0;0;1;0;0;0;mixte;0752719Y;UN21;0752719Y;273
+639;105;PRISM SORBONNE - UFR06;associée;0;1 RUE VICTOR COUSIN;75005;PARIS;0;1;0;0;0;0;recherche;0752719Y;UN22;0752719Y;273
+640;105;Bibliothèque du CHSPM;associée;0;17 rue de la Sorbonne;75005;PARIS;0;0;1;0;0;0;recherche;0752719Y;UN24;0752719Y;273
+641;105;Bibliothèque NOSOPHI;associée;0;17 rue de la Sorbonne;75005;PARIS;1;0;1;0;0;0;recherche;0752719Y;UN25;0752719Y;273
+642;105;Centre de documentation de l'ISST;associée;0;16 boulevard Carnot;92340;Bourg la Reine;0;1;1;0;0;0;mixte;0752719Y;UN26;0752719Y;273
+643;105;Centre de documentation Maison des Sciences Economiques;associée;0;106 - 112 Boulevard de l'Hôpital;75013;PARIS;0;1;0;0;0;0;mixte;0752719Y;UN27;0752719Y;273
+644;105;Bibliothèque Gernet Glotz;associée;0;2 rue Vivienne;75002;Paris;0;0;1;0;0;0;mixte;0752719Y;UN28;0752719Y;273
+645;105;Bibliothèque du CHAC;associée;0;1 rue Victor Cousin;75005;Paris;0;0;1;0;0;0;recherche;0752719Y;UN30;0752719Y;273
+646;105;Bibliothèque de l'IHPST;associée;0;13 rue du Four;75006;Paris;0;0;1;1;0;0;recherche;0752719Y;UN31;0752719Y;273
+647;105;Bibliothèque de l'IHES;autre;0;17 rue de la Sorbonne;75005;PARIS;0;0;1;0;0;0;mixte;0752719Y;UN33;0752719Y;273
+648;105;Bibliothèque de droit social et études sociales;associée;0;1 rue d'Ulm;75005;Paris;1;0;1;0;0;0;mixte;0752719Y;UN35;0752719Y;273
+649;105;Bibliothèque de droit international et européen (BDIE);associée;0;12 places du Panthéon;75005;Paris;1;0;0;0;0;0;recherche;0752719Y;UN36;0752719Y;273
+650;105;Bibliothèque du CRHS;associée;0;1 rue Victor Cousin;75005;Paris;0;0;1;0;0;0;recherche;0752719Y;UN37;0752719Y;273
+651;105;Bibliothèque du CRHECC;associée;0;1 rue Victor Cousin;75005;Paris;0;0;1;0;0;0;recherche;0752719Y;UN38;0752719Y;273
+652;105;Bibliothèque Claude Fohlen (CRHNA);associée;0;1 rue Victor Cousin;75005;Paris;0;0;1;0;0;0;recherche;0752719Y;UN39;0752719Y;273
+653;105;Bibliothèque du CRHM;associée;0;1 rue Victor Cousin;75005;Paris;0;0;1;0;0;0;recherche;0752719Y;UN40;0752719Y;273
+654;105;Bibliothèque de recherches africaines (BRA);associée;0;9 rue Malher;75004;Paris;0;0;1;0;0;0;mixte;0752719Y;UN42;0752719Y;273
+655;105;Bibliothèque du CH2ST;associée;0;9 rue Malher;75005;Paris;0;0;1;0;0;0;recherche;0752719Y;UN43;0752719Y;273
+656;105;Bibliothèque de l'IHRF;associée;0;17 rue de la Sorbonne;75005;Paris;0;0;1;0;0;0;mixte;0752719Y;UN44;0752719Y;273
+657;106;BU;autre;0;2, allée de l'Université;92000;Nanterre;1;1;1;1;1;0;mixte;0921510S;Un00;0921510S;274
+658;106;Bibliothèque de l'UFR SPSE;autre;0;Bâtiment C 200, avenue de la République;92000;Nanterre;0;0;0;0;1;0;mixte;0921510S;UN01;0921510S;274
+659;106;Bibliothèque de l'UFR Langues et Civilisations Etrangères;autre;0;Bâtiment V 200, avenue de la République;92000;Nanterre;0;0;1;0;0;0;mixte;0921510S;UN02;0921510S;274
+660;106;Bibliothèque du Pôle scientifique et technologique;autre;0;50, rue de Sèvres;92410;Ville-d'Avray;0;0;0;1;0;0;mixte;0921510S;UN03;0921510S;274
+661;106;Bibliothèque de l'UFR DSP;associée;0;Bâtiment F, avenue de la République;92000;Nanterre;1;0;0;0;0;0;mixte;0921510S;UN04;0921510S;274
+662;106;Bibliothèque d'UFR Histoire-Histoire de l'Art;associée;0;Bâtiment D 200, avenue de la République;92000;Nanterre;0;0;1;0;0;0;mixte;0921510S;UN05;0921510S;274
+663;106;Bibliothèque de Médiadix;associée;0;11, avenue Pozzo di Borgo;92210;Saint-Cloud;0;0;0;0;0;1;mixte;0921510S;UN06;0921510S;274
+664;106;Bibliothèque de SEGMI;associée;0;Bâtiment G 200, avenue de la République;92000;Nanterre;0;1;0;0;0;0;mixte;0921510S;UN07;0921510S;274
+665;106;Bibliothèque d'AES-Sociologie;associée;0;Bâtiment DD 200, avenue de la République;92000;Nanterre;0;1;1;0;0;0;mixte;0921510S;UN08;0921510S;274
+666;106;Bibliothèque de Philosophie;associée;0;Bâtiment L 200, avenue de la République;92000;Nanterre;0;0;1;0;0;0;mixte;0921510S;UN09;0921510S;274
+667;106;Bibliothèque d'Urbanisme;associée;0;Bâtiment D 200, avenue de la République;92000;Nanterre;0;0;1;0;0;0;recherche;0921510S;UN10;0921510S;274
+668;106;Bibliothèque de Géographie;associée;0;Bâtiment D 200, avenue de la République;92000;Nanterre;0;0;1;0;0;0;mixte;0921510S;UN11;0921510S;274
+669;106;Bibliothèque du Pôle universitaire Léonard de Vinci;autre;0;;92400;Courbevoie;1;1;0;0;0;0;étudiant;0921510S;UN12;0921510S;274
+670;106;Bibliothèque de Lettres et sciences du langage;associée;0;Bâtiment L [RC] 200, avenue de la République;92000;Nanterre;0;0;1;0;0;0;mixte;0921510S;UN13;0921510S;274
+671;107;Châtenay Malabry Pharmacie;autre;0;5, rue Jean-Baptiste Clément;92296;CHATENAY-MALABRY;0;0;0;0;1;0;mixte;0911688R;Un00;0911688R;275
+672;107;Bibliothèque de l'IUT de Sceaux;associée;0;8 avenue Cauchy;92330;SCEAUX;1;1;1;0;0;0;mixte;0911688R;UN01;0911688R;275
+673;107;Kremlin Bicêtre-Médecine;autre;0;63 rue Gabriel Péri;94276;Le Kremlin-Bicêtre;0;0;0;0;1;0;mixte;0911688R;Un02;0911688R;275
+674;107;Sceaux Droit-Economie-Gestion;autre;0;Faculté Jean Monnet, 54 Bd Desgranges;92330;SCEAUX;1;1;0;0;0;0;mixte;0911688R;Un03;0911688R;275
+675;107;Orsay Economie-Droit;autre;0;Campus univeristaire d'Orsay, bâtiment 407, rue du Doyen Poitou;91407;Orsay Cedex;1;0;0;0;0;0;étudiant;0911688R;Un04;0911688R;275
+676;107;Orsay Sciences;autre;0;Campus universitaire. Bât. 407. Rue du doyen Poitou;91407;Orsay Cedex;0;0;0;1;1;1;mixte;0911688R;Un05;0911688R;275
+677;107;Administration générale BU;autre;1;Bâtiment 407 rue du Doyen Poitou;91407;Orsay;1;1;0;1;1;0;mixte;0911688R;UN06;0911688R;275
+678;107;Orsay Staps;autre;0;Campus univeristaire d'Orsay, bâtiment 407, rue du Doyen Poitou;91407;Orsay Cedex;0;0;0;1;0;0;mixte;0911688R;UN07;0911688R;275
+679;107;Bibliothèque de l'IUT d'Orsay;associée;0;Plateau du Moulon;91400;Orsay;0;0;0;1;0;0;mixte;0911688R;UN08;0911688R;275
+680;107;Bibliothèque de l'IUT de Cachan;associée;0;9 avenue de la Division Leclerc;94230;Cachan;0;1;0;0;0;0;étudiant;0911688R;UN09;0911688R;275
+681;107;Bibliothèque de la Recherche;associée;0;54 boulevard Desgranges;92330;SCEAUX;1;1;0;0;0;0;mixte;0911688R;UN10;0911688R;275
+682;107;Bibliothèque de Mathématiques Jacques Hadamard;associée;0;Université Paris-Sud Institut Mathématique Bât.307;91405;Orsay;0;0;0;1;0;0;recherche;0911688R;UN11;0911688R;275
+683;108;Bibliothèque du centre OBM;associée;0;Faculté de droit [RC] Bâtiment B (3e étage), salle B 327 et B 328 [RC] 83-85, avenue du Général de Gaulle;94010;CRETEIL Cedex;1;0;0;0;0;0;recherche;0941683U;UN00;0941683U;276
+684;108;Bibliothèque d'Ergothérapie;associée;0;Institut de Formation en Ergothérapie [RC] La Pyramide [RC] 80 av du Général de Gaulle;94010;Créteil Cedex;0;0;0;0;1;0;étudiant;0941683U;UN01;0941683U;276
+685;108;Bibliothèque Sciences Economiques et Sociales;associée;0;Centre de la Pyramide 6ème étage  [RC] 80, av du Général de Gaulle;94009;Créteil Cedex;0;0;1;0;0;0;étudiant;0941683U;UN02;0941683U;276
+686;108;Bibliothèque du SCUIO;associée;0;61, av du Général de Gaulle [RC] Bât I3, niveau dalle;94010;CRETEIL Cedex;0;0;0;0;0;1;étudiant;0941683U;UN03;0941683U;276
+687;108;DIRECTION SERVICE COMMUN DE LA DOCUMENTATION;autre;1;61, avenue du Général de Gaulle;94010;CRETEIL CEDEX;1;1;1;1;1;1;mixte;0941683U;UN04;0941683U;276
+688;108;BIBLIOTHEQUE DU CAMPUS CENTRE;autre;0;61, avenue du Général de Gaulle;94010;CRETEIL CEDEX;0;1;1;1;0;0;mixte;0941683U;UN05;0941683U;276
+689;108;BIBLIOTHEQUE DE MEDECINE;autre;0;Centre Hospitalier Universitaire [RC] 8, rue du Général Sarrail;94000;CRETEIL;0;0;0;0;1;0;mixte;0941683U;UN06;0941683U;276
+690;108;BIBLIOTHEQUE DE DROIT;autre;0;5, rue André Boulle [RC] ou 83-85, avenue du Général de Gaulle;94000;CRETEIL;1;0;0;0;0;0;mixte;0941683U;UN07;0941683U;276
+691;108;BIBLIOTHEQUE D'ECONOMIE GESTION;autre;0;4 Route de Choisy;94000;CRETEIL;0;1;0;0;0;0;mixte;0941683U;UN08;0941683U;276
+692;108;BIBLIOTHEQUE DU CENTRE DE FONTAINEBLEAU;autre;0;Route Hurtault;77300;FONTAINEBLEAU;0;0;0;0;0;1;mixte;0941683U;UN09;0941683U;276
+693;108;BIBLIOTHEQUE DE SENART;autre;0;36-37 rue Georges Charpak;77127;Lieusaint;0;1;1;1;0;1;mixte;0941683U;UN10;0941683U;276
+694;108;BIBLIOTHEQUE DE L'IUT DE VITRY;autre;0;Parc Chérioux [RC] 122, rue Paul Armangot;94400;VITRY SUR SEINE;0;0;0;0;0;1;mixte;0941683U;UN11;0941683U;276
+695;108;BIBLIOTHEQUES DE L'ESPE;autre;0;rue Jean Macé;94861;BONNEUIL SUR MARNE;0;0;1;0;0;0;mixte;0941683U;UN12;0941683U;276
+696;108;Bibliothèque du département de Communication politique et pu;associée;0;Bâtiment La Pyramide [RC] 4e étage, salle 419 [RC] 80, avenue du Général de Gaulle;94010;CRETEIL CEDEX;1;0;0;0;0;0;mixte;0941683U;UN13;0941683U;276
+697;108;Bibliothèque de l'Ecole Nationale Vétérinaire d'Alfort;associée;0;7, avenue du Général de Gaulle;94700;Maisons-Alfort;0;0;0;0;1;0;mixte;0941683U;UN14;0941683U;276
+698;108;Bibliothèque historique Poëte et Sellier;associée;0;Cité Descartes - Bâtiment Bienvenüe - Plot A - Bureau A222 [RC] 14-20, Bld Newton [RC] Champs sur Marne;77454;Marne la Vallée cedex 2;0;0;0;0;0;1;mixte;0941683U;UN15;0941683U;276
+699;109;Jean Dausset;autre;0;1 rue de Chablis;93017;Bobigny;1;1;1;1;1;1;mixte;0931487L;Un01;0931487L;277
+700;109;bibliothèque « fictive » unique;autre;1;;     ;;1;1;1;1;1;1;mixte;0931487L;UN03;0931487L;277
+701;109;Edgar Morin (campus de Villetaneuse);autre;0;99, avenue Jean-Baptiste Clément;93430;Villetaneuse;1;1;1;1;1;1;mixte;0931487L;UN04;0931487L;277
+702;110;Assas;autre;0;92 rue d'Assas;75006;Paris;1;1;1;0;0;0;étudiant;0754523J;Un00;0754523J;278
+703;110;Melun;autre;0;Quai de la reine blanche;77000;Melun;1;1;0;0;0;0;étudiant;0754523J;Un01;0754523J;278
+704;110;Vaugirard;autre;0;391 rue de Vaugirard;75015;Paris;1;1;1;0;0;0;étudiant;0754523J;Un02;0754523J;278
+705;110;Bibliothèque numérique;autre;1;;     ;;1;1;1;0;0;0;mixte;0754523J;UN03;0754523J;278
+706;111;BU Censier;autre;0;13 rue Santeuil;75005;Paris;0;0;1;0;0;0;mixte;0752734P;Un00;0752734P;279
+707;111;Théâtrothèque Gaston-Baty;associée;0;13 rue Santeuil;75005;Paris;0;0;1;0;0;0;mixte;0752734P;UN01;0752734P;279
+708;111;Etudes Italiennes;autre;0;1/5 rue Censier;75005;Paris;0;0;1;0;0;0;mixte;0752734P;Un02;0752734P;279
+709;111;Monde Anglophone;autre;0;5 rue de l'école de médecine;75006;Paris;0;0;1;0;0;0;recherche;0752734P;Un03;0752734P;279
+710;111;Orient Monde Arabe;autre;0;13 rue Santeuil;75005;Paris;0;0;1;0;0;0;mixte;0752734P;Un04;0752734P;279
+711;111;Bibliothèque Pierre Monbeig - IHEAL;associée;0;27 rue Saint-Guillaume;75007;Paris;0;0;1;0;0;0;recherche;0752734P;UN05;0752734P;279
+712;111;Bibliothèque de l'ESIT;autre;0;Place du Maréchal de Lattre de Tassigny;75016;Paris;0;0;1;0;0;0;mixte;0752734P;UN06;0752734P;279
+713;111;Littérature Générale et Comparée;autre;0;17 rue de la Sorbonne;75005;Paris;0;0;1;0;0;0;mixte;0752734P;Un07;0752734P;279
+714;111;Linguistique africaine;autre;0;19 rue des bernardins;75005;Paris;0;0;1;0;0;0;mixte;0752734P;UN08;0752734P;279
+715;111;Etudes Portugaises;autre;0;17 rue de la Sorbonne;75005;Paris;0;0;1;0;0;0;mixte;0752734P;Un09;0752734P;279
+716;111;Administration générale;autre;1;;     ;;1;1;1;0;0;0;mixte;0752734P;UN10;0752734P;279
+717;111;Centre interuniversitaire d'études hongroises;autre;0;1/5 rue Censier;75005;Paris;0;0;1;0;0;0;mixte;0752734P;UN11;0752734P;279
+718;113;HEGP;autre;0;20 rue Leblanc;75015;Paris;0;0;0;0;1;0;mixte;0752736S;UN00;0752736S;281
+719;113;Bibliothèque de l'IUT;associée;0;143, Avenue de Versailles;75016;Paris;0;1;0;0;0;1;étudiant;0752736S;UN01;0752736S;281
+720;113;STAPS;autre;0;1 rue Lacretelle;75015;Paris;0;0;0;1;0;0;mixte;0752736S;UN02;0752736S;281
+721;113;Cordeliers;autre;0;15 rue de l'école de médecine;75006;Paris;0;0;0;0;1;0;mixte;0752736S;UN03;0752736S;281
+722;113;Bibliothèque de sciences humaines et sociales Descartes-CNRS;autre;0;Centre universitaire des Saints-Pères  [RC] 45 rue des Saints-Pères;75006;Paris;0;0;1;0;0;0;mixte;0752736S;UN04;0752736S;281
+723;113;BU Cochin;autre;0;24 rue du Faubourg Saint-Jacques;75014;Paris;0;0;0;0;1;0;mixte;0752736S;UN05;0752736S;281
+724;113;Odontologie;autre;0;1 rue Maurice Arnoux;92120;Montrouge;0;0;0;0;1;0;mixte;0752736S;Un06;0752736S;281
+725;113;Henri Piéron;autre;0;71 avenue Edouard Vaillant;92774;BOULOGNE BILLANCOURT;0;0;1;0;0;0;mixte;0752736S;Un08;0752736S;281
+726;113;Bibliothèque de droit;autre;0;10 avenue Pierre Larousse;92240;Malakoff;1;1;0;0;0;0;mixte;0752736S;UN09;0752736S;281
+727;113;Saints-Pères sciences;autre;0;Centre universitaire des Saints-Pères  [RC] 45 rue des Saints-Pères;75006;Paris;0;0;0;0;1;0;mixte;0752736S;Un10;0752736S;281
+728;113;Direction et services transversaux;autre;1;45 rue des Saints Pères;75006;Paris;1;1;1;1;1;0;mixte;0752736S;UN12;0752736S;281
+729;115;Xavier-Bichat;autre;0;16 rue Henri Huchard;75018;PARIS;0;0;0;0;1;0;mixte;0752738U;Un00;0752738U;283
+730;115;Villemin;autre;0;10 Avenue de VERDUN;75010;PARIS;0;0;0;0;1;0;mixte;0752738U;Un01;0752738U;283
+731;115;Odontologie;autre;0;5 Rue Garancière;75006;PARIS;0;0;0;0;1;0;mixte;0752738U;Un02;0752738U;283
+732;115;Bibliothèque MIR Mathématique - Informatique - Recherhe;associée;0;Bât Sophie GERMAIN, [RC] 13 rue Albert EINSTEIN;75013;PARIS;0;0;0;1;0;0;mixte;0752738U;UN03;0752738U;283
+733;115;Robert-Debré;autre;0;48 Bd Serrurier;75019;PARIS;0;0;0;0;1;0;mixte;0752738U;Un04;0752738U;283
+734;115;Bibliothèque de l'UFR Physique-Recherche;autre;0;Bâtiment Condorcet [RC] 10 Alice DOMON et Léonie DUQUET;75013;PARIS;0;0;0;1;0;0;mixte;0752738U;UN05;0752738U;283
+735;115;Direction;autre;1;5 Rue Thomas MANN;75013;PARIS;0;0;0;0;0;0;;0752738U;Un06;0752738U;283
+736;115;Bibliothèque LCAO Langues et Civilisations  d'Asie Orientale;associée;0;Bât Grands Moulins [RC] aile C  [RC] 10, Esplanade Pierre VIDAL-NAQUET;75013;PARIS;0;0;1;0;0;0;mixte;0752738U;UN07;0752738U;283
+737;115;ENSEMBLE SCD;autre;1;5 RUE THOMAS MANN;75013;PARIS;1;1;1;1;1;0;mixte;0752738U;UN08;0752738U;283
+738;115;Bibliothèque des Grands Moulins site Paris Rive Gauche;autre;0;Bât des Grands Moulins [RC] 5 rue Thomas Mann;75013;PARIS;1;1;1;1;0;0;mixte;0752738U;UN09;0752738U;283
+739;115;CENTRE DE RESSOURCES JACQUES SEEBACHER;associée;0;;     ;;0;0;1;0;0;0;recherche;0752738U;UN10;0752738U;283
+740;116;Bibliothèque universitaire;autre;0;2, rue de la Liberté;93526;Saint-Denis;1;1;1;0;0;1;mixte;0931849E;Un00;0931849E;284
+741;116;Cartothèque;associée;0;2, rue de la Liberté;93526;Saint-Denis;0;0;1;0;0;0;mixte;0931849E;UN01;0931849E;284
+742;116;IUT Montreuil;associée;0;140 rue de la Nouvelle France;93100;Montreuil;0;1;1;0;0;1;mixte;0931849E;UN02;0931849E;284
+743;116;IUT de Tremblay-en-France;associée;0;3 rue de la Râperie;93290;Tremblay en France;0;1;0;0;0;1;mixte;0931849E;UN03;0931849E;284
+744;117;SCD;autre;0;Place du Maréchal de Lattre de Tassigny;75016;PARIS;1;1;0;1;0;0;mixte;0752147B;Un00;0752147B;285
+745;118;BU Droit-Lettres - Pôle Recherche;autre;0;Campus universitaire;64075;PAU;0;0;1;0;0;0;recherche;0641439S;UN00;0641439S;287
+746;118;BU Sciences et Techniques;autre;0;Campus universitaire;64075;PAU;0;0;0;1;0;0;mixte;0641439S;UN01;0641439S;287
+747;118;Bibliothèque de l'IUT de Mont-de-Marsan;autre;0;371, Rue du Ruisseau;40004;MONT-DE-MARSAN;0;0;0;1;0;0;étudiant;0641439S;UN02;0641439S;287
+748;118;BU Droit-Lettres - Pôle Formation;autre;0;Campus universitaire;64075;PAU;1;1;1;0;0;0;mixte;0641439S;UN03;0641439S;287
+749;118;SCD - Affaires générales;autre;1;Avenue de l'Université;64012;PAU;0;0;0;0;0;0;;0641439S;UN04;0641439S;287
+750;118;BU Florence Delay Bayonne;autre;0;19, Place Paul Bert;64185;BAYONNE;1;1;1;0;0;0;mixte;0641439S;UN05;0641439S;287
+751;118;BU Département STAPS Tarbes;autre;0;Campus universitaire de Bastillac;65000;TARBES;0;0;0;1;0;0;mixte;0641439S;UN06;0641439S;287
+752;118;Bibliothèque de l'IPRA;autre;0;Avenue de l'Université;64012;PAU;0;0;0;1;0;0;recherche;0641439S;UN07;0641439S;287
+753;118;Bibliothèque de l'ENSGTI;autre;0;Rue Jules Ferry;64075;PAU;0;0;0;1;0;0;mixte;0641439S;UN08;0641439S;287
+754;118;BU Anglet-Montaury;autre;0;1 bis, Allée du Parc Montaury;64601;ANGLET;0;0;0;1;0;0;mixte;0641439S;UN09;0641439S;287
+755;118;Bibliothèque de recherche en Droit;autre;0;Avenue du Doyen Poplawski;64016;PAU;1;0;0;0;0;0;recherche;0641439S;UN10;0641439S;287
+756;118;Bibliothèque de recherche en Economie-Gestion;autre;0;Avenue du Doyen Poplawski;64016;PAU;0;1;0;0;0;0;recherche;0641439S;UN11;0641439S;287
+757;119;Droit et Sciences Economiques;autre;0;BU droit-lettres [RC] 52 avenue Paul Alduy;66100;Perpignan;1;1;0;0;0;0;étudiant;0660080D;Un00;0660080D;288
+758;119;Site délocalisé de Font-Romeu;autre;0;7, avenue Pierre de Coubertin;66120;FONT ROMEU;0;0;0;1;0;0;étudiant;0660080D;UN01;0660080D;288
+759;119;Sciences;autre;0;52 avenue Paul Alduy;66100;PERPIGNAN;0;0;0;1;0;0;étudiant;0660080D;Un02;0660080D;288
+760;119;Site délocalisé de Narbonne;autre;0;Site universitaire de Narbonne, Avenue Pierre de Coubertin;11100;Narbonne;1;0;0;0;0;0;étudiant;0660080D;UN03;0660080D;288
+761;119;Bib. Tautavel;associée;0;Centre européen de recherches préhistoriques. Rue Léon-Jean Grégory;66720;TAUTAVEL;0;0;1;0;0;0;recherche;0660080D;UN04;0660080D;288
+762;119;Lettres et Sciences Humaines;autre;0;Bibliothèque Universitaire [RC] 52 avenue Paul Alduy;66100;Perpignan;0;0;1;0;0;0;étudiant;0660080D;UN05;0660080D;288
+763;119;Site délocalisé Mailly;autre;0;13bis rue de l'Université;66000;PERPIGNAN;1;1;0;0;0;0;mixte;0660080D;UN06;0660080D;288
+764;119;Bib. Maison des Pays catalans;autre;0;Maison des Pays catalans, 52 avenue Paul Alduy;66100;PERPIGNAN;0;0;1;0;0;0;mixte;0660080D;UN09;0660080D;288
+765;119;Général (bib. fictive);autre;1;52 avenue Paul Alduy;66100;Perpignan;0;0;0;0;0;1;étudiant;0660080D;UN10;0660080D;288
+766;119;Bib. spécialisée Géographie;associée;0;52 avenue Paul Alduy;66100;PERPIGNAN;0;0;1;0;0;0;mixte;0660080D;UN12;0660080D;288
+767;120;BU Sciences, Techniques et Sport - Futuroscope;autre;0;Technopole du Futuroscope - Téléport 2 [RC] bd Pierre et Marie Curie;86360;Chasseneuil-du-Poitou;0;0;0;1;0;0;mixte;0860701V;UN00;0860701V;289
+768;120;BU Lettres;autre;0;1 allée Jeanne Chauvin;86000;Poitiers;1;1;1;0;0;0;mixte;0860701V;Un01;0860701V;289
+769;120;Médiathèque de l'ESPE - Site  de la Vienne;autre;0;5 rue Shirin Ebadi;86000;Poitiers;0;1;1;1;0;1;étudiant;0860701V;UN02;0860701V;289
+770;120;BU Médecine Pharmacie;autre;0;6 rue de la Milétrie;86000;Poitiers;0;0;0;0;1;0;mixte;0860701V;UN03;0860701V;289
+771;120;BU Sciences, Techniques et Sport - Campus;autre;0;1 rue Charles-Claude Chenou;86000;Poitiers;0;0;0;1;0;0;mixte;0860701V;UN04;0860701V;289
+772;120;Direction Administration SRID;autre;1;;     ;;0;0;0;0;0;0;;0860701V;UN05;0860701V;289
+773;120;Service du Fonds ancien;autre;0;1 allée Jeanne Chauvin;86000;Poitiers;0;0;0;0;0;1;mixte;0860701V;UN06;0860701V;289
+774;120;Bibliothèque de l'IAE - CEPE (Angoulême);autre;0;186 rue de Bordeaux;16000;Angoulême;0;1;0;0;0;0;mixte;0860701V;UN07;0860701V;289
+775;120;BU Michel Foucault (SHA, Moyen Âge);autre;0;23 bis rue des Carmélites;86000;Poitiers;0;0;1;0;0;0;mixte;0860701V;UN08;0860701V;289
+776;120;Bibliothèque de l'IAE (Poitiers);autre;0;20 rue Guillaume VII le Troubadour;86000;Poitiers;0;1;0;0;0;0;mixte;0860701V;UN09;0860701V;289
+777;120;Bibliothèque du Pôle universitaire de Niort;autre;0;11 rue Archimède;79000;Niort;1;1;1;1;0;1;mixte;0860701V;UN10;0860701V;289
+778;120;Médiathèque de l'ESPE - Site de la Charente;autre;0;227 rue de Montmoreau;16000;Angoulême;0;1;1;1;0;1;étudiant;0860701V;UN12;0860701V;289
+779;120;Bibliothèque de l'IUT d'Angoulême;associée;0;4 avenue de Varsovie;16000;Angoulême;0;1;1;1;0;1;mixte;0860701V;UN13;0860701V;289
+780;120;Bibliothèque de l'IUT de Poitiers (Châtellerault);associée;0;34 avenue Alfred Nobel;86100;Châtellerault;0;1;0;1;0;1;étudiant;0860701V;UN14;0860701V;289
+781;120;Bibliothèque du Centre Universitaire de la Charente;autre;0;La Croix du Milieu;16400;La Couronne;1;0;0;1;1;1;étudiant;0860701V;UN15;0860701V;289
+782;120;Bibliothèque de l'IUT de Poitiers - Campus;associée;0;14 allée Jean Monnet;86000;Poitiers;0;1;0;1;0;0;étudiant;0860701V;UN16;0860701V;289
+783;120;Bibliothèque de Média Centre Ouest (CRFCB);associée;0;1 allée Jeanne Chauvin Bât A2;86000;Poitiers;0;0;0;0;0;1;mixte;0860701V;UN18;0860701V;289
+784;120;Maison des Sciences de l'Homme et de la société;associée;0;5 rue Théodore Lefebvre;86000;Poitiers;0;0;1;0;0;0;recherche;0860701V;UN19;0860701V;289
+785;120;UFR Droit - Centre de doctorat;associée;0;43 place Charles De Gaulle;86000;Poitiers;1;0;0;0;0;0;recherche;0860701V;UN21;0860701V;289
+786;120;UFR SFA - Bibliothèque de mathématiques;associée;0;Technopole du Futuroscope - Téléport 2 [RC] 11 bd Pierre et Marie Curie;86360;Chasseneuil-du-Poitou;0;0;0;1;0;0;recherche;0860701V;UN22;0860701V;289
+787;120;UFR SHA - Bibliothèque de géographie Théodore Lefebvre;associée;0;3 rue Théodore Lefebvre;86000;Poitiers;0;0;1;0;0;0;mixte;0860701V;UN23;0860701V;289
+788;120;UFR SHA - CESCM - Pôle documentaire Berthelot;associée;0;24 rue de la Chaîne;86000;Poitiers;0;0;1;0;0;0;recherche;0860701V;UN24;0860701V;289
+789;120;UFR SFA - S'Factory;associée;0;2 rue Michel Brunet;86000;Poitiers;0;0;0;1;0;1;étudiant;0860701V;UN25;0860701V;289
+790;120;UFR SFA - Bibliothèque de Géosciences;associée;0;9 rue Charles-Claude Chenou;86000;Poitiers;0;0;0;1;0;0;;0860701V;UN26;0860701V;289
+791;120;BU Droit Economie Gestion;autre;0;2 rue Jean Carbonnier;86000;Poitiers;1;1;0;0;0;0;mixte;0860701V;UN28;0860701V;289
+792;121;Bibliothèque universitaire;autre;0;Campus d'Outumaoro [RC] BP 60056;98702;FAAA - Tahiti - Polynésie française;1;1;1;1;1;1;mixte;9840390B;UN00;9840390B;293
+793;121;médiathèque de l'ESPE;autre;0;Campus d'Outumaoro [RC] BP 60056;98702;FAAA - Tahiti - Polynésie française;0;0;0;0;0;1;mixte;9840390B;UN01;9840390B;293
+794;122;Direction des Ressources et savoirs (DRS);autre;1;247 rue Saint-Jacques;75005;Paris;1;1;1;1;1;1;mixte;0755575C;UN00;;297
+795;123;;autre;1;;77455;Marne la Vallée;1;1;1;1;1;1;recherche;0772710C;UN00;;298
+796;124;Bibliothèque Reims Education;autre;0;11 rue Gabriel Voisin;51100;REIMS;0;1;1;0;0;1;mixte;0511121S;UN00;0511121S;299
+797;124;Bibliothèque "fictive" Direction/administration;autre;1;Avenue François Mauriac CS40019;51100;Reims;1;1;1;1;1;1;mixte;0511121S;UN01;0511121S;299
+798;124;Bibliothèque du Pôle Santé;autre;0;51 rue Cognacq-Jay;51100;Reims;0;0;0;0;1;0;mixte;0511121S;Un02;0511121S;299
+799;124;Bibliothèque Moulin de la Housse;autre;0;Campus Moulin de la Housse [RC] Rue des Crayères;51100;Reims;0;1;0;1;0;1;mixte;0511121S;UN03;0511121S;299
+800;124;Bibliothèque des Comtes de Champagne;autre;0;Hôtel Dieu-le-Comte, Place du Préau;10000;TROYES;1;1;1;0;0;0;mixte;0511121S;Un04;0511121S;299
+801;124;Bibliothèque de l'IUT de Troyes;autre;0;9 rue de Québec;10000;TROYES;1;1;0;1;0;0;mixte;0511121S;UN05;0511121S;299
+802;124;Bibliothèque Robert de Sorbon;autre;0;Avenue François-Mauriac [RC] CS40019;51100;Reims;1;1;1;0;0;0;mixte;0511121S;UN06;0511121S;299
+803;124;Bibliothèque Universitaire de Châlons en Champagne;autre;0;1 boulevard Victor Hugo;51037;Châlons en Champagne;0;0;1;1;0;0;mixte;0511121S;UN07;0511121S;299
+804;124;Bibliothèque Universitaire de Charleville-Mézières;autre;0;5 avenue Pierre Mendès-France;08000;Charleville-Mézières;0;0;1;1;0;0;mixte;0511121S;UN08;0511121S;299
+805;124;Bibliothèque Universitaire de Chaumont;autre;0;4 rue du 14 Juillet;52000;Chaumont;0;0;1;1;0;0;mixte;0511121S;UN09;0511121S;299
+806;124;Bibliothèque Troyes Education;autre;0;6 avenue des Lombards;10000;TROYES;0;0;1;0;0;0;mixte;0511121S;UN10;0511121S;299
+807;125;BU Droit, Economie, Gestion;autre;0;7 place Hoche;35000;Rennes;1;1;0;0;0;1;mixte;0352288X;Un00;0352288X;302
+808;125;BUFR intégrée de l'ENSSAT - Lannion;autre;0;6 rue de Kérampont;22305;Lannion;0;0;0;1;0;0;mixte;0352288X;Un01;0352288X;302
+809;125;BU Sciences et philosophie;autre;0;Campus de Beaulieu [RC] Bâtiment 40;35700;Rennes;0;0;1;1;0;0;mixte;0352288X;Un02;0352288X;302
+810;125;Bibliothèque du PU Saint-Brieuc;associée;0;2 avenue Antoine Mazier;22000;Saint-Brieuc;1;0;0;0;0;0;mixte;0352288X;UN04;0352288X;302
+811;125;BU Santé;autre;0;Campus Villejean [RC] Bâtiment 14 [RC] 13 avenue du professeur Léon Bernard;35043;Rennes;0;0;0;0;1;0;mixte;0352288X;Un05;0352288X;302
+812;125;BUFR intégrée de l'I.U.T. de LANNION;autre;0;Rue Edouard Branly;22302;Lannion;1;1;1;1;0;1;mixte;0352288X;UN06;0352288X;302
+813;125;Direction - services transverses;autre;1;4 rue Lesage;35000;Rennes;1;1;1;1;1;0;mixte;0352288X;UN07;0352288X;302
+814;125;SCELVA;associée;0;Divers localisations dans Rennes [RC] Bibliothèque principale sur campus Beaulieu, bâtiment 26;35000;Rennes;0;0;0;0;0;1;étudiant;0352288X;UN08;0352288X;302
+815;125;Archéosciences;associée;0;Campus de Beaulieu Bâtiment 25;35042;Rennes;0;0;1;1;0;0;mixte;0352288X;UN09;0352288X;302
+816;125;IRMAR;associée;0;Campus de Beaulieu [RC] bâtiment 22 [RC] 7e étage;35042;Rennes;0;0;0;1;0;0;recherche;0352288X;UN10;0352288X;302
+817;125;IUT GEA-CS Rennes;associée;0;Campus Beaulieu [RC] Bâtiment 8B;35042;Rennes;0;1;1;0;0;0;étudiant;0352288X;UN11;0352288X;302
+818;125;Géosciences OSUR;associée;0;Campus de Beaulieu [RC] Bâtiment 14B;35042;Rennes;0;0;0;1;0;0;recherche;0352288X;UN12;0352288X;302
+819;125;ENSCR;associée;0;11, Allée de Beaulieu;35708;Rennes;0;0;0;1;0;1;étudiant;0352288X;UN13;0352288X;302
+820;125;SOIE;associée;0;7 place Hoche [RC] Salle dans la BU Droit-Economie-Gestion;35000;Rennes;0;0;0;0;0;1;étudiant;0352288X;UN14;0352288X;302
+821;125;IPAG;associée;0;106 bd. De la Duchesse Anne;35700;Rennes;1;1;1;0;1;1;mixte;0352288X;UN15;0352288X;302
+822;125;IEJ;associée;0;Faculté de droit et de science politique [RC] 3e étage - Salle 309;35042;Rennes;1;0;0;0;0;0;mixte;0352288X;UN16;0352288X;302
+823;125;IEP Rennes;associée;0;104, bld de la Duchesse Anne;35700;Rennes;1;1;1;0;0;0;mixte;0352288X;UN17;0352288X;302
+824;125;CHD;associée;0;Salle 311, 3e étage, Faculté de Droit et de Science politique, 9 rue Jean Macé;35000;Rennes;1;0;0;0;0;0;recherche;0352288X;UN19;0352288X;302
+825;125;CEDRE;associée;0;Faculté de Droit et de Science politique [RC] 9, rue Jean Macé [RC] 4e étage - Salle 409;35042;Rennes;1;0;0;0;0;0;mixte;0352288X;UN20;0352288X;302
+826;125;IEP Rennes - Antenne Caen;associée;0;10, rue Pasteur;14000;Caen;1;1;1;0;0;0;mixte;0352288X;UN21;0352288X;302
+827;126;Centre de documentation LAHM;associée;0;Place du Recteur Henri le Moal - Bât. A, porte A118;35043;RENNES;0;0;1;0;0;0;mixte;0352303N;UN00;0352303N;303
+828;126;Mediathèque;autre;0;Place du Recteur Henri le Moal - Bât. L, porte L130;35043;RENNES;0;0;1;1;0;0;mixte;0352303N;Un01;0352303N;303
+829;126;Bibliothèque Arts -Lettres - Communication;autre;0;Place du Recteur Henri le Moal - Bât. B, porte B222;35043;RENNES;0;0;1;0;0;1;mixte;0352303N;UN02;0352303N;303
+830;126;Bibliothèques de Sciences Sociales;autre;0;Place du Recteur Henri le Moal - Bât B, porte B301;35043;RENNES;0;1;1;0;0;0;mixte;0352303N;UN05;0352303N;303
+831;126;Bibliothèque de Musique;autre;0;Place du Recteur Henri le Moal - Bât O, Porte O316;35043;RENNES;0;0;1;0;0;0;mixte;0352303N;UN07;0352303N;303
+832;126;Bibliothèque de Sciences Humaines;autre;0;Place du Recteur Henri le Moal - Bât. S, porte S210;35043;RENNES;0;0;1;0;0;0;mixte;0352303N;UN08;0352303N;303
+833;126;Bibliothèque Centrale;autre;0;Place du Recteur Henri le Moal - Bâtiment H;35043;RENNES;0;1;1;1;0;1;mixte;0352303N;UN10;0352303N;303
+834;126;Bibliothèque Universitaire de Saint-Brieuc;associée;0;2 Avenue Mazier [RC] Campus Mazier;22015;SAINT-BRIEUC;0;1;1;1;0;0;étudiant;0352303N;UN11;0352303N;303
+835;126;Bibliothèque des STAPS;autre;0;Campus la Harpe;35044;RENNES;0;0;1;1;0;0;mixte;0352303N;UN12;0352303N;303
+836;126;CERHIO, Bibliothèque centre recherche historique de l'Ouest;associée;0;Place du Recteur Henri le Moal - Bât N;35043;RENNES;1;0;1;0;0;0;recherche;0352303N;UN14;0352303N;303
+837;126;CFCB, Centre de Formation aux Carrières des Bibliothèques;associée;0;Place du Recteur Henri le Moal - Bât. H, porte H100;35043;RENNES;1;1;1;0;0;1;mixte;0352303N;UN15;0352303N;303
+838;126;Bibliothèque SUIO;associée;0;Place du Recteur Henri le Moal - Bât Présidence;35043;RENNES;0;1;1;1;0;1;étudiant;0352303N;UN16;0352303N;303
+839;126;Bibliothèque CCB;associée;0;Campus la Harpe [RC] Avenue Charles Tillon;35044;RENNES;0;1;1;0;0;1;mixte;0352303N;UN17;0352303N;303
+840;127;Bibliothèque de l'INSA Rennes;autre;0;20 Avenue des Buttes de Coësmes;35708;Rennes;0;0;0;1;0;0;mixte;0350097R;Un00;;304
+841;128;Evreux;autre;0;Rue du 7ème chasseur;27000;Evreux;1;0;0;1;0;0;mixte;0761652H;Un00;0761652H;306
+842;128;Section Lettres;autre;0;Rue Lavoisier;76821;Mont-Saint-Aignan;0;0;1;1;0;0;mixte;0761652H;UN01;0761652H;306
+843;128;Médecine;autre;0;22 Bd Gambetta;76100;Rouen cedex 1;0;0;0;0;1;0;mixte;0761652H;Un02;0761652H;306
+844;128;Sciences Mad.;autre;0;Avenue de l'Université CS [RC] 70012;76801;Saint-Etienne du Rouvray;0;0;0;1;0;0;mixte;0761652H;Un03;0761652H;306
+845;128;Sciences MSA;autre;0;10 Bd maurice de Broglie;76821;Mont Saint Aignan;0;0;0;1;0;0;mixte;0761652H;Un04;0761652H;306
+846;128;Section Droit;autre;0;3 avenue Pasteur;76100;Rouen;1;1;0;0;0;0;mixte;0761652H;UN06;0761652H;306
+847;128;Section Formation des maîtres Rouen;autre;0;2 rue du Tronquet;76130;Mont-Saint-Aignan;0;0;1;1;0;1;mixte;0761652H;UN07;0761652H;306
+848;128;Bibliothèque de mathématiques de Rouen;associée;0;LMR UMR CNRS 6085 [RC] Universtié de Rouen-UFR sciences et techniques;79801;Saint-Etienne du Rouvray;0;0;0;1;0;0;mixte;0761652H;UN08;0761652H;306
+849;128;Pôle documentaire langues et civilisationq;associée;0;Rue Lavoisier;76821;Mont-Saint-Aignan;0;0;1;0;0;0;mixte;0761652H;UN09;0761652H;306
+850;128;Pôle documentaire sciences humaines et sociales;associée;0;Rue Lavoisier;76821;Mont-Saint-Aignan;0;0;1;0;0;0;mixte;0761652H;UN10;0761652H;306
+851;129;Bibliothèque de l'INSA de Rouen;autre;0;Av. de l'Université;76800;St Etienne du Rouvray;0;0;0;1;0;0;mixte;0760165S;UN00;;307
+852;130;Fonds Général;autre;0;10, place du Panthéon;75005;Paris;1;1;1;1;1;1;mixte;0752706J;Un00;0752706J;309
+853;130;Réserve;autre;0;10, place du Panthéon;75005;Paris;1;1;1;1;1;1;recherche;0752706J;Un01;0752706J;309
+854;130;Nordique;autre;0;6, rue Valette;75005;Paris;1;1;1;0;0;1;mixte;0752706J;Un02;0752706J;309
+855;131;Bibliothèque;autre;0;4 rue Valette;75005;PARIS;1;1;1;1;1;1;étudiant;0755041X;UN00;0755041X;310
+856;132;Bibliothèque universitaire Tréfilerie;autre;0;1, rue Tréfilerie;42023;SAINT-ETIENNE;1;1;1;0;0;0;mixte;0421523C;UN00;0421523C;311
+857;132;Bibliothèque universitaire Santé;autre;0;CAMPUS SANTE INNOVATIONS [RC] 10, Rue de la Marandière;42270;SAINT-PRIEST-EN-JAREZ;0;0;0;0;1;0;mixte;0421523C;UN01;0421523C;311
+858;132;Bibliothèque universitaire de Roanne;autre;0;24-30, rue de Paris;42334;ROANNE;1;1;1;1;1;0;mixte;0421523C;UN02;0421523C;311
+859;132;Bibliothèque universitaire de Sciences;autre;0;21, rue du Docteur Paul Michelon;42023;SAINT-ETIENNE;0;0;0;1;0;0;mixte;0421523C;UN03;0421523C;311
+860;132;Bibliothèque du CERCRID;associée;0;6, rue Basse des Rives;42023;SAINT-ETIENNE;1;0;1;0;0;0;recherche;0421523C;UN05;0421523C;311
+861;132;Centre de documentation du CIEREC;associée;0;35, rue du 11 novembre, bât M;42023;SAINT-ETIENNE;0;0;1;0;0;0;recherche;0421523C;UN06;0421523C;311
+862;132;Médiathèque du CILEC;associée;0;21, rue Denis Papin;42023;SAINT-ETIENNE;0;0;1;0;0;1;mixte;0421523C;UN07;0421523C;311
+863;132;Bibliothèque de l'Institut du travail;associée;0;6, rue Basse des Rives;42023;SAINT-ETIENNE;1;1;0;0;0;0;mixte;0421523C;UN08;0421523C;311
+864;132;Bibliothèque de l'IUT;associée;0;28, rue Léon Jouhaux;42023;SAINT-ETIENNE;1;1;1;1;0;0;étudiant;0421523C;UN09;0421523C;311
+865;132;Centre de documentation du GATE Lyon Saint-Etienne;associée;0;Maison de l'Université, Bât B  [RC] 10 rue Tréfilerie;42023;SAINT-ETIENNE;0;1;0;0;0;0;recherche;0421523C;UN10;0421523C;311
+866;132;Centre de documentation recherche HISOMA - Jean PALERNE;associée;0;35, rue du 11 novembre [RC] Bât M;42023;SAINT-ETIENNE;0;0;1;0;0;0;recherche;0421523C;UN11;0421523C;311
+867;132;Centre de documentation recherche IHRIM;associée;0;35, rue du 11 novembre [RC] Bât M;42023;SAINT-ETIENNE;0;0;1;0;0;0;recherche;0421523C;UN12;0421523C;311
+868;132;Centre de documentation recherche LEM-CERCOR;associée;0;35, rue du 11 novembre [RC] Bât M;42023;SAINT-ETIENNE;0;0;1;0;0;0;recherche;0421523C;UN13;0421523C;311
+869;132;Direction et bibliothèque numérique;autre;1;1, rue Tréfilerie;42023;Saint-Etienne;0;0;0;0;0;0;;0421523C;UN15;0421523C;311
+870;132;Bibliothèque universitaire Manufacture;autre;0;25, rue du Docteur Rémy Annino;42000;SAINT-ETIENNE;0;0;0;1;0;1;mixte;0421523C;UN16;0421523C;311
+871;132;Centre de documentation recherche CELEC;associée;0;35, rue du 11 novembre [RC] Bât M;42023;SAINT-ETIENNE;0;0;1;0;0;0;recherche;0421523C;UN17;0421523C;311
+872;133;centrale;autre;0;;75005;PARIS;0;0;1;0;0;0;mixte;0752705H;Un00;0752705H;314
+873;133;Géographie;autre;0;Institut de géographie [RC] 191 rue St Jacques;75005;PARIS;0;0;1;0;0;0;mixte;0752705H;Un01;0752705H;314
+874;134;Bibliothèque des Arts;autre;0;9 place de l'Université;67084;Strasbourg;0;0;1;0;0;0;mixte;0673029D;UN00;0673029D;315
+875;134;Bibliothèque IGBMC (Institut génétique et biologie moléculai;associée;0;Parc d'innovation;67400;Illkirch;0;0;0;1;0;0;mixte;0673029D;UN01;0673029D;315
+876;134;Bibliothèque CUEJ (Centre Univ. Enseignement Journalisme);autre;0;11 rue du Maréchal Juin;67046;Strasbourg;0;0;1;0;0;0;étudiant;0673029D;Un02;0673029D;315
+877;134;Bibliothèque Droit recherche;autre;0;11 rue du Maréchal Juin;67046;Strasbourg;1;0;0;0;0;0;recherche;0673029D;Un03;0673029D;315
+878;134;Bibliothèque Faculté de droit;autre;0;1 place d'Athènes;67045;Strasbourg;1;0;0;0;0;0;étudiant;0673029D;Un04;0673029D;315
+879;134;Bibliothèque Histoire 1er cycle;autre;0;9 place de l'Université;67084;Strasbourg;0;0;1;0;0;0;étudiant;0673029D;UN05;0673029D;315
+880;134;Bibliothèque PEGE (Pôle Européen de Gestion et d'Economie);autre;0;61 avenue de la Forêt Noire;67085;Strasbourg;0;1;0;0;0;0;mixte;0673029D;Un06;0673029D;315
+881;134;Bibliothèque de Recherche en Histoire;autre;0;9 place de l'Université;67000;Strasbourg;0;0;1;0;0;0;recherche;0673029D;UN07;0673029D;315
+882;134;Bibliothèque IEP IPAG;autre;0;47 avenue de la Forêt Noire;67082;Strasbourg;1;0;0;0;0;0;mixte;0673029D;UN08;0673029D;315
+883;134;Bibliothèque IUT-Pharmacie;autre;0;74A route du Rhin;67400;Illkirch;0;0;1;1;1;0;mixte;0673029D;Un09;0673029D;315
+884;134;Bibliothèque IDT (Institut Du Travail);autre;0;39 avenue de la Forêt Noire;67000;Strasbourg;1;0;0;0;0;0;mixte;0673029D;Un10;0673029D;315
+885;134;Bibliothèque de l'ECPM (Ecole européenne de chimie, polymère;autre;0;25 rue Becquerel;67200;Strasbourg;0;0;0;1;0;0;mixte;0673029D;UN11;0673029D;315
+886;134;Bibliothèque MISHA (Maison Inter-U Sciences Homme Alsace);autre;0;5 allée du général Rouvillois;67083;Strasbourg;0;0;1;0;0;0;recherche;0673029D;UN13;0673029D;315
+887;134;Bibliothèque Langues;autre;0;22 rue Descartes;67084;Strasbourg;0;0;1;0;0;0;mixte;0673029D;UN14;0673029D;315
+888;134;Bibliothèque Education et enseignement Strasbourg;autre;0;144 avenue de Colmar;67024;Strasbourg;1;0;0;0;1;0;mixte;0673029D;UN15;0673029D;315
+889;134;Bibliothèque Sciences sociales;autre;0;22 rue Descartes;67084;Strasbourg;0;0;1;0;0;0;mixte;0673029D;UN16;0673029D;315
+890;134;Bibliothèque de l'Observatoire astronomique;associée;0;11 rue de l'Université;67000;Strasbourg;0;0;0;1;0;0;recherche;0673029D;UN17;0673029D;315
+891;134;Bibliothèque Portique;autre;0;14 rue René Descartes;67084;Strasbourg;0;0;1;0;0;0;mixte;0673029D;UN18;0673029D;315
+892;134;Bibliothèque Psychologie;autre;0;12 rue Goethe;67000;Strasbourg;0;0;1;1;1;0;mixte;0673029D;UN20;0673029D;315
+893;134;Bibliothèque Géographie;autre;0;3 rue de l'Argonne;67083;Strasbourg;0;0;1;0;0;0;mixte;0673029D;UN21;0673029D;315
+894;134;Bibliothèque Pôle API;autre;0;300 boulevard Sébastien Brandt;67412;Illkirch;0;0;0;1;0;0;mixte;0673029D;UN22;0673029D;315
+895;134;Bibliothèque Centrale de Recherche Cronenbourg (BCR);autre;0;23 rue du Loess;67200;Strasbourg;0;0;0;1;0;0;mixte;0673029D;UN23;0673029D;315
+896;134;Bibliothèque Médecine et Odontologie (BMO);autre;0;4 rue Kirschleger;67084;Strasbourg;0;0;0;0;1;0;mixte;0673029D;UN25;0673029D;315
+897;134;Bibliothèque historique de la Faculté de médecine;associée;0;Bât. Anatomie Pathologique - Hôpitaux Universitaires de Strasbourg;67000;Strasbourg;0;0;0;1;1;1;mixte;0673029D;UN29;0673029D;315
+898;134;Bibliothèque Education et enseignement Colmar;autre;0;12 rue Messimy;68000;Colmar;0;0;1;0;1;0;mixte;0673029D;UN30;0673029D;315
+899;134;Bibliothèque l'Alinéa;autre;0;4 rue Descartes;67007;Strasbourg;1;0;1;0;0;0;étudiant;0673029D;UN31;0673029D;315
+900;134;Bibliothèque Education et enseignement Sélestat;autre;0;1 rue Froelich;67604;Sélestat;1;0;0;0;1;0;mixte;0673029D;UN32;0673029D;315
+901;134;Bibliothèque IREM;associée;0;10 rue du Général Zimmer;67000;Strasbourg;0;0;0;1;0;0;mixte;0673029D;UN34;0673029D;315
+902;134;Bibliothèque IUT Louis Pasteur;associée;0;1 allée d'Athènes;67300;Schiltigheim;1;1;0;1;0;0;mixte;0673029D;UN35;0673029D;315
+903;134;Bibliothèque CEIPI;associée;0;11 rue du maréchal Juin;67000;Strasbourg;1;0;0;0;0;0;mixte;0673029D;UN36;0673029D;315
+904;134;Bibliothèque IRMA (Inst. Recherche Mathématiques Avancées);associée;0;7 rue René Descartes;67000;Strasbourg;0;0;0;1;0;0;recherche;0673029D;UN37;0673029D;315
+905;134;Bibliothèque IPCMS (Inst. Physique et chimie des matériaux);associée;0;23 rue du Loess;67200;Strasbourg;0;0;0;1;0;0;mixte;0673029D;UN38;0673029D;315
+906;134;Bibliothèque Géologie;associée;0;1 rue Blessig;67000;Strasbourg;0;0;0;1;0;0;mixte;0673029D;UN39;0673029D;315
+907;134;Bibliothèque ENGEES (Génie de l'eau et de l'environnement);associée;0;1 quai Koch;67000;Strasbourg;0;0;0;1;0;0;mixte;0673029D;UN40;0673029D;315
+908;134;Bibliothèque de géophysique;associée;0;5 rue René Descartes;67000;Strasbourg;0;0;0;1;0;0;mixte;0673029D;UN41;0673029D;315
+909;134;Bibliothèque Théologie;associée;0;9 place de l'Université;67034;Strasbourg;0;0;1;0;0;0;mixte;0673029D;UN42;0673029D;315
+910;135;Bibliothèque nationale et universitaire;autre;0;6 place de la République;67000;Strasbourg;1;1;1;0;0;1;mixte;0671451N;Un00;;319
+911;136;Bibliothèque;autre;0;24 boulevard de la Victoire;67084;Strasbourg;0;0;0;1;0;1;mixte;0670190T;UN00;;320
+912;137;BU La Garde;autre;0;Avenue de l’Université;83130;La Garde;0;1;1;1;0;0;mixte;0830989Z;Un00;0830989Z;325
+913;137;BU Droit Toulon;autre;0;35, Avenue Alphonse Daudet;83070;Toulon Cedex;1;0;0;0;0;0;mixte;0830989Z;Un01;0830989Z;325
+914;137;BU SeaTech;autre;0;AVENUE G. POMPIDOU;83162;LA VALETTE DU VAR;0;0;0;1;0;0;mixte;0830989Z;Un02;0830989Z;325
+915;137;Administration générale;autre;1;Campus La Garde;83130;La Garde;0;0;0;0;0;0;mixte;0830989Z;UN03;0830989Z;325
+916;137;BU Droit Draguignan;autre;0;Rue Jean Aicard;83005;Draguignan;1;0;0;0;0;0;mixte;0830989Z;UN04;0830989Z;325
+917;137;BU Éco-Gestion-Média;autre;0;Campus Porte d'Italie [RC] 70, Avenue Roger Devoucoux;83000;Toulon;0;1;0;0;0;1;mixte;0830989Z;UN05;0830989Z;325
+918;138;Arsenal;autre;0;11 rue des Puits-creusés;31000;Toulouse;1;1;1;0;0;1;mixte;0312480C;Un00;0312480C;326
+919;138;Manufacture;autre;0;21 allées de Brienne;31005;Toulouse Cedex 06;1;1;0;0;0;1;mixte;0312480C;Un01;0312480C;326
+920;138;Administration Générale;autre;1;;;;0;0;0;0;0;0;;0312480C;Un02;0312480C;326
+921;138;Garrigou-Boutaric;autre;0;2 rue Albert Lautman;31042;Toulouse Cedex;1;1;1;0;0;1;mixte;0312480C;UN03;0312480C;326
+922;138;Centre Universitaire de Tarn-et-Garonne-Médiathèque Montauri;associée;0;116 boulevard Montauriol;82000;Montauban;1;0;0;0;0;1;étudiant;0312480C;UN04;0312480C;326
+923;138;INSTITUT D'ETUDES JUDICIAIRES;associée;0;;;;0;0;0;0;0;0;;0312480C;UN05;0312480C;326
+924;138;Institut d'Etudes Politiques;associée;0;Bibliothèque de l'Institut d'Etudes Politiques, 2 ter rue des Puits Creusés;31000;Toulouse;1;1;1;0;0;1;mixte;0312480C;UN06;0312480C;326
+925;138;IUT Rodez;associée;0;50 avenue de Bordeaux;12000;Rodez;1;1;1;1;0;1;étudiant;0312480C;UN07;0312480C;326
+926;138;Centre Toulousain d'Histoire du Droit et des Idées Politique;associée;0;Bibliothèque Germain Sicard [RC] 2 rue du Doyen Gabriel Marty;31000;Toulouse;1;0;0;0;0;0;mixte;0312480C;UN08;0312480C;326
+927;138;Centre de droit des affaires;associée;0;Salle MC 409 - Manufacture des tabacs, 21 allée de Brienne;31042;CEDEX9 Toulouse;1;0;0;0;0;0;recherche;0312480C;UN09;0312480C;326
+928;138;Salle de travail de l'institut de droit privé IDP;associée;0;Université Toulouse 1 Capitole - INSTITUT DE DROIT PRIVE - Bât Arsenal - Bureau AR 226 - 2 Rue du Do;31042;Toulouse;1;0;0;0;0;0;recherche;0312480C;UN10;0312480C;326
+929;139;Bibliothèque Universitaire Centrale;autre;0;5, allée Antonio Machado;31106;Toulouse Cédex;0;0;1;0;0;0;mixte;0312477Z;Un00;0312477Z;327
+930;139;Direction du SCD (unité fictive);autre;1;5, allées Antonio Machado;31106;Toulouse;0;0;1;0;0;0;mixte;0312477Z;UN01;0312477Z;327
+931;139;Bibliothèque de l'ESPE;autre;0;56, avenue de l'URSS;31078;Toulouse;0;0;1;0;0;1;étudiant;0312477Z;UN02;0312477Z;327
+932;139;Centre de ressources Olympe de Gouges;autre;0;5, allées Antonio Machado [RC] Bâtiment Olympe de Gouges;31058;Toulouse;0;1;1;0;0;0;étudiant;0312477Z;UN03;0312477Z;327
+933;139;Centre de ressources Lettres, Arts, Philosophie;associée;0;5, allées Antonio Machado [RC] Bâtiment "Gai Savoir";31058;Toulouse;0;0;1;0;0;0;étudiant;0312477Z;UN04;0312477Z;327
+934;139;Centre universitaire Tarn-et-Garonne; Médiatèque Montauriol;associée;0;116, Boulevard Montauriol;82000;Montauban;0;0;0;0;0;1;étudiant;0312477Z;UN05;0312477Z;327
+935;139;Centre de Ressources des Langues;associée;0;5, allées Antonio Machado;31058;Toulouse;0;0;1;0;0;0;étudiant;0312477Z;UN06;0312477Z;327
+936;139;Centre de ressources de Foix;associée;0;4, rue Raoul Lafagette;9000 ;Foix;0;0;1;0;0;0;étudiant;0312477Z;UN07;0312477Z;327
+937;139;Centre de ressources de psychologie Louise Michel;associée;0;5,allées Antonio Machado;31058;Toulouse;0;0;1;0;0;0;mixte;0312477Z;UN08;0312477Z;327
+938;139;Bibliothèque de l'IUT Blagnac;associée;0;1, place Georges Brassens;31703;Blagnac;0;0;1;1;0;1;mixte;0312477Z;UN09;0312477Z;327
+939;139;Bibiothèque d'Etudes Méridionales;associée;0;56 rue du TAUR;31000;Toulouse;0;0;1;0;0;0;mixte;0312477Z;UN11;0312477Z;327
+940;139;Espace Documentation Recherche;associée;0;5, allées Antonio Machado;31058;Toulouse;0;0;1;0;0;0;recherche;0312477Z;UN12;0312477Z;327
+941;139;Médiathèque de l'ENSAV;associée;0;56, rue du Taur;31000;Toulouse;0;0;1;0;0;0;mixte;0312477Z;UN13;0312477Z;327
+942;139;Bibliothèque IUT Figeac;associée;0;Avenue de Nayrac;46100;Figeac;1;1;1;1;1;0;mixte;0312477Z;UN14;0312477Z;327
+943;140;Bibliothèque universitaire de Santé - Allées Jules Guesde;autre;0;Faculté de Médecine Purpan [RC] 37, allées Jules Guesde;31062;TOULOUSE cedex 9;0;0;0;0;1;0;mixte;0312461G;Un00;0312461G;328
+944;140;Bibliothèque universitaire de Santé Rangueil;autre;0;65, chemin du Vallon;31062;TOULOUSE cedex 9;0;0;0;0;1;0;mixte;0312461G;Un01;0312461G;328
+945;140;bibliothèque universitaire de Sciences;autre;0;118, route de Narbonne;31062;TOULOUSE cedex 9;0;0;0;1;0;0;mixte;0312461G;Un02;0312461G;328
+946;140;Université Toulouse 3 - SCD Afafires générales;autre;1;118, route de Narbonne;31062;TOULOUSE cedex 9;0;0;0;0;0;1;mixte;0312461G;UN03;0312461G;328
+947;140;IUT site Ponsan - centre de ressources documentaires;autre;0;115 route de Narbonne [RC] BP 67701;31077;TOULOUSE;1;1;1;1;0;1;étudiant;0312461G;UN04;0312461G;328
+948;140;IUT de Tarbes - Bibliothèque;autre;0;1, rue Lautréamont;65000;TARBES;1;1;1;1;0;1;étudiant;0312461G;UN05;0312461G;328
+949;140;IUT site Rangueil - centre de ressources documentaires;autre;0;133 avenue de Rangueil;31077;TOULOUSE;1;1;0;1;0;1;étudiant;0312461G;UN06;0312461G;328
+950;140;CDRSHS-UPS - Centre de documentation pour la recherche SHS;associée;0;"IUT A,  [RC] 115 route de Narbonne";31077;TOULOUSE cedex;1;1;1;1;0;0;mixte;0312461G;UN07;0312461G;328
+951;140;Bibliothèque de l'IRSAMC;associée;0;Université Paul Sabatier [RC] IRSAMC118 route de Narbonne - Bat. IIIR1-B4 -;31062;TOULOUSE cedex 9;0;0;0;1;0;0;recherche;0312461G;UN08;0312461G;328
+952;140;Centre de ressources documentaires - IUT de Castres;associée;0;IUT de CASTRES - Centre de Ressources documentaires [RC] Av. Georges Pompidou;81104;Castres cedex;1;1;1;1;1;0;étudiant;0312461G;UN09;0312461G;328
+953;140;Bibliothèque Faculté de Chirurgie dentaire et Odontologie;associée;0;Faculté de chirurgie dentaire et Odontologie [RC] 9, chemin des Maraîchers;31062;TOULOUSE cedex 9;0;0;0;0;1;0;étudiant;0312461G;UN10;0312461G;328
+954;140;Bibliothèque Institut de Recherche Informatique de Toulouse;associée;0;118, route de Narbonne;31062;TOULOUSE cedex 9;0;0;0;1;0;0;mixte;0312461G;UN11;0312461G;328
+955;140;Bibliothèque Institut Claudius Régaud;associée;0;Institut universitaire du Cancer de Toulouse [RC] 1, av. Irène Joliot-Curie;31059;TOULOUSE cedex 9;0;0;0;0;1;0;mixte;0312461G;UN12;0312461G;328
+956;140;Bibliothèque communue Auch Canopé - ESPE - IUT;associée;0;27, rue d'Embaquès;32000;AUCH;1;1;0;1;0;1;étudiant;0312461G;UN13;0312461G;328
+957;140;Centre de documentation Observatoire Midi-Pyrénées;associée;0;14, avenue Edouard Belin;31400;TOULOUSE;0;0;0;1;0;0;mixte;0312461G;UN14;0312461G;328
+958;140;Bibliothèque de l'Institut de Mathématiques de Toulouse;associée;0;IMT - Bâtiment 1R2  [RC] 118, route de Narbonne;31062;TOULOUSE cedex 9;0;0;0;1;0;0;mixte;0312461G;UN15;0312461G;328
+959;140;Service de documentation de Chimie;associée;0;Université Toulouse 3- Service de documentation de Chimie [RC] Bât.2R1 118, route de Narbonne;31062;TOULOUSE cedex 9;0;0;0;1;0;0;recherche;0312461G;UN16;0312461G;328
+960;140;Bib. d'épidémiologie (Centre Régio. Doc. Santé publique);associée;0;Faculté de Médecine Purpan [RC] 37, allées Jules Guesde;31000;TOULOUSE;0;0;0;0;1;0;mixte;0312461G;UN17;0312461G;328
+961;141;ENSAT;autre;0;Avenue de l'Agrobiopole [RC] BP 32607;31326;Castanet-Tolosan;0;0;0;1;0;0;mixte;0312481D;Un00;0312481D;329
+962;141;ENSEEIHT;autre;0;2, rue Charles Camichel [RC] BP 7122;31071;Toulouse Cedex 7;0;0;0;1;0;0;mixte;0312481D;Un01;0312481D;329
+963;141;ENSIACET;autre;0;4, allée Emile Monso - BP 44362;31030;Toulouse Cedex 4;0;0;0;1;0;0;mixte;0312481D;UN02;0312481D;329
+964;141;Affaires Générales du SCD;autre;1;6 Allée Emile Monso;31029;Toulouse Cedex 4;0;0;0;1;0;0;mixte;0312481D;UN03;0312481D;329
+965;141;ENVT;associée;0;23 chemin des Capelles [RC] BP 87614;31076;Toulouse Cedex 3;0;0;1;1;1;0;mixte;0312481D;UN04;0312481D;329
+966;141;ENIT;associée;0;47 avenue d'Azereix [RC] BP 1629;65016;Tarbes Cedex;0;0;0;1;0;0;mixte;0312481D;UN05;0312481D;329
+967;141;Ecole d'Ingénieurs de Purpan;associée;0;75 voie du TOEC [RC] BP 57611;31076;Toulouse Cedex 3;0;0;0;1;0;1;mixte;0312481D;UN06;0312481D;329
+968;141;Bibliothèque de l'Institut de Mécanique des Fluides deTlse;associée;0;Allée du Pr. Camille Soula;31400;Toulouse;0;0;0;1;1;0;recherche;0312481D;UN07;0312481D;329
+969;141;Bibliothèque INP du laboratoire LAPLACE (ex LEEI);associée;0;2 Rue Charles Camichel [RC] BP 7122;31071;Toulouse Cedex 7;0;0;0;1;0;1;mixte;0312481D;UN08;0312481D;329
+970;141;Médiathèque de la météopole de Toulouse;associée;0;42 avenue Gaspard Coriolis [RC] BP 45712;31057;Toulouse Cedex 1;0;0;0;1;0;0;mixte;0312481D;UN09;0312481D;329
+971;142;BIB'INSA (bibliothèque centrale);autre;0;135 avenue de Rangueil;31077;Toulouse cedex 4;0;0;0;1;0;0;mixte;0310152X;UN01;;330
+972;143;SICD - Livre ancien;autre;0;11 rue des puits creusés;31000;Toulouse;1;1;1;1;1;0;mixte;0312479B;UN00;0312479B;332
+973;144;Bibliothèque universitaire de Blois;autre;0;6, place Jean Jaurès (2e étage);41000;BLOIS;1;0;0;1;0;1;mixte;0370853B;Un00;0370853B;333
+974;144;Bibliothèque universitaire des Deux Lions;autre;0;50 avenue Jean Portalis [RC] BP 607;37206;TOURS;1;1;1;0;0;0;mixte;0370853B;Un01;0370853B;333
+975;144;Bibliothèque universitaire des Tanneurs;autre;0;3 rue des Tanneurs;37041;Tours;0;0;1;0;0;0;mixte;0370853B;Un02;0370853B;333
+976;144;Bibliothèque universitaire de Médecine Emile-Aron;autre;0;10 bd Tonnellé [RC] BP 3223;37032;Tours cedex 1;0;0;0;0;1;0;mixte;0370853B;Un03;0370853B;333
+977;144;Bibliothèque universitaire de Grandmont;autre;0;Parc de Grandmont;37200;TOURS;0;0;0;1;1;0;mixte;0370853B;Un04;0370853B;333
+978;144;Centre de documentation IUT;autre;0;29 rue du Pont Volant;37082;Tours cédex 2;1;1;1;1;1;1;mixte;0370853B;UN06;0370853B;333
+979;144;Laboratoire de mathématiques et physique théorique;associée;0;Parc de Grandmont, UFR sciences et techniques;37200;Tours;0;0;0;1;0;0;mixte;0370853B;UN07;0370853B;333
+980;144;Départements d'histoire, histoire de l'art et archéologie;associée;0;3 rue des tanneurs;37041;Tours cedex 1;0;0;1;0;0;1;mixte;0370853B;UN08;0370853B;333
+981;144;Bibliothèque musicale Jean-Yves Couteau;associée;0;2 ter rue des Ursulines;37000;Tours;0;0;1;0;0;0;mixte;0370853B;UN09;0370853B;333
+982;144;Département de Philosophie;associée;0;3 rue des tanneurs [RC] salle 422;37000;Tours;0;0;1;0;0;0;mixte;0370853B;UN10;0370853B;333
+983;144;UFR  CESR (Centre d'études supérieures de la Renaissance);associée;0;59 rue Néricault-Destouches BP 12050;37020;Tours cedex 1;0;0;1;0;0;0;recherche;0370853B;UN12;0370853B;333
+984;144;UFR Droit-Recherche;associée;0;50 avenue Jean Portalis BP 0607;37206;Tours cedex 3;1;1;0;0;0;0;mixte;0370853B;UN13;0370853B;333
+985;144;Polytech-Tours DI-DEE-DMS;associée;0;64 avenue Jean Portalis;37200;Tours;0;0;0;1;0;1;mixte;0370853B;UN14;0370853B;333
+986;144;Polytech-Tours aménagement;associée;0;35 allée Ferdinand de Lesseps;37200;Tours;1;1;1;1;0;1;mixte;0370853B;UN15;0370853B;333
+987;144;Maison de l'orientation et de l'insertion professionnelle;associée;0;60 rue du Plat d'étain - BP 12050;37020;Tours Cedex 1;0;0;0;0;0;1;étudiant;0370853B;UN17;0370853B;333
+988;144;Institut européen d'histoire et cultures de l'alimentation;associée;0;116 boulevard Béranger;37000;Tours;0;0;1;0;0;0;mixte;0370853B;UN18;0370853B;333
+989;144;Centre de Formation Universitaire d'Orthophonie;associée;0;Extension de la faculté de médecine [RC] Site André Gouazé [RC] 10 rue Emile-aron;37250;LA RICHE;0;0;0;0;1;0;étudiant;0370853B;UN19;0370853B;333
+990;145;Bibliothèque de l'Université de Technologie de Troyes;autre;0;12 rue Marie CURIE [RC] CS 42060;10004;TROYES;0;1;1;1;0;0;mixte;0101082X;Un00;0101082X;334
+991;146;BU Cambrai;autre;0;6, rue de Rambouillet [RC] CS 20444;59408;Cambrai cedex;1;0;1;1;0;1;mixte;0595346R;Un00;0595346R;339
+992;146;BU Tertiales;autre;0;Caserne Ronzier [RC] Boulevard Harpignies;59313;Valenciennes cedex 9;1;1;0;0;0;1;mixte;0595346R;Un01;0595346R;339
+993;146;BU Maubeuge;autre;0;Boulevard Charles De Gaulle;59600;Maubeuge;0;0;0;1;0;1;mixte;0595346R;Un02;0595346R;339
+994;146;BU Mont Houy;autre;0;Le Mont Houy;59313;Valenciennes cedex 9;0;0;1;1;0;0;mixte;0595346R;UN03;0595346R;339
+995;146;Ressources électroniques;autre;1;Ressources électroniques [RC] Le Mont Houy;59313;Valenciennes cedex 9;1;1;1;1;0;0;mixte;0595346R;UN04;0595346R;339
+996;147;Bu des Sciences de Versailles;autre;0;45 avenue des Etats Unis;78000;versailles;0;0;0;1;1;0;mixte;0783398V;UN00;0783398V;341
+997;147;Bibliothèque numérique;autre;1;ne s'applique pas;     ;;1;1;1;1;1;1;recherche;0783398V;UN01;0783398V;341
+998;147;Bibliothèque médicale de Boulogne;autre;0;Hôpital Ambroise Paré,9 avenue Charles de Gaulle;92104;BOULOGNE;0;0;0;0;1;0;étudiant;0783398V;UN02;0783398V;341
+999;147;BU de Saint-Quentin-En -Yvelines;autre;0;BU, 45 boulevard Vauban;78280;GUYANCOURT;1;1;1;1;1;0;mixte;0783398V;UN03;0783398V;341
+1000;147;Laboratoire de mathématique de Versailles (LMV);associée;0;UFR des Sciences, bâtiment FERMAT [RC] 45 avenue des Etats Unis;78035;VERSAILLES;0;0;0;1;0;0;recherche;0783398V;UN04;0783398V;341
+1001;147;laboratoire LATMOS;associée;0;11 boulevard d'Alembert;78280;GUYANCOURT;0;0;0;1;0;0;recherche;0783398V;UN05;0783398V;341
+1002;147;IUT (pôle technologique) VELIZY;autre;0;10-12 avenue de l'Europe;78140;VELIZY-VILLACOUBLAY;0;0;1;1;0;0;étudiant;0783398V;UN06;0783398V;341
+1003;147;IUT (pôle technologique) RAMBOUILLET;autre;0;18 allée des VIGNES;78120;RAMBOUILLET;1;1;0;1;0;0;étudiant;0783398V;UN07;0783398V;341
+1004;147;IUT (pôle technologique)MANTES;autre;0;7 rue Jean Hoet;78200;MANTES LA JOLIE;1;1;0;1;0;1;étudiant;0783398V;UN08;0783398V;341
+1005;147;laboratoire VIP;associée;0;Centre de Recherche de [RC] Versailles Saint Quentin en Yvelines;78280;GUYANCOURT;1;0;0;0;0;0;mixte;0783398V;UN09;0783398V;341
+1006;147;laboratoire ESR/DYPAC;associée;0;Salle 307,UFR SHS , 47 boulevard VAUBAN;78280;GUYANCOURT;0;0;1;0;0;0;mixte;0783398V;UN10;0783398V;341
+1007;147;Laboraroire DANTE;associée;0;UFR Droit et Sciences Politiques , 3 rue de la Division Leclerc;78280;GUYANCOURT;1;0;0;0;0;0;mixte;0783398V;UN11;0783398V;341
+1008;147;laboratoire CHSC, bibliothèque du Centre d'Histoire Culturel;associée;0;47 boulevard VAUBAN, salles 600-601;78280;GUYANCOURT;1;0;1;0;0;0;mixte;0783398V;UN12;0783398V;341
+1009;147;bibliothèque Claude Dubar ( Printemps);associée;0;47 boulevard VAUBAN;78280;guyancourt;0;1;1;0;0;0;mixte;0783398V;UN13;0783398V;341
+1010;148;Bibliothèque universitaire;autre;0;Campus de Troubiran [RC] 2091 route de Baduel10 [RC] BP 21179;97346;Cayenne;1;1;1;1;1;1;mixte;9730482L;UN00;9730482L;342
+1011;149;Grand Equipement Documentaire;autre;0;20 avenue George Sand;93210;Saint-Denis La Plaine;0;0;1;0;0;1;recherche;093GEDCC;UN00;;343
+1012;150;BU ESPE ARRAS;autre;0;7 bis rue Raoul François;62022;Arras;0;1;1;1;0;1;mixte;0596870X;UN00;;344
+1013;150;BU ESPE DOUAI;autre;0;;     ;;0;1;1;1;0;1;mixte;0596870X;UN01;;344
+1014;150;BU ESPE GRAVELINES;autre;0;40 rue Victor Hugo;59820;Gravelines;0;1;1;1;0;1;mixte;0596870X;UN02;;344
+1015;150;BU ESPE OUTREAU;autre;0;10, rue Hippolyte Adam;62230;Outreau;0;1;1;1;0;1;mixte;0596870X;UN03;;344
+1016;150;BU ESPE VALENCIENNES;autre;0;Campus Universitaire du Mont Houy;59304;Famars;0;1;1;1;0;1;mixte;0596870X;UN04;;344
+1017;150;BU ESPE VILLENEUVE D'ASCQ;autre;0;365 bis rue Jules Guesde;59658;Villeneuve d'Ascq;0;1;1;1;0;1;mixte;0596870X;UN05;;344
+1018;150;BU ESPE Fonds Patrimonial Ecole Normale Instit;autre;0;7 bis rue Raoul François;62022;Arras;1;1;1;1;1;1;mixte;0596870X;UN06;;344
+1019;151;BU MEDECINE-PHARMACIE;autre;0;Place du commandant Nal;38700;LA TRONCHE;0;0;0;0;1;0;mixte;0383505D;Un00;0383505D;345
+1020;151;BU JOSEPH FOURIER (ex BU SCIENCES);autre;0;915 AVENUE CENTRALE;38400;SAINT MARTIN D'HERES;0;0;0;1;0;0;mixte;0383505D;Un01;0383505D;345
+1021;151;BU PROFESSORAT EDUCATION;autre;0;30 avenue Marcelin Berthelot;38100;GRENOBLE;0;1;1;1;0;1;mixte;0383505D;UN02;0383505D;345
+1022;151;DLST - L'R;associée;0;Département Licence Sciences et Technologies [RC] 480 Avenue centrale [RC] Domaine universitaire;38400;SAINT MARTIN D'HERES;0;0;0;1;0;0;étudiant;0383505D;UN03;0383505D;345
+1023;151;BU PROFESSORAT EDUCATION GRENOBLE;autre;0;30 avenue Marcelin Berthelot;38100;GRENOBLE;0;1;1;1;0;1;mixte;0383505D;UN04;0383505D;345
+1024;151;BIBLIOTHEQUE INSTITUT FOURIER;associée;0;Université Grenoble Alpes UMR5582 CNRS UGA [RC] 100 rue des mathématiques;38610;GIERES;0;0;0;1;0;0;recherche;0383505D;UN05;0383505D;345
+1025;151;INSTITUT de GEOGRAPHIE ALPINE. BIBLIOTHEQUE et CARTOTHEQUE;associée;0;14 bis avenue Marie Reynoard;38100;GRENOBLE;0;0;1;1;0;0;mixte;0383505D;UN06;0383505D;345
+1026;151;Bibliothèque IUT1;associée;0;151 rue de la papeterie;38400;ST MARTIN D'HERES;0;0;0;1;0;0;mixte;0383505D;UN07;0383505D;345
+1027;151;MI2S Bibliothèque IMAG;associée;0;700 Avenue centrale;38041;SAINT MARTIN D HERES;1;1;1;1;1;1;recherche;0383505D;UN08;0383505D;345
+1028;151;POLYTECH;associée;0;14 Place du Conseil National de la Résistance [RC] BP53;38240;SAINT MARTIN D'HERES;0;0;0;1;0;0;étudiant;0383505D;UN09;0383505D;345
+1029;151;GRENOBLE INP mediatheque ENSE3 GreEn-ER;associée;0;21 AVENUE DES MARTYRS;38000;GRENOBLE;0;0;0;1;0;0;mixte;0383505D;UN10;0383505D;345
+1030;151;bib de l'Inst. de Rech. sur l'Enseignement des Mathématiquh.;associée;0;100 rue des mathématiques;38400;SAINT MARTIN D'HERES;0;0;0;1;0;0;mixte;0383505D;UN11;0383505D;345
+1031;151;GRENOBLE INP -  BIBLIOTHEQUE GENIE INDUSTRIEL;associée;0;46 avenue Félix Viallet;38031;GRENOBLE;0;0;0;1;0;0;mixte;0383505D;UN12;0383505D;345
+1032;151;CDR OLIVIER DE SERRES;associée;0;Domaine Olivier de Serres [RC] Le Pradel;07170;MIRABEL;0;0;1;1;0;0;mixte;0383505D;UN13;0383505D;345
+1033;151;GIPSA-LAB BIBLIOTHEQUE MUTUALISEE;associée;0;GIPSA-Lab  [RC] ENSE3  [RC] 11 rue des mathématiques;38400;SAINT MARTIN D'HERES;0;0;0;1;0;0;recherche;0383505D;UN14;0383505D;345
+1034;151;BIBLIOTHEQUE ANSELME PAYEN PAGORA;associée;0;421 rue de la papeterie;38400;SAINT MARTIN D'HERES;0;0;0;1;0;0;mixte;0383505D;UN15;0383505D;345
+1035;151;BIBLIOTHEQUE PHELMA;associée;0;3, parvis Louis Néel;38016;GRENOBLE;0;0;0;1;0;0;mixte;0383505D;UN16;0383505D;345
+1036;151;PHITEM ESPACE MULTIMEDIA;associée;0;126 rue de la piscine [RC] bât A Michel Soutif;38400;SAINT MARTIN D'HERES;0;0;0;1;0;0;étudiant;0383505D;UN17;0383505D;345
+1037;151;IUT2 Learning Centre;associée;0;2, place Doyen Gosse;38000;Grenoble;1;1;1;1;0;0;étudiant;0383505D;UN18;0383505D;345
+1038;151;Centre de documentation IUT GEA Verdun;associée;0;1, place de Verdun;38000;Grenoble;1;1;1;0;0;0;étudiant;0383505D;UN19;0383505D;345
+1039;151;Bibliothèque du CHRIPA;associée;0;Bâtiment Arsh 1er étage, 1281 avenue centrale;38400;Saint Martin d'Hères;0;0;1;0;0;0;recherche;0383505D;Un20;0383505D;345
+1040;151;Bibliothèque CREG - GAEL;associée;0;Université Grenoble Alpes Bâtiment Économie Gestion  [RC] 1241 rue des Résidences;38400;Saint Martin D'Hères;0;1;0;0;0;0;recherche;0383505D;UN21;0383505D;345
+1041;151;Bibliothèque Universitaire Droit Lettres de Grenoble;autre;0;1130 avenue centrale;38400;Saint Martin d'Hères;1;1;1;0;0;0;mixte;0383505D;UN22;0383505D;345
+1042;151;Service de documentation  GAEL énergie climat;associée;0;Bâtiment éco-gestion de l'UG? 1221 rue des résidences;38400;Saint Martin d'Hères;0;1;0;0;0;0;recherche;0383505D;Un23;0383505D;345
+1043;151;Bibliothèque de Master de la Faculté d'économie;associée;0;1241 rue des résidences [RC] Domaine Universitaire;38400;Saint Martin d'Hères;0;1;0;0;0;0;mixte;0383505D;Un24;0383505D;345
+1044;151;Bibliothèque de l'IAE;associée;0;525, avenue centrale;38400;SAINT MARTIN D HERES;1;1;0;0;0;1;étudiant;0383505D;Un25;0383505D;345
+1045;151;Bibliothèque de l'UFR Langues étrangères;associée;0;UGA Bâtiment Stendhal F - salle 202 [RC] 1381 rue des résidences [RC] Domaine universitaire;38400;Saint Martin d'Hères;0;1;1;0;0;1;mixte;0383505D;Un26;0383505D;345
+1046;151;Bilbiothèque d'études anglophones;associée;0;;;;0;0;0;0;0;0;;0383505D;Un27;0383505D;345
+1047;151;Bibliothèque Lettres et Arts du Spectacle;associée;0;Bâtiment D Stendhal,  1180 avenue centrale;38400;Saint Martin d'Hères;0;0;1;0;0;0;mixte;0383505D;Un28;0383505D;345
+1048;151;Bibliothèque du département des sciences du langage;associée;0;Bâtiment D Stendhal,  1180 avenue centrale;38400;Saint Martin d'Hères;0;0;1;0;0;1;mixte;0383505D;Un29;0383505D;345
+1049;151;Centre de ressources de l'UFR Arts & Sc. Humaines;associée;0;1281 avenue centrale;38400;Saint Martin d'Hères;1;1;1;1;0;0;mixte;0383505D;Un30;0383505D;345
+1050;151;Centre de documentation GIPSA lab dép parole cognition;associée;0;Bâtiment Stendhal salle C005/C007,1180 avenue centrale;38400;Saint Martin d'Hères;0;0;1;0;0;1;mixte;0383505D;Un31;0383505D;345
+1051;151;Institut d'Urbanisme de Grenoble;associée;0;14, rue Marie Reynoard;38100;Grenoble;1;1;1;0;1;1;mixte;0383505D;Un32;0383505D;345
+1052;151;Bibliothèque de recherche de la Faculté de droit1;associée;0;Le Patio,1041 rue des universités;38400;Saint Martin d'Hères;1;0;1;0;0;0;recherche;0383505D;Un33;0383505D;345
+1053;151;Bibliothèque de dialectologie GIPSA LAB;associée;0;Salles C005/C007,  1180 avenue centrale;38400;Saint Martin d'Hères;0;0;1;0;0;1;mixte;0383505D;Un34;0383505D;345
+1054;151;Centre de documentation IUT2 Vienne;associée;0;30 avenue Général Leclerc;38200;Vienne;1;1;1;0;0;0;étudiant;0383505D;Un35;0383505D;345
+1055;151;Bibliothèque universitaire Valence;autre;0;Place Charles Huguenel;26000;VALENCE;1;1;1;1;0;0;étudiant;0383505D;Un36;0383505D;345
+1056;151;Bibliothèque de l'ICM;autre;0;11, avenue du 8 mai 1945;38130;Echirolles;0;0;1;0;0;0;mixte;0383505D;Un37;0383505D;345
+1057;151;Service interétablissement de documentation (SID) UGA/GINP;autre;1;1130 avenue centrale;38402;Saint Martin d'Hères;1;1;1;1;1;0;mixte;0383505D;UN38;0383505D;345
+1058;151;Bibliothèque IUT/IAE Valence;associée;0;51 rue Barthélémy de Laffemas;26000;VALENCE;1;1;1;1;0;0;étudiant;0383505D;UN39;0383505D;345
+1059;151;Bibliothèque Sciences et technologies UGA ESISAR GINP Valenc;associée;0;38 rue Barthélémy de Laffemas;26000;VALENCE;0;0;0;1;0;0;étudiant;0383505D;UN40;0383505D;345
+1060;151;Bibliothèque STAPS / ITDD Valence;associée;0;23 chemin des Huguenots;26000;Valence;0;0;0;1;0;0;étudiant;0383505D;UN41;0383505D;345
+1061;151;Bibliothèque Droit Economie Valence;associée;0;87 avenue de Romans;26000;VALENCE;1;1;0;0;0;0;étudiant;0383505D;UN42;0383505D;345
+1062;151;Bibliothèque Arts Lettres Langues Valence;associée;0;87 avenue de Romans;26000;VALENCE;1;1;1;0;0;0;étudiant;0383505D;UN43;0383505D;345
+1063;151;Bibliothèque axe énergie de GAEL;associée;0;Faculté d'Economie BATEG 1241 rue des résidences;38400;Saint Martin d'Hères;0;1;0;0;0;0;recherche;0383505D;UN44;0383505D;345
+1064;151;Centre de documentation des laboratoires juridiques;associée;0;Faculté de droit Aile B  [RC] 1133 rue des résidences;38400;Saint Martin d'Hères;1;0;0;0;0;0;recherche;0383505D;UN45;0383505D;345
+1065;151;Bibliothèque de l'IUGA;autre;0;14 et 14 bis avenue Marie Reynoard;38100;GRENOBLE;1;1;1;1;0;0;mixte;0383505D;UN47;0383505D;345
+1066;151;Bibliothèque d'UFR langage, lettres et spectacle / Bulles;associée;0;1180 avenue centrale;38400;SAINT MARTIN D'HERES;0;0;1;0;0;0;mixte;0383505D;UN48;0383505D;345
+1067;151;BU PROFESSORAT EDUCATION BONNEVILLE;autre;0;75 avenue Pierre Mendès France;74130;BONNEVILLE;0;1;1;1;0;1;mixte;0383505D;UN49;0383505D;345
+1068;151;BU PROFESSORAT EDUCATION CHAMBERY;autre;0;289 rue Marcoz;73000;CHAMBERY;0;1;1;1;0;1;mixte;0383505D;UN50;0383505D;345
+1069;151;BU PROFESSORAT EDUCATION VALENCE;autre;0;36 avenue de l'école normale;26000;VALENCE;0;1;1;1;0;1;mixte;0383505D;UN51;0383505D;345
+1070;152;BU du campus de Fouillole;autre;0;SCD Section Guadeloupe BP 32 Campus Fouillole;97159;Pointe-à-Pitre;1;1;0;1;1;0;mixte;9720434P;Un00;9720434P;346
+1071;152;Bibliothèque hospitalo-universitaire de Guadeloupe;associée;0;CHU de Pointe-à-Pitre Route de Chauvel;97159;Pointe-à-Pitre;0;0;0;0;1;0;mixte;9720434P;Un01;9720434P;346
+1072;152;Bibliothèque "fictive" SCD;autre;1;;     ;;0;0;0;0;0;0;;9720434P;UN02;9720434P;346
+1073;152;BU du campus du Morne Ferret;autre;0;ESPE de l'Académie de Guadeloupe. Morne Ferret;97178;Les Abymes;0;0;1;1;0;0;mixte;9720434P;UN03;9720434P;346
+1074;152;BU du Campus de Schoelcher;autre;0;Campus de Schoelcher;97275;Schoelcher;1;1;1;1;0;0;mixte;9720434P;Un05;9720434P;346
+1075;152;Bibliothèque hospitalo-universitaire de Martinique;associée;0;Hopital Pierre Zobda-Quitman CHU de Martinique;97261;Fort de France;0;0;0;0;1;0;mixte;9720434P;Un06;9720434P;346
+1076;152;Bu du campus du Camp Jacob;autre;0;Rue du Maréchal Foch;97120;Saint-Claude;0;0;1;0;0;1;mixte;9720434P;UN07;9720434P;346
+1077;152;BU du campus de Fort-de-France;autre;0;Route du Phare               Pointe des Nègres;97226;Fort-de-France;0;0;1;1;0;1;mixte;9720434P;UN08;9720434P;346
+1078;153;Lilliad;autre;0;Cité scientifique;59650;Villeneuve d'Ascq Cedex;1;1;1;1;1;1;mixte;0595785T;UN00;0595785T;347
+1079;153;Bibliothèque Régionale de Recherche en Mathématiques/B2RM;associée;0;Département de Mathématique &#8211; Bâtiment M2 &#8211; Université de Lille &#8211; Cité Scientifiqu;59655;VILLENEUVE D'ASCQ;0;0;0;1;0;0;mixte;0595785T;UN01;0595785T;347
+1080;153;Centre de documentation et de révision - UFR sciences terre;associée;0;Cité scientifique [RC] Bâtiment SN5;59655;Villeneuve d'Ascq Cedex;0;0;0;1;0;0;étudiant;0595785T;UN02;0595785T;347
+1081;153;Bibliothèque Télécom Lille;associée;0;Cité scientifique [RC] rue Guglielmo [RC] BP 20145;59653;Villeneuve d'Ascq Cedex;0;0;0;1;0;1;mixte;0595785T;UN03;0595785T;347
+1082;153;Centre de ressources - IUT A;associée;0;IUT A Lille - Université Lille1, Cité scientifique  [RC] Bd Paul Langevin [RC] BP 90179;59655;VILLENEUVE D'ASCQ;0;0;0;1;0;1;mixte;0595785T;UN05;0595785T;347
+1083;153;Centre de documentation Fac. des sciences éco. et sociales;associée;0;Cité scientifique [RC] Bâtiment SH2;59655;Villeneuve d'Ascq Cedex;0;1;1;0;0;0;recherche;0595785T;UN06;0595785T;347
+1084;153;Centre de documentation IAE;associée;0;104 Avenue du Peuple belge;59043;LILLE Cedex;1;1;1;0;0;0;mixte;0595785T;UN07;0595785T;347
+1085;153;Centre de documentation SUAIO;associée;0;Bâtiment SUP [RC] Avenue Carl Gauss;59655;Villeneuve d'Ascq;0;0;0;1;0;1;étudiant;0595785T;UN08;0595785T;347
+1086;153;Droit-Gestion;autre;0;1 Place Déliot;59000;LILLE;1;1;0;0;0;0;mixte;0595785T;UN09;0595785T;347
+1087;153;BU Santé - Learning Center;autre;0;Avenue Eugène Avinée;59120;LOOS;0;0;0;0;1;0;mixte;0595785T;UN10;0595785T;347
+1088;153;Bibliothèque de l'Institut des Sciences du Travail;associée;0;1 Place Déliot;59000;LILLE;1;0;0;0;0;0;étudiant;0595785T;UN11;0595785T;347
+1089;153;Bibliothèque de laFaculté des Sciences du Sport et de l'Educ;associée;0;9 Rue de l'Université;59790;RONCHIN;0;0;0;1;0;0;mixte;0595785T;UN12;0595785T;347
+1090;153;Bibliothèque de recherche Paul Duez;associée;0;1 Place Déliot;59000;LILLE;1;0;0;0;0;0;recherche;0595785T;UN13;0595785T;347
+1091;153;Centre de documentaiton de la Faculté de chirurgie dentaire;associée;0;Place de Verdun;59000;LILLE;0;0;0;0;1;0;mixte;0595785T;UN14;0595785T;347
+1092;153;Bibliothèque Universitaire Centrale;autre;0;Université Lille  [RC] Domaine universitaire du Pont de Bois [RC] Rue du barreau;59650;Villeneuve d'Ascq cedex;0;1;1;0;0;0;mixte;0595785T;UN15;0595785T;347
+1093;153;Bibliothèque Albert-Marie Schmidt;associée;0;Domaine universitaire du Pont de Bois;59653;Villeneuve d'Ascq;0;0;1;0;0;0;mixte;0595785T;UN16;0595785T;347
+1094;153;Bibliothèque Angellier;associée;0;Domaine universitaire du Pont de Bois [RC] Rue du barreau;59653;Villeneuve d'Ascq;0;0;1;0;0;0;mixte;0595785T;UN17;0595785T;347
+1095;153;Bibliothèque DEFI-FLE;associée;0;Domaine universitaire du Pont de Bois [RC] Rue du barreau;59653;Villeneuve d'Ascq;0;0;1;0;0;0;mixte;0595785T;UN18;0595785T;347
+1096;153;CFMI - Centre de formation des musiciens intervenants;;0;Domaine Universitaire du Pont de Bois Bât Extension;59650;Villeneuve d'Ascq;0;0;1;0;0;0;étudiant;0595785T;UN19;0595785T;347
+1097;153;Bibliothèque Eric Weil;associée;0;Domaine universitaire du Pont de Bo1098;153;Bibliothèques études germaniques et scandinaves;associée;0;Domaine universitaire du Pont de Bois [RC] Bât B salle 5.120;59650;Villeneuve d'Ascq;0;0;1;0;0;0;mixte;0595785T;UN21;0595785T;347
+1099;153;Bibliothèques études romanes slaves et orientales;associée;0;Domaine universitaire du Pont de Bois [RC] Bât B;59650;Villeneuve d'Ascq;0;0;1;0;0;0;mixte;0595785T;UN22;0595785T;347
+1100;153;Bibliothèque Humanités;associée;0;Rue du Barreau [RC] Campus Pont de Bois;59562;VILLENEUVE D'ASCQ CEDEX;0;0;1;0;0;0;mixte;0595785T;UN23;0595785T;347
+1101;153;Bibliothèque Georges Lefebvre - IRHiS;associée;0;Domaine universitaire du Pont de Bois [RC] Rue du barreau [RC] Bât A;59650;Villeneuve d'Ascq;0;0;1;0;0;0;recherche;0595785T;UN24;0595785T;347
+1102;153;Bibliothèque Infocom;associée;0;Département Infocom [RC] Rue Vincent Auriol;59100;Roubaix;1;1;1;0;0;0;mixte;0595785T;UN25;0595785T;347
+1103;153;Bibliothèque IUT B;associée;0;35 rue Sainte-Barbe;59208;TOURCOING;1;1;1;0;1;1;étudiant;0595785T;UN26;0595785T;347
+1104;153;Bibliothèque IMMD-LEA;associée;0;651 avenue des nations unies;59058;ROUBAIX CEDEX;1;1;1;0;0;0;mixte;0595785T;UN27;0595785T;347
+1105;153;Bibliothèque Michelet;associée;0;Domaine universitaire du Pont de Bois [RC] Bât A;59650;Villeneuve d'Ascq;0;0;1;0;0;0;mixte;0595785T;UN28;0595785T;347
+1106;153;Bibliothèque de Philosophie;associée;0;Domaine universitaire du Pont de Bois Bât A;59650;Villeneuve d'Ascq;0;0;1;0;0;0;mixte;0595785T;UN29;0595785T;347
+1107;153;Bibliothèque des sciences de l'Antiquité - BSA;associée;0;Domaine universitaire du Pont de Bois [RC] Bât B;59650;Villeneuve d'Ascq;0;0;1;0;0;0;mixte;0595785T;UN30;0595785T;347
+1108;153;Bibliothèques Sciences de l'éducation - Jacques Hédoux;associée;0;Domaine universitaire du Pont de Bois  [RC] Rue du barreau [RC] Bâtiment B Salle B3.120;59653;VILLENEUVE D'ASCQ CEDEX;0;0;1;0;0;0;mixte;0595785T;UN31;0595785T;347
+1109;153;Bibliothèques Savoirs, Textes et Langage- STL;associée;0;Domaine universitaire du Pont de Bois [RC] rue du barreau;59653;Villeneuve d'Ascq;0;0;1;1;0;0;recherche;0595785T;UN32;0595785T;347
+1110;153;Bibliothèque Jacques Vandier;associée;0;Domaine universitaire du Pont de Bois [RC] Rue du barreau;59653;Villeneuve d'Ascq;0;0;1;0;0;0;recherche;0595785T;UN33;0595785T;347
+1111;153;Bibliothèque testothèque de psychologie;autre;0;Domaine universitaire du Pont de Bois [RC] rue du barreau [RC] Bât A URF de psychologie A5 136;59650;Villeneuve d'Ascq;0;0;1;0;0;0;recherche;0595785T;UN34;0595785T;347
+1112;154;SBR -Station biologique de Roscoff;associée;0;Place Georges Teissier;29680;Roscoff;0;0;0;1;0;0;mixte;0752737T;UN01;0752737T;348
+1113;154;OOB -Bibliothèque de l'Observatoire océanologique de Banyuls;associée;0;Avenue du Fontaulé;66650;Banyuls-sur-Mer;0;0;0;1;0;0;mixte;0752737T;UN02;0752737T;348
+1114;154;Dechaume-Delarue;autre;0;47 boulevard de l'Hôpital;75013;Paris;0;0;0;1;0;0;étudiant;0752737T;UN03;0752737T;348
+1115;154;Pitié-Salpêtrière;autre;0;91 boulevard de l'Hôpital;75013;Paris;0;0;0;0;1;0;étudiant;0752737T;Un04;0752737T;348
+1116;154;Saint-Antoine;autre;0;27 rue Chaligny;75012;Paris;0;0;0;0;1;0;étudiant;0752737T;Un05;0752737T;348
+1117;154;Axial;autre;0;184 rue du Faubourg St-Antoine;75012;Paris;0;0;0;0;1;0;mixte;0752737T;Un06;0752737T;348
+1118;154;Tenon;autre;0;4 rue de la Chine;75020;Paris;0;0;0;0;1;0;mixte;0752737T;Un07;0752737T;348
+1119;154;Charcot;associée;0;47 boulevard de l'Hôpital;75013;Paris;0;0;0;0;1;0;recherche;0752737T;Un08;0752737T;348
+1120;154;Bibliothèque des Licences;autre;0;4 place Jussieu;75005;Paris;0;0;0;1;0;0;étudiant;0752737T;Un09;0752737T;348
+1121;154;OOV - Observatoire océanologique de Villefranche-sur-Mer;associée;0;181 Chemin du Lazaret;06230;Villefranche-sur-Mer;0;0;0;1;0;0;mixte;0752737T;Un10;0752737T;348
+1122;154;Bibliothèque de l'Atrium;autre;0;4 place Jussieu;75005;Paris;0;0;0;1;0;0;étudiant;0752737T;Un11;0752737T;348
+1123;154;Bibliothèque des L1;autre;0;4 place Jussieu;75005;Paris;0;0;0;1;0;0;étudiant;0752737T;Un12;0752737T;348
+1124;154;IMPM1125;154;IHP - Institut Henri Poincaré;associée;0;11 rue Pierre et Marie Curie;75005;Paris;0;0;0;1;0;0;mixte;0752737T;Un14;0752737T;348
+1126;154;Biologie Chimie Physique recherche;autre;0;4 place Jussieu;75005;Paris;0;0;0;1;0;0;mixte;0752737T;Un15;0752737T;348
+1127;154;IAP - Institut d'astrophysique de Paris;associée;0;98 bis boulevard Arago;75014;Paris;0;0;0;1;0;0;mixte;0752737T;Un16;0752737T;348
+1128;154;Bibliothèque UFR Grec;associée;0;16 rue de la Sorbonne;75005;PARIS;0;0;1;0;0;0;mixte;0752737T;Un17;0752737T;348
+1129;154;Mathématiques-Informatique Recherche;autre;0;4 place Jussieu;75005;Paris;0;0;0;1;0;0;mixte;0752737T;Un18;0752737T;348
+1130;154;LPNHE - Labo de physique nucléaire et des hautes énergies;associée;0;4 place Jussieu;75005;Paris;0;0;0;1;0;0;recherche;0752737T;Un19;0752737T;348
+1131;154;Géosciences;autre;0;4 place Jussieu;75005;Paris;0;0;0;1;0;0;mixte;0752737T;Un20;0752737T;348
+1132;154;Bibliothèque Leon Robin;associée;0;1 rue Victor Cousin, Esc. E;75005;PARIS;0;0;1;0;0;0;mixte;0752737T;UN21;0752737T;348
+1133;154;IJLRA - Lutheries Acoustique Musique (LAM);associée;0;4 place Jussieu;75005;PARIS;0;0;0;1;0;0;mixte;0752737T;UN22;0752737T;348
+1134;154;LSTA - Laboratoire de statistiques théoriques et appliquées;associée;0;4 place Jussieu;75005;Paris;0;0;0;1;0;0;mixte;0752737T;Un23;0752737T;348
+1135;154;LPMA - Laboratoire de probabilités et modèles aléatoires;associée;0;4 place Jussieu;75005;PARIS;0;0;0;1;0;0;mixte;0752737T;UN24;0752737T;348
+1136;154;Direction et services transversaux;autre;1;4 place Jussieu;75005;Paris;0;0;0;1;1;0;mixte;0752737T;Un25;0752737T;348
+1137;154;Bibliothèque Malesherbes;autre;0;108, boulevard Malesherbes;75017;Paris;0;0;1;0;0;0;mixte;0752737T;Un26;0752737T;348
+1138;154;Bibliothèque Georges-Ascoli et Paul-Hazard;associée;0;17 rue Victor Cousin;75005;PARIS;0;0;1;0;0;0;recherche;0752737T;UN27;0752737T;348
+1139;154;Bibliothèque UFR philosophie;associée;0;1 Rue Victor Cousin;75005;Paris;0;0;1;0;0;0;mixte;0752737T;Un28;0752737T;348
+1140;154;Bibliothèque des Etudes Ibériques;autre;0;31 Rue Gay Lussac;75005;Paris;0;0;1;0;0;0;recherche;0752737T;Un29;0752737T;348
+1141;154;Bibliothèque Michelet;autre;0;3 Rue Michelet;75006;Paris;0;0;1;0;0;0;mixte;0752737T;Un30;0752737T;348
+1142;154;Bibliothèque Clignancourt;autre;0;2 Rue Francis de Croisset;75018;Paris;0;0;1;0;0;0;mixte;0752737T;Un31;0752737T;348
+1143;154;Bibliothèque des thèses Serpente;autre;0;28 Rue Serpente;75006;Paris;0;0;1;0;0;0;mixte;0752737T;Un32;0752737T;348
+1144;154;Bibliotheque d'histoire des religions;associée;0;28 Rue Serpente;75006;Paris;0;0;1;0;0;0;recherche;0752737T;Un33;0752737T;348
+1145;154;Bibliothèque UFR anglais;associée;0;1 rue Victor Cousin;75005;Paris;0;0;1;0;0;0;mixte;0752737T;Un34;0752737T;348
+1146;154;Bibliothèque du Centre de recherches égyptologiques de la So;associée;0;1 rue Victor Cousin;75005;PARIS;0;0;1;0;0;1;mixte;0752737T;Un35;0752737T;348
+1147;154;Bibliothèque du CEROC Centre Enseignement et Recherche d'Oc;associée;0;16, rue de la Sorbonne;75005;Paris;0;0;1;0;0;0;mixte;0752737T;Un36;0752737T;348
+1148;154;Bibliothèque du CELLF 19;associée;0;14 rue Cujas;75005;PARIS;0;0;1;0;0;0;recherche;0752737T;Un37;0752737T;348
+1149;154;Bibliothèque des Etudes Catalanes;autre;0;9 Rue croix de la Bretonnerie;75004;Paris;0;0;1;0;0;0;mixte;0752737T;Un38;0752737T;348
+1150;154;Bibliothèque du Centre d'Etudes slaves ( Eur'Orbem);associée;0;9 rue Michelet;75006;Paris;0;0;1;0;0;0;recherche;0752737T;Un39;0752737T;348
+1151;154;Bibliothèque de L'Institut d'Etudes Augustiniennes;associée;0;95 rue de Sèvres;75006;Paris;0;0;1;0;0;0;recherche;0752737T;Un40;0752737T;348
+1152;154;Bibliothèque de l'UFR de Langue française;associée;0;1 rue Victor Cousin [RC] Galerie Gerson;75005;Paris;0;0;1;0;0;0;mixte;0752737T;Un41;0752737T;348
+1153;154;Bibliothèque de l'Institut de Papyrologie de la Sorbonne;associée;0;10, rue Molitor (bât. ESPE);75016;Paris;0;0;1;0;0;0;mixte;0752737T;Un42;0752737T;348
+1154;154;Bibliothèque du CELSA Ctre ét. litt. et scientif. appliquees;associée;0;77 rue de Villiers;92200;Neuilly sur Seine;0;0;1;0;0;0;mixte;0752737T;Un43;0752737T;348
+1155;154;Médiathèques ESPE Paris;associée;0;10 rue Molitor;75016;Paris;0;0;1;0;0;0;mixte;0752737T;Un44;0752737T;348
+1156;154;Bibliothèque de l'UFR de Latin (Etudes latines);associée;0;1 rue Victor Cousin;75005;PARIS;0;0;1;0;0;0;mixte;0752737T;UN45;0752737T;348
+1157;154;Bibliothèque du CIEF Centre Internat d'Etudes Francophones;associée;0;1 rue Victor Cousin;75005;PARIS;0;0;1;0;0;0;mixte;0752737T;UN46;0752737T;348
+1158;154;Bibliothèque de l'Institut Néo-Hellénique (INH);associée;0;16 rue de la Sorbonne;75005;PARIS;1;0;1;0;0;0;mixte;0752737T;UN47;0752737T;348
+1;1;Bibliothèque;autre;0;16, rue Bonaparte;75006;Paris;0;0;0;0;0;0;recherche;0753705V;Un00;;1
+2;4;Centre de documentation;autre;0;1-7, rue Jean Monnet;92298;Chatenay Malabry Cedex;1;0;0;1;0;1;mixte;0922684T;UN00;;6
+3;5;Bibliothèque Médecine-Odontologie;autre;0;27 Boulevard Jean Moulin;13385;Marseille;0;0;0;0;1;0;mixte;0134031L;UN00;0134031L;9
+4;5;Bibliothèque Pharmacie;autre;0;27 Boulevard Jean Moulin;13005;Marseille;0;0;0;0;1;0;mixte;0134031L;UN01;0134031L;9
+5;5;Bibliothèque Médecine Nord;autre;0;51 Boulevard Dramart;13916;Marseille;0;0;0;0;1;0;mixte;0134031L;UN02;0134031L;9
+6;5;IUT Hygiène, Sécurité, Environnement;associée;0;Avenue Maurice Sandral;13708;La Ciotat;0;0;0;1;0;0;mixte;0134031L;UN03;0134031L;9
+7;5;IUT Métiers du Livre;associée;0;Cité du Livre, 8-10 rue des Allumettes;13098;Aix-en-Provence;0;0;1;0;0;0;étudiant;0134031L;UN04;0134031L;9
+8;5;Bibliothèque Sciences & techniques LUMINY;autre;0;Hexagone, 163 Avenue de Luminy;13009;Marseille;0;0;0;1;0;0;mixte;0134031L;UN05;0134031L;9
+9;5;Bibliothèque économie-gestion Ferry;autre;0;14 avenue Jules Ferry;13621;Aix-en-Provence;0;1;0;0;0;0;mixte;0134031L;UN06;0134031L;9
+10;5;Ecole Centrale de Marseille;associée;0;Centre de documentation -  [RC] Technopôle Château Gombert &#8211; 38 rue Joliot Curie;13451;Marseille cedex 13;0;0;0;1;0;0;étudiant;0134031L;UN07;0134031L;9
+11;5;Bibliothèque universitaire de Gap;autre;0;2 rue Bayard;05000;Gap;0;1;0;1;1;1;mixte;0134031L;UN08;0134031L;9
+12;5;Bibliothèque Droit & sciences politiques Schuman;autre;0;3 avenue Robert Schuman;13621;Aix-en-Provence;1;1;0;0;0;0;mixte;0134031L;UN09;0134031L;9
+13;5;Bibliothèque IMPGT Saporta;autre;0;23 rue Gaston de Saporta;13090;Aix-en-Provence;1;1;1;0;0;0;mixte;0134031L;UN10;0134031L;9
+14;5;Bibliothèque Droit & économie La Canebière;autre;0;110-114 La Canebière;13001;Marseille;1;1;0;0;0;0;étudiant;0134031L;UN11;0134031L;9
+15;5;Bibliothèque Sciences & techniques MONTPERRIN;autre;0;6 avenue du Pigonnet;13090;Aix-en-Provence;0;0;0;1;0;0;étudiant;0134031L;UN12;0134031L;9
+16;5;Bibliothèque Sciences & techniques St-JEROME;autre;0;Avenue Escadrille Normandie-Niemen;13397;Marseille;0;0;0;1;0;0;mixte;0134031L;UN13;0134031L;9
+17;5;Bibliothèque ALLSH Fenouillères;autre;0;167 avenue Gaston Berger;13626;Aix-en Provence;0;0;1;0;0;0;mixte;0134031L;UN14;0134031L;9
+18;5;Bibliothèque Sciences & techniques St-CHARLES;autre;0;3 Place Victor Hugo;13331;Marseille;0;0;1;1;0;0;mixte;0134031L;UN15;0134031L;9
+19;5;Bibliothèque du laboratoire Parole et Langage (LPL);associée;0;5 avenue Pasteur;13100;Aix-en-Provence;0;0;1;0;0;0;recherche;0134031L;UN16;0134031L;9
+20;5;Bibliothèque ESPE Marseille- Canebière;autre;0;63 La Canebière;13001;Marseille;0;0;1;1;0;0;mixte;0134031L;UN17;0134031L;9
+21;5;Bibliothèque ESPE Aix en Provence;autre;0;2 Avenue Jules Isaac;13100;Aix-en-Provence;0;0;1;0;0;0;mixte;0134031L;UN18;0134031L;9
+22;5;Bibliothèque ESPE Avignon;autre;0;136 Avenue de Tarascon;84000;Avignon;0;0;1;0;0;0;mixte;0134031L;UN19;0134031L;9
+23;5;Bibliothèque ESPE-IUT Digne;autre;0;15 Avenue Joseph Reinach;04002;Digne-les-Bains;0;0;1;1;0;0;mixte;0134031L;UN20;0134031L;9
+24;5;Centre Régional de Formation aux Carrières des bibliothèques;associée;0;3 Place Victor Hugo;13331;Marseille;0;0;1;0;0;0;mixte;0134031L;UN21;0134031L;9
+25;5;Bibliothèque économie-gestion Bernard du Bois;autre;0;96 rue Longue des Capucins;13231;Marseille;0;1;0;0;0;0;mixte;0134031L;UN22;0134031L;9
+26;5;Bibliothèque DSP Arles;associée;0;Espace Van Gogh, place Félix Rey;13200;Arles;1;0;0;0;0;0;étudiant;0134031L;UN23;0134031L;9
+27;5;Médiathèque de la MMSH;associée;0;5, rue du Château de l'horloge BP 647;13094;Aix-en-Provence cedex 2 ;0;0;1;0;0;0;mixte;0134031L;UN24;0134031L;9
+28;5;Bibliothèque DSP CRA;associée;0;Centre de recherches administratives, 3 avenue Robert Schuman;13628;Aix-en-Provence Cedex 1;1;0;0;0;0;0;recherche;0134031L;UN25;0134031L;9
+29;5;Bibliothèque DSP CREEADP;associée;0;Centre de recherche en éthique économique et des affaires et déontologie professionnelle, 3 avenue R;13628;Aix-en-Provence;1;1;0;0;0;0;recherche;0134031L;UN26;0134031L;9
+30;5;Bibliothèque DSP Salle de droit privé;associée;0;3 avenue Robert Schuman;13628;Aix-en-Provence;1;0;0;0;0;0;recherche;0134031L;UN27;0134031L;9
+31;5;Bibliothèque IEP;associée;0;25 rue Gaston de Saporta / Espace Philippe Seguin, 31 av. Jean Dalmas;13625;Aix-en-Provence;1;0;0;0;0;0;mixte;0134031L;UN28;0134031L;9
+32;5;Bibliothèque DSP ISPEC;associée;0;Institut des sciences pénales et de criminologie, 2 avenue Henri Poncet;13100;Aix-en-Provence;1;0;0;0;0;0;recherche;0134031L;UN29;0134031L;9
+33;5;Bibliothèque DSP Poncet;associée;0;2 avenue Henri Poncet;13100;Aix-en-Provence;1;0;0;0;0;0;recherche;0134031L;UN30;0134031L;9
+34;5;Bibliothèque DSP Laboratoire de théorie du droit;associée;0;3 avenue Robert Schuman;13628;Aix-en-Provence;1;0;0;0;0;0;recherche;0134031L;UN31;0134031L;9
+35;5;CEREGE;associée;0;Europôle méditerranéen de l'Arbois, Avenue Louis Philibert, BP 80;13545;Aix-en-Provence;0;0;0;1;0;0;recherche;0134031L;UN32;0134031L;9
+36;5;Centre d'Océanologie de Marseille (COM);associée;0;Rue de la batterie des lions;13007;Marseille;0;0;0;1;0;0;recherche;0134031L;UN33;0134031L;9
+37;5;CARLAM;associée;0;Centre d&#8217;autoformation et de ressources en langues de la MIRREL - [RC] 3. place Victor Hugo (case ;13331;Marseille;0;0;1;0;0;0;étudiant;0134031L;UN34;0134031L;9
+38;5;Observatoire des sciences de l'Univers Institut Pytheas;associée;0;Institut Pythéas Observatoire de Haute Provence;04870;Saint Michel l'Observatoire;0;0;0;1;0;0;recherche;0134031L;UN37;0134031L;9
+39;5;Observatoire des sciences de l'Univers Institut Pytheas;associée;0;Pôle de l'Etoile Site de Château-Gombert, 38 rue Frédéric Joliot Curie;13388;Marseille;0;0;0;1;0;0;recherche;0134031L;UN38;0134031L;9
+40;5;SATIS;associée;0;9 Boulevard Lakanal;13400;Aubagne;0;0;1;1;0;0;étudiant;0134031L;UN39;0134031L;9
+41;5;Anthropologie Bioculturelle;associée;0;Faculté de Médecine Secteur Nord, UMR 7268 ADES, 51 Boulevard Pierre Dramard;13344;Marseille Cedex 15;0;0;0;0;1;0;recherche;0134031L;UN40;0134031L;9
+42;5;Bibliothèque EFS AM;associée;0;27 Boulevard Jean Moulin;13005;Marseille;0;0;0;0;1;0;recherche;0134031L;UN41;0134031L;9
+43;5;CRD Espace Ethique Méditerranéen;associée;0;Hôpital Timone Adulte, 264 rue Saint Pierre;13385;Marseille;0;0;1;0;1;0;recherche;0134031L;UN42;0134031L;9
+44;5;Bibliothèque du Laboratoire de médecine légale;associée;0;27 Boulevard Jean Moulin;13382;Marseille cedex 5;1;0;0;0;1;0;recherche;0134031L;UN43;0134031L;9
+45;5;Bibliothèque IAE AMU;associée;0;Clos Guiot Chemin de la Quille CS 30063;13540;Puyricard;0;1;0;0;0;0;mixte;0134031L;UN44;0134031L;9
+46;5;Service Documentation de l'IRT d'Aix en Provence;associée;0;12 Traverse Saint Pierre;13100;Aix-en-Provence;1;1;1;0;1;0;mixte;0134031L;UN45;0134031L;9
+47;5;Bibliothèque de département IUT Carrières Sociales;associée;0;5 bis, bd du Docteur Schweitzer;13090;Aix-en-Provence;1;1;1;0;0;1;mixte;0134031L;UN46;0134031L;9
+48;5;Aix Gaston Berger - IUT GEA/GLT/GMP/TC;associée;0;413 avenue Gaston Berger;13625;Aix-en-Provence;0;1;0;0;0;0;mixte;0134031L;UN47;0134031L;9
+49;6;Bibliothèque Albi;autre;0;Place de Verdun;81012;ALBI;1;0;1;1;0;0;étudiant;0811293R;UN00;;14
+50;6;BU Rodez;autre;0;INU Champollion, bibliothèque, avenue de l'Europe, CS 53219;12032;Rodez;1;1;1;1;0;0;étudiant;0811293R;UN01;;14
+51;6;BU Castres;autre;0;95 rue Firmin Oulès;81100;CASTRES;0;0;0;1;1;0;mixte;0811293R;UN02;;14
+52;7;BU Citadelle;autre;0;10 rue des Français libres;80080;Amiens;0;0;1;1;0;0;mixte;0801253C;UN01;0801253C;16
+53;7;IUT de l'Aisne (Laon);associée;0;2 rue Pierre Curie;02000;Laon;1;1;0;0;0;0;étudiant;0801253C;UN02;0801253C;16
+54;7;IUT d'Amiens;associée;0;Avenue des facultés;80000;Amiens;0;1;0;1;0;1;étudiant;0801253C;UN03;0801253C;16
+55;7;BU CAMPUS SANTE;autre;0;Chemin du Thil [RC] CS 52501;80025;Amiens cedex 1;0;0;0;0;1;0;mixte;0801253C;UN04;0801253C;16
+56;7;BEAUVAIS;autre;0;52 bvd Saint-André;60000;Beauvais;0;1;1;0;0;0;mixte;0801253C;UN05;0801253C;16
+57;7;SAINT-QUENTIN;autre;0;48 rue d'Ostende;02100;Saint-Quentin;0;0;0;1;0;1;mixte;0801253C;UN06;0801253C;16
+58;7;Pôle CATHEDRALE;autre;0;15 placette Lafleur [RC] BP 446;80004;Amiens cedex 1;1;1;0;1;0;0;mixte;0801253C;UN07;0801253C;16
+59;7;ESPE Beauvais;autre;0;3 rue Bossuet;60000;Beauvais;0;0;0;0;0;1;mixte;0801253C;UN09;0801253C;16
+60;7;IUT de l'Oise (Creil);autre;0;13 allée de la Faïencerie;60100;Creil;0;1;0;1;0;1;étudiant;0801253C;UN10;0801253C;16
+61;7;Soissons;autre;0;15 bis avenue François Mitterrand;02880;Cuffies;1;0;0;1;0;1;étudiant;0801253C;UN11;0801253C;16
+62;7;Pôle CAMPUS (Teinturerie);autre;0;30 rue des Teinturiers;80000;Amiens;0;0;1;0;0;1;mixte;0801253C;UN12;0801253C;16
+63;7;ESPE Laon;autre;0;Avenue de la République;02011;Laon;0;0;0;0;0;1;mixte;0801253C;UN13;0801253C;16
+64;8;Bibliothèque Universitaire Belle-Beille;autre;0;5 rue Lenôtre;49045;ANGERS;0;0;1;1;0;0;mixte;0491677G;UN02;0491677G;18
+65;8;Bibliothèque Université Saint-Serge;autre;0;57 quai Félix Faure;49055;ANGERS;1;1;0;0;1;0;mixte;0491677G;UN05;0491677G;18
+66;10;Bibliothèque de Lettres, Langues, Sciences Humaines et Socia;autre;0;9 rue du temple;62030;Arras;0;1;1;0;0;0;mixte;0623982S;Un00;0623982S;21
+67;10;Bibliothèque de Sciences Appliquées;autre;0;Rue de l'université;62408;Bethune;0;0;0;1;1;1;mixte;0623982S;Un01;0623982S;21
+68;10;Bibliothèque de Droit et Sciences Politiques;autre;0;Rue d'esquerchin;59500;Douai;1;0;0;0;0;1;mixte;0623982S;Un02;0623982S;21
+69;10;Bibliothèque de Sciences;autre;0;Rue Jean Souvraz;62307;Lens;0;0;0;1;0;0;mixte;0623982S;Un03;0623982S;21
+70;10;Bibliothèque de STAPS;autre;0;Chemin du Marquage;62800;Liévin;0;0;0;1;0;0;mixte;0623982S;Un04;0623982S;21
+71;10;Bibliothèque de l'IUT Lens;autre;0;Rue de l'Université;62307;Lens;0;1;0;1;0;0;mixte;0623982S;UN05;0623982S;21
+72;10;Bibliothèque du centre robinson;autre;0;9 rue du temple;62030;Arras;0;0;1;0;0;0;recherche;0623982S;UN06;0623982S;21
+73;11;Maurice Agulhon;autre;0;74 rue Louis Pasteur;84018;Avignon;1;1;1;1;0;0;mixte;0841028L;UN01;0841028L;24
+74;11;Bibliothèque Campus J.H Fabre;autre;0;Pôle Agrosciences [RC] 301 rue Baruch de Spinoza;84916;Avignon Cedex 9;0;0;0;1;0;0;mixte;0841028L;UN02;0841028L;24
+75;12;La contemporaine;autre;0;6 allée de l'Université;92001;Nanterre;1;1;1;0;0;1;mixte;0921867E;UN00;0921867E;25
+76;12;MHC-BDIC;autre;0;;;;0;0;0;0;0;0;;0921867E;Un01;0921867E;25
+77;13;Bibliothèque de l'UTBM - site de Sévenans;autre;0;site de Sevenans;90010;Belfort;0;0;0;1;0;0;mixte;0900441R;UN00;0900441R;26
+78;13;Bibliothèque de l'UTBM - site de Belfort;autre;0;site de Belfort [RC] Rue Mieg;90010;Belfort;0;0;0;1;0;0;mixte;0900441R;UN01;0900441R;26
+79;13;Bibliothèque fictive;autre;1;SCD UTBM [RC] Rue de Leupe;90010;Belfort cedex;0;0;0;1;0;1;mixte;0900441R;UN02;0900441R;26
+80;14;BU Lucien Febvre Belfort;autre;0;43, Faubourg des Ancêtres;90008;Belfort;1;1;1;1;0;0;mixte;0250986L;Un01;0250986L;27
+81;14;BU Proudhon Droit Economie Gestion;autre;0;45 avenue de l'Observatoire;25000;Besançon;1;1;0;0;0;0;mixte;0250986L;Un02;0250986L;27
+82;14;BU Lettres et sciences humaines;autre;0;30-32 rue Mégevand;25000;Besançon;0;0;1;0;0;0;mixte;0250986L;Un03;0250986L;27
+83;14;BU Santé;autre;0;20, rue Ambroise Paré;25000;Besançon;0;0;0;0;1;0;mixte;0250986L;Un04;0250986L;27
+84;14;BU Montbéliard;autre;0;4, place Lucien Tharradin;25211;Montbéliard;0;1;1;1;0;0;mixte;0250986L;Un05;0250986L;27
+85;14;BU Sciences Sport;autre;0;45B avenue de l'Observatoire;25000;Besançon;0;0;0;1;0;0;mixte;0250986L;Un06;0250986L;27
+86;14;Administration générale;autre;1;bibliothèque fictive;     ;;0;0;0;0;0;0;;0250986L;UN07;0250986L;27
+87;14;IUT BESANCON-VESOUL Bibliothèque de Besançon;autre;0;30 avenue de l'Observatoire;25000;Besançon;0;1;0;1;0;0;mixte;0250986L;UN08;0250986L;27
+88;14;BU Education Besançon;autre;0;57 Avenue de Montjoux;25042;Besançon;0;0;1;0;0;0;mixte;0250986L;UN09;0250986L;27
+89;14;BU Education Lons;autre;0;23 rue des écoles;39000;Lons-le-Saunier;0;0;1;0;0;0;mixte;0250986L;UN11;0250986L;27
+90;14;BU Vesoul;autre;0;Avenue des rives du lac;70000;Vesoul;0;1;1;1;0;0;mixte;0250986L;UN12;0250986L;27
+91;14;Hérodote;associée;0;47 rue Mégevand;25030;Besançon;0;0;1;0;0;0;mixte;0250986L;Un13;0250986L;27
+92;15;Médecine;autre;0;;     ;;0;0;0;0;0;0;;075SANTE;UN00;;34
+93;15;Pharmacie;autre;0;;     ;;0;0;0;0;0;0;;075SANTE;UN01;;34
+94;15;Ensemble de la BIU;autre;1;;;;0;0;0;0;0;0;;075SANTE;UN02;;34
+95;18;Bibliothèque Henri Guillemin;autre;0;Domaine Universitaire - Bâtiment A2;33607;Pessac;0;0;1;0;0;0;mixte;0333008R;UN00;0333008R;37
+96;18;Bibliothèque franco-allemande;autre;0;35 cours de Verdun;33000;Bordeaux;0;0;1;0;0;0;mixte;0333008R;UN01;0333008R;37
+97;18;Bibliothèque Robert Etienne;autre;0;Maison de l'archéologie - 8 Esplanade des Antilles;33607;Pessac;0;0;1;0;0;0;mixte;0333008R;UN02;0333008R;37
+98;18;Bibliothèque d'Etudes ibériques;autre;0;Domaine universitaire – Bâtiment H salle 115;33607;Pessac;0;0;1;0;0;0;mixte;0333008R;Un03;0333008R;37
+99;18;Bibliothèque d'Histoire et d'Histoire de l'art Elie Vinet;autre;0;Domaine Universitaire Bâtiment I cinquième étage;33607;Pessac;0;0;1;0;0;0;mixte;0333008R;Un04;0333008R;37
+100;18;Bibliothèque LE-LEA;autre;0;Domaine Universitaire – Bâtiment E rez-de-chaussée;33607;Pessac;0;0;1;0;0;0;mixte;0333008R;Un05;0333008R;37
+101;18;Lettres et Sciences Humaines;autre;0;4 avenue Denis Diderot;33607;Pessac;0;0;1;0;0;0;mixte;0333008R;Un06;0333008R;37
+102;18;Bibliothèque de Géographie / Cartothèque;autre;0;Domaine Universitaire – Bâtiment G salle 203;33607;Pessac;0;0;1;0;0;0;mixte;0333008R;UN07;0333008R;37
+103;18;Bibliothèque fictive;autre;1;;     ;;0;0;1;0;0;0;mixte;0333008R;UN08;0333008R;37
+104;18;Centre de documentation de l'ISIC;autre;0;Domaine Universitaire Bâtiment E salle 101;33607;Pessac;0;0;1;0;0;0;étudiant;0333008R;UN10;0333008R;37
+105;18;Bibliothèque du DEFLE;autre;0;Domaine universitaire [RC] Esplanade des Antilles;33607;Pessac;0;0;1;0;0;0;étudiant;0333008R;UN11;0333008R;37
+106;18;Bibliothèque de l'IUT/IJBA;autre;0;1 rue Jacques Ellul;33080;Bordeaux;0;0;1;0;0;0;étudiant;0333008R;UN12;0333008R;37
+107;18;Centre de documentation IATU;autre;0;Domaine Universitaire Bâtiment E salle 309;33607;Pessac;0;0;1;0;0;0;mixte;0333008R;UN13;0333008R;37
+108;21;BU PLURIDISCIPLINAIRE;autre;0;125 Cours Alsace - Lorraine;33000;BORDEAUX;1;1;1;1;1;0;étudiant;0333308S;Un00;0333308S;41
+109;21;BUF d'économie;autre;0;Bât de recherche économie, Avenue Léon Duguit;33608;PESSAC;0;1;0;0;0;0;mixte;0333308S;UN01;0333308S;41
+110;21;ISCJ (Institut des Sciences Criminelles et de la justice);associée;0;4 rue du Maréchal Joffre;33075;BORDEAUX;1;0;1;0;0;0;mixte;0333308S;Un02;0333308S;41
+111;21;Bib. Droit-Langues (Agen);autre;0;2 quai Dunkerque;47000;AGEN;1;1;1;0;0;0;mixte;0333308S;Un03;0333308S;41
+112;21;ESPE d'Aquitaine;associée;0;160 avenue de Verdun;33705;MERIGNAC;0;0;1;0;0;0;mixte;0333308S;Un04;0333308S;41
+113;21;Bibliothèque de l'IDE de Périgueux;autre;0;Campus Périgord, rond point Suzanne Noël;24019;Périgueux;1;1;0;0;0;0;mixte;0333308S;Un05;0333308S;41
+114;21;CERFAPS (Centre europ étud et rech en droit famille et pers);associée;0;Secteur C, 2 étage, Avenue Léon Duguit;33608;PESSAC;1;0;0;0;0;0;recherche;0333308S;Un07;0333308S;41
+115;21;COMPTRASEC (Centre de droit comparé du travail et sécu soc);associée;0;Entrée F, 1er étage F130, Avenue Léon Duguit;33608;PESSAC;1;0;0;0;0;0;recherche;0333308S;Un08;0333308S;41
+116;21;BUFR Histoire du droit;associée;0;Bât recherche droit, 2ème étage, Avenue Léon Duguit;33608;PESSAC;1;0;0;0;0;0;mixte;0333308S;UN09;0333308S;41
+117;21;GRETHA (Groupe de Rech en Éco Théorique et  Appliqué);associée;0;Bât E, salle E328, Avenue Léon Duguit;33608;PESSAC;1;0;0;0;0;0;recherche;0333308S;Un10;0333308S;41
+118;21;CMRP (Centre Montesquieu de rech politique);associée;0;Avenue Léon Duguit;33608;PESSAC;1;0;0;0;0;0;recherche;0333308S;Un11;0333308S;41
+119;21;CRDEI (Centre de Rech et de Docu Europ et Internationales);associée;0;Bât E, 2ème étage, Avenue Léon Duguit;33608;PESSAC;1;0;0;0;0;0;recherche;0333308S;Un12;0333308S;41
+120;21;Institut du travail;associée;0;Avenue Léon Duguit;33608;PESSAC;1;1;0;0;0;0;recherche;0333308S;Un13;0333308S;41
+121;21;LAREFI (Labo d'analyse et de rech en éco et finances inter);associée;0;Bât recherche éco, 1er étage, Avenue Léon Duguit;33608;PESSAC;0;1;0;0;0;0;recherche;0333308S;Un14;0333308S;41
+122;21;Bib. ILD (Institut Léon Duguit);associée;0;Avenue Léon Duguit, Bât. C, 2ème étage;33608;PESSAC;1;0;1;0;0;0;recherche;0333308S;UN15;0333308S;41
+123;21;Bibliothèque de l'IUT - site de Gradignan;autre;0;RDC 0A, 15 rue Naudet;33175;GRADIGNAN;0;0;0;1;0;0;étudiant;0333308S;Un18;0333308S;41
+124;21;Bibliothèque Michel Serres;autre;0;Avenue Michel Serres;47000;AGEN;0;0;0;1;0;0;mixte;0333308S;Un19;0333308S;41
+125;21;Bib PACEA (Préhistoire à l'Actuel Culture et Environnement);associée;0;Avenue des Facultés;33405;TALENCE;0;0;0;1;0;0;mixte;0333308S;Un20;0333308S;41
+126;21;Bib ICMCB (Institut de Chimie de la Matière Condensée de Bx);associée;0;87 avenue du Docteur Schweitzer;33608;PESSAC;0;0;0;1;0;0;recherche;0333308S;Un21;0333308S;41
+127;21;BUFR Droit public;associée;0;Bât recherche droit, rez de chaussée, Avenue Léon Duguit;33608;PESSAC;1;0;0;0;0;0;mixte;0333308S;Un23;0333308S;41
+128;21;Bib. Observatoire aquitain des Sciences de l'Univers (OASU);associée;0;2 rue de l'Observatoire;33271;FLOIRAC;0;0;0;1;0;0;mixte;0333308S;Un24;0333308S;41
+129;21;BU SH - SCIENCES DE L'HOMME;autre;0;3 place de la Victoire;33076;BORDEAUX;0;0;1;0;0;0;mixte;0333308S;Un25;0333308S;41
+130;21;BMI - Bib Maths et Informatiques;autre;0;Bât A33, 351 cours de la Libération;33405;TALENCE;0;0;0;1;0;0;recherche;0333308S;Un26;0333308S;41
+131;21;STAPS;autre;0;12 avenue Camille Jullian;33607;PESSAC;0;0;0;1;0;0;mixte;0333308S;Un27;0333308S;41
+132;21;ISVV - Institut des sciences de la Vigne et du Vin;autre;0;210 chemin de Leysotte;33882;VILLENAVE D'ORNON;0;0;0;1;0;0;mixte;0333308S;Un29;0333308S;41
+133;21;Bib CRPP Centre de Recherche PAUL PASCAL;associée;0;115 avenue Schweitzer;33600;PESSAC;0;0;0;1;0;0;recherche;0333308S;Un30;0333308S;41
+134;21;BU SVS - SCIENCES DU VIVANT ET DE LA SANTE;autre;0;146 rue Léo Saignat;33076;BORDEAUX;0;0;0;0;1;0;mixte;0333308S;Un31;0333308S;41
+135;21;Bib. Institut du Thermalisme;autre;0;8 rue Sainte Ursule;40010;DAX;0;0;0;0;1;0;mixte;0333308S;Un32;0333308S;41
+136;21;Bibliothèque de la Station marine d'Arcachon;autre;0;2 rue du professeur Jolyet;33102;ARCACHON;0;0;0;1;0;0;mixte;0333308S;Un33;0333308S;41
+137;21;BU DSPE - DROIT, SCIENCE POLITIQUE, ECONOMIE;autre;0;4 avenue Denis Diderot;33607;PESSAC;1;1;0;0;0;0;mixte;0333308S;Un34;0333308S;41
+138;21;BUFR Droit privé;associée;0;Bât recherche droit, rez de jardin, Avenue Léon Duguit;33608;PESSAC;1;0;0;0;0;0;mixte;0333308S;Un35;0333308S;41
+139;21;INFOTHEQUE DU POLE UNIV. DE SCIENCES DE GESTION;autre;0;35 Avenue Abadie;33072;BORDEAUX;1;1;0;0;0;0;mixte;0333308S;Un36;0333308S;41
+140;21;BU ST - SCIENCES ET TECHNIQUES;autre;0;Bât B20, Allée Baudrimont;33405;TALENCE;0;0;0;1;0;0;mixte;0333308S;Un37;0333308S;41
+141;21;Bibliothèque de l'ISPED;associée;0;146 rue Léo Saignat;33076;BORDEAUX;0;0;0;0;1;0;recherche;0333308S;UN38;0333308S;41
+142;22;Administration/Services Transversaux;autre;1;10 avenue Le Gorgeu;29200;Brest;0;0;0;0;0;0;;0290323U;Un00;0290323U;42
+143;22;Bibliothèque universitaire ESPE;autre;0;8 rue Avranches [RC] 8 rue de Rosmadec [RC] 153 rue de St Malo [RC] 1 rue Théodule Ribot [RC] 32 avenue Roosevelt;     ;Brest,Quimper,Rennes,St Brieuc,Vannes;0;0;1;1;0;1;mixte;0290323U;UN01;0290323U;42
+144;22;Quimper IUT;autre;0;2 rue de l'Université;29000;Quimper;1;1;1;1;1;1;mixte;0290323U;Un02;0290323U;42
+145;22;Lettres;autre;0;11 avenue Foch;29200;Brest;0;0;1;0;0;0;mixte;0290323U;Un03;0290323U;42
+146;22;Bouguen;autre;0;10 avenue Le Gorgeu [RC] BP 91342;29200;Brest;1;1;1;1;1;0;mixte;0290323U;UN04;0290323U;42
+147;22;Pôle universitaire Pierre-Jakez Helias;autre;0;18 avenue de la Plage des Gueux;29000;Quimper;1;1;1;0;0;0;mixte;0290323U;UN05;0290323U;42
+148;22;Bibliothèque du CRBC (UMS 3554 du CNRS);associée;0;20 rue Duquesne;29200;Brest;0;0;1;0;0;0;mixte;0290323U;UN06;0290323U;42
+149;22;Bibliothèque La Pérouse;autre;0;15 rue Dumont d'Urville [RC] Technopôle Brest- iroise CS 10070;29280;Plouzané;0;0;0;1;0;1;mixte;0290323U;UN07;0290323U;42
+150;22;Bibliothèque de Mathématiques;associée;0;6 avenue Le Gorgeu;29200;Brest;0;0;0;1;0;0;mixte;0290323U;UN08;0290323U;42
+151;22;Bibliothèque Dept Informatique;associée;0;20 avenue Le Gorgeu;29200;Brest;0;0;0;1;0;0;mixte;0290323U;UN09;0290323U;42
+152;22;Santé;autre;0;22 avenue Camille Desmoulins;29200;Brest;0;0;0;0;1;0;mixte;0290323U;UN10;0290323U;42
+153;22;Bibliothèque de Géoarchitecture;associée;0;6, avenue Le Gorgeu;29200;Brest;1;1;1;1;0;1;mixte;0290323U;UN12;0290323U;42
+154;23;Administration générale;autre;1;25 rue Armand Guillemot [RC] BP 92116;56321;Lorient cedex;0;0;0;0;0;1;;0561779E;Un00;0561779E;43
+155;23;BU de Lorient;autre;0;25 rue Armand Guillemot BP 92116;56321;Lorient cedex;0;0;1;1;0;0;mixte;0561779E;UN01;0561779E;43
+156;23;Bibliothèque associée de l'IUT de Vannes;associée;0;8 rue Montaigne - BP 561;56017;Vannes cedex;1;1;0;0;0;1;mixte;0561779E;UN02;0561779E;43
+157;23;BU campus de Vannes Tohannic;autre;0;Campus universitaire de Tohannic [RC] Rue André Lwoff BP 573;56017;Vannes cedex;1;1;0;1;0;0;mixte;0561779E;UN03;0561779E;43
+158;24;Bibliothèque Universitaire des Langues et Civilisations;autre;0;65 rue des Grands Moulins;75013;Paris;1;0;1;0;0;0;mixte;0755040W;UN01;;49
+159;25;BRGM-Bibliothèque;autre;0;3 avenue Claude Guillemin;45060;Orléans;0;0;0;1;0;0;;0755363X;UN00;;50
+160;26;Bibliothèque universitaire Madeleine-Brès;autre;0;Pôle des formations et de la recherche en santé [RC] 2, rue des Rochambelles;14032;CAEN;0;0;0;0;1;1;mixte;0141110F;Un00;0141110F;52
+161;26;Bibliothèque universitaire Pierre-Sineux;autre;0;Esplanade de la Paix;14032;CAEN;1;1;1;0;0;1;mixte;0141110F;Un01;0141110F;52
+162;26;Bibliothèque universitaire Rosalind-Franklin;autre;0;Campus 2 [RC] 2 boulevard maréchal Juin;14032;CAEN;0;0;0;1;0;1;mixte;0141110F;Un02;0141110F;52
+163;26;Transversal SCD;autre;1;Université de Caen Normandie [RC] Esplanade de la Paix;14032;CAEN;1;1;1;1;1;1;mixte;0141110F;UN03;0141110F;52
+164;26;Bibliothèque universitaire Olympe-de-Gouges;autre;0;Pôle universitaire d'Alençon [RC] Campus de Damigny - Entrée nord;61250;DAMIGNY;1;1;1;1;0;1;étudiant;0141110F;UN04;0141110F;52
+165;26;Bibliothèque universitaire Blanche-Maupas;autre;0;Site universitaire de Cherbourg en Cotentin [RC] 60 rue Max Pol Fouchet;50130;Cherbourg en Cotentin;1;1;0;1;0;1;mixte;0141110F;UN05;0141110F;52
+166;26;Média Normandie;associée;0;ComUE Normandie Université [RC] 19 rue Claude Bloch;14000;Caen;0;0;0;0;0;1;étudiant;0141110F;UN06;0141110F;52
+167;26;ESPE centre de Saint-Lô;associée;0;10 rue Saint-Georges;50000;Saint-Lô;0;0;1;0;0;0;mixte;0141110F;UN07;0141110F;52
+168;26;Centre de recherche Michel de Bouärd - CRAHAM;associée;0;Esplanade de la Paix;14032;Caen;0;0;1;0;0;0;recherche;0141110F;UN08;0141110F;52
+169;26;Bibliothèque universitaire Gaston-Mialaret;autre;0;ESPE de Caen 186 rue de la Délivrande;14000;CAEN;0;1;1;1;0;0;mixte;0141110F;UN09;0141110F;52
+170;26;Bibliothèque Tove Jansson;associée;0;Université de Caen Normandie [RC] Campus 1 [RC] UFR des Langues vivantes étrangères [RC] Esplanade de la Paix [RC] B;14032;CAEN;0;0;1;0;0;0;mixte;0141110F;UN10;0141110F;52
+171;26;Bibliothèque-Cartothèque de l'UFR SEGGAT;associée;0;Université de Caen Normandie [RC] Campus 1 [RC] UFR SEGGAT [RC] Bâtiment A;14032;CAEN Cedex;0;1;1;0;0;0;mixte;0141110F;UN11;0141110F;52
+172;26;Bibliothèque historique Madeleine Deries;associée;0;Université de Caen Normandie [RC] Campus 1 [RC] UFR Humanités et Sciences Sociales [RC] Bâtiment N [RC] Esplanade de;14032;CAEN;0;0;1;0;0;0;mixte;0141110F;UN12;0141110F;52
+173;26;Bibliothèque des Sciences de l'Homme - Pierre Barbéris;associée;0;Université de Caen Normandie Campus 1 [RC] UFR Humanités et sciences sociales [RC] Bâtiment G [RC] Esplanade de;14032;CAEN;0;0;1;0;0;0;mixte;0141110F;UN13;0141110F;52
+174;26;Bibliothèque de Droit Nicolas Politis;associée;0;Université de Caen - Campus I - UFR de droit - Bâtiment D - Esplanade de la Paix;14032;CAEN;1;1;0;0;0;0;mixte;0141110F;UN14;0141110F;52
+175;26;Centre de Documentation MRSH;associée;0;Maison de la Recherche en Sciences HUmaines [RC] Esplanade de la Paix;14032;CAEN;0;1;1;0;0;1;recherche;0141110F;UN18;0141110F;52
+176;26;Centre de Ressources en Langues - MLI;associée;0;Maison des Langues et de l'International [RC] Esplanade de la Paix;14032;CAEN;0;0;0;0;0;1;étudiant;0141110F;UN20;0141110F;52
+177;26;Médiathèque EM Normandie - IAE;associée;0;9 rue Claude BLOCH;14075;CAEN;0;1;0;0;0;0;mixte;0141110F;UN21;0141110F;52
+178;27;Bibliothèque de la Casa de Velázquez;autre;0;calle Paul Guinard,3 ciudad universitaria;28040;Madrid;0;0;1;0;0;0;recherche;1340004B;UN00;;54
+179;28;Délégation à l'IST;autre;0;;     ;;0;0;0;1;0;1;recherche;0342214X;UN00;;55
+180;29;CNRS central;autre;0;3 rue Michel Ange;75016;Paris;1;1;1;1;0;0;recherche;0753639Y;UN00;;66
+181;29;INIST;autre;0;2 allée du parc de Brabois, CS 10310;54514;Vandoeuvre les Nancy Cedex;1;1;1;1;1;1;recherche;0753639Y;UN01;;66
+182;29;UMS Persée;autre;0;ENS de Lyon, 15 parvis René Descartes;69342;Lyon;1;1;1;1;0;0;recherche;0753639Y;UN02;;66
+183;29;UMS CCSD;autre;0;21 Avenue Pierre de Coubertin;69627;VILLEURBANNE;1;1;1;1;1;1;mixte;0753639Y;UN04;;66
+184;30;pôle Information scientifique et technique;autre;0;;;;0;0;0;0;0;0;;0942226J;UN00;;68
+185;31;Chênes;autre;0;33 boulevard du port;95011;Cergy-Pontoise;1;1;1;0;0;0;mixte;0951989W;Un00;0951989W;70
+186;31;Saint-Martin;autre;0;2 Avenue Adolphe-Chauvin;95302;Cergy-Pontoise Cedex;0;1;0;1;0;0;mixte;0951989W;UN01;0951989W;70
+187;31;Neuville;autre;0;5 mail Gay-Lussac;95301;Neuville sur Oise;0;0;0;1;0;0;mixte;0951989W;Un02;0951989W;70
+188;31;Cerclades;autre;0;Place des Cerclades;95015;Cergy-Pontoise Cedex;1;1;1;1;0;1;mixte;0951989W;UN04;0951989W;70
+189;31;Argenteuil;autre;0;95-97 rue Valère;95100;Argenteuil;0;1;0;0;0;0;étudiant;0951989W;UN05;0951989W;70
+190;31;Sarcelles;autre;0;34 boulevard Henri-Bergson;95200;Sarcelles;0;0;1;0;0;0;étudiant;0951989W;UN07;0951989W;70
+191;31;Antony;autre;0;26 rue Léon Jouhaux;92160;Antony;0;0;1;0;0;0;étudiant;0951989W;UN09;0951989W;70
+192;31;Gennevilliers;autre;0;ZAC des barbanniers [RC] Avenue Marcel Paul;92230;Gennevilliers;0;0;1;0;0;0;étudiant;0951989W;UN10;0951989W;70
+193;31;Cergy-Hirsch;autre;0;Avenue Bernard Hirsch;95027;Cergy-Pontoise Cedex;0;0;1;0;0;0;étudiant;0951989W;UN11;0951989W;70
+194;31;Saint-Germain en Laye;autre;0;5 rue Pasteur;78100;Saint- Germain- en- Laye;1;0;1;0;0;0;mixte;0951989W;UN12;0951989W;70
+195;32;Bibliothèque Jacob LLSETI;associée;0;Domaine universitaire;73000;Jacob-Bellecombette;0;0;1;0;0;0;recherche;0731137P;UN00;0731137P;71
+196;32;BU Jacob;autre;0;Campus de Jacob-Bellecombette [RC] bât.15;73000;Jacob-Bellecombette;1;1;1;0;0;0;mixte;0731137P;UN01;0731137P;71
+197;32;Bibliothèque Jacob CDPPOC;associée;0;Domaine universitaire;73000;Jacob-Bellecombette;1;0;0;0;0;0;recherche;0731137P;UN02;0731137P;71
+198;32;BU Bourget;autre;0;campus Technolac bât. 17;73370;Le Bourget-du-Lac;0;0;1;1;0;0;mixte;0731137P;Un03;0731137P;71
+199;32;SCD;autre;1;Regroupe les services centraux du SCD et les données non ventilées;73000;Jacob-Bellecombette;1;1;1;1;0;0;mixte;0731137P;UN04;0731137P;71
+200;32;BU Annecy;autre;0;9 rue de l'Arc-en-ciel bât. 4;74940;Annecy-le-Vieux;1;1;0;1;0;0;mixte;0731137P;UN05;0731137P;71
+201;32;Bibliothèque Annecy IREGE;associée;0;Domaine universitaire;74940;Annecy-le-Vieux;0;1;1;0;0;0;recherche;0731137P;UN07;0731137P;71
+202;32;Bibliothèque Annecy POLYTECH;associée;0;Domaine universitaire;74940;Annecy-le-Vieux;0;0;0;1;0;0;mixte;0731137P;UN08;0731137P;71
+203;32;Bibliothèque Annecy LAPP;associée;0;Domaine universitaire;73940;Annecy-le-Vieux;0;0;0;1;0;0;recherche;0731137P;UN09;0731137P;71
